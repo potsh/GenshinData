@@ -1,0 +1,33 @@
+[
+    {
+        "Id": 1,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 9745120,
+        "Cond": [
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
+    },
+    {
+        "Id": 2,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 3749430744,
+        "Cond": [
+            {
+                "Type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "Param": [
+                    8
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
+    }
+]

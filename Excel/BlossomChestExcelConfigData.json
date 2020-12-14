@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "ChestGadgetId": 70210109,
+        "WorldResin": 1,
+        "Resin": 20
+    },
+    {
+        "Id": 2,
+        "ChestGadgetId": 70210110,
+        "WorldResin": 1,
+        "Resin": 20
+    }
+]

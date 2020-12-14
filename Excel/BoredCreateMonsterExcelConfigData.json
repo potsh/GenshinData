@@ -1,0 +1,454 @@
+[
+    {
+        "PlayerLevel": 1,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 101
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 2,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 102
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 3,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 103
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 4,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 104
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 5,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 105
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 6,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 106
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 7,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 107
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 8,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 108
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 9,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 109
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 10,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 110
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 11,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 111
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 12,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 112
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 13,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 113
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 14,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 114
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 15,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 115
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 16,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 116
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 17,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 117
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 18,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 118
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 19,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 119
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 20,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 120
+            },
+            {
+                "Weight": 100,
+                "Id": 220
+            },
+            {
+                "Weight": 100,
+                "Id": 320
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 21,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 121
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 22,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 122
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 23,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 123
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 24,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 124
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 25,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 125
+            },
+            {
+                "Weight": 100,
+                "Id": 225
+            },
+            {
+                "Weight": 100,
+                "Id": 325
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 26,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 126
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 27,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 127
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 28,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 128
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 29,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 129
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 30,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 130
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 31,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 131
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 32,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 132
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 33,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 133
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 34,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 134
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 35,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 135
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 36,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 136
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 37,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 137
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 38,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 138
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 39,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 139
+            },
+            {},
+            {}
+        ]
+    },
+    {
+        "PlayerLevel": 40,
+        "MonsterConfig": [
+            {
+                "Weight": 100,
+                "Id": 140
+            },
+            {},
+            {}
+        ]
+    }
+]

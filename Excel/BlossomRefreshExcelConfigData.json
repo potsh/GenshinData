@@ -1,0 +1,562 @@
+[
+    {
+        "Id": 1,
+        "NameTextMapHash": 401327791,
+        "Icon": "UI_MonsterIcon_Camp_01",
+        "DescTextMapHash": 565619705,
+        "CityId": 1,
+        "RefreshType": "BLOSSOM_REFRESH_SCOIN",
+        "RefreshCount": 1,
+        "RefreshTime": "04:00:00",
+        "OpenLevel": 12,
+        "ReviseLevel": 1,
+        "BlossomChestId": 1,
+        "CampUpdateNeedCount": 1,
+        "Drop": [
+            {
+                "DropId": 207000400,
+                "PreviewReward": 4101
+            },
+            {
+                "DropId": 207000800,
+                "PreviewReward": 4103
+            },
+            {
+                "DropId": 207000900,
+                "PreviewReward": 4104
+            },
+            {
+                "DropId": 207001000,
+                "PreviewReward": 4105
+            },
+            {
+                "DropId": 207001100,
+                "PreviewReward": 4106
+            },
+            {
+                "DropId": 207001200,
+                "PreviewReward": 4107
+            },
+            {
+                "DropId": 207001300,
+                "PreviewReward": 4108
+            },
+            {
+                "DropId": 207001400,
+                "PreviewReward": 4109
+            },
+            {
+                "DropId": 207001500,
+                "PreviewReward": 4110
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "Id": 2,
+        "NameTextMapHash": 3301346927,
+        "Icon": "UI_MonsterIcon_Camp_02",
+        "DescTextMapHash": 3731213553,
+        "CityId": 1,
+        "RefreshType": "BLOSSOM_REFRESH_EXP",
+        "RefreshCount": 1,
+        "RefreshTime": "04:00:00",
+        "OpenLevel": 8,
+        "ReviseLevel": 1,
+        "BlossomChestId": 2,
+        "CampUpdateNeedCount": 1,
+        "Drop": [
+            {
+                "DropId": 206000400,
+                "PreviewReward": 4001
+            },
+            {
+                "DropId": 206000800,
+                "PreviewReward": 4003
+            },
+            {
+                "DropId": 206000900,
+                "PreviewReward": 4004
+            },
+            {
+                "DropId": 206001000,
+                "PreviewReward": 4005
+            },
+            {
+                "DropId": 206001100,
+                "PreviewReward": 4006
+            },
+            {
+                "DropId": 206001200,
+                "PreviewReward": 4007
+            },
+            {
+                "DropId": 206001300,
+                "PreviewReward": 4008
+            },
+            {
+                "DropId": 206001400,
+                "PreviewReward": 4009
+            },
+            {
+                "DropId": 206001500,
+                "PreviewReward": 4010
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "Id": 3,
+        "NameTextMapHash": 1214359487,
+        "Icon": "UI_MonsterIcon_Camp_01",
+        "DescTextMapHash": 4103809745,
+        "CityId": 2,
+        "RefreshType": "BLOSSOM_REFRESH_SCOIN",
+        "RefreshCount": 1,
+        "RefreshTime": "04:00:00",
+        "OpenLevel": 18,
+        "ReviseLevel": 1,
+        "BlossomChestId": 1,
+        "CampUpdateNeedCount": 1,
+        "Drop": [
+            {
+                "DropId": 207000400,
+                "PreviewReward": 4101
+            },
+            {
+                "DropId": 207000800,
+                "PreviewReward": 4103
+            },
+            {
+                "DropId": 207000900,
+                "PreviewReward": 4104
+            },
+            {
+                "DropId": 207001000,
+                "PreviewReward": 4105
+            },
+            {
+                "DropId": 207001100,
+                "PreviewReward": 4106
+            },
+            {
+                "DropId": 207001200,
+                "PreviewReward": 4107
+            },
+            {
+                "DropId": 207001300,
+                "PreviewReward": 4108
+            },
+            {
+                "DropId": 207001400,
+                "PreviewReward": 4109
+            },
+            {
+                "DropId": 207001500,
+                "PreviewReward": 4110
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "Id": 4,
+        "NameTextMapHash": 2028433687,
+        "Icon": "UI_MonsterIcon_Camp_02",
+        "DescTextMapHash": 1074281265,
+        "CityId": 2,
+        "RefreshType": "BLOSSOM_REFRESH_EXP",
+        "RefreshCount": 1,
+        "RefreshTime": "04:00:00",
+        "OpenLevel": 18,
+        "ReviseLevel": 1,
+        "BlossomChestId": 2,
+        "CampUpdateNeedCount": 1,
+        "Drop": [
+            {
+                "DropId": 206000400,
+                "PreviewReward": 4001
+            },
+            {
+                "DropId": 206000800,
+                "PreviewReward": 4003
+            },
+            {
+                "DropId": 206000900,
+                "PreviewReward": 4004
+            },
+            {
+                "DropId": 206001000,
+                "PreviewReward": 4005
+            },
+            {
+                "DropId": 206001100,
+                "PreviewReward": 4006
+            },
+            {
+                "DropId": 206001200,
+                "PreviewReward": 4007
+            },
+            {
+                "DropId": 206001300,
+                "PreviewReward": 4008
+            },
+            {
+                "DropId": 206001400,
+                "PreviewReward": 4009
+            },
+            {
+                "DropId": 206001500,
+                "PreviewReward": 4010
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_CHALLENGE"
+    },
+    {
+        "Id": 5,
+        "NameTextMapHash": 2175153615,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 3958603497,
+        "CityId": 1,
+        "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "RefreshCount": 3,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
+        "OpenLevel": 2,
+        "CloseLevel": 29,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 6,
+        "NameTextMapHash": 1305217375,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 588666081,
+        "CityId": 1,
+        "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "RefreshCount": 3,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
+        "OpenLevel": 2,
+        "CloseLevel": 29,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 7,
+        "NameTextMapHash": 3787269007,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 1177534665,
+        "CityId": 2,
+        "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "RefreshCount": 5,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
+        "OpenLevel": 2,
+        "CloseLevel": 29,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 8,
+        "NameTextMapHash": 1736761551,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 363571977,
+        "CityId": 2,
+        "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
+        "RefreshCount": 5,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
+        "OpenLevel": 2,
+        "CloseLevel": 29,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 9,
+        "NameTextMapHash": 1649656023,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 315729313,
+        "CityId": 1,
+        "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "RefreshCount": 3,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
+        "OpenLevel": 30,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 10,
+        "NameTextMapHash": 969026335,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 560581649,
+        "CityId": 1,
+        "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "RefreshCount": 3,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
+        "OpenLevel": 30,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 11,
+        "NameTextMapHash": 744591535,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 4203860761,
+        "CityId": 2,
+        "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "RefreshCount": 5,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
+        "OpenLevel": 30,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 12,
+        "NameTextMapHash": 2328046679,
+        "Icon": "UI_MonsterSmallIcon_InfusedCrystal",
+        "DescTextMapHash": 1820652065,
+        "CityId": 2,
+        "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
+        "RefreshCount": 5,
+        "RefreshTime": "06:00:00",
+        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
+        "OpenLevel": 30,
+        "ReviseLevel": 1,
+        "Drop": [
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            },
+            {
+                "DropId": 7000000
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    }
+]

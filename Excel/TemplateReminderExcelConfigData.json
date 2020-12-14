@@ -1,0 +1,92 @@
+[
+    {
+        "Id": 1,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 906357842
+    },
+    {
+        "Id": 2,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 2838851362
+    },
+    {
+        "Id": 3,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 4082461946
+    },
+    {
+        "Id": 4,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 475434570
+    },
+    {
+        "Id": 101,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 1901580370
+    },
+    {
+        "Id": 102,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 673915362
+    },
+    {
+        "Id": 103,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 1164178018
+    },
+    {
+        "Id": 104,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 4049234778
+    },
+    {
+        "Id": 105,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 712203506
+    },
+    {
+        "Id": 106,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 2960661714
+    },
+    {
+        "Id": 107,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 2488844770
+    },
+    {
+        "Id": 108,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 710400322
+    },
+    {
+        "Id": 109,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 1365095930
+    },
+    {
+        "Id": 110,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 3002681386
+    },
+    {
+        "Id": 111,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 49278346
+    },
+    {
+        "Id": 112,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 3594634154
+    },
+    {
+        "Id": 113,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 3234726618
+    },
+    {
+        "Id": 114,
+        "Icon": "UI_Tips_Item_Monster",
+        "ContentTextMapHash": 4268999954
+    }
+]

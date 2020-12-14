@@ -1,0 +1,117 @@
+[
+    {
+        "SortId": 1,
+        "AvatarId": 10000033,
+        "WeaponType": "WEAPON_BOW"
+    },
+    {
+        "SortId": 2,
+        "AvatarId": 10000039,
+        "WeaponType": "WEAPON_BOW"
+    },
+    {
+        "SortId": 3,
+        "AvatarId": 10000029,
+        "WeaponType": "WEAPON_CATALYST"
+    },
+    {
+        "SortId": 4,
+        "AvatarId": 10000022,
+        "WeaponType": "WEAPON_BOW"
+    },
+    {
+        "SortId": 5,
+        "AvatarId": 10000042,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND"
+    },
+    {
+        "SortId": 6,
+        "AvatarId": 10000041,
+        "WeaponType": "WEAPON_CATALYST"
+    },
+    {
+        "SortId": 7,
+        "AvatarId": 10000035,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND"
+    },
+    {
+        "SortId": 8,
+        "AvatarId": 10000016,
+        "WeaponType": "WEAPON_CLAYMORE"
+    },
+    {
+        "SortId": 9,
+        "AvatarId": 10000003,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND"
+    },
+    {
+        "SortId": 10,
+        "AvatarId": 10000043,
+        "WeaponType": "WEAPON_CATALYST"
+    },
+    {
+        "SortId": 11,
+        "AvatarId": 10000036,
+        "WeaponType": "WEAPON_CLAYMORE"
+    },
+    {
+        "SortId": 12,
+        "AvatarId": 10000034,
+        "WeaponType": "WEAPON_CLAYMORE"
+    },
+    {
+        "SortId": 13,
+        "AvatarId": 10000032,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND"
+    },
+    {
+        "SortId": 14,
+        "AvatarId": 10000031,
+        "WeaponType": "WEAPON_BOW"
+    },
+    {
+        "SortId": 15,
+        "AvatarId": 10000027,
+        "WeaponType": "WEAPON_CATALYST"
+    },
+    {
+        "SortId": 16,
+        "AvatarId": 10000025,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND"
+    },
+    {
+        "SortId": 17,
+        "AvatarId": 10000024,
+        "WeaponType": "WEAPON_CLAYMORE"
+    },
+    {
+        "SortId": 18,
+        "AvatarId": 10000023,
+        "WeaponType": "WEAPON_POLE"
+    },
+    {
+        "SortId": 19,
+        "AvatarId": 10000020,
+        "WeaponType": "WEAPON_CLAYMORE"
+    },
+    {
+        "SortId": 20,
+        "AvatarId": 10000014,
+        "WeaponType": "WEAPON_CATALYST"
+    },
+    {
+        "SortId": 21,
+        "AvatarId": 10000006,
+        "WeaponType": "WEAPON_CATALYST"
+    },
+    {
+        "SortId": 22,
+        "AvatarId": 10000015,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND"
+    },
+    {
+        "SortId": 23,
+        "AvatarId": 10000021,
+        "WeaponType": "WEAPON_BOW"
+    }
+]

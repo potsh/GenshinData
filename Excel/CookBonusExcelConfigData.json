@@ -1,0 +1,366 @@
+[
+    {
+        "AvatarId": 10000021,
+        "RecipeId": 1004,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108010,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "AvatarId": 10000015,
+        "RecipeId": 1001,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108014,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "AvatarId": 10000006,
+        "RecipeId": 2001,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108018,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000014,
+        "RecipeId": 2004,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108040,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000003,
+        "RecipeId": 3006,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108044,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000020,
+        "RecipeId": 3007,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108048,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000016,
+        "RecipeId": 3008,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108058,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000041,
+        "RecipeId": 2007,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108114,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000029,
+        "RecipeId": 2008,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108115,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000032,
+        "RecipeId": 1003,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108116,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "AvatarId": 10000031,
+        "RecipeId": 3003,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108117,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000034,
+        "RecipeId": 2005,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108118,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000022,
+        "RecipeId": 3009,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108113,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000039,
+        "RecipeId": 1006,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108134,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "AvatarId": 10000023,
+        "RecipeId": 3102,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108135,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000025,
+        "RecipeId": 2105,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108136,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000026,
+        "RecipeId": 2101,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108137,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000024,
+        "RecipeId": 1102,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108138,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "AvatarId": 10000027,
+        "RecipeId": 1101,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108139,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "AvatarId": 10000035,
+        "RecipeId": 3105,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108140,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000036,
+        "RecipeId": 2108,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108144,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000043,
+        "RecipeId": 3005,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108146,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000042,
+        "RecipeId": 1103,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108145,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "AvatarId": 10000030,
+        "RecipeId": 3106,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108173,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000044,
+        "RecipeId": 2102,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108174,
+            0
+        ],
+        "ComplexParam": [
+            10,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000033,
+        "RecipeId": 3001,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108175,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    }
+]

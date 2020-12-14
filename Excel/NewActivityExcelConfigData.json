@@ -1,0 +1,151 @@
+[
+    {
+        "ActivityId": 1001,
+        "ActivityType": "NEW_ACTIVITY_SEA_LAMP",
+        "NameTextMapHash": 529458835,
+        "ActivitySceneTag": "Hdj",
+        "IsLoadTerrain": true,
+        "CondGroupId": [
+            1
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5001,
+        "ActivityType": "NEW_ACTIVITY_CRUCIBLE",
+        "NameTextMapHash": 4016903435,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            500101
+        ],
+        "WatcherId": [
+            1500101,
+            1500102,
+            1500103,
+            1500104,
+            1500105,
+            1500106,
+            1500107,
+            1500108,
+            1500109,
+            1500110,
+            1500111,
+            1500112,
+            1500113
+        ]
+    },
+    {
+        "ActivityId": 5002,
+        "ActivityType": "NEW_ACTIVITY_TRIAL_AVATAR",
+        "NameTextMapHash": 43085627,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5003,
+        "ActivityType": "NEW_ACTIVITY_SALESMAN",
+        "NameTextMapHash": 3202322827,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            500301
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 2001,
+        "ActivityType": "NEW_ACTIVITY_ASTER",
+        "NameTextMapHash": 1976952875,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            2001001
+        ],
+        "WatcherId": [
+            1200130,
+            1200131,
+            1200132
+        ]
+    },
+    {
+        "ActivityId": 5004,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "NameTextMapHash": 3140529491,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5005,
+        "ActivityType": "NEW_ACTIVITY_CRUCIBLE",
+        "NameTextMapHash": 3680320923,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5006,
+        "ActivityType": "NEW_ACTIVITY_DELIVERY",
+        "NameTextMapHash": 1114072299,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            500601
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5007,
+        "ActivityType": "NEW_ACTIVITY_FLIGHT",
+        "NameTextMapHash": 2916747123,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            500701
+        ],
+        "WatcherId": [
+            1501001,
+            1501002,
+            1501003,
+            1502001,
+            1502002,
+            1502003,
+            1503001,
+            1503002,
+            1503003,
+            1504001,
+            1504002,
+            1504003,
+            1505001,
+            1505002,
+            1505003,
+            1506001,
+            1506002,
+            1506003,
+            1507001,
+            1507002,
+            1507003
+        ]
+    },
+    {
+        "ActivityId": 5008,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "NameTextMapHash": 3554662043,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5009,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "NameTextMapHash": 2036640027,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5010,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "NameTextMapHash": 412965627,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    }
+]

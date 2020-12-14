@@ -1,0 +1,305 @@
+[
+    {
+        "MpPlayId": 1,
+        "ChallengeDescTextMapHash": 2654357900,
+        "ChallengeTitleTextMapHash": 2195739106,
+        "Id": 2010101,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_ELEMENT_BALL",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 99,
+        "ChallengeDescTextMapHash": 3769740116,
+        "ChallengeTitleTextMapHash": 1982232602,
+        "Id": 2010102,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_MAX_BALL",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 99,
+        "ChallengeDescTextMapHash": 773193068,
+        "ChallengeTitleTextMapHash": 2859821330,
+        "Id": 2010103,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_MAX_SCORE",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 9,
+        "ChallengeDescTextMapHash": 3688133772,
+        "ChallengeTitleTextMapHash": 1519366290,
+        "Id": 2010104,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "Param": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 20,
+        "ChallengeDescTextMapHash": 845623444,
+        "ChallengeTitleTextMapHash": 1898568234,
+        "Id": 2010105,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "Param": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 40,
+        "ChallengeDescTextMapHash": 722178940,
+        "ChallengeTitleTextMapHash": 2299384682,
+        "Id": 2010106,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "Param": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                ""
+            ]
+        },
+        "Progress": 15
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 8,
+        "ChallengeDescTextMapHash": 1625957476,
+        "ChallengeTitleTextMapHash": 3751225258,
+        "Id": 2010107,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 19,
+        "ChallengeDescTextMapHash": 2090237156,
+        "ChallengeTitleTextMapHash": 2025571994,
+        "Id": 2010108,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 15
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 30,
+        "ChallengeDescTextMapHash": 3117588,
+        "ChallengeTitleTextMapHash": 1899363362,
+        "Id": 2010109,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 10,
+        "ChallengeDescTextMapHash": 1891962004,
+        "ChallengeTitleTextMapHash": 3148143994,
+        "Id": 2010110,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 50,
+        "ChallengeDescTextMapHash": 1764768676,
+        "ChallengeTitleTextMapHash": 593452714,
+        "Id": 2010111,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 100,
+        "ChallengeDescTextMapHash": 1395777212,
+        "ChallengeTitleTextMapHash": 4084880994,
+        "Id": 2010112,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 31,
+        "ChallengeDescTextMapHash": 4095657524,
+        "ChallengeTitleTextMapHash": 3670554322,
+        "Id": 2010113,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 31,
+        "ChallengeDescTextMapHash": 221984292,
+        "ChallengeTitleTextMapHash": 3361192866,
+        "Id": 2010114,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "2",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 31,
+        "ChallengeDescTextMapHash": 114528260,
+        "ChallengeTitleTextMapHash": 3264693634,
+        "Id": 2010115,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 31,
+        "ChallengeDescTextMapHash": 4205024628,
+        "ChallengeTitleTextMapHash": 3094510050,
+        "Id": 2010116,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "4",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 31,
+        "ChallengeDescTextMapHash": 1002266324,
+        "ChallengeTitleTextMapHash": 2091559258,
+        "Id": 2010117,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "5",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 31,
+        "ChallengeDescTextMapHash": 2702170444,
+        "ChallengeTitleTextMapHash": 4072626642,
+        "Id": 2010118,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "7",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "MpPlayId": 1,
+        "Priority": 31,
+        "ChallengeDescTextMapHash": 2430136620,
+        "ChallengeTitleTextMapHash": 923190698,
+        "Id": 2010119,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+            "Param": [
+                "8",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    }
+]

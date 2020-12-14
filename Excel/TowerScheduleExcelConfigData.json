@@ -1,0 +1,872 @@
+[
+    {
+        "ScheduleId": 1,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-07-01 00:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-07-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1050,
+        "DescTextMapHash": 3714385344,
+        "BuffnameTextMapHash": 2483837807,
+        "Icon": "UI_TowerBlessing_1"
+    },
+    {
+        "ScheduleId": 2,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-07-16 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-08-01 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1050,
+        "DescTextMapHash": 1516989784,
+        "BuffnameTextMapHash": 4104607615,
+        "Icon": "UI_TowerBlessing_1"
+    },
+    {
+        "ScheduleId": 3,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-08-01 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-08-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1050,
+        "DescTextMapHash": 2570648736,
+        "BuffnameTextMapHash": 3934571015,
+        "Icon": "UI_TowerBlessing_1"
+    },
+    {
+        "ScheduleId": 4,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-08-16 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-09-01 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1050,
+        "DescTextMapHash": 4123664176,
+        "BuffnameTextMapHash": 3767984887,
+        "Icon": "UI_TowerBlessing_1"
+    },
+    {
+        "ScheduleId": 5,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-09-01 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-09-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1050,
+        "DescTextMapHash": 3978917856,
+        "BuffnameTextMapHash": 1663768071,
+        "Icon": "UI_TowerBlessing_1"
+    },
+    {
+        "ScheduleId": 6,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-09-16 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-10-01 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1050,
+        "DescTextMapHash": 3593144536,
+        "BuffnameTextMapHash": 2744295383,
+        "Icon": "UI_TowerBlessing_1"
+    },
+    {
+        "ScheduleId": 7,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-10-01 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-10-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1051,
+        "DescTextMapHash": 2599040504,
+        "BuffnameTextMapHash": 1304554391,
+        "Icon": "UI_TowerBlessing_2"
+    },
+    {
+        "ScheduleId": 8,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-10-16 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-11-01 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1051,
+        "DescTextMapHash": 2690337128,
+        "BuffnameTextMapHash": 1948496735,
+        "Icon": "UI_TowerBlessing_2"
+    },
+    {
+        "ScheduleId": 9,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-11-01 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-11-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1052,
+        "DescTextMapHash": 1960877592,
+        "BuffnameTextMapHash": 2667635327,
+        "Icon": "UI_TowerBlessing_3"
+    },
+    {
+        "ScheduleId": 10,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-11-16 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-12-01 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1310,
+        "DescTextMapHash": 603662104,
+        "BuffnameTextMapHash": 1307677487,
+        "Icon": "UI_TowerBlessing_5"
+    },
+    {
+        "ScheduleId": 11,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-12-01 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2020-12-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1311,
+        "DescTextMapHash": 1063730352,
+        "BuffnameTextMapHash": 298652839,
+        "Icon": "UI_TowerBlessing_6"
+    },
+    {
+        "ScheduleId": 12,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2020-12-16 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2021-01-01 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1312,
+        "DescTextMapHash": 3469738288,
+        "BuffnameTextMapHash": 1144171311,
+        "Icon": "UI_TowerBlessing_7"
+    },
+    {
+        "ScheduleId": 13,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2021-01-01 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2021-01-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1310,
+        "DescTextMapHash": 3605593864,
+        "BuffnameTextMapHash": 3750899287,
+        "Icon": "UI_TowerBlessing_5"
+    },
+    {
+        "ScheduleId": 14,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2021-01-16 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2021-02-01 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1311,
+        "DescTextMapHash": 2062809136,
+        "BuffnameTextMapHash": 876199503,
+        "Icon": "UI_TowerBlessing_6"
+    },
+    {
+        "ScheduleId": 15,
+        "EntranceFloorId": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008
+        ],
+        "Schedules": [
+            {
+                "FloorList": [
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "OpenTime": "2021-02-01 04:00:00"
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            },
+            {
+                "FloorList": [],
+                "OpenTime": ""
+            }
+        ],
+        "CloseTime": "2021-02-16 03:59:59",
+        "ScheduleRewards": [
+            {
+                "MinStarCount": 40
+            },
+            {
+                "MinStarCount": 60
+            },
+            {
+                "MinStarCount": 80
+            },
+            {
+                "MinStarCount": 100
+            },
+            {
+                "MinStarCount": 120
+            }
+        ],
+        "MonthlyLevelConfigId": 1312,
+        "DescTextMapHash": 3325270472,
+        "BuffnameTextMapHash": 2960906167,
+        "Icon": "UI_TowerBlessing_7"
+    }
+]

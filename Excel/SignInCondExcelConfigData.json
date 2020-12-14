@@ -1,0 +1,272 @@
+[
+    {
+        "ConfigId": 1,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "Type": "SIGN_IN_COND_FINISH_QUEST",
+                "Param": [
+                    90812,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 3
+    },
+    {
+        "ConfigId": 2,
+        "CondComb": "LOGIC_OR",
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_FINISH_PARENT_QUEST",
+                "Param": [
+                    44604,
+                    0
+                ]
+            },
+            {
+                "Type": "SIGN_IN_COND_AVERAGE_AVATAR_LEVEL",
+                "Param": [
+                    120,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 3
+    },
+    {
+        "ConfigId": 1001,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 1002,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10001,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10002,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10003,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10004,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10005,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10006,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10007,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10008,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10009,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10010,
+        "Cond": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    10,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "Id": 10100,
+        "BubbleName": "",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Standby"
+    },
+    {
+        "Id": 10101,
+        "FreeStyleId": 20202,
+        "BubbleName": "",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Smile01"
+    },
+    {
+        "Id": 10201,
+        "FreeStyleId": 20402,
+        "BubbleName": "EmojiBubble_Emoji_Happy",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Happy01"
+    },
+    {
+        "Id": 10301,
+        "FreeStyleId": 20602,
+        "BubbleName": "EmojiBubble_Emoji_Sad",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Sad01"
+    },
+    {
+        "Id": 10401,
+        "FreeStyleId": 20802,
+        "BubbleName": "",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Heart01"
+    },
+    {
+        "Id": 10501,
+        "FreeStyleId": 21002,
+        "BubbleName": "EmojiBubble_Emoji_Angry",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Angry01"
+    },
+    {
+        "Id": 10601,
+        "FreeStyleId": 21202,
+        "BubbleName": "EmojiBubble_Emoji_Thinking",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Think01"
+    },
+    {
+        "Id": 10701,
+        "FreeStyleId": 21402,
+        "BubbleName": "EmojiBubble_Emoji_Surprise",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Surprised01"
+    },
+    {
+        "Id": 10801,
+        "FreeStyleId": 21602,
+        "BubbleName": "",
+        "EmotionPath": "Cs_Emo_Avatar_Common/Cs_Emo_Avatar_Coop_Shy01"
+    }
+]

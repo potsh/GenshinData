@@ -1,0 +1,47 @@
+[
+    {
+        "FlyCloakId": 140001,
+        "NameTextMapHash": 1227437700,
+        "DescTextMapHash": 2963284368,
+        "PrefabPath": "ART/Flycloak/Flycloak_Normal_Glider_01/Flycloak_Normal_Glider_01",
+        "JsonName": "Flycloak_Default_01",
+        "Icon": "UI_Gacha_FlycloakIcon_Glider",
+        "MaterialId": 140001
+    },
+    {
+        "FlyCloakId": 140002,
+        "NameTextMapHash": 3679998556,
+        "DescTextMapHash": 2439760640,
+        "PrefabPath": "ART/Flycloak/Flycloak_Normal_Starlit_01/Flycloak_Normal_Starlit_01",
+        "JsonName": "Flycloak_Default_01",
+        "Icon": "UI_Gacha_FlycloakIcon_Starlit",
+        "MaterialId": 140002
+    },
+    {
+        "FlyCloakId": 140003,
+        "NameTextMapHash": 1307041812,
+        "DescTextMapHash": 251460624,
+        "PrefabPath": "ART/Flycloak/Flycloak_Normal_Psalmus_01/Flycloak_Normal_Psalmus_01",
+        "JsonName": "Flycloak_Default_01",
+        "Icon": "UI_Gacha_FlycloakIcon_Psalmus",
+        "MaterialId": 140003
+    },
+    {
+        "FlyCloakId": 140004,
+        "NameTextMapHash": 3265724196,
+        "DescTextMapHash": 95448472,
+        "PrefabPath": "ART/Flycloak/Flycloak_Normal_Gale_01/Flycloak_Normal_Gale_01",
+        "JsonName": "Flycloak_Default_01",
+        "Icon": "UI_Gacha_FlycloakIcon_Gale",
+        "MaterialId": 140004
+    },
+    {
+        "FlyCloakId": 140005,
+        "NameTextMapHash": 1800191236,
+        "DescTextMapHash": 397410296,
+        "PrefabPath": "ART/Flycloak/Flycloak_Normal_Megalith_01/Flycloak_Normal_Megalith_01",
+        "JsonName": "Flycloak_Default_01",
+        "Icon": "UI_Gacha_FlycloakIcon_Megalith",
+        "MaterialId": 140005
+    }
+]

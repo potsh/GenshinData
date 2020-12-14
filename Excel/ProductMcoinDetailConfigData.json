@@ -1,0 +1,73 @@
+[
+    {
+        "ItemNameTextMapHash": 592163336,
+        "PrimNameTextMapHash": 3399738308,
+        "Icon": "UI_Mall_Purchase_Primogem1ststall",
+        "MCoin": 60,
+        "MCoiNFirst": 60,
+        "Sequence": 6,
+        "ConfigId": 1,
+        "PriceTier": "Tier_1",
+        "ShopType": "SHOP_TYPE_MCOIN"
+    },
+    {
+        "ItemNameTextMapHash": 1264426216,
+        "PrimNameTextMapHash": 2700754972,
+        "Icon": "UI_Mall_Purchase_Primogem2ndstall",
+        "MCoin": 300,
+        "MCoinNonFirst": 30,
+        "MCoiNFirst": 300,
+        "Sequence": 5,
+        "ConfigId": 2,
+        "PriceTier": "Tier_5",
+        "ShopType": "SHOP_TYPE_MCOIN"
+    },
+    {
+        "ItemNameTextMapHash": 4078387144,
+        "PrimNameTextMapHash": 320967628,
+        "Icon": "UI_Mall_Purchase_Primogem3rdstall",
+        "MCoin": 980,
+        "MCoinNonFirst": 110,
+        "MCoiNFirst": 980,
+        "Sequence": 4,
+        "ConfigId": 3,
+        "PriceTier": "Tier_15",
+        "ShopType": "SHOP_TYPE_MCOIN"
+    },
+    {
+        "ItemNameTextMapHash": 1175452288,
+        "PrimNameTextMapHash": 1588912924,
+        "Icon": "UI_Mall_Purchase_Primogem4thstall",
+        "MCoin": 1980,
+        "MCoinNonFirst": 260,
+        "MCoiNFirst": 1980,
+        "Sequence": 3,
+        "ConfigId": 4,
+        "PriceTier": "Tier_30",
+        "ShopType": "SHOP_TYPE_MCOIN"
+    },
+    {
+        "ItemNameTextMapHash": 982800008,
+        "PrimNameTextMapHash": 1861426364,
+        "Icon": "UI_Mall_Purchase_Primogem5thstall",
+        "MCoin": 3280,
+        "MCoinNonFirst": 600,
+        "MCoiNFirst": 3280,
+        "Sequence": 2,
+        "ConfigId": 5,
+        "PriceTier": "Tier_50",
+        "ShopType": "SHOP_TYPE_MCOIN"
+    },
+    {
+        "ItemNameTextMapHash": 2819973760,
+        "PrimNameTextMapHash": 2491404828,
+        "Icon": "UI_Mall_Purchase_Primogem6thstall",
+        "MCoin": 6480,
+        "MCoinNonFirst": 1600,
+        "MCoiNFirst": 6480,
+        "Sequence": 1,
+        "ConfigId": 6,
+        "PriceTier": "Tier_60",
+        "ShopType": "SHOP_TYPE_MCOIN"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 11001,
+        "AbilityStates": [
+            "ELEMENTICE",
+            "ISGHOSTTOENEMY",
+            "ELEMENTBURNING",
+            "ELEMENTGRASSGROWING",
+            "IGNORETRIGGERBULLET"
+        ]
+    },
+    {},
+    {},
+    {},
+    {
+        "Id": 13001,
+        "AbilityStates": [
+            "ELEMENTICE",
+            "ELEMENTCONDUCTIVE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "Id": 13002,
+        "AbilityStates": [
+            "ELEMENTICE",
+            "ELEMENTSHOCK",
+            "MUTETAUNT",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {},
+    {}
+]

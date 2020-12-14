@@ -1,0 +1,250 @@
+[
+    {
+        "EnvType": "ENVIRONMENT_GENERAL",
+        "Weight": [
+            {
+                "AnimalId": 70590006,
+                "EntityType": "GADGET",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_GRASS",
+        "Weight": [
+            {
+                "AnimalId": 70590008,
+                "EntityType": "GADGET",
+                "Weight": 200,
+                "AliveHour": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "AnimalId": 70590006,
+                "EntityType": "GADGET",
+                "Weight": 400,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 70590007,
+                "EntityType": "GADGET",
+                "Weight": 400,
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_RIVERSIDE",
+        "Weight": [
+            {
+                "AnimalId": 28010101,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 28010102,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 28010301,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 28010302,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_MOUNTAIN",
+        "Weight": [
+            {
+                "AnimalId": 28010201,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 28010202,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 28010203,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_CRAB",
+        "Weight": [
+            {
+                "AnimalId": 28010101,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 28010102,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 28010103,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_BUTTERFLY",
+        "Weight": [
+            {
+                "AnimalId": 70590006,
+                "EntityType": "GADGET",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 70590007,
+                "EntityType": "GADGET",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_GRASSSHOPPER",
+        "Weight": [
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_BUSH",
+        "Weight": [
+            {
+                "AnimalId": 28010201,
+                "EntityType": "MONSTER",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 70590008,
+                "EntityType": "GADGET",
+                "Weight": 100,
+                "AliveHour": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_FIREFLY",
+        "Weight": [
+            {
+                "AnimalId": 70590008,
+                "EntityType": "GADGET",
+                "Weight": 100,
+                "AliveHour": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    },
+    {
+        "EnvType": "ENVIRONMENT_WOODS",
+        "Weight": [
+            {
+                "AnimalId": 70590008,
+                "EntityType": "GADGET",
+                "Weight": 800,
+                "AliveHour": {
+                    "18": 24,
+                    "0": 6
+                }
+            },
+            {
+                "AnimalId": 70590006,
+                "EntityType": "GADGET",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AnimalId": 70590007,
+                "EntityType": "GADGET",
+                "Weight": 100,
+                "AliveHour": {}
+            },
+            {
+                "AliveHour": {}
+            }
+        ]
+    }
+]

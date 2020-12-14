@@ -1,0 +1,22 @@
+[
+    {
+        "PoseId": 4301,
+        "PoseFile": "Standby",
+        "PoseIcon": "UI_PoseIcon_Default",
+        "PoseNameTextMapHash": 3919972993
+    },
+    {
+        "PoseId": 4302,
+        "PoseFile": "Think01",
+        "AnimatorStateId": 20101,
+        "PoseIcon": "UI_PoseIcon_Thinking",
+        "PoseNameTextMapHash": 1211064993
+    },
+    {
+        "PoseId": 4303,
+        "PoseFile": "Akimbo02",
+        "AnimatorStateId": 20111,
+        "PoseIcon": "UI_PoseIcon_Akimbo",
+        "PoseNameTextMapHash": 4255404065
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "Id": 9998,
+        "TitleNameTextMapHash": 1552491205,
+        "BeginDate": "2020-09-13 00:00:00",
+        "EndDate": "2020-11-10 00:00:00",
+        "Cycle": [
+            1,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            2
+        ],
+        "ExtraPaidRewardId": 1000001,
+        "ExtraPaidAddPoint": 10000,
+        "BuyLevelCostCoin": 150,
+        "CyclePointUpperLimit": 10000,
+        "LevelRewardIndexId": 1,
+        "NormalReward": [
+            116002,
+            201,
+            116005,
+            104003
+        ],
+        "ShowImage": "UI_BattlePass_Reward_01",
+        "ShowReward": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "StroyReward": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "StoryId": 1001
+    },
+    {
+        "Id": 1100,
+        "TitleNameTextMapHash": 884867269,
+        "BeginDate": "1998-03-23",
+        "EndDate": "1998-04-23",
+        "Cycle": [
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+        ],
+        "ExtraPaidRewardId": 1000002,
+        "ExtraPaidAddPoint": 10000,
+        "BuyLevelCostCoin": 150,
+        "CyclePointUpperLimit": 10000,
+        "LevelRewardIndexId": 1,
+        "NormalReward": [
+            116002,
+            201,
+            116005,
+            104003
+        ],
+        "ShowImage": "UI_BattlePass_Reward_01",
+        "ShowReward": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "StroyReward": [
+            11409,
+            12409,
+            14405,
+            15409,
+            13405
+        ],
+        "StoryId": 1001
+    }
+]

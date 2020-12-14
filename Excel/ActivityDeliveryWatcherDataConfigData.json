@@ -1,0 +1,112 @@
+[
+    {
+        "Id": 5006001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CLIMB",
+            "Param": [
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLY",
+            "Param": [
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DASH",
+            "Param": [
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006004,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_HURT",
+            "Param": [
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006005,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+            "Param": [
+                "32768",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006006,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+            "Param": [
+                "16777216",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006007,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+            "Param": [
+                "32",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006008,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+            "Param": [
+                "8388608",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006009,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+            "Param": [
+                "4194304",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "Id": 5006010,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
+            "Param": [
+                "33554432",
+                ""
+            ]
+        },
+        "Progress": 1
+    }
+]

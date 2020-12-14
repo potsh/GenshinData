@@ -1,0 +1,20 @@
+[
+    {
+        "NameTextMapHash": 2167623036,
+        "ShopType": "SHOP_TYPE_PACKAGE",
+        "GoodsId": [],
+        "ConfigId": [
+            101
+        ],
+        "Cond": [
+            {
+                "Type": "SHOPMALL_RECOMMEND_COND_PLAYER_LEVEL_GE",
+                "Param1": 1
+            },
+            {}
+        ],
+        "Order": 3,
+        "OneCardIconName": "MallPackage_MonthlyCard",
+        "ColShowIconName": []
+    }
+]

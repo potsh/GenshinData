@@ -1,0 +1,698 @@
+[
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 1,
+        "ConsumeItem": {},
+        "RewardId": 210311,
+        "Action": [
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 2,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 1
+        },
+        "RewardId": 210312,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    7
+                ],
+                "Param2": []
+            },
+            {
+                "Type": "WORLD_AREA_ACTION_UNLOCK_FORCE",
+                "Param1": [
+                    1
+                ],
+                "Param2": []
+            },
+            {
+                "Type": "WORLD_AREA_ACTION_ACTIVATE_ITEM",
+                "Param1": [
+                    70220012
+                ],
+                "Param2": [
+                    70220011
+                ]
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 3,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 2
+        },
+        "RewardId": 210313,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    7
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 4,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 4
+        },
+        "RewardId": 210314,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 5,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 6
+        },
+        "RewardId": 210315,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 6,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 7
+        },
+        "RewardId": 210316,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 7,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 8
+        },
+        "RewardId": 210317,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 8,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 10
+        },
+        "RewardId": 210318,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 9,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 12
+        },
+        "RewardId": 210319,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 1,
+        "Level": 10,
+        "ConsumeItem": {
+            "ItemId": 107001,
+            "ItemNum": 15
+        },
+        "RewardId": 210320,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 1,
+        "ConsumeItem": {},
+        "RewardId": 210321,
+        "Action": [
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 2,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 2
+        },
+        "RewardId": 210322,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    7
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 3,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 4
+        },
+        "RewardId": 210323,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    7
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 4,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 8
+        },
+        "RewardId": 210324,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 5,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 12
+        },
+        "RewardId": 210325,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 6,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 14
+        },
+        "RewardId": 210326,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 7,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 16
+        },
+        "RewardId": 210327,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 8,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 20
+        },
+        "RewardId": 210328,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 9,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 24
+        },
+        "RewardId": 210329,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    },
+    {
+        "SceneId": 3,
+        "CityId": 2,
+        "Level": 10,
+        "ConsumeItem": {
+            "ItemId": 107003,
+            "ItemNum": 30
+        },
+        "RewardId": 210330,
+        "Action": [
+            {
+                "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
+                "Param1": [
+                    8
+                ],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            },
+            {
+                "Param1": [],
+                "Param2": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,938 @@
+[
+    {
+        "EventId": 1,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_UNLOCK_POINT",
+        "Param": [
+            "7",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 2,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003063",
+            "1330",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 3,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003001",
+            "1346",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 4,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003010",
+            "1372",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 5,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003004",
+            "229",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 6,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003025",
+            "410",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 7,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003021",
+            "1373",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 8,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003001",
+            "1027",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 9,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003044",
+            "1069",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 10,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003044",
+            "1070",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 11,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003044",
+            "1071",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 12,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003044",
+            "1072",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 13,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003044",
+            "1073",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 14,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003014",
+            "1196",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 15,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13003010",
+            "1212",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 16,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13003001",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 17,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13003047",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 18,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13003058",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 19,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13003028",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 20,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13003064",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 21,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100001",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 22,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100012",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 23,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100013",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 24,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100014",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 25,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100015",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 26,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100016",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 27,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100017",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 28,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100018",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 29,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100011",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 30,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100021",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 31,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100031",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 32,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100041",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 33,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100051",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 34,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100052",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 35,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100061",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 36,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "101001",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 37,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "101002",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 38,
+        "SceneId": 3,
+        "AreaId": 1,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "101003",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 39,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ENTER_FORCE",
+        "Param": [
+            "1",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 40,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_UNLOCK_POINT",
+        "Param": [
+            "4",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 41,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001029",
+            "510",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 42,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001034",
+            "528",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 43,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001037",
+            "606",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 44,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001041",
+            "671",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 45,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001010",
+            "58",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 46,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001002",
+            "73",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 47,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001014",
+            "91",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 48,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001027",
+            "472",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 49,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001030",
+            "511",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 50,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001036",
+            "589",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 51,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001042",
+            "803",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 52,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_OPEN_CHEST",
+        "Param": [
+            "13001031",
+            "816",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 53,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13001020",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 54,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13001039",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 55,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13001019",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 56,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13001001",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 57,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13001009",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 58,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_CLEAR_GROUP_MONSTER",
+        "Param": [
+            "13001015",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 59,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100001",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 60,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100012",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 61,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100013",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 62,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100014",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 63,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100015",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 64,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100016",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 65,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100017",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 66,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100018",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 67,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100011",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 68,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100021",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 69,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100031",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 70,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100041",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 71,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100051",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 72,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100052",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 73,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "100061",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 74,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "101001",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 75,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "101002",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 76,
+        "SceneId": 3,
+        "AreaId": 2,
+        "EventType": "EXPLORE_EVENT_ITEM_ADD",
+        "Param": [
+            "101003",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 77,
+        "SceneId": 3,
+        "AreaId": 3,
+        "EventType": "EXPLORE_EVENT_UNLOCK_POINT",
+        "Param": [
+            "3",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    },
+    {
+        "EventId": 78,
+        "SceneId": 3,
+        "AreaId": 4,
+        "EventType": "EXPLORE_EVENT_UNLOCK_POINT",
+        "Param": [
+            "29",
+            "",
+            ""
+        ],
+        "ExploreWeight": 10
+    }
+]

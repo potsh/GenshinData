@@ -1,0 +1,156 @@
+[
+    {
+        "Id": 1001,
+        "ActivityType": "NEW_ACTIVITY_SEA_LAMP",
+        "SortPriority": 180,
+        "TabIcon": "",
+        "TabNameTextMapHash": 1672453206
+    },
+    {
+        "Id": 2001,
+        "ActivityType": "NEW_ACTIVITY_ASTER",
+        "SortPriority": 180,
+        "TabIcon": "UI_Icon_Activity_Aster",
+        "TabNameTextMapHash": 1650331270
+    },
+    {
+        "Id": 5001,
+        "ActivityType": "NEW_ACTIVITY_CRUCIBLE",
+        "SortPriority": 140,
+        "TabIcon": "UI_Icon_Activity_CrucibleTab",
+        "TabNameTextMapHash": 117499134
+    },
+    {
+        "Id": 5002,
+        "ActivityType": "NEW_ACTIVITY_TRIAL_AVATAR",
+        "SortPriority": 50,
+        "TabIcon": "UI_Icon_Activity_TrialTab",
+        "TabNameTextMapHash": 4245195038
+    },
+    {
+        "Id": 5003,
+        "ActivityType": "NEW_ACTIVITY_SALESMAN",
+        "SortPriority": 50,
+        "TabIcon": "UI_Icon_Activity_MiscsmarvsTab",
+        "TabNameTextMapHash": 2297438894
+    },
+    {
+        "Id": 50001,
+        "ActivityType": "NEW_ACTIVITY_BONUS",
+        "SortPriority": 60,
+        "TabIcon": "UI_Icon_Activity_XLTab",
+        "TabNameTextMapHash": 215869918
+    },
+    {
+        "Id": 50002,
+        "ActivityType": "NEW_ACTIVITY_BONUS",
+        "SortPriority": 62,
+        "TabIcon": "UI_Icon_Activity_Tab_Barbara",
+        "TabNameTextMapHash": 1508553022
+    },
+    {
+        "Id": 10001,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 64,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 1356554342
+    },
+    {
+        "Id": 10002,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 66,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 3567654574
+    },
+    {
+        "Id": 10003,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 68,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 2398562718
+    },
+    {
+        "Id": 10004,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 70,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 3869274134
+    },
+    {
+        "Id": 10010,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 72,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 189378790
+    },
+    {
+        "Id": 101,
+        "ActivityType": "NEW_ACTIVITY_NEWBEEBONUS",
+        "SortPriority": 198,
+        "TabIcon": "UI_Icon_Activity_NoviceReward",
+        "TabNameTextMapHash": 840257302
+    },
+    {
+        "Id": 5004,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_LegendQuestTab",
+        "TabNameTextMapHash": 2920773934
+    },
+    {
+        "Id": 5006,
+        "ActivityType": "NEW_ACTIVITY_DELIVERY",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_FoodDelivery",
+        "TabNameTextMapHash": 3506708102
+    },
+    {
+        "Id": 10005,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 72,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 3161090262
+    },
+    {
+        "Id": 10006,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 74,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 3415735334
+    },
+    {
+        "Id": 10007,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 76,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 1950149766
+    },
+    {
+        "Id": 5007,
+        "ActivityType": "NEW_ACTIVITY_FLIGHT",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_FlightChallenge",
+        "TabNameTextMapHash": 3799775974
+    },
+    {
+        "Id": 5008,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_LegendQuestTab",
+        "TabNameTextMapHash": 2719947006
+    },
+    {
+        "Id": 5009,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_LegendQuestTab",
+        "TabNameTextMapHash": 374955214
+    },
+    {
+        "Id": 5010,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_LegendQuestTab",
+        "TabNameTextMapHash": 861892598
+    }
+]

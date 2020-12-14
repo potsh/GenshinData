@@ -1,0 +1,14 @@
+[
+    {
+        "ItemNameTextMapHash": 3486638812,
+        "Icon": "UI_Mall_Purchase_Blessofmoon",
+        "TotalLimitDays": 180,
+        "Days": 30,
+        "HCoinperDay": 90,
+        "MCoin": 300,
+        "ReplaceMCoin": 330,
+        "ConfigId": 101,
+        "PriceTier": "Tier_5",
+        "ShopType": "SHOP_TYPE_PACKAGE"
+    }
+]

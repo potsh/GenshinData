@@ -1,0 +1,30 @@
+[
+    {
+        "MpPlayId": 1,
+        "QuestTextMapHash": 680277890,
+        "RewardTextMapHash": 2102907456,
+        "InviteTextMapHash": 2939202228,
+        "InvitedescTextMapHash": 3160285192,
+        "InvitedeschostTextMapHash": 3319752692,
+        "StartTextMapHash": 571676447,
+        "StarttipTextMapHash": 195948126,
+        "VictoryTextMapHash": 3092603499,
+        "FailTextMapHash": 2509818324,
+        "RiviveTextMapHash": 2892849181,
+        "TimespendTextMapHash": 2557456156
+    },
+    {
+        "MpPlayId": 2,
+        "QuestTextMapHash": 1365922530,
+        "RewardTextMapHash": 539166624,
+        "InviteTextMapHash": 818515332,
+        "InvitedescTextMapHash": 1806318936,
+        "InvitedeschostTextMapHash": 3588217316,
+        "StartTextMapHash": 2009279351,
+        "StarttipTextMapHash": 3158952262,
+        "VictoryTextMapHash": 421878771,
+        "FailTextMapHash": 2116362252,
+        "RiviveTextMapHash": 3168618829,
+        "TimespendTextMapHash": 4110009956
+    }
+]

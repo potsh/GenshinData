@@ -1,0 +1,159 @@
+[
+    {
+        "EntryId": 1,
+        "PlayId": 1,
+        "ServerLuaCallGroup": [],
+        "ResinCost": 40,
+        "Reward": [
+            {
+                "DropId": 209000600,
+                "RewardPreview": 4201
+            },
+            {
+                "DropId": 209000800,
+                "RewardPreview": 4202
+            },
+            {
+                "DropId": 209000900,
+                "RewardPreview": 4203
+            },
+            {
+                "DropId": 209001000,
+                "RewardPreview": 4204
+            },
+            {
+                "DropId": 209001100,
+                "RewardPreview": 4205
+            },
+            {
+                "DropId": 209001200,
+                "RewardPreview": 4206
+            },
+            {
+                "DropId": 209001300,
+                "RewardPreview": 4207
+            },
+            {
+                "DropId": 209001400,
+                "RewardPreview": 4208
+            },
+            {
+                "DropId": 209001500,
+                "RewardPreview": 4209
+            }
+        ],
+        "ActivateGroup": [],
+        "Group": [
+            133003549,
+            133003550,
+            133003554,
+            133003555
+        ],
+        "BornGroupId": 305001001,
+        "BornConfigId": 1,
+        "RebornGroupId": 305001001,
+        "RebornConfigId": 2,
+        "RewardGroupId": 305001001,
+        "RewardConfigId": 3,
+        "PrepareTime": 20,
+        "CenterPos": [
+            2342.75,
+            283.8999938964844,
+            -1730.97998046875
+        ],
+        "CenterRadius": 250,
+        "TargetPos": [
+            2346.30810546875,
+            238.78399658203125,
+            -1735.8680419921875
+        ],
+        "ReviseId": 1,
+        "Rate": [
+            300,
+            500,
+            660,
+            720
+        ],
+        "LimitRegion": "BigWorld_CrucibleArea_001"
+    },
+    {
+        "EntryId": 2,
+        "PlayId": 2,
+        "ServerLuaCallGroup": [
+            133001413
+        ],
+        "ResinCost": 40,
+        "Reward": [
+            {
+                "DropId": 210020000,
+                "RewardPreview": 9110
+            },
+            {
+                "DropId": 210020010,
+                "RewardPreview": 9111
+            },
+            {
+                "DropId": 210020020,
+                "RewardPreview": 9112
+            },
+            {
+                "DropId": 210020030,
+                "RewardPreview": 9113
+            },
+            {
+                "DropId": 210020040,
+                "RewardPreview": 9114
+            },
+            {
+                "DropId": 210020050,
+                "RewardPreview": 9115
+            },
+            {
+                "DropId": 210020060,
+                "RewardPreview": 9116
+            },
+            {
+                "DropId": 210020070,
+                "RewardPreview": 9117
+            },
+            {
+                "DropId": 210020080,
+                "RewardPreview": 9118
+            }
+        ],
+        "ActivateGroup": [
+            133001413
+        ],
+        "Group": [
+            133001426,
+            133001427,
+            133001498
+        ],
+        "BornGroupId": 133001413,
+        "BornConfigId": 413073,
+        "RebornGroupId": 133001413,
+        "RebornConfigId": 413074,
+        "RewardGroupId": 133001413,
+        "GeneralRewardConfigId": 413124,
+        "PrepareTime": 20,
+        "CenterPos": [
+            1883.0,
+            196.0113067626953,
+            -1553.0
+        ],
+        "CenterRadius": 250,
+        "TargetPos": [
+            1883.0,
+            196.0113067626953,
+            -1553.0
+        ],
+        "ReviseId": 2,
+        "Rate": [
+            300,
+            500,
+            660,
+            720
+        ],
+        "LimitRegion": "BigWorld_AsterArea_001"
+    }
+]

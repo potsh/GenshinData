@@ -1,0 +1,104 @@
+[
+    {
+        "Type": "DEFAULT",
+        "GaugeLength": 100.0,
+        "WaneSpeed": 10.0,
+        "RecoverTime": 2.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "AVATAR_SWORD",
+        "GaugeLength": 100.0,
+        "WaneSpeed": 5.0,
+        "RecoverTime": 2.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "AVATAR_POLE",
+        "GaugeLength": 100.0,
+        "WaneSpeed": 5.0,
+        "RecoverTime": 2.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "AVATAR_CLAYMORE",
+        "GaugeLength": 100.0,
+        "WaneSpeed": 5.0,
+        "RecoverTime": 2.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "AVATAR_BOW",
+        "GaugeLength": 50.0,
+        "WaneSpeed": 3.0,
+        "RecoverTime": 3.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "AVATAR_CATALYST",
+        "GaugeLength": 50.0,
+        "WaneSpeed": 3.0,
+        "RecoverTime": 3.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "MONSTER_MINION",
+        "GaugeLength": 60.0,
+        "WaneSpeed": 5.0,
+        "RecoverTime": 5.0,
+        "Endurance": 1.2000000476837158
+    },
+    {
+        "Type": "MONSTER_GRUNT_HUMANOID",
+        "GaugeLength": 100.0,
+        "WaneSpeed": 5.0,
+        "RecoverTime": 3.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "MONSTER_GRUNT_OTHER",
+        "GaugeLength": 120.0,
+        "WaneSpeed": 5.0,
+        "RecoverTime": 3.0,
+        "Endurance": 0.800000011920929
+    },
+    {
+        "Type": "MONSTER_DEMIBOSS_HUMANOID",
+        "GaugeLength": 210.0,
+        "WaneSpeed": 20.0,
+        "RecoverTime": 2.0,
+        "Endurance": 1.0
+    },
+    {
+        "Type": "MONSTER_DEMIBOSS_OTHER",
+        "GaugeLength": 280.0,
+        "WaneSpeed": 20.0,
+        "RecoverTime": 2.0,
+        "Endurance": 0.699999988079071
+    },
+    {
+        "Type": "MONSTER_BOSS_HUMANOID",
+        "GaugeLength": 2000.0,
+        "WaneSpeed": 100.0,
+        "Endurance": 0.5
+    },
+    {
+        "Type": "MONSTER_BOSS_OTHER",
+        "GaugeLength": 2000.0,
+        "WaneSpeed": 100.0,
+        "Endurance": 0.5
+    },
+    {
+        "Type": "MONSTER_SLIME",
+        "GaugeLength": 30.0,
+        "WaneSpeed": 2.0,
+        "RecoverTime": 5.0,
+        "Endurance": 1.5
+    },
+    {
+        "Type": "MONSTER_TARTAGLIA",
+        "GaugeLength": 500.0,
+        "RecoverTime": 99999.0,
+        "Endurance": 1.0
+    }
+]

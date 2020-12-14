@@ -1,0 +1,192 @@
+[
+    {
+        "ClueTextId": 1001,
+        "ReminderId": [
+            500000,
+            500001,
+            500002,
+            500003,
+            500004,
+            500005,
+            500006,
+            500007,
+            500008,
+            500009,
+            500010,
+            500011
+        ]
+    },
+    {
+        "ClueTextId": 2001,
+        "ReminderId": [
+            500012,
+            500013,
+            500014
+        ]
+    },
+    {
+        "ClueTextId": 2002,
+        "ReminderId": [
+            500015,
+            500016,
+            500017
+        ]
+    },
+    {
+        "ClueTextId": 2003,
+        "ReminderId": [
+            500018,
+            500019,
+            500020
+        ]
+    },
+    {
+        "ClueTextId": 2004,
+        "ReminderId": [
+            500021,
+            500022,
+            500023
+        ]
+    },
+    {
+        "ClueTextId": 2005,
+        "ReminderId": [
+            500024,
+            500025,
+            500026
+        ]
+    },
+    {
+        "ClueTextId": 2006,
+        "ReminderId": [
+            500027,
+            500028,
+            500028
+        ]
+    },
+    {
+        "ClueTextId": 2007,
+        "ReminderId": [
+            500030,
+            500031,
+            500032
+        ]
+    },
+    {
+        "ClueTextId": 2008,
+        "ReminderId": [
+            500033,
+            500034,
+            500035
+        ]
+    },
+    {
+        "ClueTextId": 2009,
+        "ReminderId": [
+            500036,
+            500037,
+            500038
+        ]
+    },
+    {
+        "ClueTextId": 3001,
+        "ReminderId": [
+            500039,
+            500040,
+            500041
+        ]
+    },
+    {
+        "ClueTextId": 3002,
+        "ReminderId": [
+            500042,
+            500043,
+            500044
+        ]
+    },
+    {
+        "ClueTextId": 3003,
+        "ReminderId": [
+            500045,
+            500046,
+            500047
+        ]
+    },
+    {
+        "ClueTextId": 3004,
+        "ReminderId": [
+            500048,
+            500049,
+            500050
+        ]
+    },
+    {
+        "ClueTextId": 3005,
+        "ReminderId": [
+            500051,
+            500052
+        ]
+    },
+    {
+        "ClueTextId": 3006,
+        "ReminderId": [
+            500053,
+            500054
+        ]
+    },
+    {
+        "ClueTextId": 3007,
+        "ReminderId": [
+            500055,
+            500056
+        ]
+    },
+    {
+        "ClueTextId": 3008,
+        "ReminderId": [
+            500057,
+            500058
+        ]
+    },
+    {
+        "ClueTextId": 3009,
+        "ReminderId": [
+            500059,
+            500060
+        ]
+    },
+    {
+        "ClueTextId": 3010,
+        "ReminderId": [
+            500061,
+            500062
+        ]
+    },
+    {
+        "ClueTextId": 3011,
+        "ReminderId": [
+            500063,
+            500064
+        ]
+    },
+    {
+        "ClueTextId": 3012,
+        "ReminderId": [
+            500065
+        ]
+    },
+    {
+        "ClueTextId": 3013,
+        "ReminderId": [
+            500066,
+            500067
+        ]
+    },
+    {
+        "ClueTextId": 3014,
+        "ReminderId": [
+            500068,
+            500069
+        ]
+    }
+]

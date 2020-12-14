@@ -1,0 +1,422 @@
+[
+    {
+        "Id": 1011,
+        "GroupId": 302001020,
+        "BattleGroup": [
+            302001058
+        ]
+    },
+    {
+        "Id": 1012,
+        "GroupId": 302001021,
+        "BattleGroup": [
+            302001065
+        ]
+    },
+    {
+        "Id": 1013,
+        "GroupId": 302001066,
+        "BattleGroup": [
+            302001022
+        ]
+    },
+    {
+        "Id": 1014,
+        "GroupId": 302001067,
+        "BattleGroup": [
+            302001023
+        ]
+    },
+    {
+        "Id": 1021,
+        "GroupId": 302001068,
+        "BattleGroup": [
+            302001029
+        ]
+    },
+    {
+        "Id": 1022,
+        "GroupId": 302001069,
+        "BattleGroup": [
+            302001030
+        ]
+    },
+    {
+        "Id": 1023,
+        "GroupId": 302001070,
+        "BattleGroup": [
+            302001031
+        ]
+    },
+    {
+        "Id": 1024,
+        "GroupId": 302001071,
+        "BattleGroup": [
+            302001032
+        ]
+    },
+    {
+        "Id": 1031,
+        "GroupId": 302001084,
+        "BattleGroup": [
+            302001033
+        ]
+    },
+    {
+        "Id": 1032,
+        "GroupId": 302001089,
+        "BattleGroup": [
+            302001034
+        ]
+    },
+    {
+        "Id": 1033,
+        "GroupId": 302001090,
+        "BattleGroup": [
+            302001035
+        ]
+    },
+    {
+        "Id": 1034,
+        "GroupId": 302001095,
+        "BattleGroup": [
+            302001037
+        ]
+    },
+    {
+        "Id": 1041,
+        "GroupId": 302001116,
+        "BattleGroup": [
+            302001053
+        ]
+    },
+    {
+        "Id": 1042,
+        "GroupId": 302001117,
+        "BattleGroup": [
+            302001054
+        ]
+    },
+    {
+        "Id": 1043,
+        "GroupId": 302001122,
+        "BattleGroup": [
+            302001055
+        ]
+    },
+    {
+        "Id": 1044,
+        "GroupId": 302001123,
+        "BattleGroup": [
+            302001056
+        ]
+    },
+    {
+        "Id": 1051,
+        "GroupId": 302001124,
+        "BattleGroup": [
+            302001061
+        ]
+    },
+    {
+        "Id": 1052,
+        "GroupId": 302001127,
+        "BattleGroup": [
+            302001062
+        ]
+    },
+    {
+        "Id": 1053,
+        "GroupId": 302001128,
+        "BattleGroup": [
+            302001063
+        ]
+    },
+    {
+        "Id": 1054,
+        "GroupId": 302001131,
+        "BattleGroup": [
+            302001064
+        ]
+    },
+    {
+        "Id": 2011,
+        "GroupId": 302001072,
+        "BattleGroup": [
+            302001024
+        ]
+    },
+    {
+        "Id": 2012,
+        "GroupId": 302001073,
+        "BattleGroup": [
+            302001025
+        ]
+    },
+    {
+        "Id": 2013,
+        "GroupId": 302001074,
+        "BattleGroup": [
+            302001026
+        ]
+    },
+    {
+        "Id": 2014,
+        "GroupId": 302001075,
+        "BattleGroup": [
+            302001028
+        ]
+    },
+    {
+        "Id": 2071,
+        "GroupId": 302001085,
+        "BattleGroup": [
+            302001036
+        ]
+    },
+    {
+        "Id": 2072,
+        "GroupId": 302001086,
+        "BattleGroup": [
+            302001038
+        ]
+    },
+    {
+        "Id": 2073,
+        "GroupId": 302001087,
+        "BattleGroup": [
+            302001039
+        ]
+    },
+    {
+        "Id": 2074,
+        "GroupId": 302001088,
+        "BattleGroup": [
+            302001040
+        ]
+    },
+    {
+        "Id": 2021,
+        "GroupId": 302001076,
+        "BattleGroup": [
+            302001044
+        ]
+    },
+    {
+        "Id": 2022,
+        "GroupId": 302001077,
+        "BattleGroup": [
+            302001045
+        ]
+    },
+    {
+        "Id": 2023,
+        "GroupId": 302001078,
+        "BattleGroup": [
+            302001046
+        ]
+    },
+    {
+        "Id": 2024,
+        "GroupId": 302001079,
+        "BattleGroup": [
+            302001050
+        ]
+    },
+    {
+        "Id": 2081,
+        "GroupId": 302001093,
+        "BattleGroup": [
+            302001047
+        ]
+    },
+    {
+        "Id": 2082,
+        "GroupId": 302001094,
+        "BattleGroup": [
+            302001048
+        ]
+    },
+    {
+        "Id": 2083,
+        "GroupId": 302001096,
+        "BattleGroup": [
+            302001049
+        ]
+    },
+    {
+        "Id": 2084,
+        "GroupId": 302001097,
+        "BattleGroup": [
+            302001051
+        ]
+    },
+    {
+        "Id": 2031,
+        "GroupId": 302001080,
+        "BattleGroup": [
+            302001052
+        ]
+    },
+    {
+        "Id": 2032,
+        "GroupId": 302001081,
+        "BattleGroup": [
+            302001057
+        ]
+    },
+    {
+        "Id": 2033,
+        "GroupId": 302001082,
+        "BattleGroup": [
+            302001059
+        ]
+    },
+    {
+        "Id": 2034,
+        "GroupId": 302001083,
+        "BattleGroup": [
+            302001060
+        ]
+    },
+    {
+        "Id": 2091,
+        "GroupId": 302001104,
+        "BattleGroup": [
+            302001098
+        ]
+    },
+    {
+        "Id": 2092,
+        "GroupId": 302001105,
+        "BattleGroup": [
+            302001099
+        ]
+    },
+    {
+        "Id": 2093,
+        "GroupId": 302001106,
+        "BattleGroup": [
+            302001101
+        ]
+    },
+    {
+        "Id": 2094,
+        "GroupId": 302001107,
+        "BattleGroup": [
+            302001102
+        ]
+    },
+    {
+        "Id": 2101,
+        "GroupId": 302001112,
+        "BattleGroup": [
+            302001108
+        ]
+    },
+    {
+        "Id": 2102,
+        "GroupId": 302001113,
+        "BattleGroup": [
+            302001109
+        ]
+    },
+    {
+        "Id": 2103,
+        "GroupId": 302001114,
+        "BattleGroup": [
+            302001110
+        ]
+    },
+    {
+        "Id": 2104,
+        "GroupId": 302001115,
+        "BattleGroup": [
+            302001111
+        ]
+    },
+    {
+        "Id": 2041,
+        "GroupId": 302001091,
+        "BattleGroup": [
+            302001092
+        ]
+    },
+    {
+        "Id": 2042,
+        "GroupId": 302001100,
+        "BattleGroup": [
+            302001103
+        ]
+    },
+    {
+        "Id": 2043,
+        "GroupId": 302001118,
+        "BattleGroup": [
+            302001119
+        ]
+    },
+    {
+        "Id": 2044,
+        "GroupId": 302001120,
+        "BattleGroup": [
+            302001121
+        ]
+    },
+    {
+        "Id": 2051,
+        "GroupId": 302001125,
+        "BattleGroup": [
+            302001126
+        ]
+    },
+    {
+        "Id": 2052,
+        "GroupId": 302001129,
+        "BattleGroup": [
+            302001130
+        ]
+    },
+    {
+        "Id": 2053,
+        "GroupId": 302001132,
+        "BattleGroup": [
+            302001133
+        ]
+    },
+    {
+        "Id": 2054,
+        "GroupId": 302001134,
+        "BattleGroup": [
+            302001135
+        ]
+    },
+    {
+        "Id": 2061,
+        "GroupId": 302001136,
+        "BattleGroup": [
+            302001137
+        ]
+    },
+    {
+        "Id": 2062,
+        "GroupId": 302001138,
+        "BattleGroup": [
+            302001139
+        ]
+    },
+    {
+        "Id": 2063,
+        "GroupId": 302001140,
+        "BattleGroup": [
+            302001141
+        ]
+    },
+    {
+        "Id": 2064,
+        "GroupId": 302001142,
+        "BattleGroup": [
+            302001143
+        ]
+    }
+]

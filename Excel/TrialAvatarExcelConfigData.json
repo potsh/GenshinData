@@ -1,0 +1,1132 @@
+[
+    {
+        "TrialAvatarId": 1,
+        "TrialAvatarParam": [
+            10000021,
+            5
+        ],
+        "TrialWeaponParam": [
+            15201,
+            5
+        ],
+        "TrialReliquary": [
+            1,
+            2
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 2,
+        "TrialAvatarParam": [
+            10000015,
+            5
+        ],
+        "TrialWeaponParam": [
+            11201,
+            5
+        ],
+        "TrialReliquary": [
+            1,
+            2
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 3,
+        "TrialAvatarParam": [
+            10000006,
+            5
+        ],
+        "TrialWeaponParam": [
+            14201,
+            5
+        ],
+        "TrialReliquary": [
+            1,
+            2
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 4,
+        "TrialAvatarParam": [
+            10000016,
+            23
+        ],
+        "TrialWeaponParam": [
+            12401,
+            23
+        ],
+        "TrialReliquary": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 5,
+        "TrialAvatarParam": [
+            10000022,
+            26
+        ],
+        "TrialWeaponParam": [
+            15301,
+            26
+        ],
+        "TrialReliquary": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 6,
+        "TrialAvatarParam": [
+            10000015,
+            10
+        ],
+        "TrialWeaponParam": [
+            11301,
+            10
+        ],
+        "TrialReliquary": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 7,
+        "TrialAvatarParam": [
+            10000003,
+            30
+        ],
+        "TrialWeaponParam": [
+            11401,
+            30
+        ],
+        "TrialReliquary": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "TrialInherentProudSkill": [
+            1
+        ],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 8,
+        "TrialAvatarParam": [
+            10000021,
+            15
+        ],
+        "TrialWeaponParam": [
+            15301,
+            15
+        ],
+        "TrialReliquary": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 9,
+        "TrialAvatarParam": [
+            10000020,
+            26
+        ],
+        "TrialWeaponParam": [
+            12401,
+            26
+        ],
+        "TrialReliquary": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [
+            1
+        ],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 10,
+        "TrialAvatarParam": [
+            10000006,
+            19
+        ],
+        "TrialWeaponParam": [
+            14301,
+            19
+        ],
+        "TrialReliquary": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 11,
+        "TrialAvatarParam": [
+            10000016,
+            18
+        ],
+        "TrialWeaponParam": [
+            12401,
+            18
+        ],
+        "TrialReliquary": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 12,
+        "TrialAvatarParam": [
+            10000025,
+            26
+        ],
+        "TrialWeaponParam": [
+            11406,
+            26
+        ],
+        "TrialReliquary": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [
+            1
+        ],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 13,
+        "TrialAvatarParam": [
+            10000023,
+            16
+        ],
+        "TrialWeaponParam": [
+            13301,
+            16
+        ],
+        "TrialReliquary": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 14,
+        "TrialAvatarParam": [
+            10000029,
+            30
+        ],
+        "TrialWeaponParam": [
+            14401,
+            30
+        ],
+        "TrialReliquary": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "TrialInherentProudSkill": [
+            1
+        ],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 17,
+        "TrialAvatarParam": [
+            10000030,
+            35
+        ],
+        "TrialWeaponParam": [
+            13504,
+            35
+        ],
+        "TrialReliquary": [
+            71,
+            72,
+            73,
+            74,
+            75
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 5,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 18,
+        "TrialAvatarParam": [
+            10000022,
+            28
+        ],
+        "TrialWeaponParam": [
+            15401,
+            28
+        ],
+        "TrialReliquary": [
+            51,
+            52,
+            53,
+            54,
+            55
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "TrialInherentProudSkill": [
+            1
+        ],
+        "TrialAvatarSkillLevel": 2,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 19,
+        "TrialAvatarParam": [
+            10000041,
+            30
+        ],
+        "TrialWeaponParam": [
+            14501,
+            30
+        ],
+        "TrialReliquary": [
+            51,
+            52,
+            53,
+            54,
+            55
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "TrialInherentProudSkill": [
+            1
+        ],
+        "TrialAvatarSkillLevel": 2,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 20,
+        "TrialAvatarParam": [
+            10000035,
+            35
+        ],
+        "TrialWeaponParam": [
+            11501,
+            35
+        ],
+        "TrialReliquary": [
+            71,
+            72,
+            73,
+            74,
+            75
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 5,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 21,
+        "TrialAvatarParam": [
+            10000033,
+            35
+        ],
+        "TrialWeaponParam": [
+            15501,
+            35
+        ],
+        "TrialReliquary": [
+            71,
+            72,
+            73,
+            74,
+            75
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 5,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 22,
+        "TrialAvatarParam": [
+            10000041,
+            26
+        ],
+        "TrialWeaponParam": [
+            14501,
+            26
+        ],
+        "TrialReliquary": [
+            51,
+            52,
+            53,
+            54,
+            55
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [
+            1
+        ],
+        "TrialAvatarSkillLevel": 1,
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 1003,
+        "TrialAvatarParam": [
+            10000003,
+            80
+        ],
+        "TrialWeaponParam": [
+            11401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1004,
+        "TrialAvatarParam": [
+            10000006,
+            80
+        ],
+        "TrialWeaponParam": [
+            14401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1014,
+        "TrialAvatarParam": [
+            10000014,
+            80
+        ],
+        "TrialWeaponParam": [
+            14401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1015,
+        "TrialAvatarParam": [
+            10000015,
+            80
+        ],
+        "TrialWeaponParam": [
+            11401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1016,
+        "TrialAvatarParam": [
+            10000016,
+            80
+        ],
+        "TrialWeaponParam": [
+            12401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1020,
+        "TrialAvatarParam": [
+            10000020,
+            80
+        ],
+        "TrialWeaponParam": [
+            12401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1021,
+        "TrialAvatarParam": [
+            10000021,
+            80
+        ],
+        "TrialWeaponParam": [
+            15401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1022,
+        "TrialAvatarParam": [
+            10000022,
+            80
+        ],
+        "TrialWeaponParam": [
+            15401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1023,
+        "TrialAvatarParam": [
+            10000023,
+            80
+        ],
+        "TrialWeaponParam": [
+            13401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1024,
+        "TrialAvatarParam": [
+            10000024,
+            80
+        ],
+        "TrialWeaponParam": [
+            12401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1025,
+        "TrialAvatarParam": [
+            10000025,
+            80
+        ],
+        "TrialWeaponParam": [
+            11406,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1027,
+        "TrialAvatarParam": [
+            10000027,
+            80
+        ],
+        "TrialWeaponParam": [
+            14401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1029,
+        "TrialAvatarParam": [
+            10000029,
+            80
+        ],
+        "TrialWeaponParam": [
+            14401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1030,
+        "TrialAvatarParam": [
+            10000030,
+            80
+        ],
+        "TrialWeaponParam": [
+            13402,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1031,
+        "TrialAvatarParam": [
+            10000031,
+            80
+        ],
+        "TrialWeaponParam": [
+            15401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1032,
+        "TrialAvatarParam": [
+            10000032,
+            80
+        ],
+        "TrialWeaponParam": [
+            11401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1033,
+        "TrialAvatarParam": [
+            10000033,
+            80
+        ],
+        "TrialWeaponParam": [
+            15401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1034,
+        "TrialAvatarParam": [
+            10000034,
+            80
+        ],
+        "TrialWeaponParam": [
+            12401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1035,
+        "TrialAvatarParam": [
+            10000035,
+            80
+        ],
+        "TrialWeaponParam": [
+            11401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1036,
+        "TrialAvatarParam": [
+            10000036,
+            80
+        ],
+        "TrialWeaponParam": [
+            12401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1039,
+        "TrialAvatarParam": [
+            10000039,
+            80
+        ],
+        "TrialWeaponParam": [
+            15401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1041,
+        "TrialAvatarParam": [
+            10000041,
+            80
+        ],
+        "TrialWeaponParam": [
+            14501,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1042,
+        "TrialAvatarParam": [
+            10000042,
+            80
+        ],
+        "TrialWeaponParam": [
+            11401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1043,
+        "TrialAvatarParam": [
+            10000043,
+            80
+        ],
+        "TrialWeaponParam": [
+            14401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    },
+    {
+        "TrialAvatarId": 1044,
+        "TrialAvatarParam": [
+            10000044,
+            80
+        ],
+        "TrialWeaponParam": [
+            12401,
+            80
+        ],
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [
+            1,
+            2
+        ],
+        "TrialAvatarSkillLevel": 8
+    }
+]

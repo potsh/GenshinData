@@ -1,0 +1,79 @@
+[
+    {
+        "Id": 1900101,
+        "MainQuestId": 147101,
+        "Priority": 19001,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900102,
+        "MainQuestId": 501,
+        "Priority": 19001,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900103,
+        "MainQuestId": 501,
+        "Priority": 19001,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900104,
+        "MainQuestId": 501,
+        "Priority": 19001,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900201,
+        "MainQuestId": 160201,
+        "Priority": 19002,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900202,
+        "MainQuestId": 160201,
+        "Priority": 19002,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900203,
+        "MainQuestId": 501,
+        "Priority": 19002,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900301,
+        "MainQuestId": 501,
+        "Priority": 19003,
+        "IsAuto": true
+    },
+    {
+        "Id": 29
+    },
+    {
+        "NpcId": 1900901,
+        "MainQuestId": 501,
+        "Priority": 19009,
+        "IsAuto": true
+    },
+    {
+        "Id": 29
+    },
+    {
+        "NpcId": 0
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+]

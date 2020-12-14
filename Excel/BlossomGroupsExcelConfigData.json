@@ -1,0 +1,4065 @@
+[
+    {
+        "Id": 101001001,
+        "CityId": 1,
+        "SectionId": 1001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133001374
+        ],
+        "DecorateGroup": [
+            133001382
+        ],
+        "NextCampId": [
+            101001002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 12,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3147749451
+    },
+    {
+        "Id": 101001002,
+        "CityId": 1,
+        "SectionId": 1001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133001376
+        ],
+        "DecorateGroup": [
+            133001393
+        ],
+        "NextCampId": [
+            101001003
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 12,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3206862315
+    },
+    {
+        "Id": 101001003,
+        "CityId": 1,
+        "SectionId": 1001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133001375
+        ],
+        "DecorateGroup": [
+            133001394
+        ],
+        "NextCampId": [
+            101001004
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 12,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2612439715
+    },
+    {
+        "Id": 101001004,
+        "CityId": 1,
+        "SectionId": 1001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133001373
+        ],
+        "DecorateGroup": [
+            133001381
+        ],
+        "NextCampId": [
+            101001005
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 12,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1748895499
+    },
+    {
+        "Id": 101001005,
+        "CityId": 1,
+        "SectionId": 1001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133001397
+        ],
+        "DecorateGroup": [
+            133001398
+        ],
+        "NextCampId": [
+            101002002
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 12,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3462621555
+    },
+    {
+        "Id": 101002001,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003569
+        ],
+        "DecorateGroup": [
+            133003559
+        ],
+        "NextCampId": [
+            101002002
+        ],
+        "isSafe": true,
+        "FinishProgress": 10,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1113659075
+    },
+    {
+        "Id": 101002002,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133002387
+        ],
+        "DecorateGroup": [
+            133002388
+        ],
+        "NextCampId": [
+            101002003
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3057107251
+    },
+    {
+        "Id": 101002003,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133002369
+        ],
+        "DecorateGroup": [
+            133002371
+        ],
+        "NextCampId": [
+            101002004
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2663916899
+    },
+    {
+        "Id": 101002004,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133002370
+        ],
+        "DecorateGroup": [
+            133002372
+        ],
+        "NextCampId": [
+            101007001
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4182714395
+    },
+    {
+        "Id": 101002005,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133002377
+        ],
+        "DecorateGroup": [
+            133002378
+        ],
+        "NextCampId": [
+            101007002
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3101158515
+    },
+    {
+        "Id": 101003001,
+        "CityId": 1,
+        "SectionId": 1003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003535
+        ],
+        "DecorateGroup": [
+            133003536
+        ],
+        "NextCampId": [
+            101003002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 9,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3172201723
+    },
+    {
+        "Id": 101003002,
+        "CityId": 1,
+        "SectionId": 1003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003516
+        ],
+        "DecorateGroup": [
+            133003519
+        ],
+        "NextCampId": [
+            101003003
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3823301403
+    },
+    {
+        "Id": 101003003,
+        "CityId": 1,
+        "SectionId": 1003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003537
+        ],
+        "DecorateGroup": [
+            133003538
+        ],
+        "NextCampId": [
+            101003004
+        ],
+        "isSafe": true,
+        "FinishProgress": 9,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1184130771
+    },
+    {
+        "Id": 101003004,
+        "CityId": 1,
+        "SectionId": 1003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003517
+        ],
+        "DecorateGroup": [
+            133003520
+        ],
+        "NextCampId": [
+            101005001
+        ],
+        "isSafe": true,
+        "FinishProgress": 10,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3756840187
+    },
+    {
+        "Id": 101003005,
+        "CityId": 1,
+        "SectionId": 1003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003544
+        ],
+        "DecorateGroup": [
+            133003572
+        ],
+        "NextCampId": [
+            101006001
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2780548979
+    },
+    {
+        "Id": 101004001,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133007235
+        ],
+        "DecorateGroup": [
+            133007237
+        ],
+        "NextCampId": [
+            101004002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 9,
+        "LimitLevel": 21,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1274196163
+    },
+    {
+        "Id": 101004002,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133007241
+        ],
+        "DecorateGroup": [
+            133007242
+        ],
+        "NextCampId": [
+            101004003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 21,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1603588395
+    },
+    {
+        "Id": 101004003,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133007243
+        ],
+        "DecorateGroup": [
+            133007244
+        ],
+        "NextCampId": [
+            101004004
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 21,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 322275859
+    },
+    {
+        "Id": 101004004,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133007234
+        ],
+        "DecorateGroup": [
+            133007236
+        ],
+        "NextCampId": [
+            101005001,
+            101003005,
+            101001001
+        ],
+        "isSafe": true,
+        "FinishProgress": 5,
+        "LimitLevel": 21,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3819159011
+    },
+    {
+        "Id": 101005001,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003581
+        ],
+        "DecorateGroup": [
+            133003582
+        ],
+        "NextCampId": [
+            101005002
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 15,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2142753291
+    },
+    {
+        "Id": 101005002,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003565
+        ],
+        "DecorateGroup": [
+            133003563
+        ],
+        "NextCampId": [
+            101005003
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 15,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3342541667
+    },
+    {
+        "Id": 101005003,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003570
+        ],
+        "DecorateGroup": [
+            133003560
+        ],
+        "NextCampId": [
+            101005004
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 15,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3018692459
+    },
+    {
+        "Id": 101005004,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003571
+        ],
+        "DecorateGroup": [
+            133003561
+        ],
+        "NextCampId": [
+            101005005
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 15,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3071114435
+    },
+    {
+        "Id": 101005005,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003564
+        ],
+        "DecorateGroup": [
+            133003562
+        ],
+        "NextCampId": [
+            101004001,
+            101001001
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 15,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2424352459
+    },
+    {
+        "Id": 101006001,
+        "CityId": 1,
+        "SectionId": 1006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003566
+        ],
+        "DecorateGroup": [
+            133003573
+        ],
+        "NextCampId": [
+            101006002
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3023088075
+    },
+    {
+        "Id": 101006002,
+        "CityId": 1,
+        "SectionId": 1006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133003567
+        ],
+        "DecorateGroup": [
+            133003558
+        ],
+        "NextCampId": [
+            101002001
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 8,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1689773619
+    },
+    {
+        "Id": 101007001,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133002375
+        ],
+        "DecorateGroup": [
+            133002376
+        ],
+        "NextCampId": [
+            101007002,
+            101002005
+        ],
+        "isSafe": true,
+        "FinishProgress": 9,
+        "LimitLevel": 16,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 604915419
+    },
+    {
+        "Id": 101007002,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133004352
+        ],
+        "DecorateGroup": [
+            133004353
+        ],
+        "NextCampId": [
+            101007003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 16,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4218397803
+    },
+    {
+        "Id": 101007003,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133004331
+        ],
+        "DecorateGroup": [
+            133004336
+        ],
+        "NextCampId": [
+            101007004
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 16,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 481327531
+    },
+    {
+        "Id": 101007004,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133004332
+        ],
+        "DecorateGroup": [
+            133004337
+        ],
+        "NextCampId": [
+            101007005
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 16,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3356291083
+    },
+    {
+        "Id": 101007005,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133004333
+        ],
+        "DecorateGroup": [
+            133004338
+        ],
+        "NextCampId": [
+            101007006
+        ],
+        "isSafe": true,
+        "FinishProgress": 9,
+        "LimitLevel": 16,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3349971235
+    },
+    {
+        "Id": 101007006,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133004334
+        ],
+        "DecorateGroup": [
+            133004339
+        ],
+        "NextCampId": [
+            101004001,
+            101003001,
+            101005001
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 16,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 843871971
+    },
+    {
+        "Id": 202001001,
+        "CityId": 2,
+        "SectionId": 2001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102733
+        ],
+        "DecorateGroup": [
+            133102737
+        ],
+        "NextCampId": [
+            202001002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 6,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3518161099
+    },
+    {
+        "Id": 202001002,
+        "CityId": 2,
+        "SectionId": 2001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102742
+        ],
+        "DecorateGroup": [
+            133102748
+        ],
+        "NextCampId": [
+            202001003
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2090340955
+    },
+    {
+        "Id": 202001003,
+        "CityId": 2,
+        "SectionId": 2001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102743
+        ],
+        "DecorateGroup": [
+            133102750
+        ],
+        "NextCampId": [
+            202001004
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 353609395
+    },
+    {
+        "Id": 202001004,
+        "CityId": 2,
+        "SectionId": 2001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102744
+        ],
+        "DecorateGroup": [
+            133102749
+        ],
+        "NextCampId": [
+            202001005
+        ],
+        "isSafe": true,
+        "FinishProgress": 5,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 153531707
+    },
+    {
+        "Id": 202001005,
+        "CityId": 2,
+        "SectionId": 2001,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102745
+        ],
+        "DecorateGroup": [
+            133102751
+        ],
+        "NextCampId": [
+            202007001
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1208818323
+    },
+    {
+        "Id": 202002001,
+        "CityId": 2,
+        "SectionId": 2002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102754
+        ],
+        "DecorateGroup": [
+            133102755
+        ],
+        "NextCampId": [
+            202002002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 8,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1506617171
+    },
+    {
+        "Id": 202002002,
+        "CityId": 2,
+        "SectionId": 2002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102752
+        ],
+        "DecorateGroup": [
+            133102753
+        ],
+        "NextCampId": [
+            202002003
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2160217955
+    },
+    {
+        "Id": 202002003,
+        "CityId": 2,
+        "SectionId": 2002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102759
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            202002004
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 782085891
+    },
+    {
+        "Id": 202002004,
+        "CityId": 2,
+        "SectionId": 2002,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102756
+        ],
+        "DecorateGroup": [
+            133102757
+        ],
+        "NextCampId": [
+            202008001
+        ],
+        "isSafe": true,
+        "FinishProgress": 4,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3549424403
+    },
+    {
+        "Id": 202003001,
+        "CityId": 2,
+        "SectionId": 2003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102776
+        ],
+        "DecorateGroup": [
+            133102782
+        ],
+        "NextCampId": [
+            202003002
+        ],
+        "isSafe": true,
+        "FinishProgress": 10,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2025300171
+    },
+    {
+        "Id": 202003002,
+        "CityId": 2,
+        "SectionId": 2003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133105277
+        ],
+        "DecorateGroup": [
+            133105278
+        ],
+        "NextCampId": [
+            202003003
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1384974731
+    },
+    {
+        "Id": 202003003,
+        "CityId": 2,
+        "SectionId": 2003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104595
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            202003004
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 330278467
+    },
+    {
+        "Id": 202003004,
+        "CityId": 2,
+        "SectionId": 2003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104614
+        ],
+        "DecorateGroup": [
+            133104616
+        ],
+        "NextCampId": [
+            202003005
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 790471931
+    },
+    {
+        "Id": 202003005,
+        "CityId": 2,
+        "SectionId": 2003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104596
+        ],
+        "DecorateGroup": [
+            133104603
+        ],
+        "NextCampId": [
+            202010003
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2514939675
+    },
+    {
+        "Id": 202003006,
+        "CityId": 2,
+        "SectionId": 2003,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104641
+        ],
+        "DecorateGroup": [
+            133104642
+        ],
+        "NextCampId": [
+            202003005
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1972632179
+    },
+    {
+        "Id": 202004001,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133101193
+        ],
+        "DecorateGroup": [
+            133101198
+        ],
+        "NextCampId": [
+            202004002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 8,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3022263411
+    },
+    {
+        "Id": 202004002,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133101194
+        ],
+        "DecorateGroup": [
+            133101199
+        ],
+        "NextCampId": [
+            202004003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2773216475
+    },
+    {
+        "Id": 202004003,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133101195
+        ],
+        "DecorateGroup": [
+            133101200
+        ],
+        "NextCampId": [
+            202004004
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1136632747
+    },
+    {
+        "Id": 202004004,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133101196
+        ],
+        "DecorateGroup": [
+            133101201
+        ],
+        "NextCampId": [
+            202001004,
+            202004005
+        ],
+        "isSafe": true,
+        "FinishProgress": 12,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2724635867
+    },
+    {
+        "Id": 202004005,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104645
+        ],
+        "DecorateGroup": [
+            133104646
+        ],
+        "NextCampId": [
+            202004007
+        ],
+        "isSafe": true,
+        "FinishProgress": 3,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3318909147
+    },
+    {
+        "Id": 202004006,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103470
+        ],
+        "DecorateGroup": [
+            133103480
+        ],
+        "NextCampId": [
+            202004007
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 8,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 745155883
+    },
+    {
+        "Id": 202004007,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104598
+        ],
+        "DecorateGroup": [
+            133104605
+        ],
+        "NextCampId": [
+            202010001
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4146386787
+    },
+    {
+        "Id": 202005001,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103491
+        ],
+        "DecorateGroup": [
+            133103492
+        ],
+        "NextCampId": [
+            202005002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 11,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4122534883
+    },
+    {
+        "Id": 202005002,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103474
+        ],
+        "DecorateGroup": [
+            133103481
+        ],
+        "NextCampId": [
+            202005003,
+            202005005
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3395317747
+    },
+    {
+        "Id": 202005003,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103489
+        ],
+        "DecorateGroup": [
+            133103490
+        ],
+        "NextCampId": [
+            202005004
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3343918875
+    },
+    {
+        "Id": 202005004,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103487
+        ],
+        "DecorateGroup": [
+            133103488
+        ],
+        "NextCampId": [
+            202013001
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2001274811
+    },
+    {
+        "Id": 202005005,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103532
+        ],
+        "DecorateGroup": [
+            133103533
+        ],
+        "NextCampId": [
+            202004006
+        ],
+        "isSafe": true,
+        "FinishProgress": 9,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2159919019
+    },
+    {
+        "Id": 202006001,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133107084
+        ],
+        "DecorateGroup": [
+            133107090
+        ],
+        "NextCampId": [
+            202006002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 1,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1050478187
+    },
+    {
+        "Id": 202006002,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133107085
+        ],
+        "DecorateGroup": [
+            133107091
+        ],
+        "NextCampId": [
+            202006003
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4081055467
+    },
+    {
+        "Id": 202006003,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106263
+        ],
+        "DecorateGroup": [
+            133106264
+        ],
+        "NextCampId": [
+            202006004,
+            202006007
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 741075651
+    },
+    {
+        "Id": 202006004,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106259
+        ],
+        "DecorateGroup": [
+            133106260
+        ],
+        "NextCampId": [
+            202013001,
+            202004001,
+            202009001,
+            202011002
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1158679211
+    },
+    {
+        "Id": 202006005,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106288
+        ],
+        "DecorateGroup": [
+            133106292
+        ],
+        "NextCampId": [
+            202006006
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4254051867
+    },
+    {
+        "Id": 202006006,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106289
+        ],
+        "DecorateGroup": [
+            133106293
+        ],
+        "NextCampId": [
+            202010004
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1329160467
+    },
+    {
+        "Id": 202006007,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106299
+        ],
+        "DecorateGroup": [
+            133106300
+        ],
+        "NextCampId": [
+            202006005
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2314203459
+    },
+    {
+        "Id": 202007001,
+        "CityId": 2,
+        "SectionId": 2007,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102783
+        ],
+        "DecorateGroup": [
+            133102784
+        ],
+        "NextCampId": [
+            202002001
+        ],
+        "isSafe": true,
+        "FinishProgress": 4,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1297482715
+    },
+    {
+        "Id": 202008001,
+        "CityId": 2,
+        "SectionId": 2008,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102785
+        ],
+        "DecorateGroup": [
+            133102786
+        ],
+        "NextCampId": [
+            202008002
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4132212355
+    },
+    {
+        "Id": 202008002,
+        "CityId": 2,
+        "SectionId": 2008,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102773
+        ],
+        "DecorateGroup": [
+            133102778
+        ],
+        "NextCampId": [
+            202008003
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 190721755
+    },
+    {
+        "Id": 202008003,
+        "CityId": 2,
+        "SectionId": 2008,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102774
+        ],
+        "DecorateGroup": [
+            133102779
+        ],
+        "NextCampId": [
+            202008004
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3944674323
+    },
+    {
+        "Id": 202008004,
+        "CityId": 2,
+        "SectionId": 2008,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133102775
+        ],
+        "DecorateGroup": [
+            133102780
+        ],
+        "NextCampId": [
+            202003001
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3316516539
+    },
+    {
+        "Id": 202009001,
+        "CityId": 2,
+        "SectionId": 2009,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108129
+        ],
+        "DecorateGroup": [
+            133108128
+        ],
+        "NextCampId": [
+            202009002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 464822507
+    },
+    {
+        "Id": 202009002,
+        "CityId": 2,
+        "SectionId": 2009,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108130
+        ],
+        "DecorateGroup": [
+            133108121
+        ],
+        "NextCampId": [
+            202009003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3447666563
+    },
+    {
+        "Id": 202009003,
+        "CityId": 2,
+        "SectionId": 2009,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108132
+        ],
+        "DecorateGroup": [
+            133108122
+        ],
+        "NextCampId": [
+            202009004
+        ],
+        "isSafe": true,
+        "FinishProgress": 4,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2657621691
+    },
+    {
+        "Id": 202009004,
+        "CityId": 2,
+        "SectionId": 2009,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108133
+        ],
+        "DecorateGroup": [
+            133108123
+        ],
+        "NextCampId": [
+            202003006
+        ],
+        "isSafe": true,
+        "FinishProgress": 8,
+        "LimitLevel": 24,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3674850179
+    },
+    {
+        "Id": 202010001,
+        "CityId": 2,
+        "SectionId": 2010,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104615
+        ],
+        "DecorateGroup": [
+            133104617
+        ],
+        "NextCampId": [
+            202010002
+        ],
+        "isSafe": true,
+        "FinishProgress": 13,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3794966939
+    },
+    {
+        "Id": 202010002,
+        "CityId": 2,
+        "SectionId": 2010,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104597
+        ],
+        "DecorateGroup": [
+            133104604
+        ],
+        "NextCampId": [
+            202010003
+        ],
+        "isSafe": true,
+        "FinishProgress": 5,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3942979123
+    },
+    {
+        "Id": 202010003,
+        "CityId": 2,
+        "SectionId": 2010,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133104643
+        ],
+        "DecorateGroup": [
+            133104644
+        ],
+        "NextCampId": [
+            202001001,
+            202006001,
+            202011001
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2482794675
+    },
+    {
+        "Id": 202010004,
+        "CityId": 2,
+        "SectionId": 2010,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106290
+        ],
+        "DecorateGroup": [
+            133106294
+        ],
+        "NextCampId": [
+            202010005
+        ],
+        "isSafe": true,
+        "FinishProgress": 5,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3209281491
+    },
+    {
+        "Id": 202010005,
+        "CityId": 2,
+        "SectionId": 2010,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106291
+        ],
+        "DecorateGroup": [
+            133106295
+        ],
+        "NextCampId": [
+            202010002
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 26,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4260904395
+    },
+    {
+        "Id": 202011001,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108134
+        ],
+        "DecorateGroup": [
+            133108135
+        ],
+        "NextCampId": [
+            202011002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 7,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1887108987
+    },
+    {
+        "Id": 202011002,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108136
+        ],
+        "DecorateGroup": [
+            133108137
+        ],
+        "NextCampId": [
+            202011003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2543761659
+    },
+    {
+        "Id": 202011003,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108138
+        ],
+        "DecorateGroup": [
+            133108139
+        ],
+        "NextCampId": [
+            202011004
+        ],
+        "isSafe": true,
+        "FinishProgress": 4,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2626780619
+    },
+    {
+        "Id": 202011004,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133108140
+        ],
+        "DecorateGroup": [
+            133108141
+        ],
+        "NextCampId": [
+            202006001,
+            202005001
+        ],
+        "isSafe": true,
+        "FinishProgress": 7,
+        "LimitLevel": 30,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1765426739
+    },
+    {
+        "Id": 202013001,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103534
+        ],
+        "DecorateGroup": [
+            133103535
+        ],
+        "NextCampId": [
+            202013002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 28,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3755730523
+    },
+    {
+        "Id": 202013002,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103536
+        ],
+        "DecorateGroup": [
+            133103537
+        ],
+        "NextCampId": [
+            202013003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 28,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1416041795
+    },
+    {
+        "Id": 202013003,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133103538
+        ],
+        "DecorateGroup": [
+            133103539
+        ],
+        "NextCampId": [
+            202013004
+        ],
+        "isSafe": true,
+        "FinishProgress": 6,
+        "LimitLevel": 28,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3309526555
+    },
+    {
+        "Id": 202013004,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            1,
+            3
+        ],
+        "NewGroup": [
+            133106301
+        ],
+        "DecorateGroup": [
+            133106302
+        ],
+        "NextCampId": [
+            202010005,
+            202004006
+        ],
+        "isSafe": true,
+        "FinishProgress": 10,
+        "LimitLevel": 28,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1030558243
+    },
+    {
+        "Id": 101002006,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133002382
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2421918507
+    },
+    {
+        "Id": 101002007,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133002381
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1927296291
+    },
+    {
+        "Id": 101003006,
+        "CityId": 1,
+        "SectionId": 1003,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133003553
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 434850587
+    },
+    {
+        "Id": 101005006,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133003551
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4277313707
+    },
+    {
+        "Id": 101005007,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133003552
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2218423875
+    },
+    {
+        "Id": 101004005,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007253
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2232052475
+    },
+    {
+        "Id": 101004006,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007254
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1556148675
+    },
+    {
+        "Id": 101004007,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007255
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2402401731
+    },
+    {
+        "Id": 101004008,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007256
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1250228915
+    },
+    {
+        "Id": 101004009,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007257
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 442563235
+    },
+    {
+        "Id": 101004010,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007258
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3345674291
+    },
+    {
+        "Id": 101004011,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007259
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2811395699
+    },
+    {
+        "Id": 101004012,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133007260
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1274554835
+    },
+    {
+        "Id": 101007007,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133004330
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3324381867
+    },
+    {
+        "Id": 101007008,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133004325
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1339931875
+    },
+    {
+        "Id": 101007009,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133004326
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2721667411
+    },
+    {
+        "Id": 101007010,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133004327
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1003774395
+    },
+    {
+        "Id": 101007011,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133004328
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3982905635
+    },
+    {
+        "Id": 101007012,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133004329
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2952047507
+    },
+    {
+        "Id": 202004008,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133102772
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1518458395
+    },
+    {
+        "Id": 202005006,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103516
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3063995187
+    },
+    {
+        "Id": 202005007,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133101192
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3881707331
+    },
+    {
+        "Id": 202005008,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103514
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2114595363
+    },
+    {
+        "Id": 202005009,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103515
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3998488715
+    },
+    {
+        "Id": 202005010,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103517
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3793976347
+    },
+    {
+        "Id": 202005011,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103518
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4087347027
+    },
+    {
+        "Id": 202005012,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103519
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4834619
+    },
+    {
+        "Id": 202005013,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103520
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2721170283
+    },
+    {
+        "Id": 202005014,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103521
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3057722643
+    },
+    {
+        "Id": 202005015,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103522
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3671900627
+    },
+    {
+        "Id": 202005016,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103523
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3724154755
+    },
+    {
+        "Id": 202006008,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106273
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2123247363
+    },
+    {
+        "Id": 202006009,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106274
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3914545859
+    },
+    {
+        "Id": 202006010,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106275
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1725476579
+    },
+    {
+        "Id": 202006011,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106276
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2142113915
+    },
+    {
+        "Id": 202006012,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106277
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2156092747
+    },
+    {
+        "Id": 202006013,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106278
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3595033419
+    },
+    {
+        "Id": 202006014,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106279
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 963448179
+    },
+    {
+        "Id": 202006015,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133106280
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3015765723
+    },
+    {
+        "Id": 202010006,
+        "CityId": 2,
+        "SectionId": 2010,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133104625
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4011119627
+    },
+    {
+        "Id": 202011005,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133108117
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1755298571
+    },
+    {
+        "Id": 202011006,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133108120
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2950755179
+    },
+    {
+        "Id": 202011007,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133108118
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3709979323
+    },
+    {
+        "Id": 202011008,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133108119
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 5,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2196057611
+    },
+    {
+        "Id": 202012001,
+        "CityId": 2,
+        "SectionId": 2012,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133107103
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 423576851
+    },
+    {
+        "Id": 202012002,
+        "CityId": 2,
+        "SectionId": 2012,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133107102
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1662571699
+    },
+    {
+        "Id": 202013005,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103524
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2620455427
+    },
+    {
+        "Id": 202013006,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            5
+        ],
+        "NewGroup": [
+            133103525
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 4,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3012044507
+    },
+    {
+        "Id": 101002008,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133002379
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 586694683
+    },
+    {
+        "Id": 101002009,
+        "CityId": 1,
+        "SectionId": 1002,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133002380
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3568334187
+    },
+    {
+        "Id": 101003007,
+        "CityId": 1,
+        "SectionId": 1003,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133003547
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1371431907
+    },
+    {
+        "Id": 101005008,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133003545
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 658354739
+    },
+    {
+        "Id": 101005009,
+        "CityId": 1,
+        "SectionId": 1005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133003546
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2511257139
+    },
+    {
+        "Id": 101004013,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007245
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2330973539
+    },
+    {
+        "Id": 101004014,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007246
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3127369859
+    },
+    {
+        "Id": 101004015,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007247
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 818754139
+    },
+    {
+        "Id": 101004016,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007248
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1324518507
+    },
+    {
+        "Id": 101004017,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007249
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1393638875
+    },
+    {
+        "Id": 101004018,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007250
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 297295707
+    },
+    {
+        "Id": 101004019,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007251
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 401648907
+    },
+    {
+        "Id": 101004020,
+        "CityId": 1,
+        "SectionId": 1004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133007252
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 18,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2089028851
+    },
+    {
+        "Id": 101007013,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133004321
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3610874723
+    },
+    {
+        "Id": 101007014,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133004322
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 618385363
+    },
+    {
+        "Id": 101007015,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133004316
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2363748083
+    },
+    {
+        "Id": 101007016,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133004317
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2604983331
+    },
+    {
+        "Id": 101007017,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133004320
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 963580755
+    },
+    {
+        "Id": 101007018,
+        "CityId": 1,
+        "SectionId": 1007,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133004323
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1771324011
+    },
+    {
+        "Id": 202004009,
+        "CityId": 2,
+        "SectionId": 2004,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133102766
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1029177195
+    },
+    {
+        "Id": 202005017,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133101191
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 687550955
+    },
+    {
+        "Id": 202005018,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103502
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1340290187
+    },
+    {
+        "Id": 202005019,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103503
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1092757891
+    },
+    {
+        "Id": 202005020,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103504
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 908938715
+    },
+    {
+        "Id": 202005021,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103505
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3938621683
+    },
+    {
+        "Id": 202005022,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103506
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1439352171
+    },
+    {
+        "Id": 202005023,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103507
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3451331779
+    },
+    {
+        "Id": 202005024,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103508
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 731333787
+    },
+    {
+        "Id": 202005025,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103509
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2505160067
+    },
+    {
+        "Id": 202005026,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103510
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1048816675
+    },
+    {
+        "Id": 202005027,
+        "CityId": 2,
+        "SectionId": 2005,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103511
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1217202683
+    },
+    {
+        "Id": 202006016,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106265
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2573884771
+    },
+    {
+        "Id": 202006017,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106266
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1165355363
+    },
+    {
+        "Id": 202006018,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106267
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1709991691
+    },
+    {
+        "Id": 202006019,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106268
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3774009739
+    },
+    {
+        "Id": 202006020,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106269
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 506139323
+    },
+    {
+        "Id": 202006021,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106270
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2764082275
+    },
+    {
+        "Id": 202006022,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106271
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2498222835
+    },
+    {
+        "Id": 202006023,
+        "CityId": 2,
+        "SectionId": 2006,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133106272
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2155558899
+    },
+    {
+        "Id": 202010007,
+        "CityId": 2,
+        "SectionId": 2010,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133104624
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3538551315
+    },
+    {
+        "Id": 202011009,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133108113
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1721681779
+    },
+    {
+        "Id": 202011010,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133108114
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 185011219
+    },
+    {
+        "Id": 202011011,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133108115
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3354520643
+    },
+    {
+        "Id": 202011012,
+        "CityId": 2,
+        "SectionId": 2011,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133108116
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 798444219
+    },
+    {
+        "Id": 202012003,
+        "CityId": 2,
+        "SectionId": 2012,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133107100
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 740273091
+    },
+    {
+        "Id": 202012004,
+        "CityId": 2,
+        "SectionId": 2012,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133107101
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1138442779
+    },
+    {
+        "Id": 202013007,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103512
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1566417659
+    },
+    {
+        "Id": 202013008,
+        "CityId": 2,
+        "SectionId": 2013,
+        "RefreshType": [
+            4
+        ],
+        "NewGroup": [
+            133103513
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 2,
+        "LimitLevel": 2,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3627099187
+    }
+]

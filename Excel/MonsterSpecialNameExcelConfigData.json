@@ -1,0 +1,2237 @@
+[
+    {
+        "SpecialNameId": 10001,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1089537347,
+        "Desc": "凯亚线遗迹守卫-精英"
+    },
+    {
+        "SpecialNameId": 10002,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 564266259,
+        "Desc": "丽莎线深渊法师-精英"
+    },
+    {
+        "SpecialNameId": 10003,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 3288416043,
+        "Desc": "迪卢克线深渊法师-精英"
+    },
+    {
+        "SpecialNameId": 10004,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 2844128259,
+        "Desc": "琴线深渊法师-精英"
+    },
+    {
+        "SpecialNameId": 10005,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 378458627,
+        "Desc": "香菱线冰史莱姆-精英"
+    },
+    {
+        "SpecialNameId": 10006,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 2712771371,
+        "Desc": "行秋线债务处理人-精英"
+    },
+    {
+        "SpecialNameId": 10007,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1178312411,
+        "Desc": "龙泪遗迹守卫-精英"
+    },
+    {
+        "SpecialNameId": 10008,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 2722106131,
+        "Desc": "大树狂风之核-精英"
+    },
+    {
+        "SpecialNameId": 10009,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 2772614379,
+        "Desc": "璃月小冥附体遗迹猎者"
+    },
+    {
+        "SpecialNameId": 10010,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1993321435,
+        "Desc": "愚人众本债务处理人-精英"
+    },
+    {
+        "SpecialNameId": 10011,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1344584211,
+        "Desc": "「溜溜」"
+    },
+    {
+        "SpecialNameId": 10012,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1943766435,
+        "Desc": "「怪鸟」"
+    },
+    {
+        "SpecialNameId": 10013,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 678158875,
+        "Desc": "「卡门」"
+    },
+    {
+        "SpecialNameId": 10014,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1502307283,
+        "Desc": "「大姐头」"
+    },
+    {
+        "SpecialNameId": 10015,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 376010587,
+        "Desc": "轻策后山BOSS纯水精灵"
+    },
+    {
+        "SpecialNameId": 10016,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1330142867,
+        "Desc": "香菱线急冻树-精英"
+    },
+    {
+        "SpecialNameId": 10017,
+        "SpecialNameLabId": 10002,
+        "SpecialNameTextMapHash": 3988498339,
+        "Desc": "钟离线债务处理人-精英"
+    },
+    {
+        "SpecialNameId": 1,
+        "SpecialNameLabId": 101,
+        "SpecialNameTextMapHash": 4062975699,
+        "Desc": "风龙一阶段"
+    },
+    {
+        "SpecialNameId": 2,
+        "SpecialNameLabId": 101,
+        "SpecialNameTextMapHash": 1724044331,
+        "Desc": "风龙三阶段"
+    },
+    {
+        "SpecialNameId": 3,
+        "SpecialNameLabId": 111,
+        "SpecialNameTextMapHash": 1000258419,
+        "Desc": "北风狼剧情战"
+    },
+    {
+        "SpecialNameId": 4,
+        "SpecialNameLabId": 111,
+        "SpecialNameTextMapHash": 1612568107,
+        "Desc": "北风狼循环"
+    },
+    {
+        "SpecialNameId": 5,
+        "SpecialNameLabId": 121,
+        "SpecialNameTextMapHash": 2940212811,
+        "Desc": "公子boss战"
+    },
+    {
+        "SpecialNameId": 6,
+        "SpecialNameLabId": 131,
+        "SpecialNameTextMapHash": 572765283,
+        "Desc": "若陀龙王循环"
+    },
+    {
+        "SpecialNameId": 7,
+        "SpecialNameLabId": 1001,
+        "SpecialNameTextMapHash": 617213355,
+        "Desc": "史莱姆大类"
+    },
+    {
+        "SpecialNameId": 8,
+        "SpecialNameLabId": 1101,
+        "SpecialNameTextMapHash": 2855142123,
+        "Desc": "雷萤"
+    },
+    {
+        "SpecialNameId": 9,
+        "SpecialNameLabId": 1102,
+        "SpecialNameTextMapHash": 1626085219,
+        "Desc": "水萤"
+    },
+    {
+        "SpecialNameId": 10,
+        "SpecialNameLabId": 1201,
+        "SpecialNameTextMapHash": 3874109091,
+        "Desc": "元素核大类"
+    },
+    {
+        "SpecialNameId": 11,
+        "SpecialNameLabId": 2101,
+        "SpecialNameTextMapHash": 1946785603,
+        "Desc": "骗骗花"
+    },
+    {
+        "SpecialNameId": 12,
+        "SpecialNameLabId": 2111,
+        "SpecialNameTextMapHash": 467777371,
+        "IsInRandomList": true,
+        "Desc": "急冻树"
+    },
+    {
+        "SpecialNameId": 13,
+        "SpecialNameLabId": 2111,
+        "SpecialNameTextMapHash": 3135328947,
+        "IsInRandomList": true,
+        "Desc": "急冻树"
+    },
+    {
+        "SpecialNameId": 14,
+        "SpecialNameLabId": 2111,
+        "SpecialNameTextMapHash": 2592237859,
+        "IsInRandomList": true,
+        "Desc": "急冻树"
+    },
+    {
+        "SpecialNameId": 15,
+        "SpecialNameLabId": 2112,
+        "SpecialNameTextMapHash": 3046711699,
+        "IsInRandomList": true,
+        "Desc": "爆炎树"
+    },
+    {
+        "SpecialNameId": 16,
+        "SpecialNameLabId": 2112,
+        "SpecialNameTextMapHash": 67498395,
+        "IsInRandomList": true,
+        "Desc": "爆炎树"
+    },
+    {
+        "SpecialNameId": 17,
+        "SpecialNameLabId": 2112,
+        "SpecialNameTextMapHash": 65510987,
+        "IsInRandomList": true,
+        "Desc": "爆炎树"
+    },
+    {
+        "SpecialNameId": 18,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 2151617227,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 19,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 3209547771,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 20,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 2231214643,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 21,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 1906251195,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 22,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 2151247163,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 23,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 2627958291,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 24,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 2106705019,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 25,
+        "SpecialNameLabId": 2201,
+        "SpecialNameTextMapHash": 3864507107,
+        "IsInRandomList": true,
+        "Desc": "一般纯水精灵"
+    },
+    {
+        "SpecialNameId": 26,
+        "SpecialNameLabId": 2221,
+        "SpecialNameTextMapHash": 2542694323,
+        "Desc": "纯水小动物"
+    },
+    {
+        "SpecialNameId": 27,
+        "SpecialNameLabId": 2001,
+        "SpecialNameTextMapHash": 539246515,
+        "Desc": "无相之雷"
+    },
+    {
+        "SpecialNameId": 28,
+        "SpecialNameLabId": 2002,
+        "SpecialNameTextMapHash": 2729491683,
+        "Desc": "无相之风"
+    },
+    {
+        "SpecialNameId": 29,
+        "SpecialNameLabId": 2003,
+        "SpecialNameTextMapHash": 3771175267,
+        "Desc": "无相之岩"
+    },
+    {
+        "SpecialNameId": 30,
+        "SpecialNameLabId": 3001,
+        "SpecialNameTextMapHash": 3855397763,
+        "Desc": "丘丘人大类"
+    },
+    {
+        "SpecialNameId": 31,
+        "SpecialNameLabId": 3090,
+        "SpecialNameTextMapHash": 1080741507,
+        "Desc": "奇怪的丘丘人"
+    },
+    {
+        "SpecialNameId": 32,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 2492542283,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 33,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 256404035,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 34,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 2406381883,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 35,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 247715563,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 36,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3768187379,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 37,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 4127688579,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 38,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 794025939,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 39,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3238104987,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 40,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 316402003,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 41,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 137678283,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 42,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3549430267,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 43,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 108061147,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 44,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 1236351611,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 45,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3397055699,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 46,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3649794555,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 47,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 8628931,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 48,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 188568019,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 49,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3295376195,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 50,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 4274473139,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 51,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3130515939,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 52,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3573080843,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 53,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 897064099,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 54,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 1929815635,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 55,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 1952302779,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 56,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 1719411107,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 57,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 20812355,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 58,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 2366661875,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 59,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 4285104027,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 60,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 3048241795,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 61,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 2277355107,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 62,
+        "SpecialNameLabId": 3101,
+        "SpecialNameTextMapHash": 1282058739,
+        "IsInRandomList": true,
+        "Desc": "暴徒系"
+    },
+    {
+        "SpecialNameId": 63,
+        "SpecialNameLabId": 3111,
+        "SpecialNameTextMapHash": 922157627,
+        "Desc": "丘丘岩盔王"
+    },
+    {
+        "SpecialNameId": 64,
+        "SpecialNameLabId": 3201,
+        "SpecialNameTextMapHash": 3955984403,
+        "IsInRandomList": true,
+        "Desc": "水丘丘萨满"
+    },
+    {
+        "SpecialNameId": 65,
+        "SpecialNameLabId": 3201,
+        "SpecialNameTextMapHash": 101816611,
+        "IsInRandomList": true,
+        "Desc": "水丘丘萨满"
+    },
+    {
+        "SpecialNameId": 66,
+        "SpecialNameLabId": 3201,
+        "SpecialNameTextMapHash": 4151279003,
+        "IsInRandomList": true,
+        "Desc": "水丘丘萨满"
+    },
+    {
+        "SpecialNameId": 67,
+        "SpecialNameLabId": 3201,
+        "SpecialNameTextMapHash": 4293271667,
+        "IsInRandomList": true,
+        "Desc": "水丘丘萨满"
+    },
+    {
+        "SpecialNameId": 68,
+        "SpecialNameLabId": 3201,
+        "SpecialNameTextMapHash": 3021847539,
+        "IsInRandomList": true,
+        "Desc": "水丘丘萨满"
+    },
+    {
+        "SpecialNameId": 69,
+        "SpecialNameLabId": 3201,
+        "SpecialNameTextMapHash": 2586054603,
+        "IsInRandomList": true,
+        "Desc": "水丘丘萨满"
+    },
+    {
+        "SpecialNameId": 70,
+        "SpecialNameLabId": 3202,
+        "SpecialNameTextMapHash": 2296461899,
+        "IsInRandomList": true,
+        "Desc": "草丘丘萨满"
+    },
+    {
+        "SpecialNameId": 71,
+        "SpecialNameLabId": 3202,
+        "SpecialNameTextMapHash": 4269896651,
+        "IsInRandomList": true,
+        "Desc": "草丘丘萨满"
+    },
+    {
+        "SpecialNameId": 72,
+        "SpecialNameLabId": 3202,
+        "SpecialNameTextMapHash": 3623240715,
+        "IsInRandomList": true,
+        "Desc": "草丘丘萨满"
+    },
+    {
+        "SpecialNameId": 73,
+        "SpecialNameLabId": 3202,
+        "SpecialNameTextMapHash": 2586650579,
+        "IsInRandomList": true,
+        "Desc": "草丘丘萨满"
+    },
+    {
+        "SpecialNameId": 74,
+        "SpecialNameLabId": 3202,
+        "SpecialNameTextMapHash": 1582329691,
+        "IsInRandomList": true,
+        "Desc": "草丘丘萨满"
+    },
+    {
+        "SpecialNameId": 75,
+        "SpecialNameLabId": 3202,
+        "SpecialNameTextMapHash": 307162011,
+        "IsInRandomList": true,
+        "Desc": "草丘丘萨满"
+    },
+    {
+        "SpecialNameId": 76,
+        "SpecialNameLabId": 3202,
+        "SpecialNameTextMapHash": 4082492323,
+        "IsInRandomList": true,
+        "Desc": "草丘丘萨满"
+    },
+    {
+        "SpecialNameId": 77,
+        "SpecialNameLabId": 3203,
+        "SpecialNameTextMapHash": 572719043,
+        "IsInRandomList": true,
+        "Desc": "风丘丘萨满"
+    },
+    {
+        "SpecialNameId": 78,
+        "SpecialNameLabId": 3203,
+        "SpecialNameTextMapHash": 227155203,
+        "IsInRandomList": true,
+        "Desc": "风丘丘萨满"
+    },
+    {
+        "SpecialNameId": 79,
+        "SpecialNameLabId": 3203,
+        "SpecialNameTextMapHash": 31969859,
+        "IsInRandomList": true,
+        "Desc": "风丘丘萨满"
+    },
+    {
+        "SpecialNameId": 80,
+        "SpecialNameLabId": 3203,
+        "SpecialNameTextMapHash": 2917219843,
+        "IsInRandomList": true,
+        "Desc": "风丘丘萨满"
+    },
+    {
+        "SpecialNameId": 81,
+        "SpecialNameLabId": 3203,
+        "SpecialNameTextMapHash": 838796595,
+        "IsInRandomList": true,
+        "Desc": "风丘丘萨满"
+    },
+    {
+        "SpecialNameId": 82,
+        "SpecialNameLabId": 3203,
+        "SpecialNameTextMapHash": 3712966635,
+        "IsInRandomList": true,
+        "Desc": "风丘丘萨满"
+    },
+    {
+        "SpecialNameId": 83,
+        "SpecialNameLabId": 3203,
+        "SpecialNameTextMapHash": 1750753243,
+        "IsInRandomList": true,
+        "Desc": "风丘丘萨满"
+    },
+    {
+        "SpecialNameId": 84,
+        "SpecialNameLabId": 3204,
+        "SpecialNameTextMapHash": 4121124547,
+        "IsInRandomList": true,
+        "Desc": "岩丘丘萨满"
+    },
+    {
+        "SpecialNameId": 85,
+        "SpecialNameLabId": 3204,
+        "SpecialNameTextMapHash": 2915191667,
+        "IsInRandomList": true,
+        "Desc": "岩丘丘萨满"
+    },
+    {
+        "SpecialNameId": 86,
+        "SpecialNameLabId": 3204,
+        "SpecialNameTextMapHash": 2079635475,
+        "IsInRandomList": true,
+        "Desc": "岩丘丘萨满"
+    },
+    {
+        "SpecialNameId": 87,
+        "SpecialNameLabId": 3204,
+        "SpecialNameTextMapHash": 875232723,
+        "IsInRandomList": true,
+        "Desc": "岩丘丘萨满"
+    },
+    {
+        "SpecialNameId": 88,
+        "SpecialNameLabId": 3204,
+        "SpecialNameTextMapHash": 3315467603,
+        "IsInRandomList": true,
+        "Desc": "岩丘丘萨满"
+    },
+    {
+        "SpecialNameId": 89,
+        "SpecialNameLabId": 3204,
+        "SpecialNameTextMapHash": 1940944331,
+        "IsInRandomList": true,
+        "Desc": "岩丘丘萨满"
+    },
+    {
+        "SpecialNameId": 90,
+        "SpecialNameLabId": 3204,
+        "SpecialNameTextMapHash": 61870163,
+        "IsInRandomList": true,
+        "Desc": "岩丘丘萨满"
+    },
+    {
+        "SpecialNameId": 91,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 1105665275,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 92,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2653739147,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 93,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 62341331,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 94,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 134542315,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 95,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 481715523,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 96,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 449555291,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 97,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 3439740467,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 98,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 222897059,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 99,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 3111537851,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 100,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2586737091,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 101,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 1444497723,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 102,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 1737144947,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 103,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 1803544411,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 104,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2783691491,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 105,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2961856843,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 106,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 1448072715,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 107,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 411807211,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 108,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2049434883,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 109,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2723704427,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 110,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 602811035,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 111,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 296917443,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 112,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 225429483,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 113,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 136438971,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 114,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 1923733187,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 115,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 3872302931,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 116,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2433539451,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 117,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 3835453851,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 118,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 2922938171,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 119,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 797903003,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 120,
+        "SpecialNameLabId": 4001,
+        "SpecialNameTextMapHash": 3520932811,
+        "IsInRandomList": true,
+        "Desc": "深渊法师大类"
+    },
+    {
+        "SpecialNameId": 121,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 2771917979,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 122,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 2332558739,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 123,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1538861923,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 124,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3852144443,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 125,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1173365963,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 126,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3400969691,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 127,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 2057000043,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 128,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 324608587,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 129,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 2265494331,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 130,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 2206711811,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 131,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3355638099,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 132,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1950942419,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 133,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1588536467,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 134,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3658756411,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 135,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1578288027,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 136,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1351184555,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 137,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3145444651,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 138,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 2087314251,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 139,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3262654147,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 140,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1653884011,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 141,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3566410387,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 142,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1481463283,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 143,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3524228283,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 144,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3025623787,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 145,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3724754891,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 146,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3074447363,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 147,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 928900971,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 148,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1415962595,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 149,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1221347243,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 150,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1162855955,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 151,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 3291137051,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 152,
+        "SpecialNameLabId": 5001,
+        "SpecialNameTextMapHash": 1197006875,
+        "IsInRandomList": true,
+        "Desc": "愚人众男（先遣队+债务处理人）"
+    },
+    {
+        "SpecialNameId": 153,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1379042899,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 154,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1961362435,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 155,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2556454651,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 156,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 3461363571,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 157,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2800498259,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 158,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 3080135339,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 159,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 3573524467,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 160,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 3316531795,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 161,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1674037587,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 162,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2170229243,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 163,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2405663203,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 164,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 770600819,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 165,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 3534491691,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 166,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 680894755,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 167,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1687718259,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 168,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 4276578603,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 169,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1007831283,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 170,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1794640187,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 171,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1232224363,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 172,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1765425227,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 173,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1572680803,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 174,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 3728828691,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 175,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2911625091,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 176,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2549588523,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 177,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2552691043,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 178,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1877797955,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 179,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 2302369579,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 180,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 1382022883,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 181,
+        "SpecialNameLabId": 5002,
+        "SpecialNameTextMapHash": 106260659,
+        "IsInRandomList": true,
+        "Desc": "愚人众女（萤术士）"
+    },
+    {
+        "SpecialNameId": 182,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3481116843,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 183,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 2568556115,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 184,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 432740203,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 185,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 109668411,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 186,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3701375843,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 187,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3588647627,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 188,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 1924745819,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 189,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 4188648667,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 190,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 431687147,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 191,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 1189641435,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 192,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3870107875,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 193,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 4123022795,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 194,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3970222683,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 195,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 2167754555,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 196,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 1951000547,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 197,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3841999875,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 198,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3253956347,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 199,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3442531251,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 200,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 1825978451,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 201,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 312695115,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 202,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 2404620467,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 203,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 4214526155,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 204,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3499327523,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 205,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 4029220363,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 206,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 562003547,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 207,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3059210563,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 208,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 3384490539,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 209,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 493971835,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 210,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 883584835,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 211,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 71562875,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 212,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 86547307,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 213,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 2555608451,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 214,
+        "SpecialNameLabId": 6001,
+        "SpecialNameTextMapHash": 4188804211,
+        "IsInRandomList": true,
+        "Desc": "遗迹守卫"
+    },
+    {
+        "SpecialNameId": 215,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 2180951787,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 216,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 313727011,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 217,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 3819482835,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 218,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 76518611,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 219,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 2607251395,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 220,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 3009839731,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 221,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 2749731915,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 222,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1264859347,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 223,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1678342227,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 224,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1470100683,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 225,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1180176859,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 226,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 3605039691,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 227,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 148414523,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 228,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1467755491,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 229,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1015007427,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 230,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 3402447715,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 231,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 185096603,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 232,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 3096311859,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 233,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 2954955003,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 234,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 2268112115,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 235,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 2095172131,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 236,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 3309980459,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 237,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1724135691,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 238,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 604549939,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 239,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 4070165179,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 240,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 3689614011,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 241,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 2740063379,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 242,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 654882915,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 243,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 753831883,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 244,
+        "SpecialNameLabId": 6002,
+        "SpecialNameTextMapHash": 1930121099,
+        "IsInRandomList": true,
+        "Desc": "遗迹猎者"
+    },
+    {
+        "SpecialNameId": 245,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3992115979,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 246,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1223913667,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 247,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3687223859,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 248,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2555400115,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 249,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2558350779,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 250,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2245770987,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 251,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1313893571,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 252,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2824927595,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 253,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1691793747,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 254,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2073317595,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 255,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 308763307,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 256,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1192290739,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 257,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 857392643,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 258,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2307655507,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 259,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2252038099,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 260,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1754713459,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 261,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 359157891,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 262,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1808686323,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 263,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1040987883,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 264,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3727601363,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 265,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3059569091,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 266,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 376472019,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 267,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2875451531,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 268,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 399230579,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 269,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2313228707,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 270,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3428322963,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 271,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 770399099,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 272,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3411095147,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 273,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2117145163,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 274,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 2747212307,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 275,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 3288128395,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 276,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 1961233315,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 277,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 3291550459,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 278,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 4127427195,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 279,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 1487462051,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 280,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 4148092019,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 281,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 410089931,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 282,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 4165629051,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 283,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 554854899,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 284,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 1376300571,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 285,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 3721152035,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 286,
+        "SpecialNameLabId": 7005,
+        "SpecialNameTextMapHash": 1532527019,
+        "Desc": "「溜溜」"
+    },
+    {
+        "SpecialNameId": 287,
+        "SpecialNameLabId": 7006,
+        "SpecialNameTextMapHash": 3986211331,
+        "Desc": "「怪鸟」"
+    },
+    {
+        "SpecialNameId": 288,
+        "SpecialNameLabId": 7007,
+        "SpecialNameTextMapHash": 125191323,
+        "Desc": "「卡门」"
+    },
+    {
+        "SpecialNameId": 289,
+        "SpecialNameLabId": 7008,
+        "SpecialNameTextMapHash": 805016547,
+        "Desc": "「大姐头」"
+    },
+    {
+        "SpecialNameId": 290,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2442998083,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 291,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 3778961331,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 292,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 3645009099,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 293,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 503060195,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 294,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 3744272915,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 295,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2541324075,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 296,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 23259771,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 297,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2612876643,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 298,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 4057516987,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 299,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 3890994787,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 300,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 540162571,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 301,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2907690283,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 302,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2587955875,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 303,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2357508067,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 304,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 4240770739,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 305,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 1980753299,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 306,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2502185643,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 307,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 1414786611,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 308,
+        "SpecialNameLabId": 8001,
+        "SpecialNameTextMapHash": 2789145691,
+        "Desc": "幼岩龙蜥"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "MaterialId": 220001,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            3629774591,
+            871310425,
+            2088703939
+        ]
+    },
+    {
+        "MaterialId": 220002,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            2560125751,
+            1328641489,
+            908601947
+        ]
+    },
+    {
+        "MaterialId": 220003,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            3912737791,
+            1994584561,
+            1902183123
+        ]
+    },
+    {
+        "MaterialId": 220004,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            2585787631,
+            3772038129,
+            3898309475
+        ]
+    },
+    {
+        "MaterialId": 220005,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            3230239311,
+            470813393,
+            2996411075
+        ]
+    },
+    {
+        "MaterialId": 220006,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            1232107607,
+            160823129,
+            353373587
+        ]
+    },
+    {
+        "MaterialId": 220007,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            1442469735,
+            1002095769,
+            3249108155
+        ]
+    },
+    {
+        "MaterialId": 220008,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            1370426415,
+            3930082457,
+            3695954083
+        ]
+    },
+    {
+        "MaterialId": 220009,
+        "JsonAddr": "ConfigWidget",
+        "CustomizeDesc": [
+            949776055,
+            1126483025,
+            1853042083
+        ]
+    }
+]

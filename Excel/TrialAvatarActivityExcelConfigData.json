@@ -1,0 +1,42 @@
+[
+    {
+        "ScheduleId": 5002001,
+        "AvatarIndexId": [
+            1,
+            2,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002002,
+        "AvatarIndexId": [
+            4,
+            5,
+            6,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002003,
+        "AvatarIndexId": [
+            7,
+            12,
+            9,
+            13,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002004,
+        "AvatarIndexId": [
+            11,
+            8,
+            14,
+            10,
+            0
+        ]
+    }
+]

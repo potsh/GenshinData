@@ -1,0 +1,288 @@
+[
+    {
+        "Id": 1001,
+        "BeginQuestId": 36301,
+        "EndQuestId": 31101,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 988762,
+        "ChapterTitleTextMapHash": 4069654401,
+        "ChapterIcon": "UI_ChapterIcon_Mengde"
+    },
+    {
+        "Id": 1002,
+        "BeginQuestId": 37004,
+        "EndQuestId": 38406,
+        "NeedPlayerLevel": 10,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1710050402,
+        "ChapterTitleTextMapHash": 3129506201,
+        "ChapterIcon": "UI_ChapterIcon_Mengde"
+    },
+    {
+        "Id": 1003,
+        "BeginQuestId": 39705,
+        "EndQuestId": 39604,
+        "NeedPlayerLevel": 18,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1351210938,
+        "ChapterTitleTextMapHash": 44670081,
+        "ChapterIcon": "UI_ChapterIcon_Mengde"
+    },
+    {
+        "Id": 1101,
+        "BeginQuestId": 100002,
+        "EndQuestId": 101801,
+        "NeedPlayerLevel": 23,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3223313530,
+        "ChapterTitleTextMapHash": 67026961,
+        "ChapterIcon": "UI_ChapterIcon_Liyue"
+    },
+    {
+        "Id": 1102,
+        "BeginQuestId": 101003,
+        "EndQuestId": 101609,
+        "NeedPlayerLevel": 29,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1139438706,
+        "ChapterTitleTextMapHash": 4011295353,
+        "ChapterIcon": "UI_ChapterIcon_Liyue"
+    },
+    {
+        "Id": 1103,
+        "BeginQuestId": 102001,
+        "EndQuestId": 102510,
+        "NeedPlayerLevel": 35,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 4237882338,
+        "ChapterTitleTextMapHash": 2560408425,
+        "ChapterIcon": "UI_ChapterIcon_Liyue"
+    },
+    {
+        "Id": 2001,
+        "BeginQuestId": 46102,
+        "EndQuestId": 46308,
+        "NeedPlayerLevel": 5,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3694513970,
+        "ChapterTitleTextMapHash": 3950688921,
+        "ChapterIcon": "UI_ChapterIcon_Kaeya"
+    },
+    {
+        "Id": 2002,
+        "BeginQuestId": 46402,
+        "EndQuestId": 46618,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 891158450,
+        "ChapterTitleTextMapHash": 4211238633,
+        "ChapterIcon": "UI_ChapterIcon_Diluc"
+    },
+    {
+        "Id": 2003,
+        "BeginQuestId": 48005,
+        "EndQuestId": 48508,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 2549585010,
+        "ChapterTitleTextMapHash": 236638609,
+        "ChapterIcon": "UI_ChapterIcon_Ambor"
+    },
+    {
+        "Id": 2004,
+        "BeginQuestId": 1010003,
+        "EndQuestId": 1010115,
+        "NeedPlayerLevel": 15,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1330034362,
+        "ChapterTitleTextMapHash": 1397382665,
+        "ChapterIcon": "UI_ChapterIcon_Lisa"
+    },
+    {
+        "Id": 2005,
+        "BeginQuestId": 45201,
+        "EndQuestId": 45406,
+        "NeedPlayerLevel": 21,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 321276090,
+        "ChapterTitleTextMapHash": 2820941721,
+        "ChapterIcon": "UI_ChapterIcon_Razor"
+    },
+    {
+        "Id": 2006,
+        "BeginQuestId": 49201,
+        "EndQuestId": 49010,
+        "NeedPlayerLevel": 34,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3772483250,
+        "ChapterTitleTextMapHash": 3810796281,
+        "ChapterIcon": "UI_ChapterIcon_QIN"
+    },
+    {
+        "Id": 2007,
+        "BeginQuestId": 1100004,
+        "EndQuestId": 1100519,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3280433778,
+        "ChapterTitleTextMapHash": 3520529961,
+        "ChapterIcon": "UI_ChapterIcon_Xiangling"
+    },
+    {
+        "Id": 2008,
+        "BeginQuestId": 1200004,
+        "EndQuestId": 1200309,
+        "NeedPlayerLevel": 26,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3772725386,
+        "ChapterTitleTextMapHash": 4195810105,
+        "ChapterIcon": "UI_ChapterIcon_Xingqiu"
+    },
+    {
+        "Id": 2009,
+        "BeginQuestId": 1020003,
+        "EndQuestId": 1020204,
+        "NeedPlayerLevel": 32,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 2625440658,
+        "ChapterTitleTextMapHash": 179483225,
+        "ChapterIcon": "UI_ChapterIcon_Klee"
+    },
+    {
+        "Id": 2010,
+        "BeginQuestId": 1050003,
+        "EndQuestId": 1050211,
+        "NeedPlayerLevel": 38,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 783751250,
+        "ChapterTitleTextMapHash": 3649072753,
+        "ChapterIcon": "UI_ChapterIcon_Mona"
+    },
+    {
+        "Id": 2011,
+        "BeginQuestId": 1110009,
+        "EndQuestId": 1110311,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 183311346,
+        "ChapterTitleTextMapHash": 3497614889,
+        "ChapterIcon": ""
+    },
+    {
+        "Id": 2012,
+        "BeginQuestId": 1101002,
+        "EndQuestId": 1101215,
+        "NeedPlayerLevel": 40,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 230742578,
+        "ChapterTitleTextMapHash": 3989104777,
+        "ChapterIcon": "UI_ChapterIcon_Tartaglia"
+    },
+    {
+        "Id": 2013,
+        "BeginQuestId": 1011002,
+        "EndQuestId": 1011306,
+        "NeedPlayerLevel": 36,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 2525154890,
+        "ChapterTitleTextMapHash": 3828791785,
+        "ChapterIcon": "UI_ChapterIcon_Venti"
+    },
+    {
+        "Id": 2014,
+        "BeginQuestId": 1102003,
+        "EndQuestId": 1102402,
+        "NeedPlayerLevel": 40,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1378897258,
+        "ChapterTitleTextMapHash": 3812225521,
+        "ChapterIcon": "UI_ChapterIcon_Zhongli"
+    },
+    {
+        "Id": 2015,
+        "BeginQuestId": 1120001,
+        "EndQuestId": 1120212,
+        "NeedPlayerLevel": 40,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 2596271714,
+        "ChapterTitleTextMapHash": 2545561921,
+        "ChapterIcon": "UI_ChapterIcon_Qiqi"
+    },
+    {
+        "Id": 10001,
+        "BeginQuestId": 4000100,
+        "EndQuestId": 4000108,
+        "NeedBeginTimeStr": "2020-04-03 04:00:00",
+        "ChapterNumTextMapHash": 3707914362,
+        "ChapterTitleTextMapHash": 2351114737,
+        "ChapterIcon": ""
+    },
+    {
+        "Id": 10002,
+        "BeginQuestId": 4000201,
+        "EndQuestId": 4000215,
+        "NeedBeginTimeStr": "2020-04-04 04:00:00",
+        "ChapterNumTextMapHash": 3179845746,
+        "ChapterTitleTextMapHash": 2243104193,
+        "ChapterIcon": ""
+    },
+    {
+        "Id": 10003,
+        "BeginQuestId": 4000301,
+        "EndQuestId": 4000309,
+        "NeedBeginTimeStr": "2020-04-05 04:00:00",
+        "ChapterNumTextMapHash": 2109240410,
+        "ChapterTitleTextMapHash": 3763282217,
+        "ChapterIcon": ""
+    },
+    {
+        "Id": 10004,
+        "BeginQuestId": 4000400,
+        "EndQuestId": 4000408,
+        "NeedBeginTimeStr": "2020-04-06 04:00:00",
+        "ChapterNumTextMapHash": 4233067770,
+        "ChapterTitleTextMapHash": 522380937,
+        "ChapterIcon": ""
+    },
+    {
+        "Id": 10005,
+        "BeginQuestId": 4000500,
+        "EndQuestId": 4000506,
+        "NeedBeginTimeStr": "2020-04-07 04:00:00",
+        "ChapterNumTextMapHash": 2859738354,
+        "ChapterTitleTextMapHash": 645516305,
+        "ChapterIcon": ""
+    },
+    {
+        "Id": 10006,
+        "BeginQuestId": 4111104,
+        "EndQuestId": 4111114,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 206978178,
+        "ChapterTitleTextMapHash": 1327877745,
+        "ChapterIcon": "UI_ChapterIcon_Aster"
+    },
+    {
+        "Id": 10007,
+        "BeginQuestId": 4111200,
+        "EndQuestId": 4111213,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 183128810,
+        "ChapterTitleTextMapHash": 2709107769,
+        "ChapterIcon": "UI_ChapterIcon_Aster"
+    },
+    {
+        "Id": 10008,
+        "BeginQuestId": 4111301,
+        "EndQuestId": 4111309,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3016754434,
+        "ChapterTitleTextMapHash": 825115649,
+        "ChapterIcon": "UI_ChapterIcon_Aster"
+    },
+    {
+        "Id": 10009,
+        "BeginQuestId": 4111401,
+        "EndQuestId": 4111416,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 569072066,
+        "ChapterTitleTextMapHash": 2184028489,
+        "ChapterIcon": "UI_ChapterIcon_Aster"
+    }
+]

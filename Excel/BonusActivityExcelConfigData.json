@@ -1,0 +1,71 @@
+[
+    {
+        "BonusActivityId": 1,
+        "Cond": [
+            {
+                "CondType": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "WatcherId": 50001,
+        "RewardItem": [
+            {
+                "Id": 1023,
+                "Count": 1
+            },
+            {}
+        ],
+        "Id": 50001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
+            "Param": [
+                "3",
+                "3"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "BonusActivityId": 2,
+        "Cond": [
+            {
+                "CondType": "SIGN_IN_COND_PLAYER_LEVEL",
+                "Param": [
+                    20,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "RewardItem": [
+            {
+                "Id": 1014,
+                "Count": 1
+            },
+            {}
+        ],
+        "Id": 50002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_OR",
+            "Param": [
+                "39405",
+                ""
+            ]
+        },
+        "Progress": 1
+    }
+]

@@ -1,0 +1,784 @@
+[
+    {
+        "Id": 20010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 101,
+        "SortOrder": 1
+    },
+    {
+        "Id": 20010201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 102,
+        "SortOrder": 2
+    },
+    {
+        "Id": 20010301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 103,
+        "SortOrder": 3
+    },
+    {
+        "Id": 20010401,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 104,
+        "SortOrder": 4
+    },
+    {
+        "Id": 20010501,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 105,
+        "SortOrder": 5
+    },
+    {
+        "Id": 20010601,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 106,
+        "SortOrder": 6
+    },
+    {
+        "Id": 20010701,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 107,
+        "SortOrder": 7
+    },
+    {
+        "Id": 20010801,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 108,
+        "SortOrder": 8
+    },
+    {
+        "Id": 20010901,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 109,
+        "SortOrder": 9
+    },
+    {
+        "Id": 20011001,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 110,
+        "SortOrder": 10
+    },
+    {
+        "Id": 20011101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 111,
+        "SortOrder": 11
+    },
+    {
+        "Id": 20011201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 112,
+        "SortOrder": 12
+    },
+    {
+        "Id": 20011301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 113,
+        "SortOrder": 13
+    },
+    {
+        "Id": 20011401,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 114,
+        "SortOrder": 14
+    },
+    {
+        "Id": 20011501,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 115,
+        "SortOrder": 15
+    },
+    {
+        "Id": 20020101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 201,
+        "SortOrder": 16
+    },
+    {
+        "Id": 20040101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 401,
+        "SortOrder": 17
+    },
+    {
+        "Id": 20040201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 402,
+        "SortOrder": 18
+    },
+    {
+        "Id": 20040301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 403,
+        "SortOrder": 19
+    },
+    {
+        "Id": 20050101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 501,
+        "SortOrder": 21
+    },
+    {
+        "Id": 21010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10101,
+        "SortOrder": 22
+    },
+    {
+        "Id": 21010201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10102,
+        "SortOrder": 23
+    },
+    {
+        "Id": 21010301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10103,
+        "SortOrder": 24
+    },
+    {
+        "Id": 21010401,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10104,
+        "SortOrder": 25
+    },
+    {
+        "Id": 21010501,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10105,
+        "SortOrder": 26
+    },
+    {
+        "Id": 21010601,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10106,
+        "SortOrder": 27
+    },
+    {
+        "Id": 21010701,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10107,
+        "SortOrder": 28
+    },
+    {
+        "Id": 21010901,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10109,
+        "SortOrder": 29
+    },
+    {
+        "Id": 21011001,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10110,
+        "SortOrder": 30
+    },
+    {
+        "Id": 21011201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10112,
+        "SortOrder": 31
+    },
+    {
+        "Id": 21011501,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10115,
+        "SortOrder": 34
+    },
+    {
+        "Id": 21020101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10201,
+        "SortOrder": 35
+    },
+    {
+        "Id": 21020201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10202,
+        "SortOrder": 36
+    },
+    {
+        "Id": 21020301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10203,
+        "SortOrder": 37
+    },
+    {
+        "Id": 21020401,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10204,
+        "SortOrder": 39
+    },
+    {
+        "Id": 21020501,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10205,
+        "SortOrder": 40
+    },
+    {
+        "Id": 21030101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10301,
+        "SortOrder": 41
+    },
+    {
+        "Id": 21030201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10302,
+        "SortOrder": 42
+    },
+    {
+        "Id": 21030301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10303,
+        "SortOrder": 43
+    },
+    {
+        "Id": 21030401,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 10304,
+        "SortOrder": 44
+    },
+    {
+        "Id": 22010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 20101,
+        "SortOrder": 46
+    },
+    {
+        "Id": 22010201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 20102,
+        "SortOrder": 47
+    },
+    {
+        "Id": 22010301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 20103,
+        "SortOrder": 48
+    },
+    {
+        "Id": 23010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30101,
+        "SortOrder": 49
+    },
+    {
+        "Id": 23010201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30102,
+        "SortOrder": 50
+    },
+    {
+        "Id": 23010301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30103,
+        "SortOrder": 51
+    },
+    {
+        "Id": 23010401,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30104,
+        "SortOrder": 52
+    },
+    {
+        "Id": 23010501,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30105,
+        "SortOrder": 53
+    },
+    {
+        "Id": 23010601,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30106,
+        "SortOrder": 54
+    },
+    {
+        "Id": 23020101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30201,
+        "SortOrder": 55
+    },
+    {
+        "Id": 23030101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 30301,
+        "SortOrder": 56
+    },
+    {
+        "Id": 24010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 40101,
+        "SortOrder": 58
+    },
+    {
+        "Id": 24010201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 40102,
+        "SortOrder": 59
+    },
+    {
+        "Id": 24010301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 40103,
+        "SortOrder": 60
+    },
+    {
+        "Id": 25010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50101,
+        "SortOrder": 61
+    },
+    {
+        "Id": 25010201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50102,
+        "SortOrder": 62
+    },
+    {
+        "Id": 25010301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50103,
+        "SortOrder": 63
+    },
+    {
+        "Id": 25010401,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50104,
+        "SortOrder": 64
+    },
+    {
+        "Id": 25010501,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50105,
+        "SortOrder": 65
+    },
+    {
+        "Id": 25010601,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50106,
+        "SortOrder": 66
+    },
+    {
+        "Id": 25010701,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50107,
+        "SortOrder": 67
+    },
+    {
+        "Id": 25020101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50201,
+        "SortOrder": 68
+    },
+    {
+        "Id": 25020201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50202,
+        "SortOrder": 69
+    },
+    {
+        "Id": 25030101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50301,
+        "SortOrder": 70
+    },
+    {
+        "Id": 25030201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50302,
+        "SortOrder": 71
+    },
+    {
+        "Id": 25030301,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50303,
+        "SortOrder": 72
+    },
+    {
+        "Id": 25040101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50401,
+        "SortOrder": 73
+    },
+    {
+        "Id": 25050101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50501,
+        "SortOrder": 74
+    },
+    {
+        "Id": 25050201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50502,
+        "SortOrder": 75
+    },
+    {
+        "Id": 25060101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50601,
+        "SortOrder": 76
+    },
+    {
+        "Id": 25070101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 50701,
+        "SortOrder": 77
+    },
+    {
+        "Id": 26010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 60101,
+        "SortOrder": 78
+    },
+    {
+        "Id": 26010201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 60102,
+        "SortOrder": 79
+    },
+    {
+        "Id": 26020101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 60201,
+        "SortOrder": 80
+    },
+    {
+        "Id": 26020201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 60202,
+        "SortOrder": 81
+    },
+    {
+        "Id": 26030101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 60301,
+        "SortOrder": 82
+    },
+    {
+        "Id": 26060101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 60601,
+        "SortOrder": 83
+    },
+    {
+        "Id": 26060201,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 60602,
+        "SortOrder": 84
+    },
+    {
+        "Id": 29010101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 90101,
+        "SortOrder": 86
+    },
+    {
+        "Id": 29020101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 90201,
+        "SortOrder": 87
+    },
+    {
+        "Id": 29030101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 90301,
+        "SortOrder": 88
+    },
+    {
+        "Id": 28010101,
+        "DescribeId": 28010101,
+        "SortOrder": 1001
+    },
+    {
+        "Id": 28010102,
+        "DescribeId": 28010102,
+        "SortOrder": 1002
+    },
+    {
+        "Id": 28010103,
+        "DescribeId": 28010103,
+        "SortOrder": 1003
+    },
+    {
+        "Id": 28020101,
+        "DescribeId": 28020101,
+        "SortOrder": 1004
+    },
+    {
+        "Id": 28020102,
+        "DescribeId": 28020102,
+        "SortOrder": 1005
+    },
+    {
+        "Id": 28020201,
+        "DescribeId": 28020201,
+        "SortOrder": 1006
+    },
+    {
+        "Id": 28030101,
+        "DescribeId": 28030101,
+        "SortOrder": 1007
+    },
+    {
+        "Id": 28030201,
+        "DescribeId": 28030201,
+        "SortOrder": 1008
+    },
+    {
+        "Id": 28030202,
+        "DescribeId": 28030202,
+        "SortOrder": 1009
+    },
+    {
+        "Id": 28030203,
+        "DescribeId": 28030203,
+        "SortOrder": 1010
+    },
+    {
+        "Id": 28030204,
+        "DescribeId": 28030204,
+        "SortOrder": 1011
+    },
+    {
+        "Id": 28050101,
+        "DescribeId": 28050101,
+        "SortOrder": 1012
+    },
+    {
+        "Id": 28050102,
+        "DescribeId": 28050102,
+        "SortOrder": 1013
+    },
+    {
+        "Id": 28010201,
+        "DescribeId": 28010201,
+        "SortOrder": 1015
+    },
+    {
+        "Id": 28010202,
+        "DescribeId": 28010202,
+        "SortOrder": 1016
+    },
+    {
+        "Id": 28010203,
+        "DescribeId": 28010203,
+        "SortOrder": 1017
+    },
+    {
+        "Id": 28010204,
+        "DescribeId": 28010204,
+        "SortOrder": 1018
+    },
+    {
+        "Id": 28010205,
+        "DescribeId": 28010205,
+        "SortOrder": 1019
+    },
+    {
+        "Id": 28010206,
+        "DescribeId": 28010206,
+        "SortOrder": 1020
+    },
+    {
+        "Id": 28010301,
+        "DescribeId": 28010301,
+        "SortOrder": 1021
+    },
+    {
+        "Id": 28010302,
+        "DescribeId": 28010302,
+        "SortOrder": 1022
+    },
+    {
+        "Id": 28010303,
+        "DescribeId": 28010303,
+        "SortOrder": 1023
+    },
+    {
+        "Id": 28020301,
+        "DescribeId": 28020301,
+        "SortOrder": 1024
+    },
+    {
+        "Id": 28020302,
+        "DescribeId": 28020302,
+        "SortOrder": 1025
+    },
+    {
+        "Id": 28030301,
+        "DescribeId": 28030301,
+        "SortOrder": 1028
+    },
+    {
+        "Id": 28030302,
+        "DescribeId": 28030302,
+        "SortOrder": 1029
+    },
+    {
+        "Id": 28030303,
+        "DescribeId": 28030303,
+        "SortOrder": 1030
+    },
+    {
+        "Id": 28030304,
+        "DescribeId": 28030304,
+        "SortOrder": 1031
+    },
+    {
+        "Id": 28030305,
+        "DescribeId": 28030305,
+        "SortOrder": 1032
+    },
+    {
+        "Id": 28030401,
+        "DescribeId": 28030401,
+        "SortOrder": 1033
+    },
+    {
+        "Id": 28030402,
+        "DescribeId": 28030402,
+        "SortOrder": 1034
+    },
+    {
+        "Id": 28030403,
+        "DescribeId": 28030403,
+        "SortOrder": 1035
+    },
+    {
+        "Id": 28030404,
+        "DescribeId": 28030404,
+        "SortOrder": 1036
+    },
+    {
+        "Id": 28030501,
+        "DescribeId": 28030501,
+        "SortOrder": 1037
+    },
+    {
+        "Id": 28030502,
+        "DescribeId": 28030502,
+        "SortOrder": 1038
+    },
+    {
+        "Id": 28030503,
+        "DescribeId": 28030503,
+        "SortOrder": 1039
+    },
+    {
+        "Id": 28040101,
+        "DescribeId": 28040101,
+        "SortOrder": 1040
+    },
+    {
+        "Id": 28040102,
+        "DescribeId": 28040102,
+        "SortOrder": 1041
+    },
+    {
+        "Id": 28040103,
+        "DescribeId": 28040103,
+        "SortOrder": 1042
+    },
+    {
+        "Id": 28020401,
+        "DescribeId": 28020401,
+        "IsSeenActive": true,
+        "SortOrder": 1043
+    },
+    {
+        "Id": 28020402,
+        "DescribeId": 28020402,
+        "IsSeenActive": true,
+        "SortOrder": 1044
+    },
+    {
+        "Id": 28020403,
+        "DescribeId": 28020403,
+        "IsSeenActive": true,
+        "SortOrder": 1045
+    },
+    {
+        "Id": 28020404,
+        "DescribeId": 28020404,
+        "IsSeenActive": true,
+        "SortOrder": 1046
+    },
+    {
+        "Id": 28020501,
+        "DescribeId": 28020501,
+        "IsSeenActive": true,
+        "SortOrder": 1047
+    },
+    {
+        "Id": 28020502,
+        "DescribeId": 28020502,
+        "IsSeenActive": true,
+        "SortOrder": 1048
+    },
+    {
+        "Id": 28020503,
+        "DescribeId": 28020503,
+        "IsSeenActive": true,
+        "SortOrder": 1049
+    },
+    {
+        "Id": 28020504,
+        "DescribeId": 28020504,
+        "IsSeenActive": true,
+        "SortOrder": 1050
+    },
+    {
+        "Id": 28020505,
+        "DescribeId": 28020505,
+        "IsSeenActive": true,
+        "SortOrder": 1051
+    },
+    {
+        "Id": 28020506,
+        "DescribeId": 28020506,
+        "IsSeenActive": true,
+        "SortOrder": 1052
+    },
+    {
+        "Id": 28020507,
+        "DescribeId": 28020507,
+        "IsSeenActive": true,
+        "SortOrder": 1053
+    },
+    {
+        "Id": 28020601,
+        "DescribeId": 28020601,
+        "SortOrder": 1054
+    },
+    {
+        "Id": 28020602,
+        "DescribeId": 28020602,
+        "SortOrder": 1055
+    },
+    {
+        "Id": 28020603,
+        "DescribeId": 28020603,
+        "SortOrder": 1056
+    },
+    {
+        "Id": 28020604,
+        "DescribeId": 28020604,
+        "SortOrder": 1057
+    },
+    {
+        "Id": 28050201,
+        "DescribeId": 28050201,
+        "SortOrder": 1058
+    },
+    {
+        "Id": 28050202,
+        "DescribeId": 28050202,
+        "SortOrder": 1059
+    },
+    {
+        "Id": 28050203,
+        "DescribeId": 28050203,
+        "SortOrder": 1060
+    }
+]

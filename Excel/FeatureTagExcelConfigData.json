@@ -1,0 +1,202 @@
+[
+    {
+        "TagId": 1001,
+        "TagName": "蒙德",
+        "TagDesp": "角色属于蒙德"
+    },
+    {
+        "TagId": 1002,
+        "TagName": "璃月",
+        "TagDesp": "角色属于璃月"
+    },
+    {
+        "TagId": 1003,
+        "TagName": "稻妻",
+        "TagDesp": "角色属于稻妻"
+    },
+    {
+        "TagId": 1011,
+        "TagName": "主角",
+        "TagDesp": "男主/女主分类"
+    },
+    {
+        "TagId": 1012,
+        "TagName": "魔神",
+        "TagDesp": "是否要显示神之眼靠近陨石的特效（因为魔神的神之眼是假的）"
+    },
+    {
+        "TagId": 1021,
+        "TagName": "冒险家协会",
+        "TagDesp": "所属"
+    },
+    {
+        "TagId": 1022,
+        "TagName": "西风骑士团",
+        "TagDesp": "所属，例如骑士团羁绊功能可以用这个tag完成"
+    },
+    {
+        "TagId": 1041,
+        "TagName": "成男体型",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1042,
+        "TagName": "成女体型",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1043,
+        "TagName": "少男体型",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1044,
+        "TagName": "少女体型",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1045,
+        "TagName": "萝莉体型",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1051,
+        "TagName": "单手剑武器",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1052,
+        "TagName": "双手剑武器",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1053,
+        "TagName": "长柄武器",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1054,
+        "TagName": "法器武器",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1055,
+        "TagName": "弓箭武器",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1095,
+        "TagName": "阿贝多",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1096,
+        "TagName": "诺艾尔",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1097,
+        "TagName": "北斗",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1098,
+        "TagName": "行秋",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 1099,
+        "TagName": "钟离",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 3001,
+        "TagName": "生物",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 3002,
+        "TagName": "非生物",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 3003,
+        "TagName": "人形",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 3004,
+        "TagName": "非人形",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 3005,
+        "TagName": "自带元素",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 4001,
+        "TagName": "丘丘人",
+        "TagDesp": "任意类丘丘人"
+    },
+    {
+        "TagId": 4002,
+        "TagName": "史莱姆",
+        "TagDesp": "任意类史莱姆"
+    },
+    {
+        "TagId": 4003,
+        "TagName": "元素球",
+        "TagDesp": "任意类元素球"
+    },
+    {
+        "TagId": 4004,
+        "TagName": "萨满怪",
+        "TagDesp": "任意类萨满"
+    },
+    {
+        "TagId": 4005,
+        "TagName": "遗迹怪",
+        "TagDesp": "任意类遗迹怪"
+    },
+    {
+        "TagId": 4006,
+        "TagName": "盗宝团",
+        "TagDesp": "盗宝团怪物"
+    },
+    {
+        "TagId": 4007,
+        "TagName": "千岩军",
+        "TagDesp": "千岩军怪物"
+    },
+    {
+        "TagId": 4008,
+        "TagName": "植物怪",
+        "TagDesp": "植物怪怪物"
+    },
+    {
+        "TagId": 4009,
+        "TagName": "愚人众先遣队",
+        "TagDesp": "任意类愚人众先遣队"
+    },
+    {
+        "TagId": 4901,
+        "TagName": "远程怪",
+        "TagDesp": "怪物分类_远程"
+    },
+    {
+        "TagId": 4902,
+        "TagName": "近战怪",
+        "TagDesp": "怪物分类_近战"
+    },
+    {
+        "TagId": 4903,
+        "TagName": "队长怪",
+        "TagDesp": "怪物分类 队长"
+    },
+    {
+        "TagId": 9001,
+        "TagName": "动物",
+        "TagDesp": ""
+    }
+]
