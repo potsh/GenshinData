@@ -1,8 +1,8 @@
 # GenshinData
 Repository containing the game data for the game Genshin Impact.
 
-This repository is a work in progress between @FZFalzar and I. Also, expect things to change. And before you ask, no. Not even sure if this is going to keep getting updated, a lot of work for mostly nothing.
+This repository is a work in progress between @FZFalzar and I. Expect some things to change. Not sure if this is going to keep getting updated since it's a lot of work for mostly nothing.
 
-And no, not going to update this with "early" data. More trouble than gain, but the same can be said from making current client data public.
+And no, this won't be updated with any early / unreleased client data. We could but we don't want any problems. ~~Also stop believing on every single leak you see out there lol...~~
 
-If you use this it'd be appreciated if you credited. :)
+If you use this it'd be really appreciated if you credited :)
