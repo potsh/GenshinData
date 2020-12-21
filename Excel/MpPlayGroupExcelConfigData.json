@@ -131,6 +131,8 @@
         ],
         "BornGroupId": 133001413,
         "BornConfigId": 413073,
+        "SafeGroupId": 133001413,
+        "SafeConfigId": 413074,
         "RebornGroupId": 133001413,
         "RebornConfigId": 413074,
         "RewardGroupId": 133001413,
@@ -155,5 +157,83 @@
             720
         ],
         "LimitRegion": "BigWorld_AsterArea_001"
+    },
+    {
+        "EntryId": 3,
+        "PlayId": 3,
+        "ServerLuaCallGroup": [
+            133002418
+        ],
+        "ClientShowType": "MP_PLAY_SHOW_NO_RESIN",
+        "Reward": [
+            {
+                "DropId": 211000301,
+                "RewardPreview": 30331
+            },
+            {
+                "DropId": 211000302,
+                "RewardPreview": 30332
+            },
+            {
+                "DropId": 211000303,
+                "RewardPreview": 30333
+            },
+            {
+                "DropId": 211000304,
+                "RewardPreview": 30334
+            },
+            {
+                "DropId": 211000305,
+                "RewardPreview": 30335
+            },
+            {
+                "DropId": 211000306,
+                "RewardPreview": 30336
+            },
+            {
+                "DropId": 211000307,
+                "RewardPreview": 30337
+            },
+            {
+                "DropId": 211000308,
+                "RewardPreview": 30338
+            },
+            {
+                "DropId": 211000309,
+                "RewardPreview": 30339
+            }
+        ],
+        "ActivateGroup": [
+            133002418
+        ],
+        "Group": [],
+        "BornGroupId": 133002418,
+        "BornConfigId": 418038,
+        "SafeGroupId": 133002418,
+        "SafeConfigId": 418037,
+        "RebornGroupId": 133002418,
+        "RebornConfigId": 418037,
+        "RewardGroupId": 133002418,
+        "GeneralRewardConfigId": 418008,
+        "PrepareTime": 20,
+        "CenterPos": [
+            1080.6300048828125,
+            285.8599853515625,
+            -439.30999755859375
+        ],
+        "CenterRadius": 250,
+        "TargetPos": [
+            1080.6300048828125,
+            285.8599853515625,
+            -439.30999755859375
+        ],
+        "ReviseId": 5,
+        "Rate": [
+            300,
+            500,
+            660,
+            720
+        ],
+        "LimitRegion": "BigWorld_CryoRegisvineArea_001"
     }
 ]

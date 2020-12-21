@@ -6,5 +6,9 @@
     {
         "CityId": 2,
         "OpenLevel": 2
+    },
+    {
+        "CityId": 11,
+        "OpenLevel": 2
     }
 ]

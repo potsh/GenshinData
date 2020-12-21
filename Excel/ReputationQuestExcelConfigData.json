@@ -120,6 +120,62 @@
         "Order": 87
     },
     {
+        "ParentQuestId": 70141,
+        "CityId": 1,
+        "RewardId": 2010051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 3784152109,
+        "Order": 86
+    },
+    {
+        "ParentQuestId": 70102,
+        "CityId": 1,
+        "RewardId": 2010051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 3959276541,
+        "Order": 85
+    },
+    {
+        "ParentQuestId": 70104,
+        "CityId": 1,
+        "RewardId": 2010051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 2403392613,
+        "Order": 84
+    },
+    {
+        "ParentQuestId": 70108,
+        "CityId": 1,
+        "RewardId": 2010051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 1644643709,
+        "Order": 83
+    },
+    {
+        "ParentQuestId": 70106,
+        "CityId": 1,
+        "RewardId": 2010051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 133418149,
+        "Order": 82
+    },
+    {
+        "ParentQuestId": 70121,
+        "CityId": 1,
+        "RewardId": 2010051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 4182435837,
+        "Order": 81
+    },
+    {
+        "ParentQuestId": 70123,
+        "CityId": 1,
+        "RewardId": 2010051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 2793056821,
+        "Order": 80
+    },
+    {
         "ParentQuestId": 1018,
         "CityId": 2,
         "RewardId": 2020041,
@@ -390,5 +446,29 @@
         "IconName": "UI_QuestIcon_Quest",
         "TitleTextMapHash": 4155230613,
         "Order": 168
+    },
+    {
+        "ParentQuestId": 71814,
+        "CityId": 2,
+        "RewardId": 2020051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 3787517845,
+        "Order": 167
+    },
+    {
+        "ParentQuestId": 71813,
+        "CityId": 2,
+        "RewardId": 2020051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 967755509,
+        "Order": 166
+    },
+    {
+        "ParentQuestId": 71811,
+        "CityId": 2,
+        "RewardId": 2020051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 2674818229,
+        "Order": 165
     }
 ]

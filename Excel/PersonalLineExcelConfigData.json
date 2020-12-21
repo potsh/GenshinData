@@ -75,5 +75,29 @@
         ],
         "StartTime": "2020-11-10 00:00:00",
         "DescTextMapHash": 2987560774
+    },
+    {
+        "Id": 8,
+        "TitleTextMapHash": 1816673994,
+        "ChapterId": 2016,
+        "StartQuestId": 1103001,
+        "AvatarId": 10000037,
+        "PreQuestId": [
+            102510
+        ],
+        "StartTime": "2021-01-12 18:00:00",
+        "DescTextMapHash": 1839116870
+    },
+    {
+        "Id": 9,
+        "TitleTextMapHash": 854305178,
+        "ChapterId": 2017,
+        "StartQuestId": 1104001,
+        "AvatarId": 10000038,
+        "PreQuestId": [
+            38406
+        ],
+        "StartTime": "2021-01-12 04:00:00",
+        "DescTextMapHash": 4220746734
     }
 ]

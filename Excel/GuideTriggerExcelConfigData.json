@@ -88,5 +88,10 @@
         "GuideName": "GuideExitMultiplayer",
         "Type": "WORLDPLAYER_UPDATE",
         "OpenState": "OPEN_STATE_GUIDE_EXITMULTIPLAYER"
+    },
+    {
+        "GuideName": "GuideColdClimateEntry",
+        "Type": "CLIMATE_TYPE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_COLDCLIMATE"
     }
 ]

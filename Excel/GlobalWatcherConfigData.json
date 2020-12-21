@@ -827,6 +827,126 @@
                 ]
             }
         ],
+        "Id": 1100,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_PLATFORM_START_MOVE",
+            "Param": [
+                "70720214",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0
+                ]
+            }
+        ],
+        "Id": 1101,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_USE_ITEM",
+            "Param": [
+                "101005",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0
+                ]
+            }
+        ],
+        "Id": 1102,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_SnowMountain_1102",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0
+                ]
+            }
+        ],
+        "Id": 1103,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_SnowMountain_1103",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0
+                ]
+            }
+        ],
+        "Id": 1104,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_USE_ITEM",
+            "Param": [
+                "100671",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0
+                ]
+            }
+        ],
         "Id": 2009,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
@@ -1432,6 +1552,54 @@
             "TriggerType": "TRIGGER_NEW_MONSTER",
             "Param": [
                 "20050101",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0
+                ]
+            }
+        ],
+        "Id": 2057,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_NEW_MONSTER",
+            "Param": [
+                "21020601",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "Param": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0
+                ]
+            }
+        ],
+        "Id": 2058,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_NEW_MONSTER",
+            "Param": [
+                "24010301",
                 ""
             ]
         },

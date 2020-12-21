@@ -235,6 +235,12 @@
         "InteeIconName": "UI_Icon_Quest_Once"
     },
     {
+        "Id": 214,
+        "ContentTextMapHash": 3084995644,
+        "InteeIconName": "UI_Icon_Intee_Mechanism",
+        "GuestInteeButtonShow": true
+    },
+    {
         "Id": 1002,
         "ContentTextMapHash": 2085882156,
         "InteeIconName": "UI_Icon_Intee_Mechanism"
@@ -261,6 +267,12 @@
         "InteeIconName": "UI_Icon_Intee_Mechanism"
     },
     {
+        "Id": 2905,
+        "ContentTextMapHash": 168453452,
+        "InteeIconName": "UI_Icon_Intee_Mechanism",
+        "GuestInteeButtonShow": true
+    },
+    {
         "Id": 33,
         "ContentTextMapHash": 1708976684,
         "InteeIconName": "UI_Icon_Intee_Mechanism"
@@ -271,8 +283,38 @@
         "InteeIconName": "UI_Icon_Intee_Mechanism"
     },
     {
+        "Id": 35,
+        "ContentTextMapHash": 198634196,
+        "InteeIconName": "UI_Icon_Intee_PickUp"
+    },
+    {
         "Id": 36,
         "ContentTextMapHash": 44099948,
         "InteeIconName": "UI_Icon_Intee_ItemIcon_109"
+    },
+    {
+        "Id": 37,
+        "ContentTextMapHash": 1740096508,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 38,
+        "ContentTextMapHash": 212827732,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 39,
+        "ContentTextMapHash": 1144305468,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 40,
+        "ContentTextMapHash": 4174202468,
+        "InteeIconName": "UI_Icon_Intee_Mechanism_MP"
+    },
+    {
+        "Id": 47,
+        "ContentTextMapHash": 825939716,
+        "InteeIconName": "UI_Icon_Intee_Investigation"
     }
 ]

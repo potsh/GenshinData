@@ -6,12 +6,74 @@
             "ISGHOSTTOENEMY",
             "ELEMENTBURNING",
             "ELEMENTGRASSGROWING",
-            "IGNORETRIGGERBULLET"
+            "IGNORETRIGGERBULLET",
+            "ELEMENTELECTRIC",
+            "ELEMENTCONDUCTIVE",
+            "ELEMENTWIND",
+            "SPEEDDOWN",
+            "MUTETAUNT"
         ]
     },
-    {},
-    {},
-    {},
+    {
+        "Id": 11002,
+        "AbilityStates": [
+            "ELEMENTICE",
+            "ISGHOSTTOENEMY",
+            "ELEMENTBURNING",
+            "ELEMENTGRASSGROWING",
+            "IGNORETRIGGERBULLET",
+            "ELEMENTSHOCK",
+            "ELEMENTCONDUCTIVE",
+            "SPEEDUP",
+            "DEFENSEDOWN",
+            "MUTETAUNT"
+        ]
+    },
+    {
+        "Id": 11003,
+        "AbilityStates": [
+            "ELEMENTICE",
+            "ELEMENTGRASSGROWING",
+            "ELEMENTSHOCK",
+            "ELEMENTFROZEN",
+            "SPEEDUP",
+            "LIMBO",
+            "ELEMENTCONDUCTIVE",
+            "MUTETAUNT",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {
+        "Id": 12001,
+        "AbilityStates": [
+            "ELEMENTICE",
+            "ISGHOSTTOENEMY",
+            "ELEMENTBURNING",
+            "ELEMENTGRASSGROWING",
+            "IGNORETRIGGERBULLET",
+            "MUTETAUNT",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {
+        "Id": 12002,
+        "AbilityStates": [
+            "ELEMENTELECTRIC",
+            "ELEMENTCONDUCTIVE",
+            "ELEMENTWIND",
+            "SPEEDDOWN",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
     {
         "Id": 13001,
         "AbilityStates": [
@@ -19,14 +81,14 @@
             "ELEMENTCONDUCTIVE",
             "NONE",
             "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
             "NONE"
         ]
     },
-    {},
-    {},
-    {},
-    {},
-    {},
     {
         "Id": 13002,
         "AbilityStates": [
@@ -34,9 +96,102 @@
             "ELEMENTSHOCK",
             "MUTETAUNT",
             "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
             "NONE"
         ]
     },
-    {},
-    {}
+    {
+        "Id": 14001,
+        "AbilityStates": [
+            "ELEMENTSHOCK",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {
+        "Id": 14002,
+        "AbilityStates": [
+            "ELEMENTICE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {
+        "Id": 14003,
+        "AbilityStates": [
+            "ELEMENTROCK",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {
+        "Id": 14004,
+        "AbilityStates": [
+            "IGNORETRIGGERBULLET",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {
+        "Id": 14005,
+        "AbilityStates": [
+            "ELEMENTGRASSGROWING",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    },
+    {
+        "Id": 14006,
+        "AbilityStates": [
+            "MUTETAUNT",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE",
+            "NONE"
+        ]
+    }
 ]

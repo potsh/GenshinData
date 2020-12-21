@@ -97,9 +97,45 @@
     },
     {
         "SpecialNameId": 10017,
-        "SpecialNameLabId": 10002,
+        "SpecialNameLabId": 10001,
         "SpecialNameTextMapHash": 3988498339,
         "Desc": "钟离线债务处理人-精英"
+    },
+    {
+        "SpecialNameId": 10018,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 1542594507,
+        "Desc": "雪山三雪貂丘丘霜铠王"
+    },
+    {
+        "SpecialNameId": 10019,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 2488336707,
+        "Desc": "远古野猪王"
+    },
+    {
+        "SpecialNameId": 10020,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 3649437291,
+        "Desc": "历战无相雷"
+    },
+    {
+        "SpecialNameId": 10021,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 4145390987,
+        "Desc": "历战无相风"
+    },
+    {
+        "SpecialNameId": 10022,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 344554635,
+        "Desc": "历战无相岩"
+    },
+    {
+        "SpecialNameId": 10024,
+        "SpecialNameLabId": 10001,
+        "SpecialNameTextMapHash": 3787480115,
+        "Desc": "雪山活动急冻树"
     },
     {
         "SpecialNameId": 1,
@@ -522,14 +558,15 @@
         "SpecialNameId": 63,
         "SpecialNameLabId": 3111,
         "SpecialNameTextMapHash": 922157627,
+        "IsInRandomList": true,
         "Desc": "丘丘岩盔王"
     },
     {
         "SpecialNameId": 64,
-        "SpecialNameLabId": 3201,
+        "SpecialNameLabId": 3112,
         "SpecialNameTextMapHash": 3955984403,
         "IsInRandomList": true,
-        "Desc": "水丘丘萨满"
+        "Desc": "丘丘霜铠王"
     },
     {
         "SpecialNameId": 65,
@@ -568,10 +605,10 @@
     },
     {
         "SpecialNameId": 70,
-        "SpecialNameLabId": 3202,
+        "SpecialNameLabId": 3201,
         "SpecialNameTextMapHash": 2296461899,
         "IsInRandomList": true,
-        "Desc": "草丘丘萨满"
+        "Desc": "水丘丘萨满"
     },
     {
         "SpecialNameId": 71,
@@ -617,10 +654,10 @@
     },
     {
         "SpecialNameId": 77,
-        "SpecialNameLabId": 3203,
+        "SpecialNameLabId": 3202,
         "SpecialNameTextMapHash": 572719043,
         "IsInRandomList": true,
-        "Desc": "风丘丘萨满"
+        "Desc": "草丘丘萨满"
     },
     {
         "SpecialNameId": 78,
@@ -666,10 +703,10 @@
     },
     {
         "SpecialNameId": 84,
-        "SpecialNameLabId": 3204,
+        "SpecialNameLabId": 3203,
         "SpecialNameTextMapHash": 4121124547,
         "IsInRandomList": true,
-        "Desc": "岩丘丘萨满"
+        "Desc": "风丘丘萨满"
     },
     {
         "SpecialNameId": 85,
@@ -715,66 +752,66 @@
     },
     {
         "SpecialNameId": 91,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3204,
         "SpecialNameTextMapHash": 1105665275,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "岩丘丘萨满"
     },
     {
         "SpecialNameId": 92,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 2653739147,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 93,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 62341331,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 94,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 134542315,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 95,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 481715523,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 96,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 449555291,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 97,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 3439740467,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 98,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 222897059,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 99,
-        "SpecialNameLabId": 4001,
+        "SpecialNameLabId": 3205,
         "SpecialNameTextMapHash": 3111537851,
         "IsInRandomList": true,
-        "Desc": "深渊法师大类"
+        "Desc": "冰丘丘萨满"
     },
     {
         "SpecialNameId": 100,
@@ -925,66 +962,66 @@
     },
     {
         "SpecialNameId": 121,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 2771917979,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 122,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 2332558739,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 123,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 1538861923,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 124,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 3852144443,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 125,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 1173365963,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 126,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 3400969691,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 127,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 2057000043,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 128,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 324608587,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 129,
-        "SpecialNameLabId": 5001,
+        "SpecialNameLabId": 4001,
         "SpecialNameTextMapHash": 2265494331,
         "IsInRandomList": true,
-        "Desc": "愚人众男（先遣队+债务处理人）"
+        "Desc": "深渊法师大类"
     },
     {
         "SpecialNameId": 130,
@@ -1149,66 +1186,66 @@
     },
     {
         "SpecialNameId": 153,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 1379042899,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 154,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 1961362435,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 155,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 2556454651,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 156,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 3461363571,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 157,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 2800498259,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 158,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 3080135339,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 159,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 3573524467,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 160,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 3316531795,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 161,
-        "SpecialNameLabId": 5002,
+        "SpecialNameLabId": 5001,
         "SpecialNameTextMapHash": 1674037587,
         "IsInRandomList": true,
-        "Desc": "愚人众女（萤术士）"
+        "Desc": "愚人众男（先遣队+债务处理人）"
     },
     {
         "SpecialNameId": 162,
@@ -1352,66 +1389,66 @@
     },
     {
         "SpecialNameId": 182,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 3481116843,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 183,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 2568556115,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 184,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 432740203,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 185,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 109668411,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 186,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 3701375843,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 187,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 3588647627,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 188,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 1924745819,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 189,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 4188648667,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 190,
-        "SpecialNameLabId": 6001,
+        "SpecialNameLabId": 5002,
         "SpecialNameTextMapHash": 431687147,
         "IsInRandomList": true,
-        "Desc": "遗迹守卫"
+        "Desc": "愚人众女（萤术士）"
     },
     {
         "SpecialNameId": 191,
@@ -1583,66 +1620,66 @@
     },
     {
         "SpecialNameId": 215,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 2180951787,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 216,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 313727011,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 217,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 3819482835,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 218,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 76518611,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 219,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 2607251395,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 220,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 3009839731,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 221,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 2749731915,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 222,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 1264859347,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 223,
-        "SpecialNameLabId": 6002,
+        "SpecialNameLabId": 6001,
         "SpecialNameTextMapHash": 1678342227,
         "IsInRandomList": true,
-        "Desc": "遗迹猎者"
+        "Desc": "遗迹守卫"
     },
     {
         "SpecialNameId": 224,
@@ -1793,164 +1830,164 @@
     },
     {
         "SpecialNameId": 245,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 3992115979,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 246,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 1223913667,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 247,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 3687223859,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 248,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 2555400115,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 249,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 2558350779,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 250,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 2245770987,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 251,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 1313893571,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 252,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 2824927595,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 253,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6002,
         "SpecialNameTextMapHash": 1691793747,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹猎者"
     },
     {
         "SpecialNameId": 254,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 2073317595,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 255,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 308763307,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 256,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 1192290739,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 257,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 857392643,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 258,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 2307655507,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 259,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 2252038099,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 260,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 1754713459,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 261,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 359157891,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 262,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 1808686323,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 263,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 1040987883,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 264,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 3727601363,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 265,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 3059569091,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 266,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 376472019,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 267,
-        "SpecialNameLabId": 7001,
+        "SpecialNameLabId": 6003,
         "SpecialNameTextMapHash": 2875451531,
         "IsInRandomList": true,
-        "Desc": "盗宝团马仔"
+        "Desc": "遗迹重机"
     },
     {
         "SpecialNameId": 268,
@@ -1996,242 +2033,403 @@
     },
     {
         "SpecialNameId": 274,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 2747212307,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 275,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 3288128395,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 276,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 1961233315,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 277,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 3291550459,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 278,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 4127427195,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 279,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 1487462051,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 280,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 4148092019,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 281,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 410089931,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 282,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 4165629051,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 283,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 554854899,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 284,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 1376300571,
         "IsInRandomList": true,
-        "Desc": "盗宝团女斧手"
+        "Desc": "盗宝团马仔"
     },
     {
         "SpecialNameId": 285,
-        "SpecialNameLabId": 7002,
+        "SpecialNameLabId": 7001,
         "SpecialNameTextMapHash": 3721152035,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 286,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 1532527019,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 287,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3986211331,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 288,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 125191323,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 289,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 805016547,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 290,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2442998083,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 291,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3778961331,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 292,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3645009099,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 293,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 503060195,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 294,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 3744272915,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 295,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 2541324075,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 296,
+        "SpecialNameLabId": 7001,
+        "SpecialNameTextMapHash": 23259771,
+        "IsInRandomList": true,
+        "Desc": "盗宝团马仔"
+    },
+    {
+        "SpecialNameId": 297,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 2612876643,
         "IsInRandomList": true,
         "Desc": "盗宝团女斧手"
     },
     {
-        "SpecialNameId": 286,
-        "SpecialNameLabId": 7005,
-        "SpecialNameTextMapHash": 1532527019,
-        "Desc": "「溜溜」"
-    },
-    {
-        "SpecialNameId": 287,
-        "SpecialNameLabId": 7006,
-        "SpecialNameTextMapHash": 3986211331,
-        "Desc": "「怪鸟」"
-    },
-    {
-        "SpecialNameId": 288,
-        "SpecialNameLabId": 7007,
-        "SpecialNameTextMapHash": 125191323,
-        "Desc": "「卡门」"
-    },
-    {
-        "SpecialNameId": 289,
-        "SpecialNameLabId": 7008,
-        "SpecialNameTextMapHash": 805016547,
-        "Desc": "「大姐头」"
-    },
-    {
-        "SpecialNameId": 290,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 2442998083,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
-        "SpecialNameId": 291,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 3778961331,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
-        "SpecialNameId": 292,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 3645009099,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
-        "SpecialNameId": 293,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 503060195,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
-        "SpecialNameId": 294,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 3744272915,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
-        "SpecialNameId": 295,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 2541324075,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
-        "SpecialNameId": 296,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 23259771,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
-        "SpecialNameId": 297,
-        "SpecialNameLabId": 7011,
-        "SpecialNameTextMapHash": 2612876643,
-        "IsInRandomList": true,
-        "Desc": "千岩军"
-    },
-    {
         "SpecialNameId": 298,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 4057516987,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 299,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 3890994787,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 300,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 540162571,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 301,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 2907690283,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 302,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 2587955875,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 303,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 2357508067,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 304,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 4240770739,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 305,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 1980753299,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 306,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 2502185643,
         "IsInRandomList": true,
-        "Desc": "千岩军"
+        "Desc": "盗宝团女斧手"
     },
     {
         "SpecialNameId": 307,
-        "SpecialNameLabId": 7011,
+        "SpecialNameLabId": 7002,
         "SpecialNameTextMapHash": 1414786611,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 308,
+        "SpecialNameLabId": 7002,
+        "SpecialNameTextMapHash": 2789145691,
+        "IsInRandomList": true,
+        "Desc": "盗宝团女斧手"
+    },
+    {
+        "SpecialNameId": 309,
+        "SpecialNameLabId": 7005,
+        "SpecialNameTextMapHash": 3261121739,
+        "Desc": "「溜溜」"
+    },
+    {
+        "SpecialNameId": 310,
+        "SpecialNameLabId": 7006,
+        "SpecialNameTextMapHash": 2447034539,
+        "Desc": "「怪鸟」"
+    },
+    {
+        "SpecialNameId": 311,
+        "SpecialNameLabId": 7007,
+        "SpecialNameTextMapHash": 2998342739,
+        "Desc": "「卡门」"
+    },
+    {
+        "SpecialNameId": 312,
+        "SpecialNameLabId": 7008,
+        "SpecialNameTextMapHash": 2545737291,
+        "Desc": "「大姐头」"
+    },
+    {
+        "SpecialNameId": 313,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 573695683,
         "IsInRandomList": true,
         "Desc": "千岩军"
     },
     {
-        "SpecialNameId": 308,
+        "SpecialNameId": 314,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2622737931,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 315,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2453434515,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 316,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 665886851,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 317,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 427196811,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 318,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 1703006803,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 319,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2061357035,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 320,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 1942831483,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 321,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2302893771,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 322,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 3421650875,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 323,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 761696851,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 324,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 3474346475,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 325,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 1692640179,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 326,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 2667505539,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 327,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 1159126171,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 328,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 4016462099,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 329,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 3134861963,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 330,
+        "SpecialNameLabId": 7011,
+        "SpecialNameTextMapHash": 61572243,
+        "IsInRandomList": true,
+        "Desc": "千岩军"
+    },
+    {
+        "SpecialNameId": 331,
         "SpecialNameLabId": 8001,
-        "SpecialNameTextMapHash": 2789145691,
+        "SpecialNameTextMapHash": 3915212979,
         "Desc": "幼岩龙蜥"
     }
 ]

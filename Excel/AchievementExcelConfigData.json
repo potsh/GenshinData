@@ -29,6 +29,7 @@
         "PsTrophyId": "0",
         "Icon": "UI_AchievementIcon_A001_PS4",
         "FinishRewardId": 800002,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 80002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_ELEMENT_TYPE_CHANGE",
@@ -468,7 +469,7 @@
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
             "Param": [
-                "",
+                "1;3",
                 "",
                 ""
             ]
@@ -489,7 +490,7 @@
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
             "Param": [
-                "",
+                "1;3",
                 "",
                 ""
             ]
@@ -510,7 +511,7 @@
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
             "Param": [
-                "",
+                "1;3",
                 "",
                 ""
             ]
@@ -638,10 +639,10 @@
             "Param": [
                 "1",
                 "1",
-                ""
+                "1,2,3,4"
             ]
         },
-        "Progress": 21
+        "Progress": 22
     },
     {
         "GoalId": 4,
@@ -762,7 +763,7 @@
             "Param": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063",
                 "1",
-                ""
+                "1,2,3,4"
             ]
         },
         "Progress": 100
@@ -783,7 +784,7 @@
             "Param": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063",
                 "1",
-                ""
+                "1,2,3,4"
             ]
         },
         "Progress": 200
@@ -804,7 +805,7 @@
             "Param": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063",
                 "1",
-                ""
+                "1,2,3,4"
             ]
         },
         "Progress": 400
@@ -824,7 +825,7 @@
             "Param": [
                 "3001,3,1;3002,3,1;3003,3,1",
                 "1",
-                ""
+                "1,2,3,4"
             ]
         },
         "Progress": 5
@@ -845,7 +846,7 @@
             "Param": [
                 "3001,3,1;3002,3,1;3003,3,1",
                 "1",
-                ""
+                "1,2,3,4"
             ]
         },
         "Progress": 10
@@ -866,7 +867,7 @@
             "Param": [
                 "3001,3,1;3002,3,1;3003,3,1",
                 "1",
-                ""
+                "1,2,3,4"
             ]
         },
         "Progress": 15
@@ -908,7 +909,7 @@
             "Param": [
                 "2",
                 "1",
-                ""
+                "5,6,7,8,9"
             ]
         },
         "Progress": 40
@@ -1032,7 +1033,7 @@
             "Param": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063",
                 "2",
-                ""
+                "5,6,7,8,9"
             ]
         },
         "Progress": 200
@@ -1053,7 +1054,7 @@
             "Param": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063",
                 "2",
-                ""
+                "5,6,7,8,9"
             ]
         },
         "Progress": 400
@@ -1074,7 +1075,7 @@
             "Param": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063",
                 "2",
-                ""
+                "5,6,7,8,9"
             ]
         },
         "Progress": 800
@@ -1094,7 +1095,7 @@
             "Param": [
                 "3001,3,1;3002,3,1;3003,3,1",
                 "2",
-                ""
+                "5,6,7,8,9"
             ]
         },
         "Progress": 10
@@ -1115,7 +1116,7 @@
             "Param": [
                 "3001,3,1;3002,3,1;3003,3,1",
                 "2",
-                ""
+                "5,6,7,8,9"
             ]
         },
         "Progress": 20
@@ -1136,10 +1137,280 @@
             "Param": [
                 "3001,3,1;3002,3,1;3003,3,1",
                 "2",
-                ""
+                "5,6,7,8,9"
             ]
         },
         "Progress": 40
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 56,
+        "TitleTextMapHash": 2211498308,
+        "DescTextMapHash": 949941501,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800056,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 80056,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_UNLOCK_AREA",
+            "Param": [
+                "10",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 57,
+        "TitleTextMapHash": 931837980,
+        "DescTextMapHash": 3666835453,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800057,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 80057,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_UNLOCK_TRANS_POINT",
+            "Param": [
+                "1",
+                "1",
+                "10"
+            ]
+        },
+        "Progress": 11
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 58,
+        "TitleTextMapHash": 1088222556,
+        "DescTextMapHash": 1873076805,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800058,
+        "Id": 80058,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "2013,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 59,
+        "PreStageAchievementId": 80058,
+        "TitleTextMapHash": 2541137324,
+        "DescTextMapHash": 1845949165,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800059,
+        "Id": 80059,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "2013,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 60,
+        "PreStageAchievementId": 80059,
+        "TitleTextMapHash": 3107475212,
+        "DescTextMapHash": 745636477,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800060,
+        "Id": 80060,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "2013,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 61,
+        "TitleTextMapHash": 2958864396,
+        "DescTextMapHash": 2140793669,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800061,
+        "Id": 80061,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OPEN_WORLD_CHEST",
+            "Param": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063;70211141;70211142;70211143;70211144;70211145;70211146;70211147;70211148",
+                "1",
+                "10"
+            ]
+        },
+        "Progress": 40
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 62,
+        "PreStageAchievementId": 80061,
+        "TitleTextMapHash": 424422124,
+        "DescTextMapHash": 228464213,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800062,
+        "Id": 80062,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OPEN_WORLD_CHEST",
+            "Param": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063;70211141;70211142;70211143;70211144;70211145;70211146;70211147;70211148",
+                "1",
+                "10"
+            ]
+        },
+        "Progress": 80
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 63,
+        "PreStageAchievementId": 80062,
+        "TitleTextMapHash": 2666090996,
+        "DescTextMapHash": 600076741,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800063,
+        "Id": 80063,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OPEN_WORLD_CHEST",
+            "Param": [
+                "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132;70210063;70211141;70211142;70211143;70211144;70211145;70211146;70211147;70211148",
+                "1",
+                "10"
+            ]
+        },
+        "Progress": 160
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 64,
+        "TitleTextMapHash": 2473670636,
+        "DescTextMapHash": 3827779805,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800064,
+        "Id": 80064,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OFFERING_LEVEL",
+            "Param": [
+                "1",
+                "4",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 65,
+        "PreStageAchievementId": 80064,
+        "TitleTextMapHash": 2107533020,
+        "DescTextMapHash": 1282861189,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800065,
+        "Id": 80065,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OFFERING_LEVEL",
+            "Param": [
+                "1",
+                "8",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 66,
+        "PreStageAchievementId": 80065,
+        "TitleTextMapHash": 3885554452,
+        "DescTextMapHash": 1273148893,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800066,
+        "Id": 80066,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OFFERING_LEVEL",
+            "Param": [
+                "1",
+                "12",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 67,
+        "TitleTextMapHash": 3703695908,
+        "DescTextMapHash": 2281097269,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800067,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 80067,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "Param": [
+                "7014112",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 16,
+        "OrderId": 68,
+        "TitleTextMapHash": 1657884484,
+        "DescTextMapHash": 2351033373,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 800068,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 80068,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "Param": [
+                "7010232",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
     },
     {
         "OrderId": 1000,
@@ -1648,6 +1919,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 801024,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 81024,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_REPUTATION_LEVEL",
@@ -1667,6 +1939,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 801025,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 81025,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_REPUTATION_LEVEL",
@@ -1805,11 +2078,306 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 801032,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 81032,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_HUNTING_FAIL_NUM",
             "Param": [
                 "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1033,
+        "TitleTextMapHash": 499499668,
+        "DescTextMapHash": 1209146941,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801033,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81033,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILLED_BY_SPECIFIC_ABILITY",
+            "Param": [
+                "ClimateAbility_Cold",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1034,
+        "TitleTextMapHash": 2763950196,
+        "DescTextMapHash": 2686729069,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801034,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81034,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "6009,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1035,
+        "TitleTextMapHash": 713896220,
+        "DescTextMapHash": 270443789,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801035,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81035,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "6010,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1036,
+        "TitleTextMapHash": 521254876,
+        "DescTextMapHash": 1995653853,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801036,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81036,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "Param": [
+                "7012107",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1037,
+        "TitleTextMapHash": 3275047996,
+        "DescTextMapHash": 1291938045,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801037,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81037,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "6011,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1038,
+        "TitleTextMapHash": 3404047028,
+        "DescTextMapHash": 1412429205,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801038,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81038,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "6015,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 9
+    },
+    {
+        "OrderId": 1039,
+        "TitleTextMapHash": 4187342940,
+        "DescTextMapHash": 1098538885,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801039,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81039,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "6012,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1040,
+        "TitleTextMapHash": 4202907796,
+        "DescTextMapHash": 3386490949,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801040,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81040,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "6013,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1041,
+        "TitleTextMapHash": 1031752796,
+        "DescTextMapHash": 2025728749,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801041,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81041,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_NOTIFY",
+            "Param": [
+                "6014,3,1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1042,
+        "TitleTextMapHash": 2335733748,
+        "DescTextMapHash": 2601016317,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801042,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81042,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILLED_BY_CERTAIN_MONSTER",
+            "Param": [
+                "28020304",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1043,
+        "TitleTextMapHash": 1215440932,
+        "DescTextMapHash": 1629949677,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801043,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81043,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82072",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1044,
+        "TitleTextMapHash": 3841527468,
+        "DescTextMapHash": 2194698173,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801044,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81044,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_UNLOCK_SPECIFIC_RECIPE_OR",
+            "Param": [
+                "2009",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1045,
+        "TitleTextMapHash": 3803622164,
+        "DescTextMapHash": 989312069,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801045,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81045,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CUR_AVATAR_HURT_BY_SPECIFIC_ABILITY",
+            "Param": [
+                "SceneObj_Storm_Lightning",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "OrderId": 1046,
+        "TitleTextMapHash": 2576644796,
+        "DescTextMapHash": 4236793157,
+        "IsShow": "SHOWTYPE_HIDE",
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 801046,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 81046,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "Param": [
+                "7014201",
                 "",
                 ""
             ]
@@ -2637,6 +3205,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802040,
+        "IsDeleteWatcherAfterFinish": true,
         "ProgressShowType": "PROGRESSTYPE_FINISH",
         "Id": 82040,
         "TriggerConfig": {
@@ -2864,6 +3433,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802051,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82051,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DONE_TOWER_STARS",
@@ -2884,6 +3454,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802052,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82052,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DONE_DUNGEON_WITH_SAME_ELEMENT_AVATARS",
@@ -2904,6 +3475,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802053,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82053,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_BATTLE_FOR_MONSTER_DIE_AND",
@@ -2924,6 +3496,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802054,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82054,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
@@ -3006,6 +3579,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802058,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82058,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
@@ -3026,6 +3600,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802059,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82059,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
@@ -3046,6 +3621,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802060,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82060,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
@@ -3066,6 +3642,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802061,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82061,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_USE_ENERGY_SKILL_NUM_TIMELIMIT",
@@ -3086,6 +3663,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802062,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82062,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_SHIELD_SOURCE_NUM",
@@ -3106,6 +3684,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802063,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82063,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
@@ -3126,6 +3705,7 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802064,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82064,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
@@ -3146,11 +3726,180 @@
         "PsTrophyId": "",
         "Icon": "",
         "FinishRewardId": 802065,
+        "IsDeleteWatcherAfterFinish": true,
         "Id": 82065,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
             "Param": [
                 "Watcher_Achievement_82065",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2066,
+        "TitleTextMapHash": 4048898460,
+        "DescTextMapHash": 3432315821,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802066,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82066,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82066",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2067,
+        "TitleTextMapHash": 244547692,
+        "DescTextMapHash": 634673541,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802067,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82067,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82067",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2068,
+        "TitleTextMapHash": 3942329212,
+        "DescTextMapHash": 2871610245,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802068,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82068,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82068",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2069,
+        "TitleTextMapHash": 409289820,
+        "DescTextMapHash": 3141606261,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802069,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82069,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82069",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2070,
+        "TitleTextMapHash": 3389806332,
+        "DescTextMapHash": 2786864885,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802070,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82070,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82070",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2071,
+        "TitleTextMapHash": 763748596,
+        "DescTextMapHash": 1846969797,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802071,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82071,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82071",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2072,
+        "TitleTextMapHash": 1557305612,
+        "DescTextMapHash": 4106283533,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802072,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82072,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BATTLE_FOR_MONSTER_DIE_AND",
+            "Param": [
+                "28020304",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "GoalId": 15,
+        "OrderId": 2073,
+        "TitleTextMapHash": 1206581908,
+        "DescTextMapHash": 1309532613,
+        "Ttype": "",
+        "PsTrophyId": "",
+        "Icon": "",
+        "FinishRewardId": 802073,
+        "IsDeleteWatcherAfterFinish": true,
+        "Id": 82073,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "Param": [
+                "Watcher_Achievement_82073",
                 "",
                 ""
             ]

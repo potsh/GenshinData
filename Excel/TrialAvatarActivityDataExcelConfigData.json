@@ -264,5 +264,119 @@
             ]
         },
         "Progress": 1
+    },
+    {
+        "TrialAvatarIndexId": 15,
+        "TrialAvatarId": 1037,
+        "DungeonId": 6014,
+        "BattleAvatars": "1037,1014,1015",
+        "FirstPassReward": 480001,
+        "TitleTextMapHash": 516790482,
+        "BriefInfoTextMapHash": 3893385193,
+        "BGPath": "UI_Img_Activity_Trial_Bg6",
+        "Id": 51015,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "Param": [
+                "6014,241014003,1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "TrialAvatarIndexId": 16,
+        "TrialAvatarId": 1038,
+        "DungeonId": 6015,
+        "BattleAvatars": "1038,1023",
+        "FirstPassReward": 480001,
+        "TitleTextMapHash": 1167655570,
+        "BriefInfoTextMapHash": 1425368993,
+        "BGPath": "UI_Img_Activity_Trial_Bg5",
+        "Id": 51016,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "Param": [
+                "6015,241015003,1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "TrialAvatarIndexId": 17,
+        "TrialAvatarId": 1025,
+        "DungeonId": 6016,
+        "BattleAvatars": "1025,1015",
+        "FirstPassReward": 480002,
+        "TitleTextMapHash": 823534794,
+        "BriefInfoTextMapHash": 3850041257,
+        "BGPath": "UI_Img_Activity_Trial_Bg4",
+        "Id": 51017,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "Param": [
+                "6016,241016004,1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "TrialAvatarIndexId": 18,
+        "TrialAvatarId": 1031,
+        "DungeonId": 6017,
+        "BattleAvatars": "1031,1021,1015",
+        "FirstPassReward": 480002,
+        "TitleTextMapHash": 1024271778,
+        "BriefInfoTextMapHash": 3869966209,
+        "BGPath": "UI_Img_Activity_Trial_Bg1",
+        "Id": 51018,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "Param": [
+                "6017,241017004,1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "TrialAvatarIndexId": 19,
+        "TrialAvatarId": 1043,
+        "DungeonId": 6018,
+        "BattleAvatars": "1043,1004,1015",
+        "FirstPassReward": 480003,
+        "TitleTextMapHash": 2576183690,
+        "BriefInfoTextMapHash": 1626813945,
+        "BGPath": "UI_Img_Activity_Trial_Bg2",
+        "Id": 51019,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "Param": [
+                "6018,241018003,1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "TrialAvatarIndexId": 20,
+        "TrialAvatarId": 1032,
+        "DungeonId": 6019,
+        "BattleAvatars": "1032,1023",
+        "FirstPassReward": 480004,
+        "TitleTextMapHash": 1036942770,
+        "BriefInfoTextMapHash": 886919193,
+        "BGPath": "UI_Img_Activity_Trial_Bg3",
+        "Id": 51020,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "Param": [
+                "6019,241019003,1",
+                ""
+            ]
+        },
+        "Progress": 1
     }
 ]

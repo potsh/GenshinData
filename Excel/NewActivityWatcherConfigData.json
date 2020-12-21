@@ -1104,5 +1104,395 @@
             ]
         },
         "Progress": 30000
+    },
+    {
+        "RewardId": 3003101,
+        "ActivityChallengeTipsTextMapHash": 4224619928,
+        "ExtraActivityChallengeTipsTextMapHash": 610084079,
+        "Id": 1300111,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "Param": [
+                "200101",
+                "",
+                ""
+            ]
+        },
+        "Progress": 60
+    },
+    {
+        "RewardId": 3003102,
+        "ActivityChallengeTipsTextMapHash": 1894109264,
+        "ExtraActivityChallengeTipsTextMapHash": 2333094151,
+        "Id": 1300112,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "Param": [
+                "200101",
+                "",
+                ""
+            ]
+        },
+        "Progress": 120
+    },
+    {
+        "RewardId": 3003103,
+        "ActivityChallengeTipsTextMapHash": 3935031384,
+        "ExtraActivityChallengeTipsTextMapHash": 358190679,
+        "Id": 1300113,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "Param": [
+                "200102",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30
+    },
+    {
+        "RewardId": 3003104,
+        "ActivityChallengeTipsTextMapHash": 647316608,
+        "ExtraActivityChallengeTipsTextMapHash": 3520458399,
+        "Id": 1300114,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "Param": [
+                "200102",
+                "",
+                ""
+            ]
+        },
+        "Progress": 60
+    },
+    {
+        "RewardId": 3003105,
+        "ActivityChallengeTipsTextMapHash": 3792873336,
+        "ExtraActivityChallengeTipsTextMapHash": 1765895943,
+        "Id": 1300115,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_UPGRADE",
+            "Param": [
+                "11413",
+                "20",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardId": 3003106,
+        "ActivityChallengeTipsTextMapHash": 3119085968,
+        "ExtraActivityChallengeTipsTextMapHash": 2055069503,
+        "Id": 1300116,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_UPGRADE",
+            "Param": [
+                "11413",
+                "40",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardId": 3003201,
+        "ActivityChallengeTipsTextMapHash": 1535191848,
+        "ExtraActivityChallengeTipsTextMapHash": 3321225935,
+        "Id": 1300121,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
+            "Param": [
+                "11413",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardId": 3003202,
+        "ActivityChallengeTipsTextMapHash": 1214718120,
+        "ExtraActivityChallengeTipsTextMapHash": 1124762487,
+        "Id": 1300122,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "Param": [
+                "111",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600
+    },
+    {
+        "RewardId": 3003203,
+        "ActivityChallengeTipsTextMapHash": 3564907096,
+        "ExtraActivityChallengeTipsTextMapHash": 4123649527,
+        "Id": 1300123,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "Param": [
+                "111",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1800
+    },
+    {
+        "RewardId": 3003204,
+        "ActivityChallengeTipsTextMapHash": 1475480072,
+        "ExtraActivityChallengeTipsTextMapHash": 1838108479,
+        "Id": 1300124,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "Param": [
+                "6",
+                "",
+                ""
+            ]
+        },
+        "Progress": 8
+    },
+    {
+        "RewardId": 3003205,
+        "ActivityChallengeTipsTextMapHash": 628715240,
+        "ExtraActivityChallengeTipsTextMapHash": 621799447,
+        "Id": 1300125,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "Param": [
+                "6",
+                "",
+                ""
+            ]
+        },
+        "Progress": 16
+    },
+    {
+        "RewardId": 3003206,
+        "ActivityChallengeTipsTextMapHash": 2529256200,
+        "ExtraActivityChallengeTipsTextMapHash": 217412047,
+        "Id": 1300126,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_GROUP_VARIABLE_GT",
+            "Param": [
+                "6",
+                "remainingHeat",
+                "3"
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardId": 3003301,
+        "ActivityChallengeTipsTextMapHash": 2149576728,
+        "ExtraActivityChallengeTipsTextMapHash": 1122195447,
+        "Id": 1300131,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
+            "Param": [
+                "11413",
+                "2",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardId": 3003302,
+        "ActivityChallengeTipsTextMapHash": 811594984,
+        "ExtraActivityChallengeTipsTextMapHash": 1703777455,
+        "Id": 1300132,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "Param": [
+                "112",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600
+    },
+    {
+        "RewardId": 3003303,
+        "ActivityChallengeTipsTextMapHash": 822696360,
+        "ExtraActivityChallengeTipsTextMapHash": 4255783471,
+        "Id": 1300133,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "Param": [
+                "112",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1800
+    },
+    {
+        "RewardId": 3003304,
+        "ActivityChallengeTipsTextMapHash": 1285794272,
+        "ExtraActivityChallengeTipsTextMapHash": 3210439719,
+        "Id": 1300134,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "Param": [
+                "7",
+                "",
+                ""
+            ]
+        },
+        "Progress": 8
+    },
+    {
+        "RewardId": 3003305,
+        "ActivityChallengeTipsTextMapHash": 1577201528,
+        "ExtraActivityChallengeTipsTextMapHash": 2924403135,
+        "Id": 1300135,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "Param": [
+                "7",
+                "",
+                ""
+            ]
+        },
+        "Progress": 16
+    },
+    {
+        "RewardId": 3003306,
+        "ActivityChallengeTipsTextMapHash": 470124624,
+        "ExtraActivityChallengeTipsTextMapHash": 53400663,
+        "Id": 1300136,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_CLIMATE_METER",
+            "Param": [
+                "7",
+                "1",
+                "20"
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardId": 3003401,
+        "ActivityChallengeTipsTextMapHash": 3506079824,
+        "ExtraActivityChallengeTipsTextMapHash": 2345393991,
+        "Id": 1300141,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
+            "Param": [
+                "11413",
+                "4",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardId": 3003402,
+        "ActivityChallengeTipsTextMapHash": 1990089928,
+        "ExtraActivityChallengeTipsTextMapHash": 264900295,
+        "Id": 1300142,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "Param": [
+                "113",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600
+    },
+    {
+        "RewardId": 3003403,
+        "ActivityChallengeTipsTextMapHash": 3025918112,
+        "ExtraActivityChallengeTipsTextMapHash": 3270867479,
+        "Id": 1300143,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "Param": [
+                "7",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardId": 3003403,
+        "ActivityChallengeTipsTextMapHash": 368535600,
+        "ExtraActivityChallengeTipsTextMapHash": 3453170263,
+        "Id": 1300144,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "Param": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardId": 3003404,
+        "ActivityChallengeTipsTextMapHash": 2384652088,
+        "ExtraActivityChallengeTipsTextMapHash": 2761919815,
+        "Id": 1300145,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "Param": [
+                "3",
+                "",
+                ""
+            ]
+        },
+        "Progress": 15
+    },
+    {
+        "RewardId": 3003406,
+        "ActivityChallengeTipsTextMapHash": 3421372704,
+        "ExtraActivityChallengeTipsTextMapHash": 106693735,
+        "Id": 1300146,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_CLIMATE_METER",
+            "Param": [
+                "7",
+                "1",
+                "20"
+            ]
+        },
+        "Progress": 3
+    },
+    {
+        "RewardId": 3003405,
+        "ActivityChallengeTipsTextMapHash": 2329183608,
+        "ExtraActivityChallengeTipsTextMapHash": 2062024215,
+        "Id": 1300147,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_REACH_MP_PLAY_RECORD",
+            "Param": [
+                "3",
+                "3010116",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardId": 3003406,
+        "ActivityChallengeTipsTextMapHash": 1255972424,
+        "ExtraActivityChallengeTipsTextMapHash": 2997238527,
+        "Id": 1300148,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_REACH_MP_PLAY_SCORE",
+            "Param": [
+                "3",
+                "300",
+                ""
+            ]
+        },
+        "Progress": 1
     }
 ]

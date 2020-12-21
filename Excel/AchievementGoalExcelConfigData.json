@@ -101,5 +101,19 @@
         "NameTextMapHash": 890305968,
         "FinishRewardId": 890014,
         "IconPath": "UI_AchievementIcon_B004_Part2"
+    },
+    {
+        "Id": 15,
+        "OrderId": 16,
+        "NameTextMapHash": 2818913512,
+        "FinishRewardId": 890015,
+        "IconPath": "UI_AchievementIcon_B004_Part3"
+    },
+    {
+        "Id": 16,
+        "OrderId": 17,
+        "NameTextMapHash": 2671675712,
+        "FinishRewardId": 890016,
+        "IconPath": "UI_AchievementIcon_A006"
     }
 ]

@@ -133,6 +133,13 @@
         "TabNameTextMapHash": 3799775974
     },
     {
+        "Id": 3001,
+        "ActivityType": "NEW_ACTIVITY_DRAGONSPINE",
+        "SortPriority": 180,
+        "TabIcon": "UI_Icon_Activity_Dragonspine",
+        "TabNameTextMapHash": 476260294
+    },
+    {
         "Id": 5008,
         "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
         "SortPriority": 100,
@@ -152,5 +159,47 @@
         "SortPriority": 100,
         "TabIcon": "UI_Icon_Activity_LegendQuestTab",
         "TabNameTextMapHash": 861892598
+    },
+    {
+        "Id": 5011,
+        "ActivityType": "NEW_ACTIVITY_TREASURE_MAP",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_TreasureHunt",
+        "TabNameTextMapHash": 3544181374
+    },
+    {
+        "Id": 5012,
+        "ActivityType": "NEW_ACTIVITY_SALESMAN",
+        "SortPriority": 82,
+        "TabIcon": "UI_Icon_Activity_MiscsmarvsTab",
+        "TabNameTextMapHash": 2875621118
+    },
+    {
+        "Id": 6001,
+        "ActivityType": "NEW_ACTIVITY_TOWER_RESET",
+        "SortPriority": 50,
+        "TabIcon": "UI_Icon_Activity_TowerReset",
+        "TabNameTextMapHash": 3084922870
+    },
+    {
+        "Id": 5014,
+        "ActivityType": "NEW_ACTIVITY_EFFIGY",
+        "SortPriority": 100,
+        "TabIcon": "UI_BtnIcon_RestrictionsTips",
+        "TabNameTextMapHash": 1274496574
+    },
+    {
+        "Id": 5015,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "SortPriority": 100,
+        "TabIcon": "UI_Icon_Activity_LegendQuestTab",
+        "TabNameTextMapHash": 2202219758
+    },
+    {
+        "Id": 8001,
+        "ActivityType": "NEW_ACTIVITY_REUNION",
+        "SortPriority": 198,
+        "TabIcon": "UI_Icon_Activity_Reunion",
+        "TabNameTextMapHash": 603266982
     }
 ]

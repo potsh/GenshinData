@@ -1,0 +1,36 @@
+[
+    {
+        "RewardId": 3005001,
+        "ResourceType": "FIRE",
+        "Unknown1": 3553481558
+    },
+    {
+        "RewardId": 3005002,
+        "Unknown1": 2726163646
+    },
+    {
+        "RewardId": 3005003,
+        "ResourceType": "GRASS",
+        "Unknown1": 3358260502
+    },
+    {
+        "RewardId": 3005004,
+        "ResourceType": "ICE",
+        "Unknown1": 3305288006
+    },
+    {
+        "RewardId": 3005005,
+        "ResourceType": "ROCK",
+        "Unknown1": 4160198126
+    },
+    {
+        "RewardId": 3005006,
+        "ResourceType": "WATER",
+        "Unknown1": 1321431822
+    },
+    {
+        "RewardId": 3005007,
+        "ResourceType": "WIND",
+        "Unknown1": 4074816982
+    }
+]

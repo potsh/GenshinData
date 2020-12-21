@@ -1,0 +1,467 @@
+[
+    {
+        "Id": 1,
+        "Unknown1": 669859374,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1324,
+        "Score": 80
+    },
+    {
+        "Id": 2,
+        "Unknown1": 3127899294,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1325,
+        "Score": 100
+    },
+    {
+        "Id": 3,
+        "Unknown1": 339842366,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1326,
+        "Score": 100
+    },
+    {
+        "Id": 4,
+        "Unknown1": 2202404070,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1327,
+        "Score": 100
+    },
+    {
+        "Id": 5,
+        "Unknown1": 602637238,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1328,
+        "Score": 120
+    },
+    {
+        "Id": 6,
+        "Unknown1": 2661268774,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1329,
+        "Score": 120
+    },
+    {
+        "Id": 7,
+        "Unknown1": 3847723814,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1330,
+        "Score": 99
+    },
+    {
+        "Id": 8,
+        "Unknown1": 3010740926,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1331,
+        "Score": 99
+    },
+    {
+        "Id": 9,
+        "Unknown1": 549609358,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1332,
+        "Score": 80
+    },
+    {
+        "Id": 10,
+        "Unknown1": 1677229854,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1333,
+        "Score": 100
+    },
+    {
+        "Id": 11,
+        "Unknown1": 1006231782,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1334,
+        "Score": 100
+    },
+    {
+        "Id": 12,
+        "Unknown1": 2542127406,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1335,
+        "Score": 120
+    },
+    {
+        "Id": 13,
+        "Unknown1": 82634886,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1336,
+        "Score": 99
+    },
+    {
+        "Id": 14,
+        "Unknown1": 2672973934,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1337,
+        "Score": 80
+    },
+    {
+        "Id": 15,
+        "Unknown1": 3998621230,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1338,
+        "Score": 99
+    },
+    {
+        "Id": 16,
+        "Unknown1": 2515589102,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1339,
+        "Score": 80
+    },
+    {
+        "Id": 17,
+        "Unknown1": 1855291870,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1340,
+        "Score": 80
+    },
+    {
+        "Id": 18,
+        "Unknown1": 2216197798,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1341,
+        "Score": 99
+    },
+    {
+        "Id": 19,
+        "Unknown1": 2348953694,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1342,
+        "Score": 120
+    },
+    {
+        "Id": 20,
+        "Unknown1": 409858718,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1343,
+        "Score": 120
+    },
+    {
+        "Id": 21,
+        "Unknown1": 73177350,
+        "ConditionType": "EFFIGY_CONDITION_TIME_LIMIT",
+        "Icon": "",
+        "ConditionParam1": 120,
+        "ExclusiveId": 1,
+        "Score": 200
+    },
+    {
+        "Id": 22,
+        "Unknown1": 4225299254,
+        "ConditionType": "EFFIGY_CONDITION_TIME_LIMIT",
+        "Icon": "",
+        "ConditionParam1": 240,
+        "ExclusiveId": 1,
+        "Score": 300
+    },
+    {
+        "Id": 23,
+        "Unknown1": 1487930166,
+        "ConditionType": "EFFIGY_CONDITION_TIME_LIMIT",
+        "Icon": "",
+        "ConditionParam1": 300,
+        "ExclusiveId": 1,
+        "Score": 400
+    },
+    {
+        "Id": 24,
+        "Unknown1": 3372388270,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1345,
+        "Score": 80
+    },
+    {
+        "Id": 25,
+        "Unknown1": 1164131638,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1346,
+        "Score": 100
+    },
+    {
+        "Id": 26,
+        "Unknown1": 1973483350,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1347,
+        "Score": 100
+    },
+    {
+        "Id": 27,
+        "Unknown1": 3879331374,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1348,
+        "Score": 120
+    },
+    {
+        "Id": 28,
+        "Unknown1": 2501310086,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1349,
+        "Score": 99
+    },
+    {
+        "Id": 29,
+        "Unknown1": 2385906558,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1350,
+        "Score": 99
+    },
+    {
+        "Id": 30,
+        "Unknown1": 2832911670,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1351,
+        "Score": 99
+    },
+    {
+        "Id": 31,
+        "Unknown1": 3353157046,
+        "ConditionType": "EFFIGY_CONDITION_TIME_LIMIT",
+        "Icon": "",
+        "ConditionParam1": 210,
+        "ExclusiveId": 1,
+        "Score": 200
+    },
+    {
+        "Id": 32,
+        "Unknown1": 3469538366,
+        "ConditionType": "EFFIGY_CONDITION_TIME_LIMIT",
+        "Icon": "",
+        "ConditionParam1": 480,
+        "ExclusiveId": 1,
+        "Score": 300
+    },
+    {
+        "Id": 33,
+        "Unknown1": 3418925598,
+        "ConditionType": "EFFIGY_CONDITION_TIME_LIMIT",
+        "Icon": "",
+        "ConditionParam1": 660,
+        "ExclusiveId": 1,
+        "Score": 400
+    },
+    {
+        "Id": 34,
+        "Unknown1": 3589381590,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1332,
+        "Score": 100
+    },
+    {
+        "Id": 35,
+        "Unknown1": 2635291646,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1337,
+        "Score": 100
+    },
+    {
+        "Id": 36,
+        "Unknown1": 903639246,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1345,
+        "Score": 100
+    },
+    {
+        "Id": 37,
+        "Unknown1": 979809654,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1334,
+        "Score": 100
+    },
+    {
+        "Id": 38,
+        "Unknown1": 2298006326,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1340,
+        "Score": 100
+    },
+    {
+        "Id": 39,
+        "Unknown1": 4139488038,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1335,
+        "Score": 120
+    },
+    {
+        "Id": 40,
+        "Unknown1": 1385804878,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1327,
+        "Score": 120
+    },
+    {
+        "Id": 41,
+        "Unknown1": 4242798398,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1328,
+        "Score": 120
+    },
+    {
+        "Id": 42,
+        "Unknown1": 2029503886,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1342,
+        "Score": 120
+    },
+    {
+        "Id": 43,
+        "Unknown1": 4025286566,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1343,
+        "Score": 120
+    },
+    {
+        "Id": 44,
+        "Unknown1": 1104042294,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1329,
+        "Score": 120
+    },
+    {
+        "Id": 45,
+        "Unknown1": 2777458526,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1326,
+        "Score": 120
+    },
+    {
+        "Id": 46,
+        "Unknown1": 3535828822,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1347,
+        "Score": 120
+    },
+    {
+        "Id": 47,
+        "Unknown1": 3990069950,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1339,
+        "Score": 120
+    },
+    {
+        "Id": 48,
+        "Unknown1": 1306704118,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1350,
+        "Score": 99
+    },
+    {
+        "Id": 49,
+        "Unknown1": 1612457678,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1351,
+        "Score": 99
+    },
+    {
+        "Id": 50,
+        "Unknown1": 1384847734,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1349,
+        "Score": 99
+    },
+    {
+        "Id": 51,
+        "Unknown1": 2543712870,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1339,
+        "Score": 100
+    },
+    {
+        "Id": 52,
+        "Unknown1": 596528302,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1335,
+        "Score": 120
+    },
+    {
+        "Id": 53,
+        "Unknown1": 3375404542,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1334,
+        "Score": 80
+    },
+    {
+        "Id": 54,
+        "Unknown1": 3292607614,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1328,
+        "Score": 100
+    },
+    {
+        "Id": 55,
+        "Unknown1": 569964510,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1360,
+        "ExclusiveId": 2,
+        "Score": 200
+    },
+    {
+        "Id": 56,
+        "Unknown1": 3053348390,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1361,
+        "ExclusiveId": 2,
+        "Score": 300
+    },
+    {
+        "Id": 57,
+        "Unknown1": 109341342,
+        "ConditionType": "EFFIGY_CONDITION_LEVEL_CONFIG",
+        "Icon": "",
+        "ConditionParam1": 1362,
+        "ExclusiveId": 2,
+        "Score": 400
+    }
+]

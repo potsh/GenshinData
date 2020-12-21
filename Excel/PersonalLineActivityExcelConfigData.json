@@ -16,5 +16,11 @@
         "ChapterId": 2012,
         "DescTextMapHash": 201006545,
         "PrefabPath": "ART/UI/Menus/Widget/Activity/Activity_LegendQuest_Tartaglia"
+    },
+    {
+        "Id": 5015,
+        "ChapterId": 2016,
+        "DescTextMapHash": 285540137,
+        "PrefabPath": "ART/UI/Menus/Widget/Activity/Activity_LegendQuest_Ganyu"
     }
 ]

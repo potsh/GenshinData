@@ -75,5 +75,19 @@
         "TitleTextMapHash": 2090246859,
         "ContentTextMapHash": 865337682,
         "SenderTextMapHash": 4058770290
+    },
+    {
+        "Id": 12,
+        "ExpireDays": 30,
+        "TitleTextMapHash": 1332877019,
+        "ContentTextMapHash": 42045514,
+        "SenderTextMapHash": 1134490210
+    },
+    {
+        "Id": 13,
+        "ExpireDays": 30,
+        "TitleTextMapHash": 1607708395,
+        "ContentTextMapHash": 1088278906,
+        "SenderTextMapHash": 2360667410
     }
 ]

@@ -321,5 +321,33 @@
         ],
         "Icon": "UI_ItemIcon_110011",
         "DescTextMapHash": 3271894575
+    },
+    {
+        "Id": 1012,
+        "NameTextMapHash": 776597748,
+        "RankLevel": 1,
+        "Type": "COMPOUND_COOK",
+        "IsDefaultUnlocked": true,
+        "CostTime": 60,
+        "Queuesize": 99,
+        "Input": [
+            {
+                "Id": 100094,
+                "Count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "Output": [
+            {
+                "Id": 100061,
+                "Count": 1
+            },
+            {}
+        ],
+        "Icon": "UI_ItemIcon_100061",
+        "DescTextMapHash": 3982212023
     }
 ]

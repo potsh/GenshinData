@@ -10,7 +10,8 @@
         "IsAllownAnyTime": true,
         "IsMatchNecessary": true,
         "Buff": [],
-        "PushTipsId": 6001
+        "PushTipsId": 6001,
+        "BgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_CrucibleBg"
     },
     {
         "Id": 2,
@@ -25,6 +26,20 @@
             1,
             2
         ],
-        "PushTipsId": 9002
+        "PushTipsId": 9002,
+        "BgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Aster"
+    },
+    {
+        "Id": 3,
+        "PlayType": "MP_PLAY_DRAGON_SPINE",
+        "PlayNameTextMapHash": 285503954,
+        "PlayDescTextMapHash": 3660674564,
+        "IsAutoMatch": true,
+        "MinPlayers": 2,
+        "MaxPlayers": 4,
+        "IsAllownAnyTime": true,
+        "Buff": [],
+        "PushTipsId": 9003,
+        "BgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Dragonspine"
     }
 ]

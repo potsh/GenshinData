@@ -28,6 +28,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10101,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -104,6 +105,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10201,
+        "CombatBGMLevel": 4,
         "HpBase": 40.75199890136719,
         "AttackBase": 30.143999099731445,
         "DefenseBase": 500.0,
@@ -182,6 +184,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10202,
+        "CombatBGMLevel": 4,
         "HpBase": 40.75199890136719,
         "AttackBase": 30.143999099731445,
         "DefenseBase": 500.0,
@@ -261,6 +264,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10202,
+        "CombatBGMLevel": 4,
         "HpBase": 40.75199890136719,
         "AttackBase": 30.143999099731445,
         "DefenseBase": 500.0,
@@ -337,6 +341,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10203,
+        "CombatBGMLevel": 4,
         "HpBase": 40.75199890136719,
         "AttackBase": 30.143999099731445,
         "DefenseBase": 500.0,
@@ -378,6 +383,84 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Brute_Ice_None",
+        "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 1387385672,
+        "CombatConfigHashSuffix": 111,
+        "Affix": [],
+        "AI": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010050,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010050,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010050,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010050,
+        "IsInvisibleReset": true,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 21020401,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 10204,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 8,
+        "HpBase": 122.25599670410156,
+        "AttackBase": 75.36000061035156,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.699999988079071,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.5,
+        "PrefabPathRagdollHashPre": 2421195100,
+        "PrefabPathRagdollHashSuffix": 114,
+        "Id": 21020401,
+        "NameTextMapHash": 2239170337,
+        "PrefabPathHashPre": 2494137033,
+        "PrefabPathHashSuffix": -120,
+        "PrefabPathRemoteHashPre": 2145582198,
+        "PrefabPathRemoteHashSuffix": 86,
+        "ControllerPathHashPre": 3996662081,
+        "ControllerPathHashSuffix": 97,
+        "ControllerPathRemoteHashPre": 3079805028,
+        "ControllerPathRemoteHashSuffix": 76,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Brute_Rock_None",
         "Type": "MONSTER_ORDINARY",
         "SecurityLevel": "ELITE",
@@ -409,11 +492,12 @@
         "KillDropId": 22010050,
         "IsInvisibleReset": true,
         "ExcludeWeathers": "",
-        "FeatureTagGroupId": 21020101,
+        "FeatureTagGroupId": 21020501,
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10205,
         "SafetyCheck": true,
+        "CombatBGMLevel": 8,
         "HpBase": 122.25599670410156,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -455,6 +539,83 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Brute_Ice_Shield",
+        "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 2001672459,
+        "CombatConfigHashSuffix": 35,
+        "Affix": [],
+        "AI": "scout01",
+        "Equips": [
+            0,
+            50004054
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010010,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010010,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010010,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010030,
+        "IsInvisibleReset": true,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 21020101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 10206,
+        "CombatBGMLevel": 4,
+        "HpBase": 40.75199890136719,
+        "AttackBase": 30.143999099731445,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.30000001192092896,
+        "PrefabPathRagdollHashPre": 2421195100,
+        "PrefabPathRagdollHashSuffix": 114,
+        "Id": 21020601,
+        "NameTextMapHash": 952088633,
+        "PrefabPathHashPre": 634687592,
+        "PrefabPathHashSuffix": -84,
+        "PrefabPathRemoteHashPre": 1921633867,
+        "PrefabPathRemoteHashSuffix": 67,
+        "ControllerPathHashPre": 3857991746,
+        "ControllerPathHashSuffix": -27,
+        "ControllerPathRemoteHashPre": 3406557770,
+        "ControllerPathRemoteHashSuffix": -19,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Slime_Grass_02",
         "Type": "MONSTER_ORDINARY",
         "ScriptDataPathHashPre": 299838192,
@@ -482,6 +643,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 101,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 7.535999774932861,
         "DefenseBase": 500.0,
@@ -555,6 +717,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 102,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -629,6 +792,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 102,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -697,6 +861,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 103,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 7.535999774932861,
         "DefenseBase": 500.0,
@@ -768,6 +933,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 104,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -841,6 +1007,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 104,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -909,6 +1076,7 @@
         "Skin": "",
         "DescribeId": 90101,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 150.0,
         "AttackBase": 100.0,
         "PropGrowCurves": [
@@ -961,6 +1129,7 @@
         "Skin": "",
         "DescribeId": 90101,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 67.91999816894531,
         "AttackBase": 56.52000045776367,
         "DefenseBase": 500.0,
@@ -1029,6 +1198,7 @@
         "Skin": "",
         "DescribeId": 90101,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 200.0,
         "AttackBase": 100.0,
         "PropGrowCurves": [
@@ -1079,6 +1249,7 @@
         "Skin": "",
         "DescribeId": 90101,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 122.25599670410156,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -1149,6 +1320,7 @@
         "Skin": "",
         "DescribeId": 90201,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 244.51199340820312,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -1217,6 +1389,7 @@
         "Skin": "",
         "DescribeId": 90201,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 244.51199340820312,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -1286,6 +1459,7 @@
         "Skin": "",
         "DescribeId": 90301,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 81.50399780273438,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -1348,6 +1522,7 @@
         "Skin": "",
         "DescribeId": 90301,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 81.50399780273438,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -1410,6 +1585,7 @@
         "Skin": "",
         "DescribeId": 90301,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 135.83999633789062,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -1471,6 +1647,7 @@
         "Skin": "",
         "DescribeId": 90301,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 81.50399780273438,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -1531,6 +1708,7 @@
         "Skin": "",
         "DescribeId": 90301,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 81.50399780273438,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -1591,6 +1769,7 @@
         "Skin": "",
         "DescribeId": 90301,
         "SafetyCheck": true,
+        "CombatBGMLevel": 18,
         "HpBase": 135.83999633789062,
         "AttackBase": 87.91999816894531,
         "DefenseBase": 500.0,
@@ -1660,6 +1839,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 201,
+        "CombatBGMLevel": 6,
         "HpBase": 67.91999816894531,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -1740,6 +1920,7 @@
         "Skin": "",
         "DescribeId": 401,
         "SafetyCheck": true,
+        "CombatBGMLevel": 14,
         "HpBase": 95.08799743652344,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -1769,6 +1950,87 @@
         "PrefabPathRagdollHashSuffix": 44,
         "Id": 20040101,
         "NameTextMapHash": 3733116881,
+        "PrefabPathHashPre": 3391840954,
+        "PrefabPathHashSuffix": -115,
+        "PrefabPathRemoteHashPre": 139380294,
+        "PrefabPathRemoteHashSuffix": -84,
+        "ControllerPathHashPre": 3103534165,
+        "ControllerPathHashSuffix": 126,
+        "ControllerPathRemoteHashPre": 3048656500,
+        "ControllerPathRemoteHashSuffix": 9,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Effigy_Electric_02",
+        "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
+        "ScriptDataPathHashPre": 1443390616,
+        "ScriptDataPathHashSuffix": 78,
+        "ServerScript": "",
+        "CombatConfigHashPre": 3140500426,
+        "CombatConfigHashSuffix": 80,
+        "Affix": [
+            3012,
+            2002,
+            5006
+        ],
+        "AI": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010034,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010034,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010034,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010034,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20040101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 401,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 14,
+        "HpBase": 149.4239959716797,
+        "AttackBase": 75.36000061035156,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 3480518463,
+        "PrefabPathRagdollHashSuffix": 44,
+        "Id": 20040102,
+        "NameTextMapHash": 431057345,
         "PrefabPathHashPre": 3391840954,
         "PrefabPathHashSuffix": -115,
         "PrefabPathRemoteHashPre": 139380294,
@@ -1819,6 +2081,7 @@
         "Skin": "",
         "DescribeId": 402,
         "SafetyCheck": true,
+        "CombatBGMLevel": 14,
         "HpBase": 95.08799743652344,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -1848,6 +2111,86 @@
         "PrefabPathRagdollHashSuffix": -40,
         "Id": 20040201,
         "NameTextMapHash": 3537842129,
+        "PrefabPathHashPre": 627220463,
+        "PrefabPathHashSuffix": -45,
+        "PrefabPathRemoteHashPre": 2167859876,
+        "PrefabPathRemoteHashSuffix": 86,
+        "ControllerPathHashPre": 2395780309,
+        "ControllerPathHashSuffix": 16,
+        "ControllerPathRemoteHashPre": 389078202,
+        "ControllerPathRemoteHashSuffix": -68,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Effigy_Wind_02",
+        "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
+        "ScriptDataPathHashPre": 1443390616,
+        "ScriptDataPathHashSuffix": 78,
+        "ServerScript": "",
+        "CombatConfigHashPre": 3649704113,
+        "CombatConfigHashSuffix": 109,
+        "Affix": [
+            3015,
+            5006
+        ],
+        "AI": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010035,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010035,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010035,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010035,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20020101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 402,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 14,
+        "HpBase": 149.4239959716797,
+        "AttackBase": 75.36000061035156,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 564538199,
+        "PrefabPathRagdollHashSuffix": -40,
+        "Id": 20040202,
+        "NameTextMapHash": 1918480017,
         "PrefabPathHashPre": 627220463,
         "PrefabPathHashSuffix": -45,
         "PrefabPathRemoteHashPre": 2167859876,
@@ -1899,6 +2242,7 @@
         "Skin": "",
         "DescribeId": 403,
         "SafetyCheck": true,
+        "CombatBGMLevel": 14,
         "HpBase": 95.08799743652344,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -1940,6 +2284,164 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Effigy_Rock_02",
+        "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
+        "ScriptDataPathHashPre": 1443390616,
+        "ScriptDataPathHashSuffix": 78,
+        "ServerScript": "",
+        "CombatConfigHashPre": 86244609,
+        "CombatConfigHashSuffix": -51,
+        "Affix": [
+            3021,
+            5006
+        ],
+        "AI": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010037,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010037,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010037,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010037,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20040101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 403,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 14,
+        "HpBase": 149.4239959716797,
+        "AttackBase": 75.36000061035156,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 2012747691,
+        "PrefabPathRagdollHashSuffix": -44,
+        "Id": 20040302,
+        "NameTextMapHash": 3567292889,
+        "PrefabPathHashPre": 3183366347,
+        "PrefabPathHashSuffix": -61,
+        "PrefabPathRemoteHashPre": 2954835245,
+        "PrefabPathRemoteHashSuffix": 68,
+        "ControllerPathHashPre": 2193354980,
+        "ControllerPathHashSuffix": 13,
+        "ControllerPathRemoteHashPre": 2072878541,
+        "ControllerPathRemoteHashSuffix": -21,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Effigy_Water_01",
+        "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
+        "ScriptDataPathHashPre": 1443390616,
+        "ScriptDataPathHashSuffix": 78,
+        "ServerScript": "",
+        "CombatConfigHashPre": 4140834130,
+        "CombatConfigHashSuffix": -25,
+        "Affix": [],
+        "AI": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010032,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010032,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010032,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010032,
+        "IsInvisibleReset": true,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20040101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 404,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 14,
+        "HpBase": 95.08799743652344,
+        "AttackBase": 75.36000061035156,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 1183722151,
+        "PrefabPathRagdollHashSuffix": 39,
+        "Id": 20040401,
+        "NameTextMapHash": 629631361,
+        "PrefabPathHashPre": 3752821945,
+        "PrefabPathHashSuffix": 12,
+        "PrefabPathRemoteHashPre": 963153485,
+        "PrefabPathRemoteHashSuffix": -29,
+        "ControllerPathHashPre": 1943387062,
+        "ControllerPathHashSuffix": -102,
+        "ControllerPathRemoteHashPre": 26715560,
+        "ControllerPathRemoteHashSuffix": 100,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Slime_Electric_02",
         "Type": "MONSTER_ORDINARY",
         "ScriptDataPathHashPre": 299838192,
@@ -1969,6 +2471,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 105,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 7.535999774932861,
         "DefenseBase": 500.0,
@@ -2042,6 +2545,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 106,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2116,6 +2620,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 106,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2189,6 +2694,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 107,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2263,6 +2769,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 107,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2333,6 +2840,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 108,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 7.535999774932861,
         "DefenseBase": 500.0,
@@ -2362,6 +2870,77 @@
         "PrefabPathRagdollHashSuffix": 48,
         "Id": 20010801,
         "NameTextMapHash": 3330494665,
+        "PrefabPathHashPre": 2751412261,
+        "PrefabPathHashSuffix": 50,
+        "PrefabPathRemoteHashPre": 3573444288,
+        "PrefabPathRemoteHashSuffix": 67,
+        "ControllerPathHashPre": 280778257,
+        "ControllerPathHashSuffix": 69,
+        "ControllerPathRemoteHashPre": 270715233,
+        "ControllerPathRemoteHashSuffix": 73,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Slime_Ice_02_Activity",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "SubFieldDrop_Mimik_Ice",
+        "CombatConfigHashPre": 2838553639,
+        "CombatConfigHashSuffix": -3,
+        "Affix": [
+            2003
+        ],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010016,
+                "HpPercent": 60.0
+            },
+            {},
+            {}
+        ],
+        "KillDropId": 22010016,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20010801,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 108,
+        "CombatBGMLevel": 2,
+        "HpBase": 10.867199897766113,
+        "AttackBase": 7.535999774932861,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 3053671473,
+        "PrefabPathRagdollHashSuffix": 48,
+        "Id": 20010802,
+        "NameTextMapHash": 186119169,
         "PrefabPathHashPre": 2751412261,
         "PrefabPathHashSuffix": 50,
         "PrefabPathRemoteHashPre": 3573444288,
@@ -2406,6 +2985,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 109,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2435,6 +3015,80 @@
         "PrefabPathRagdollHashSuffix": -128,
         "Id": 20010901,
         "NameTextMapHash": 2571648649,
+        "PrefabPathHashPre": 331567873,
+        "PrefabPathHashSuffix": -14,
+        "PrefabPathRemoteHashPre": 3025638385,
+        "PrefabPathRemoteHashSuffix": -18,
+        "ControllerPathHashPre": 3341913405,
+        "ControllerPathHashSuffix": -65,
+        "ControllerPathRemoteHashPre": 1789908227,
+        "ControllerPathRemoteHashSuffix": 120,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Slime_Ice_03_Activity",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "SubFieldDrop_Mimik_Ice",
+        "CombatConfigHashPre": 2804154876,
+        "CombatConfigHashSuffix": -55,
+        "Affix": [
+            2003
+        ],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010016,
+                "HpPercent": 66.0
+            },
+            {
+                "DropId": 22010016,
+                "HpPercent": 33.0
+            },
+            {}
+        ],
+        "KillDropId": 22010036,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20010901,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 109,
+        "CombatBGMLevel": 2,
+        "HpBase": 27.167999267578125,
+        "AttackBase": 17.583999633789062,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 2859388836,
+        "PrefabPathRagdollHashSuffix": -128,
+        "Id": 20010902,
+        "NameTextMapHash": 3615935753,
         "PrefabPathHashPre": 331567873,
         "PrefabPathHashSuffix": -14,
         "PrefabPathRemoteHashPre": 3025638385,
@@ -2480,6 +3134,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 109,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2548,6 +3203,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 110,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 7.535999774932861,
         "DefenseBase": 500.0,
@@ -2619,6 +3275,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 111,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2692,6 +3349,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 111,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -2733,6 +3391,270 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Effigy_Water_Underling_Ooze_01",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "",
+        "CombatConfigHashPre": 2783085288,
+        "CombatConfigHashSuffix": 47,
+        "Affix": [],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22010012,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20010501,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 116,
+        "CombatBGMLevel": 2,
+        "HpBase": 27.167999267578125,
+        "AttackBase": 17.583999633789062,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 3626547219,
+        "PrefabPathRagdollHashSuffix": 79,
+        "Id": 20011601,
+        "NameTextMapHash": 1353833713,
+        "PrefabPathHashPre": 1887145350,
+        "PrefabPathHashSuffix": -118,
+        "PrefabPathRemoteHashPre": 931554921,
+        "PrefabPathRemoteHashSuffix": -126,
+        "ControllerPathHashPre": 1345605896,
+        "ControllerPathHashSuffix": -39,
+        "ControllerPathRemoteHashPre": 3911047282,
+        "ControllerPathRemoteHashSuffix": 92,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Effigy_Water_Underling_Ooze_02",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "",
+        "CombatConfigHashPre": 500670713,
+        "CombatConfigHashSuffix": 53,
+        "Affix": [],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22010012,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20010601,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 117,
+        "CombatBGMLevel": 2,
+        "HpBase": 10.867199897766113,
+        "AttackBase": 7.535999774932861,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 3813061781,
+        "PrefabPathRagdollHashSuffix": -31,
+        "Id": 20011701,
+        "NameTextMapHash": 3376518281,
+        "PrefabPathHashPre": 3983566635,
+        "PrefabPathHashSuffix": 96,
+        "PrefabPathRemoteHashPre": 2458441006,
+        "PrefabPathRemoteHashSuffix": -55,
+        "ControllerPathHashPre": 1518904683,
+        "ControllerPathHashSuffix": -26,
+        "ControllerPathRemoteHashPre": 1221452002,
+        "ControllerPathRemoteHashSuffix": -107,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Effigy_Water_Underling_Ooze_03",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "",
+        "CombatConfigHashPre": 3110851721,
+        "CombatConfigHashSuffix": -33,
+        "Affix": [],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22010012,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20010601,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 118,
+        "CombatBGMLevel": 2,
+        "HpBase": 27.167999267578125,
+        "AttackBase": 17.583999633789062,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 45554537,
+        "PrefabPathRagdollHashSuffix": 14,
+        "Id": 20011801,
+        "NameTextMapHash": 2322955793,
+        "PrefabPathHashPre": 8794399,
+        "PrefabPathHashSuffix": -41,
+        "PrefabPathRemoteHashPre": 1841405403,
+        "PrefabPathRemoteHashSuffix": -4,
+        "ControllerPathHashPre": 1641438284,
+        "ControllerPathHashSuffix": -106,
+        "ControllerPathRemoteHashPre": 2641982210,
+        "ControllerPathRemoteHashSuffix": 68,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Effigy_Water_Underling_Ooze_04",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "",
+        "CombatConfigHashPre": 2101924221,
+        "CombatConfigHashSuffix": -59,
+        "Affix": [],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22010012,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20010701,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 119,
+        "CombatBGMLevel": 2,
+        "HpBase": 27.167999267578125,
+        "AttackBase": 17.583999633789062,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 810925069,
+        "PrefabPathRagdollHashSuffix": -60,
+        "Id": 20011901,
+        "NameTextMapHash": 2314559001,
+        "PrefabPathHashPre": 2992283782,
+        "PrefabPathHashSuffix": 123,
+        "PrefabPathRemoteHashPre": 274494822,
+        "PrefabPathRemoteHashSuffix": -31,
+        "ControllerPathHashPre": 2888239597,
+        "ControllerPathHashSuffix": 56,
+        "ControllerPathRemoteHashPre": 972504728,
+        "ControllerPathRemoteHashSuffix": -20,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Monster_Oceanid",
         "Type": "MONSTER_BOSS",
         "SecurityLevel": "BOSS",
@@ -2761,6 +3683,7 @@
         "Skin": "",
         "DescribeId": 501,
         "SafetyCheck": true,
+        "CombatBGMLevel": 14,
         "HpBase": 135.83999633789062,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -2828,6 +3751,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 502,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -2895,6 +3819,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 503,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -2962,6 +3887,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 504,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -3032,6 +3958,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 505,
+        "CombatBGMLevel": 2,
         "HpBase": 40.75199890136719,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -3099,6 +4026,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 506,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -3166,6 +4094,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 507,
+        "CombatBGMLevel": 2,
         "HpBase": 19.01759910583496,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -3236,6 +4165,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 508,
+        "CombatBGMLevel": 2,
         "HpBase": 40.75199890136719,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -3303,6 +4233,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 509,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -3371,6 +4302,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10102,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -3439,6 +4371,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10103,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -3507,6 +4440,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10104,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -3577,6 +4511,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10104,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -3647,6 +4582,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10105,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -3718,6 +4654,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10105,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -3788,6 +4725,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10106,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -3859,6 +4797,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10106,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -3929,6 +4868,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10107,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -3997,6 +4937,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10109,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -4067,6 +5008,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10109,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -4135,6 +5077,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10110,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -4205,6 +5148,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10110,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 11.303999900817871,
         "DefenseBase": 500.0,
@@ -4273,6 +5217,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10112,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -4314,6 +5259,144 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Hili_Ice_Bomb",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 2367785158,
+        "CombatConfigHashSuffix": -3,
+        "Affix": [],
+        "AI": "ranged01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010010,
+                "HpPercent": 60.0
+            },
+            {},
+            {}
+        ],
+        "KillDropId": 22010010,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 21010901,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 10113,
+        "CombatBGMLevel": 2,
+        "HpBase": 10.867199897766113,
+        "AttackBase": 11.303999900817871,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 1265807062,
+        "PrefabPathRagdollHashSuffix": -113,
+        "Id": 21011301,
+        "NameTextMapHash": 3823104921,
+        "PrefabPathHashPre": 331493063,
+        "PrefabPathHashSuffix": 5,
+        "PrefabPathRemoteHashPre": 410620726,
+        "PrefabPathRemoteHashSuffix": 36,
+        "ControllerPathHashPre": 1879763510,
+        "ControllerPathHashSuffix": 13,
+        "ControllerPathRemoteHashPre": 846361576,
+        "ControllerPathRemoteHashSuffix": -81,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Hili_Ice_IceShield",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 139463472,
+        "CombatConfigHashSuffix": 70,
+        "Affix": [],
+        "AI": "sentry02",
+        "Equips": [
+            50004057,
+            50004055
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010010,
+                "HpPercent": 60.0
+            },
+            {},
+            {}
+        ],
+        "KillDropId": 22010010,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 21010301,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 10114,
+        "CombatBGMLevel": 2,
+        "HpBase": 13.583999633789062,
+        "AttackBase": 22.607999801635742,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 1265807062,
+        "PrefabPathRagdollHashSuffix": -113,
+        "Id": 21011401,
+        "NameTextMapHash": 2016995769,
+        "PrefabPathHashPre": 673281098,
+        "PrefabPathHashSuffix": 64,
+        "PrefabPathRemoteHashPre": 3874303929,
+        "PrefabPathRemoteHashSuffix": -31,
+        "ControllerPathHashPre": 954557461,
+        "ControllerPathHashSuffix": 0,
+        "ControllerPathRemoteHashPre": 4003612304,
+        "ControllerPathRemoteHashSuffix": 124,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Hili_Wei_NoWeapon_01",
         "Type": "MONSTER_ORDINARY",
         "ScriptDataPathHashPre": 1151001883,
@@ -4341,6 +5424,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10115,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 22.607999801635742,
         "DefenseBase": 500.0,
@@ -4382,61 +5466,6 @@
         "LODPatternName": ""
     },
     {
-        "MonsterName": "Slime_Fire_Tutorial",
-        "Type": "MONSTER_ORDINARY",
-        "ScriptDataPathHashPre": 299838192,
-        "ScriptDataPathHashSuffix": 8,
-        "ServerScript": "",
-        "CombatConfigHashPre": 4291172496,
-        "CombatConfigHashSuffix": -122,
-        "Affix": [],
-        "AI": "assist01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "ExcludeWeathers": "",
-        "FeatureTagGroupId": 20011202,
-        "MpPropId": 1,
-        "Skin": "",
-        "DescribeId": 112,
-        "HpBase": 7.0,
-        "DefenseBase": 500.0,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHTPROP_BASE_HP",
-                "GrowCurve": "GROWCURVE_HP"
-            },
-            {
-                "Type": "FIGHTPROP_BASE_ATTACK",
-                "GrowCurve": "GROWCURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHTPROP_BASE_DEFENSE",
-                "GrowCurve": "GROWCURVE_DEFENSE"
-            }
-        ],
-        "PrefabPathRagdollHashPre": 1533140818,
-        "PrefabPathRagdollHashSuffix": 18,
-        "Id": 20011202,
-        "NameTextMapHash": 1261804353,
-        "PrefabPathHashPre": 2946435439,
-        "PrefabPathHashSuffix": 92,
-        "PrefabPathRemoteHashPre": 1538444924,
-        "PrefabPathRemoteHashSuffix": 89,
-        "ControllerPathHashPre": 833733528,
-        "ControllerPathHashSuffix": -40,
-        "ControllerPathRemoteHashPre": 142441769,
-        "ControllerPathRemoteHashSuffix": -72,
-        "CampId": 4001,
-        "LODPatternName": ""
-    },
-    {
         "MonsterName": "Slime_Fire_02",
         "Type": "MONSTER_ORDINARY",
         "ScriptDataPathHashPre": 299838192,
@@ -4464,6 +5493,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 112,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 7.535999774932861,
         "DefenseBase": 500.0,
@@ -4493,6 +5523,62 @@
         "PrefabPathRagdollHashSuffix": 18,
         "Id": 20011201,
         "NameTextMapHash": 3501653041,
+        "PrefabPathHashPre": 2946435439,
+        "PrefabPathHashSuffix": 92,
+        "PrefabPathRemoteHashPre": 1538444924,
+        "PrefabPathRemoteHashSuffix": 89,
+        "ControllerPathHashPre": 833733528,
+        "ControllerPathHashSuffix": -40,
+        "ControllerPathRemoteHashPre": 142441769,
+        "ControllerPathRemoteHashSuffix": -72,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Slime_Fire_Tutorial",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "",
+        "CombatConfigHashPre": 4291172496,
+        "CombatConfigHashSuffix": -122,
+        "Affix": [],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 20011202,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 112,
+        "CombatBGMLevel": 2,
+        "HpBase": 7.0,
+        "DefenseBase": 500.0,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 1533140818,
+        "PrefabPathRagdollHashSuffix": 18,
+        "Id": 20011202,
+        "NameTextMapHash": 1261804353,
         "PrefabPathHashPre": 2946435439,
         "PrefabPathHashSuffix": 92,
         "PrefabPathRemoteHashPre": 1538444924,
@@ -4535,6 +5621,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 113,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -4608,6 +5695,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 113,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -4676,6 +5764,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 114,
+        "CombatBGMLevel": 2,
         "HpBase": 10.867199897766113,
         "AttackBase": 7.535999774932861,
         "DefenseBase": 500.0,
@@ -4747,6 +5836,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 115,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -4820,6 +5910,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 115,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 17.583999633789062,
         "DefenseBase": 500.0,
@@ -4897,6 +5988,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20101,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -4976,6 +6068,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20101,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5055,6 +6148,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20101,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5133,6 +6227,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20101,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5210,6 +6305,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20102,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5289,6 +6385,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20102,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5368,6 +6465,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20102,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5446,6 +6544,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20102,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5521,6 +6620,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20103,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5599,6 +6699,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20103,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5677,6 +6778,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20103,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5754,6 +6856,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 20103,
+        "CombatBGMLevel": 4,
         "HpBase": 27.167999267578125,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -5822,6 +6925,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10301,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -5892,6 +6996,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10301,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -5960,6 +7065,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10302,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6030,6 +7136,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10302,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6098,6 +7205,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10303,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6168,6 +7276,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10303,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6238,6 +7347,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10303,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6306,6 +7416,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10304,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6376,6 +7487,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 10304,
+        "CombatBGMLevel": 2,
         "HpBase": 13.583999633789062,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6417,6 +7529,75 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Shaman_Ice_01",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 2694693371,
+        "CombatConfigHashSuffix": -69,
+        "Affix": [],
+        "AI": "scout01",
+        "Equips": [
+            50004049,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010016,
+                "HpPercent": 60.0
+            },
+            {},
+            {}
+        ],
+        "KillDropId": 22010016,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 21030401,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 10305,
+        "CombatBGMLevel": 2,
+        "HpBase": 13.583999633789062,
+        "AttackBase": 25.1200008392334,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.5,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 2107416678,
+        "PrefabPathRagdollHashSuffix": 110,
+        "Id": 21030501,
+        "NameTextMapHash": 3728629793,
+        "PrefabPathHashPre": 1017553564,
+        "PrefabPathHashSuffix": -85,
+        "PrefabPathRemoteHashPre": 2583681361,
+        "PrefabPathRemoteHashSuffix": -108,
+        "ControllerPathHashPre": 971162813,
+        "ControllerPathHashSuffix": -96,
+        "ControllerPathRemoteHashPre": 1864179298,
+        "ControllerPathRemoteHashSuffix": -104,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Defender_None_01",
         "Type": "MONSTER_ORDINARY",
         "SecurityLevel": "ELITE",
@@ -6454,6 +7635,7 @@
         "Skin": "",
         "DescribeId": 40101,
         "SafetyCheck": true,
+        "CombatBGMLevel": 8,
         "HpBase": 95.08799743652344,
         "AttackBase": 75.36000061035156,
         "DefenseBase": 500.0,
@@ -6532,6 +7714,7 @@
         "Skin": "",
         "DescribeId": 40102,
         "SafetyCheck": true,
+        "CombatBGMLevel": 8,
         "HpBase": 81.50399780273438,
         "AttackBase": 87.91999816894531,
         "DefenseBase": 500.0,
@@ -6610,7 +7793,8 @@
         "Skin": "",
         "DescribeId": 40103,
         "SafetyCheck": true,
-        "HpBase": 81.50399780273438,
+        "CombatBGMLevel": 10,
+        "HpBase": 122.25599670410156,
         "AttackBase": 87.91999816894531,
         "DefenseBase": 500.0,
         "FireSubHurt": 0.10000000149011612,
@@ -6634,15 +7818,15 @@
                 "GrowCurve": "GROWCURVE_DEFENSE"
             }
         ],
-        "PhysicalSubHurt": 0.5,
+        "PhysicalSubHurt": 0.699999988079071,
         "PrefabPathRagdollHashPre": 2006917260,
         "PrefabPathRagdollHashSuffix": -78,
         "Id": 24010301,
         "NameTextMapHash": 437630321,
         "PrefabPathHashPre": 3291963074,
         "PrefabPathHashSuffix": 32,
-        "PrefabPathRemoteHashPre": 2806157685,
-        "PrefabPathRemoteHashSuffix": 27,
+        "PrefabPathRemoteHashPre": 870547507,
+        "PrefabPathRemoteHashSuffix": 14,
         "ControllerPathHashPre": 207903710,
         "ControllerPathHashSuffix": -51,
         "ControllerPathRemoteHashPre": 4249129968,
@@ -6682,6 +7866,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30101,
+        "CombatBGMLevel": 6,
         "HpBase": 54.33599853515625,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -6754,6 +7939,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30102,
+        "CombatBGMLevel": 6,
         "HpBase": 40.75199890136719,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6826,6 +8012,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30103,
+        "CombatBGMLevel": 6,
         "HpBase": 54.33599853515625,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -6898,6 +8085,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30104,
+        "CombatBGMLevel": 6,
         "HpBase": 40.75199890136719,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -6970,6 +8158,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30105,
+        "CombatBGMLevel": 6,
         "HpBase": 40.75199890136719,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -7042,6 +8231,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30106,
+        "CombatBGMLevel": 6,
         "HpBase": 40.75199890136719,
         "AttackBase": 37.68000030517578,
         "DefenseBase": 500.0,
@@ -7116,6 +8306,7 @@
         "Skin": "",
         "DescribeId": 30201,
         "SafetyCheck": true,
+        "CombatBGMLevel": 6,
         "HpBase": 67.91999816894531,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -7191,6 +8382,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30201,
+        "CombatBGMLevel": 6,
         "HpBase": 67.91999816894531,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -7267,6 +8459,7 @@
         "Skin": "",
         "DescribeId": 30301,
         "SafetyCheck": true,
+        "CombatBGMLevel": 6,
         "HpBase": 67.91999816894531,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -7343,6 +8536,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 30301,
+        "CombatBGMLevel": 6,
         "HpBase": 67.91999816894531,
         "AttackBase": 50.2400016784668,
         "DefenseBase": 500.0,
@@ -7384,6 +8578,83 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Fatuus_Mage_Ice_01",
+        "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
+        "ScriptDataPathHashPre": 2936040797,
+        "ScriptDataPathHashSuffix": 81,
+        "ServerScript": "",
+        "CombatConfigHashPre": 299734420,
+        "CombatConfigHashSuffix": 89,
+        "Affix": [
+            9002
+        ],
+        "AI": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010030,
+                "HpPercent": 66.0
+            },
+            {
+                "DropId": 22010030,
+                "HpPercent": 33.0
+            },
+            {}
+        ],
+        "KillDropId": 22010030,
+        "IsInvisibleReset": true,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 23040101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 30401,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 6,
+        "HpBase": 67.91999816894531,
+        "AttackBase": 50.2400016784668,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.5,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": -0.20000000298023224,
+        "PrefabPathRagdollHashPre": 3769052332,
+        "PrefabPathRagdollHashSuffix": 16,
+        "Id": 23040101,
+        "NameTextMapHash": 1234921961,
+        "PrefabPathHashPre": 2495506684,
+        "PrefabPathHashSuffix": -56,
+        "PrefabPathRemoteHashPre": 3790087623,
+        "PrefabPathRemoteHashSuffix": 121,
+        "ControllerPathHashPre": 2410335041,
+        "ControllerPathHashSuffix": -43,
+        "ControllerPathRemoteHashPre": 1350963349,
+        "ControllerPathRemoteHashSuffix": -39,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Thoarder_Male_NoWeapon_01",
         "Type": "MONSTER_ORDINARY",
         "ScriptDataPathHashPre": 1151001883,
@@ -7414,6 +8685,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Strong_NoWeapon_01",
         "DescribeId": 50101,
+        "CombatBGMLevel": 2,
         "HpBase": 32.601600646972656,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -7485,6 +8757,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_NoWeapon_01_02",
         "DescribeId": 50101,
+        "CombatBGMLevel": 2,
         "HpBase": 32.601600646972656,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -7556,6 +8829,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_NoWeapon_01_03",
         "DescribeId": 50101,
+        "CombatBGMLevel": 2,
         "HpBase": 32.601600646972656,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -7627,6 +8901,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_NoWeapon_01_04",
         "DescribeId": 50101,
+        "CombatBGMLevel": 2,
         "HpBase": 32.601600646972656,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -7698,6 +8973,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_NoWeapon_02",
         "DescribeId": 50102,
+        "CombatBGMLevel": 2,
         "HpBase": 16.300800323486328,
         "AttackBase": 15.071999549865723,
         "DefenseBase": 500.0,
@@ -7769,6 +9045,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_NoWeapon_02_03",
         "DescribeId": 50102,
+        "CombatBGMLevel": 2,
         "HpBase": 16.300800323486328,
         "AttackBase": 15.071999549865723,
         "DefenseBase": 500.0,
@@ -7840,6 +9117,7 @@
         "MpPropId": 1,
         "Skin": "Monster_Thoarder_Male_Standard_NoWeapon_02_04",
         "DescribeId": 50102,
+        "CombatBGMLevel": 2,
         "HpBase": 16.300800323486328,
         "AttackBase": 15.071999549865723,
         "DefenseBase": 500.0,
@@ -7911,6 +9189,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_NoWeapon_Fire_01",
         "DescribeId": 50103,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -7982,6 +9261,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_NoWeapon_Fire_01_02",
         "DescribeId": 50103,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8053,6 +9333,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_NoWeapon_Water_01",
         "DescribeId": 50104,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8124,6 +9405,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_NoWeapon_Electric_01",
         "DescribeId": 50105,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8195,6 +9477,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_NoWeapon_Ice_01",
         "DescribeId": 50106,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8269,6 +9552,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Fat_NoWeapon_01",
         "DescribeId": 50107,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8340,6 +9624,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_Crossbow_01",
         "DescribeId": 50201,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -8411,6 +9696,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_Crossbow_02",
         "DescribeId": 50202,
+        "CombatBGMLevel": 2,
         "HpBase": 16.300800323486328,
         "AttackBase": 15.071999549865723,
         "DefenseBase": 500.0,
@@ -8482,6 +9768,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Standard_Crossbow_02_03",
         "DescribeId": 50202,
+        "CombatBGMLevel": 2,
         "HpBase": 16.300800323486328,
         "AttackBase": 15.071999549865723,
         "DefenseBase": 500.0,
@@ -8553,6 +9840,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Fat_Shovel_01",
         "DescribeId": 50301,
+        "CombatBGMLevel": 2,
         "HpBase": 40.75199890136719,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -8627,6 +9915,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Fat_Shovel_03",
         "DescribeId": 50302,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8701,6 +9990,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Male_Fat_Shovel_02",
         "DescribeId": 50303,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8775,6 +10065,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_Female_Standard_Hatchet_01",
         "DescribeId": 50401,
+        "CombatBGMLevel": 2,
         "HpBase": 32.601600646972656,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -8846,6 +10137,7 @@
         "MpPropId": 1,
         "Skin": "Millelith_Male_01",
         "DescribeId": 50501,
+        "CombatBGMLevel": 2,
         "HpBase": 21.734399795532227,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -8920,6 +10212,7 @@
         "MpPropId": 1,
         "Skin": "Millelith_Male_02",
         "DescribeId": 50502,
+        "CombatBGMLevel": 2,
         "HpBase": 32.601600646972656,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -8994,6 +10287,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_MuscleMan_NoWeapon_01",
         "DescribeId": 50601,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -9068,6 +10362,7 @@
         "MpPropId": 1,
         "Skin": "Thoarder_MuscleMan_Hammer_01",
         "DescribeId": 50701,
+        "CombatBGMLevel": 2,
         "HpBase": 27.167999267578125,
         "AttackBase": 20.09600067138672,
         "DefenseBase": 500.0,
@@ -9142,6 +10437,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 60101,
+        "CombatBGMLevel": 2,
         "HpBase": 40.75199890136719,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -9171,6 +10467,83 @@
         "PrefabPathRagdollHashSuffix": 116,
         "Id": 26010101,
         "NameTextMapHash": 3892631801,
+        "PrefabPathHashPre": 3188331776,
+        "PrefabPathHashSuffix": 51,
+        "PrefabPathRemoteHashPre": 1980303104,
+        "PrefabPathRemoteHashSuffix": 69,
+        "ControllerPathHashPre": 1750522581,
+        "ControllerPathHashSuffix": 79,
+        "ControllerPathRemoteHashPre": 30738502,
+        "ControllerPathRemoteHashSuffix": 67,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Mimik_Ice_Activity",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "SubFieldDrop_Mimik_Ice",
+        "CombatConfigHashPre": 2518729741,
+        "CombatConfigHashSuffix": 72,
+        "Affix": [
+            5008
+        ],
+        "AI": "sentry02",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010016,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010016,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010016,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010036,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 26010101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 60101,
+        "CombatBGMLevel": 2,
+        "HpBase": 40.75199890136719,
+        "AttackBase": 25.1200008392334,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.5,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashPre": 3235505413,
+        "PrefabPathRagdollHashSuffix": 116,
+        "Id": 26010102,
+        "NameTextMapHash": 1532865513,
         "PrefabPathHashPre": 3188331776,
         "PrefabPathHashSuffix": 51,
         "PrefabPathRemoteHashPre": 1980303104,
@@ -9216,6 +10589,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 60102,
+        "CombatBGMLevel": 2,
         "HpBase": 40.75199890136719,
         "AttackBase": 25.1200008392334,
         "DefenseBase": 500.0,
@@ -9293,6 +10667,7 @@
         "Skin": "",
         "DescribeId": 60201,
         "SafetyCheck": true,
+        "CombatBGMLevel": 14,
         "HpBase": 95.08799743652344,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -9322,6 +10697,86 @@
         "PrefabPathRagdollHashSuffix": 104,
         "Id": 26020101,
         "NameTextMapHash": 3775823065,
+        "PrefabPathHashPre": 2241855721,
+        "PrefabPathHashSuffix": 24,
+        "PrefabPathRemoteHashPre": 1249414916,
+        "PrefabPathRemoteHashSuffix": 2,
+        "ControllerPathHashPre": 2001594552,
+        "ControllerPathHashSuffix": 77,
+        "ControllerPathRemoteHashPre": 1744591778,
+        "ControllerPathRemoteHashSuffix": 127,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Regisvine_Ice_Activity",
+        "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 356094122,
+        "CombatConfigHashSuffix": -37,
+        "Affix": [
+            5007
+        ],
+        "AI": "sentry02",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010036,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010036,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010036,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010036,
+        "IsInvisibleReset": true,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 26020101,
+        "MpPropId": 101,
+        "Skin": "",
+        "DescribeId": 60201,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 14,
+        "HpBase": 149.4239959716797,
+        "AttackBase": 75.36000061035156,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.699999988079071,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.30000001192092896,
+        "PrefabPathRagdollHashPre": 3263887620,
+        "PrefabPathRagdollHashSuffix": 104,
+        "Id": 26020102,
+        "NameTextMapHash": 3346743593,
         "PrefabPathHashPre": 2241855721,
         "PrefabPathHashSuffix": 24,
         "PrefabPathRemoteHashPre": 1249414916,
@@ -9370,6 +10825,7 @@
         "Skin": "",
         "DescribeId": 60202,
         "SafetyCheck": true,
+        "CombatBGMLevel": 14,
         "HpBase": 95.08799743652344,
         "AttackBase": 62.79999923706055,
         "DefenseBase": 500.0,
@@ -9442,6 +10898,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 60301,
+        "CombatBGMLevel": 4,
         "HpBase": 40.75199890136719,
         "AttackBase": 30.143999099731445,
         "DefenseBase": 500.0,
@@ -9510,6 +10967,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 60601,
+        "CombatBGMLevel": 2,
         "HpBase": 6.791999816894531,
         "AttackBase": 10.04800033569336,
         "DefenseBase": 500.0,
@@ -9578,6 +11036,7 @@
         "MpPropId": 1,
         "Skin": "",
         "DescribeId": 60602,
+        "CombatBGMLevel": 2,
         "HpBase": 6.791999816894531,
         "AttackBase": 10.04800033569336,
         "DefenseBase": 500.0,
@@ -9617,6 +11076,150 @@
         "ControllerPathRemoteHashSuffix": 9,
         "CampId": 4001,
         "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Cicin_Ice_01",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 299838192,
+        "ScriptDataPathHashSuffix": 8,
+        "ServerScript": "",
+        "CombatConfigHashPre": 1923924266,
+        "CombatConfigHashSuffix": 124,
+        "Affix": [],
+        "AI": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010016,
+                "HpPercent": 60.0
+            },
+            {},
+            {}
+        ],
+        "KillDropId": 22010016,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupId": 26060301,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 60603,
+        "CombatBGMLevel": 2,
+        "HpBase": 6.791999816894531,
+        "AttackBase": 10.04800033569336,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.5,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": -0.5,
+        "PrefabPathRagdollHashPre": 1929527160,
+        "PrefabPathRagdollHashSuffix": -96,
+        "Id": 26060301,
+        "NameTextMapHash": 752864169,
+        "PrefabPathHashPre": 3278486955,
+        "PrefabPathHashSuffix": 70,
+        "PrefabPathRemoteHashPre": 1203585044,
+        "PrefabPathRemoteHashSuffix": 63,
+        "ControllerPathHashPre": 4221274442,
+        "ControllerPathHashSuffix": -78,
+        "ControllerPathRemoteHashPre": 1436624167,
+        "ControllerPathRemoteHashSuffix": 101,
+        "CampId": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Boar_04",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 1056910095,
+        "CombatConfigHashSuffix": 108,
+        "Affix": [],
+        "AI": "sentry02",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010050,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010050,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010050,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22003100,
+        "ExcludeWeathers": "雨,雷雨,雪",
+        "FeatureTagGroupId": 28020301,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 28020304,
+        "CombatBGMLevel": 6,
+        "HpBase": 149.4239959716797,
+        "AttackBase": 62.79999923706055,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.30000001192092896,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.5,
+        "PrefabPathRagdollHashPre": 1484932155,
+        "PrefabPathRagdollHashSuffix": -110,
+        "Id": 28020304,
+        "NameTextMapHash": 2945576521,
+        "PrefabPathHashPre": 957869449,
+        "PrefabPathHashSuffix": -15,
+        "PrefabPathRemoteHashPre": 2580068062,
+        "PrefabPathRemoteHashSuffix": -32,
+        "ControllerPathHashPre": 3990190187,
+        "ControllerPathHashSuffix": -85,
+        "ControllerPathRemoteHashPre": 2076782843,
+        "ControllerPathRemoteHashSuffix": -108,
+        "CampId": 4001,
+        "LODPatternName": "Animal_Default_01"
     },
     {
         "MonsterName": "Boar_01",
@@ -9671,6 +11274,118 @@
         "ControllerPathHashSuffix": 39,
         "ControllerPathRemoteHashPre": 2017249678,
         "ControllerPathRemoteHashSuffix": 118,
+        "CampId": 4001,
+        "LODPatternName": "Animal_Default_01"
+    },
+    {
+        "MonsterName": "Boar_03",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 703724276,
+        "CombatConfigHashSuffix": 115,
+        "Affix": [],
+        "AI": "sentry02",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22003000,
+        "ExcludeWeathers": "雨,雷雨,雪",
+        "FeatureTagGroupId": 28020301,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 28020303,
+        "HpBase": 2.7167999744415283,
+        "AttackBase": 12.5600004196167,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP_LITTLEMONSTER"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 1484932155,
+        "PrefabPathRagdollHashSuffix": -110,
+        "Id": 28020303,
+        "NameTextMapHash": 132617825,
+        "PrefabPathHashPre": 2646112091,
+        "PrefabPathHashSuffix": -24,
+        "PrefabPathRemoteHashPre": 972834593,
+        "PrefabPathRemoteHashSuffix": 46,
+        "ControllerPathHashPre": 2933752081,
+        "ControllerPathHashSuffix": 75,
+        "ControllerPathRemoteHashPre": 4192688982,
+        "ControllerPathRemoteHashSuffix": 86,
+        "CampId": 4001,
+        "LODPatternName": "Animal_Default_01"
+    },
+    {
+        "MonsterName": "Boar_05",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1151001883,
+        "ScriptDataPathHashSuffix": 84,
+        "ServerScript": "",
+        "CombatConfigHashPre": 4100934363,
+        "CombatConfigHashSuffix": -88,
+        "Affix": [],
+        "AI": "sentry02",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22003000,
+        "ExcludeWeathers": "雨,雷雨,雪",
+        "FeatureTagGroupId": 28020301,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 28020303,
+        "HpBase": 2.7167999744415283,
+        "AttackBase": 12.5600004196167,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP_LITTLEMONSTER"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 1484932155,
+        "PrefabPathRagdollHashSuffix": -110,
+        "Id": 28020305,
+        "NameTextMapHash": 1456352009,
+        "PrefabPathHashPre": 1252112042,
+        "PrefabPathHashSuffix": 112,
+        "PrefabPathRemoteHashPre": 3060111363,
+        "PrefabPathRemoteHashSuffix": 59,
+        "ControllerPathHashPre": 4096713992,
+        "ControllerPathHashSuffix": 126,
+        "ControllerPathRemoteHashPre": 2528947484,
+        "ControllerPathRemoteHashSuffix": 79,
         "CampId": 4001,
         "LODPatternName": "Animal_Default_01"
     },
@@ -9953,6 +11668,120 @@
         "ControllerPathHashSuffix": 12,
         "ControllerPathRemoteHashPre": 2798414722,
         "ControllerPathRemoteHashSuffix": -17,
+        "CampId": 4001,
+        "LODPatternName": "Animal_Special_40_01"
+    },
+    {
+        "MonsterName": "Fox_03",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1543554138,
+        "ScriptDataPathHashSuffix": -28,
+        "ServerScript": "",
+        "CombatConfigHashPre": 3070958651,
+        "CombatConfigHashSuffix": -29,
+        "Affix": [],
+        "AI": "playing",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22000100,
+        "VisionLevel": "VISION_LEVEL_NEARBY",
+        "ExcludeWeathers": "雨,雷雨,雪",
+        "FeatureTagGroupId": 28020102,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 28010101,
+        "HpBase": 0.14000000059604645,
+        "AttackBase": 0.5099999904632568,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP_LITTLEMONSTER"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 325631314,
+        "PrefabPathRagdollHashSuffix": -30,
+        "Id": 28020103,
+        "NameTextMapHash": 4278404001,
+        "PrefabPathHashPre": 132868435,
+        "PrefabPathHashSuffix": 47,
+        "PrefabPathRemoteHashPre": 3148341489,
+        "PrefabPathRemoteHashSuffix": 91,
+        "ControllerPathHashPre": 100872382,
+        "ControllerPathHashSuffix": -47,
+        "ControllerPathRemoteHashPre": 3065613635,
+        "ControllerPathRemoteHashSuffix": 48,
+        "CampId": 4001,
+        "LODPatternName": "Animal_Special_40_01"
+    },
+    {
+        "MonsterName": "Fox_04",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashPre": 1543554138,
+        "ScriptDataPathHashSuffix": -28,
+        "ServerScript": "",
+        "CombatConfigHashPre": 501179496,
+        "CombatConfigHashSuffix": 59,
+        "Affix": [],
+        "AI": "playing",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22000100,
+        "VisionLevel": "VISION_LEVEL_NEARBY",
+        "ExcludeWeathers": "雨,雷雨,雪",
+        "FeatureTagGroupId": 28020102,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 28010101,
+        "HpBase": 0.14000000059604645,
+        "AttackBase": 0.5099999904632568,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP_LITTLEMONSTER"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 325631314,
+        "PrefabPathRagdollHashSuffix": -30,
+        "Id": 28020104,
+        "NameTextMapHash": 4274494425,
+        "PrefabPathHashPre": 1848002236,
+        "PrefabPathHashSuffix": -29,
+        "PrefabPathRemoteHashPre": 2572515718,
+        "PrefabPathRemoteHashSuffix": 113,
+        "ControllerPathHashPre": 1870412510,
+        "ControllerPathHashSuffix": -100,
+        "ControllerPathRemoteHashPre": 639017455,
+        "ControllerPathRemoteHashSuffix": 76,
         "CampId": 4001,
         "LODPatternName": "Animal_Special_40_01"
     },
@@ -10406,6 +12235,62 @@
         "ControllerPathHashSuffix": 6,
         "ControllerPathRemoteHashPre": 919037054,
         "ControllerPathRemoteHashSuffix": -97,
+        "CampId": 4001,
+        "LODPatternName": "Animal_Special_40_01"
+    },
+    {
+        "MonsterName": "Wisp_Ice_01",
+        "Type": "MONSTER_ENV_ANIMAL",
+        "ScriptDataPathHashPre": 1543554138,
+        "ScriptDataPathHashSuffix": -28,
+        "ServerScript": "",
+        "CombatConfigHashPre": 2702345789,
+        "CombatConfigHashSuffix": 34,
+        "Affix": [],
+        "AI": "playing",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "VisionLevel": "VISION_LEVEL_NEARBY",
+        "ExcludeWeathers": "雨,雷雨,雪",
+        "FeatureTagGroupId": 28050101,
+        "MpPropId": 1,
+        "Skin": "",
+        "DescribeId": 28050103,
+        "HpBase": 0.14000000059604645,
+        "AttackBase": 0.5099999904632568,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHTPROP_BASE_HP",
+                "GrowCurve": "GROWCURVE_HP_LITTLEMONSTER"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_ATTACK",
+                "GrowCurve": "GROWCURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHTPROP_BASE_DEFENSE",
+                "GrowCurve": "GROWCURVE_DEFENSE"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 2803480848,
+        "PrefabPathRagdollHashSuffix": 105,
+        "Id": 28050103,
+        "NameTextMapHash": 629511129,
+        "PrefabPathHashPre": 2940308399,
+        "PrefabPathHashSuffix": -6,
+        "PrefabPathRemoteHashPre": 3865995258,
+        "PrefabPathRemoteHashSuffix": -91,
+        "ControllerPathHashPre": 3123119514,
+        "ControllerPathHashSuffix": 113,
+        "ControllerPathRemoteHashPre": 4180973155,
+        "ControllerPathRemoteHashSuffix": 115,
         "CampId": 4001,
         "LODPatternName": "Animal_Special_40_01"
     },
@@ -10938,7 +12823,7 @@
         "FeatureTagGroupId": 28020302,
         "MpPropId": 1,
         "Skin": "",
-        "DescribeId": 28020302,
+        "DescribeId": 28020301,
         "HpBase": 0.14000000059604645,
         "AttackBase": 0.5099999904632568,
         "PropGrowCurves": [

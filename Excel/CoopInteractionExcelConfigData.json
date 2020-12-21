@@ -1,79 +1,182 @@
 [
     {
         "Id": 1900101,
-        "MainQuestId": 147101,
-        "Priority": 19001,
-        "IsAuto": true
+        "NpcId": 147101,
+        "MainQuestId": 19001,
+        "Priority": 5
     },
     {
         "Id": 1900102,
-        "MainQuestId": 501,
-        "Priority": 19001,
-        "IsAuto": true
+        "NpcId": 501,
+        "MainQuestId": 19001,
+        "Priority": 5
     },
     {
         "Id": 1900103,
-        "MainQuestId": 501,
-        "Priority": 19001,
-        "IsAuto": true
+        "NpcId": 501,
+        "MainQuestId": 19001,
+        "Priority": 5
     },
     {
         "Id": 1900104,
-        "MainQuestId": 501,
-        "Priority": 19001,
-        "IsAuto": true
+        "NpcId": 501,
+        "MainQuestId": 19001,
+        "Priority": 5
     },
     {
         "Id": 1900201,
-        "MainQuestId": 160201,
-        "Priority": 19002,
-        "IsAuto": true
+        "NpcId": 160201,
+        "MainQuestId": 19002,
+        "Priority": 5
     },
     {
         "Id": 1900202,
-        "MainQuestId": 160201,
-        "Priority": 19002,
-        "IsAuto": true
+        "NpcId": 160201,
+        "MainQuestId": 19002,
+        "Priority": 5
     },
     {
         "Id": 1900203,
-        "MainQuestId": 501,
-        "Priority": 19002,
-        "IsAuto": true
+        "NpcId": 501,
+        "MainQuestId": 19002,
+        "Priority": 5
     },
     {
         "Id": 1900301,
-        "MainQuestId": 501,
-        "Priority": 19003,
+        "NpcId": 501,
+        "MainQuestId": 19003,
+        "Priority": 5,
         "IsAuto": true
     },
     {
-        "Id": 29
+        "Id": 1900302,
+        "NpcId": 147101,
+        "MainQuestId": 19003,
+        "Priority": 5
     },
     {
-        "NpcId": 1900901,
-        "MainQuestId": 501,
-        "Priority": 19009,
+        "Id": 1900303,
+        "NpcId": 501,
+        "MainQuestId": 19003,
+        "Priority": 5,
         "IsAuto": true
     },
     {
-        "Id": 29
+        "Id": 1900304,
+        "NpcId": 147101,
+        "MainQuestId": 19003,
+        "Priority": 5
     },
     {
-        "NpcId": 0
+        "Id": 1900305,
+        "NpcId": 147101,
+        "MainQuestId": 19003,
+        "Priority": 5
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 1900306,
+        "NpcId": 147101,
+        "MainQuestId": 19003,
+        "Priority": 5
+    },
+    {
+        "Id": 1900401,
+        "NpcId": 1005,
+        "MainQuestId": 19004,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900402,
+        "NpcId": 501,
+        "MainQuestId": 19004,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900501,
+        "NpcId": 10801,
+        "MainQuestId": 19005,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900502,
+        "NpcId": 501,
+        "MainQuestId": 19005,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900504,
+        "NpcId": 501,
+        "MainQuestId": 19005,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900601,
+        "NpcId": 501,
+        "MainQuestId": 19006,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900701,
+        "NpcId": 501,
+        "MainQuestId": 19007,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900801,
+        "NpcId": 10802,
+        "MainQuestId": 19008,
+        "Priority": 5
+    },
+    {
+        "Id": 1900802,
+        "NpcId": 501,
+        "MainQuestId": 19008,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900901,
+        "NpcId": 501,
+        "MainQuestId": 19009,
+        "Priority": 5,
+        "IsAuto": true
+    },
+    {
+        "Id": 1900902,
+        "NpcId": 163801,
+        "MainQuestId": 19009,
+        "Priority": 5
+    },
+    {
+        "Id": 1900903,
+        "NpcId": 160401,
+        "MainQuestId": 19009,
+        "Priority": 5
+    },
+    {
+        "Id": 1900904,
+        "NpcId": 145301,
+        "MainQuestId": 19009,
+        "Priority": 5
+    },
+    {
+        "Id": 1900905,
+        "NpcId": 501,
+        "MainQuestId": 19009,
+        "Priority": 5
+    },
+    {
+        "Id": 1900906,
+        "NpcId": 501,
+        "MainQuestId": 19009,
+        "Priority": 5,
+        "IsAuto": true
+    }
 ]

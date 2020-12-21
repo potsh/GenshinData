@@ -38,5 +38,25 @@
             10,
             0
         ]
+    },
+    {
+        "ScheduleId": 5002005,
+        "AvatarIndexId": [
+            16,
+            18,
+            19,
+            20,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002006,
+        "AvatarIndexId": [
+            15,
+            17,
+            0,
+            0,
+            0
+        ]
     }
 ]

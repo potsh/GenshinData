@@ -43,5 +43,14 @@
         "JsonName": "Flycloak_Default_01",
         "Icon": "UI_Gacha_FlycloakIcon_Megalith",
         "MaterialId": 140005
+    },
+    {
+        "FlyCloakId": 140006,
+        "NameTextMapHash": 790364508,
+        "DescTextMapHash": 2419069352,
+        "PrefabPath": "ART/Flycloak/Flycloak_Normal_Nixavis_01/Flycloak_Normal_Nixavis_01",
+        "JsonName": "Flycloak_Default_01",
+        "Icon": "UI_Gacha_FlycloakIcon_Nixavis",
+        "MaterialId": 140006
     }
 ]

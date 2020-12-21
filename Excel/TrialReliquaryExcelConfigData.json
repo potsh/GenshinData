@@ -119,6 +119,61 @@
         ]
     },
     {
+        "Id": 26,
+        "ReliquaryId": 57311,
+        "Level": 9,
+        "MainPropId": 15004,
+        "AppendProp": [
+            301053,
+            301023,
+            301243
+        ]
+    },
+    {
+        "Id": 27,
+        "ReliquaryId": 57321,
+        "Level": 9,
+        "MainPropId": 12001,
+        "AppendProp": [
+            301243,
+            301023,
+            301203
+        ]
+    },
+    {
+        "Id": 28,
+        "ReliquaryId": 57331,
+        "Level": 9,
+        "MainPropId": 13007,
+        "AppendProp": [
+            301053,
+            301023,
+            301243
+        ]
+    },
+    {
+        "Id": 29,
+        "ReliquaryId": 57341,
+        "Level": 9,
+        "MainPropId": 14001,
+        "AppendProp": [
+            301053,
+            301033,
+            301243
+        ]
+    },
+    {
+        "Id": 30,
+        "ReliquaryId": 57351,
+        "Level": 9,
+        "MainPropId": 10008,
+        "AppendProp": [
+            301053,
+            301023,
+            301203
+        ]
+    },
+    {
         "Id": 31,
         "ReliquaryId": 52312,
         "Level": 13,

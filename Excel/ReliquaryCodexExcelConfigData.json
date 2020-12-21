@@ -375,6 +375,17 @@
         "SortOrder": 37
     },
     {
+        "Id": 30107104,
+        "SuitId": 14001,
+        "Level": 4,
+        "CupId": 71410,
+        "LeatherId": 71420,
+        "CapId": 71430,
+        "FlowerId": 71440,
+        "SandId": 71450,
+        "SortOrder": 38
+    },
+    {
         "Id": 30107204,
         "SuitId": 14002,
         "Level": 4,
@@ -507,6 +518,28 @@
         "SortOrder": 50
     },
     {
+        "Id": 30109004,
+        "SuitId": 15016,
+        "Level": 4,
+        "CupId": 90410,
+        "LeatherId": 90420,
+        "CapId": 90430,
+        "FlowerId": 90440,
+        "SandId": 90450,
+        "SortOrder": 51
+    },
+    {
+        "Id": 30107105,
+        "SuitId": 14001,
+        "Level": 5,
+        "CupId": 71510,
+        "LeatherId": 71520,
+        "CapId": 71530,
+        "FlowerId": 71540,
+        "SandId": 71550,
+        "SortOrder": 52
+    },
+    {
         "Id": 30107205,
         "SuitId": 14002,
         "Level": 5,
@@ -637,5 +670,16 @@
         "FlowerId": 89540,
         "SandId": 89550,
         "SortOrder": 64
+    },
+    {
+        "Id": 30109005,
+        "SuitId": 15016,
+        "Level": 5,
+        "CupId": 90510,
+        "LeatherId": 90520,
+        "CapId": 90530,
+        "FlowerId": 90540,
+        "SandId": 90550,
+        "SortOrder": 65
     }
 ]

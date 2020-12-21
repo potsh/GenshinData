@@ -1709,6 +1709,137 @@
         ]
     },
     {
+        "TalentId": 251,
+        "NameTextMapHash": 792197377,
+        "DescTextMapHash": 3521725647,
+        "Icon": "UI_Talent_S_Xingqiu_01",
+        "MainCostItemId": 1125,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Xingqiu_Constellation_1",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 252,
+        "NameTextMapHash": 4158193737,
+        "DescTextMapHash": 1801328303,
+        "Icon": "UI_Talent_S_Xingqiu_02",
+        "PrevTalent": 251,
+        "MainCostItemId": 1125,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Xingqiu_Constellation_2",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 253,
+        "NameTextMapHash": 3515928625,
+        "DescTextMapHash": 2322919439,
+        "Icon": "UI_Talent_U_Xingqiu_01",
+        "PrevTalent": 252,
+        "MainCostItemId": 1125,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Xingqiu_Constellation_3",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 254,
+        "NameTextMapHash": 3998346513,
+        "DescTextMapHash": 2523868735,
+        "Icon": "UI_Talent_S_Xingqiu_03",
+        "PrevTalent": 253,
+        "MainCostItemId": 1125,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Xingqiu_Constellation_4",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 255,
+        "NameTextMapHash": 2024007257,
+        "DescTextMapHash": 3421075471,
+        "Icon": "UI_Talent_U_Xingqiu_02",
+        "PrevTalent": 254,
+        "MainCostItemId": 1125,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Xingqiu_Constellation_5",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 256,
+        "NameTextMapHash": 4055521313,
+        "DescTextMapHash": 2227218487,
+        "Icon": "UI_Talent_S_Xingqiu_04",
+        "PrevTalent": 255,
+        "MainCostItemId": 1125,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Xingqiu_Constellation_6",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
         "TalentId": 261,
         "NameTextMapHash": 3656758641,
         "DescTextMapHash": 2211607487,
@@ -2495,137 +2626,6 @@
         ]
     },
     {
-        "TalentId": 251,
-        "NameTextMapHash": 792197377,
-        "DescTextMapHash": 3521725647,
-        "Icon": "UI_Talent_S_Xingqiu_01",
-        "MainCostItemId": 1125,
-        "MainCostItemCount": 1,
-        "OpenConfig": "Xingqiu_Constellation_1",
-        "AddProps": [
-            {},
-            {}
-        ],
-        "Param": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "TalentId": 252,
-        "NameTextMapHash": 4158193737,
-        "DescTextMapHash": 1801328303,
-        "Icon": "UI_Talent_S_Xingqiu_02",
-        "PrevTalent": 251,
-        "MainCostItemId": 1125,
-        "MainCostItemCount": 1,
-        "OpenConfig": "Xingqiu_Constellation_2",
-        "AddProps": [
-            {},
-            {}
-        ],
-        "Param": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "TalentId": 253,
-        "NameTextMapHash": 3515928625,
-        "DescTextMapHash": 2322919439,
-        "Icon": "UI_Talent_U_Xingqiu_01",
-        "PrevTalent": 252,
-        "MainCostItemId": 1125,
-        "MainCostItemCount": 1,
-        "OpenConfig": "Xingqiu_Constellation_3",
-        "AddProps": [
-            {},
-            {}
-        ],
-        "Param": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "TalentId": 254,
-        "NameTextMapHash": 3998346513,
-        "DescTextMapHash": 2523868735,
-        "Icon": "UI_Talent_S_Xingqiu_03",
-        "PrevTalent": 253,
-        "MainCostItemId": 1125,
-        "MainCostItemCount": 1,
-        "OpenConfig": "Xingqiu_Constellation_4",
-        "AddProps": [
-            {},
-            {}
-        ],
-        "Param": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "TalentId": 255,
-        "NameTextMapHash": 2024007257,
-        "DescTextMapHash": 3421075471,
-        "Icon": "UI_Talent_U_Xingqiu_02",
-        "PrevTalent": 254,
-        "MainCostItemId": 1125,
-        "MainCostItemCount": 1,
-        "OpenConfig": "Xingqiu_Constellation_5",
-        "AddProps": [
-            {},
-            {}
-        ],
-        "Param": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "TalentId": 256,
-        "NameTextMapHash": 4055521313,
-        "DescTextMapHash": 2227218487,
-        "Icon": "UI_Talent_S_Xingqiu_04",
-        "PrevTalent": 255,
-        "MainCostItemId": 1125,
-        "MainCostItemCount": 1,
-        "OpenConfig": "Xingqiu_Constellation_6",
-        "AddProps": [
-            {},
-            {}
-        ],
-        "Param": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
         "TalentId": 331,
         "NameTextMapHash": 1777276769,
         "DescTextMapHash": 926660471,
@@ -3228,8 +3228,8 @@
             {}
         ],
         "Param": [
-            -0.05000000074505806,
-            3.0,
+            0.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -3267,6 +3267,137 @@
         "MainCostItemId": 1137,
         "MainCostItemCount": 1,
         "OpenConfig": "Ganyu_Constellation_6",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 381,
+        "NameTextMapHash": 4171208737,
+        "DescTextMapHash": 3462874567,
+        "Icon": "UI_Talent_S_Albedo_01",
+        "MainCostItemId": 1138,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Albedo_Constellation_1",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            1.2000000476837158,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 382,
+        "NameTextMapHash": 151370681,
+        "DescTextMapHash": 2243530431,
+        "Icon": "UI_Talent_S_Albedo_02",
+        "PrevTalent": 381,
+        "MainCostItemId": 1138,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Albedo_Constellation_2",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.30000001192092896,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 383,
+        "NameTextMapHash": 625211161,
+        "DescTextMapHash": 4113451831,
+        "Icon": "UI_Talent_U_Albedo_01",
+        "PrevTalent": 382,
+        "MainCostItemId": 1138,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Albedo_Constellation_3",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 384,
+        "NameTextMapHash": 1728244745,
+        "DescTextMapHash": 1431711711,
+        "Icon": "UI_Talent_S_Albedo_03",
+        "PrevTalent": 383,
+        "MainCostItemId": 1138,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Albedo_Constellation_4",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 385,
+        "NameTextMapHash": 3896567129,
+        "DescTextMapHash": 3779396687,
+        "Icon": "UI_Talent_U_Albedo_02",
+        "PrevTalent": 384,
+        "MainCostItemId": 1138,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Albedo_Constellation_5",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 386,
+        "NameTextMapHash": 3605875457,
+        "DescTextMapHash": 2084479351,
+        "Icon": "UI_Talent_S_Albedo_04",
+        "PrevTalent": 385,
+        "MainCostItemId": 1138,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Albedo_Constellation_6",
         "AddProps": [
             {},
             {}
@@ -3929,6 +4060,268 @@
         "Param": [
             -0.30000001192092896,
             0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 451,
+        "NameTextMapHash": 1747862233,
+        "DescTextMapHash": 3325524863,
+        "Icon": "UI_Talent_S_Rosaria_01",
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Rosaria_Constellation_1",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.10000000149011612,
+            3.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 452,
+        "NameTextMapHash": 3870318265,
+        "DescTextMapHash": 1426432255,
+        "Icon": "UI_Talent_S_Rosaria_02",
+        "PrevTalent": 451,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Rosaria_Constellation_2",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            4.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 453,
+        "NameTextMapHash": 3057954913,
+        "DescTextMapHash": 3853272615,
+        "Icon": "UI_Talent_U_Rosaria_01",
+        "PrevTalent": 452,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Rosaria_Constellation_3",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 454,
+        "NameTextMapHash": 1072343465,
+        "DescTextMapHash": 1502603863,
+        "Icon": "UI_Talent_S_Rosaria_03",
+        "PrevTalent": 453,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Rosaria_Constellation_4",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            4.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 455,
+        "NameTextMapHash": 1802655737,
+        "DescTextMapHash": 2207642951,
+        "Icon": "UI_Talent_U_Rosaria_02",
+        "PrevTalent": 454,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Rosaria_Constellation_5",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 456,
+        "NameTextMapHash": 3739872265,
+        "DescTextMapHash": 1651444399,
+        "Icon": "UI_Talent_S_Rosaria_04",
+        "PrevTalent": 455,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Rosaria_Constellation_6",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.10000000149011612,
+            0.10000000149011612,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 481,
+        "NameTextMapHash": 690499809,
+        "DescTextMapHash": 3765119039,
+        "Icon": "UI_Talent_S_Feiyan_01",
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Feiyan_Constellation_1",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            -0.20000000298023224,
+            -0.15000000596046448,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 482,
+        "NameTextMapHash": 886053825,
+        "DescTextMapHash": 821476695,
+        "Icon": "UI_Talent_S_Feiyan_02",
+        "PrevTalent": 481,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Feiyan_Constellation_2",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.5,
+            0.15000000596046448,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 483,
+        "NameTextMapHash": 168010785,
+        "DescTextMapHash": 246599983,
+        "Icon": "UI_Talent_U_Feiyan_01",
+        "PrevTalent": 482,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Feiyan_Constellation_3",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 484,
+        "NameTextMapHash": 2878639121,
+        "DescTextMapHash": 1661753439,
+        "Icon": "UI_Talent_S_Feiyan_03",
+        "PrevTalent": 483,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Feiyan_Constellation_4",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            1.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 485,
+        "NameTextMapHash": 3698266505,
+        "DescTextMapHash": 876690903,
+        "Icon": "UI_Talent_U_Feiyan_02",
+        "PrevTalent": 484,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Feiyan_Constellation_5",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 486,
+        "NameTextMapHash": 3677492353,
+        "DescTextMapHash": 2987376519,
+        "Icon": "UI_Talent_S_Feiyan_04",
+        "PrevTalent": 485,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "Feiyan_Constellation_6",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "Param": [
+            1.0,
+            0.0,
             0.0,
             0.0,
             0.0,

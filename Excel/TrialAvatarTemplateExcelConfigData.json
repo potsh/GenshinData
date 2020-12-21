@@ -1,0 +1,158 @@
+[
+    {
+        "TrialAvatarLevel": 1,
+        "TrialReliquary": [
+            1,
+            2
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1
+    },
+    {
+        "TrialAvatarLevel": 10,
+        "TrialReliquary": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "TrialTalent": [],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1
+    },
+    {
+        "TrialAvatarLevel": 20,
+        "TrialReliquary": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "TrialTalent": [
+            1
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1
+    },
+    {
+        "TrialAvatarLevel": 30,
+        "TrialReliquary": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "TrialTalent": [
+            1,
+            2
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1
+    },
+    {
+        "TrialAvatarLevel": 40,
+        "TrialReliquary": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 1
+    },
+    {
+        "TrialAvatarLevel": 50,
+        "TrialReliquary": [
+            51,
+            52,
+            53,
+            54,
+            55
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 2
+    },
+    {
+        "TrialAvatarLevel": 60,
+        "TrialReliquary": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 4
+    },
+    {
+        "TrialAvatarLevel": 70,
+        "TrialReliquary": [
+            71,
+            72,
+            73,
+            74,
+            75
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 5
+    },
+    {
+        "TrialAvatarLevel": 80,
+        "TrialReliquary": [
+            81,
+            82,
+            83,
+            84,
+            85
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 6
+    },
+    {
+        "TrialAvatarLevel": 90,
+        "TrialReliquary": [
+            91,
+            92,
+            93,
+            94,
+            95
+        ],
+        "TrialTalent": [
+            1,
+            2,
+            3
+        ],
+        "TrialInherentProudSkill": [],
+        "TrialAvatarSkillLevel": 7
+    }
+]

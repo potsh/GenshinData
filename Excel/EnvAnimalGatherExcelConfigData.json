@@ -127,5 +127,11 @@
         "EntityType": "MONSTER",
         "GatherItemId": 100090,
         "ExcludeWeathers": ""
+    },
+    {
+        "AnimalId": 28050103,
+        "EntityType": "MONSTER",
+        "GatherItemId": 100085,
+        "ExcludeWeathers": ""
     }
 ]

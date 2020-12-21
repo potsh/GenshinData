@@ -293,7 +293,7 @@
     },
     {
         "Id": 1030,
-        "Affix": "血量削弱低",
+        "Affix": "血量降低60%",
         "Comment": "降低单体血量60%",
         "AbilityName": "MonsterAffix_Property_HpDecrease_01",
         "IsCommon": true,
@@ -459,7 +459,7 @@
     },
     {
         "Id": 1410,
-        "Affix": "事件专用-血量削弱低",
+        "Affix": "事件专用-血量降低60%",
         "Comment": "降低单体血量60%",
         "AbilityName": "MonsterAffix_Property_HpDecreaseForEvent_01",
         "IsCommon": true,
@@ -1336,6 +1336,17 @@
         "GeneralSkillIcon": ""
     },
     {
+        "Id": 4065,
+        "Affix": "血量降低25%-白垩与黑龙",
+        "Comment": "血量降低25%",
+        "AbilityName": "MonsterAffix_HpDecrease_01_ForDragonSpine",
+        "IsCommon": true,
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
         "Id": 4101,
         "Affix": "怪物血量高-未归的熄星",
         "Comment": "怪物生命提高100%",
@@ -1483,6 +1494,47 @@
         "PreAdd": true,
         "IsLegal": "",
         "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 5006,
+        "Affix": "无相挑战活动",
+        "Comment": "无相挑战标记",
+        "AbilityName": "MonsterAffix_Effigy_Elite",
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 5007,
+        "Affix": "急冻树雪山活动",
+        "Comment": "急冻树雪山活动",
+        "AbilityName": "MonsterAffix_Regisvine_Ice_Activity",
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 5008,
+        "Affix": "骗骗花雪山活动",
+        "Comment": "骗骗花雪山活动",
+        "AbilityName": "MonsterAffix_Mimik_Ice_Activity",
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 5009,
+        "Affix": "遗迹系怪物激活逻辑",
+        "Comment": "用于遗迹系怪物激活",
+        "AbilityName": "MonsterAffix_AIHitFeeling_LevelTrigger",
+        "IsCommon": true,
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "",
         "GeneralSkillIcon": ""
     },
     {
@@ -1780,6 +1832,16 @@
         "Affix": "陨石测试",
         "Comment": "陨石测试",
         "AbilityName": "MonsterAffix_Aster_Score",
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 8024,
+        "Affix": "雪山-龙血结晶",
+        "Comment": "雪山-龙血结晶70590026",
+        "AbilityName": "MonsterInfusionAffix_DulinsBlood",
         "IsCommon": true,
         "IsLegal": "是",
         "IconPath": "Skill_E_Ayaka",

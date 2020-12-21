@@ -1,0 +1,274 @@
+[
+    {
+        "Id": 1,
+        "MpPlayId": 1,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2010102",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "Unknown1": 3822428298,
+        "Unknown2": 3311447176,
+        "Unknown3": 2805223036,
+        "Image": "",
+        "PriorityId": 99
+    },
+    {
+        "Id": 3001,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_PROGRESS",
+        "SettleParam": [
+            "3010101",
+            "1"
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "Unknown1": 2103828450,
+        "Unknown2": 3565462456,
+        "Unknown3": 546352604,
+        "Image": "",
+        "PriorityId": 80
+    },
+    {
+        "Id": 3002,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010102",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "Unknown1": 929628794,
+        "Unknown2": 1029312152,
+        "Unknown3": 3997210404,
+        "Image": "",
+        "PriorityId": 50
+    },
+    {
+        "Id": 3003,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010103",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "Unknown1": 1477560098,
+        "Unknown2": 2812186344,
+        "Unknown3": 3380330132,
+        "Image": "",
+        "PriorityId": 60
+    },
+    {
+        "Id": 3004,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010104",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_ICESHIELD_KILL_COUNT",
+        "Unknown1": 3811772258,
+        "Unknown2": 4098769512,
+        "Unknown3": 2813804700,
+        "Image": "",
+        "PriorityId": 50
+    },
+    {
+        "Id": 3005,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010105",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_ICESHIELD_KILL_COUNT",
+        "Unknown1": 3386262786,
+        "Unknown2": 1721404064,
+        "Unknown3": 1478942924,
+        "Image": "",
+        "PriorityId": 60
+    },
+    {
+        "Id": 3006,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010106",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_ICESHIELD_KILL_COUNT",
+        "Unknown1": 3163647514,
+        "Unknown2": 3216078088,
+        "Unknown3": 1010769108,
+        "Image": "",
+        "PriorityId": 70
+    },
+    {
+        "Id": 3007,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010107",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_SPECIALICE_KILL_COUNT",
+        "Unknown1": 3150559754,
+        "Unknown2": 3681924664,
+        "Unknown3": 2058360964,
+        "Image": "",
+        "PriorityId": 50
+    },
+    {
+        "Id": 3008,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010108",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_SPECIALICE_KILL_COUNT",
+        "Unknown1": 2581409802,
+        "Unknown2": 1166633696,
+        "Unknown3": 2259993180,
+        "Image": "",
+        "PriorityId": 60
+    },
+    {
+        "Id": 3009,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010109",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_SPECIALICE_KILL_COUNT",
+        "Unknown1": 1540126266,
+        "Unknown2": 1696813736,
+        "Unknown3": 3182748788,
+        "Image": "",
+        "PriorityId": 70
+    },
+    {
+        "Id": 3010,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010110",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_OREDULINSBLOOD_PICK_COUNT",
+        "Unknown1": 4244616418,
+        "Unknown2": 3467660440,
+        "Unknown3": 91546988,
+        "Image": "",
+        "PriorityId": 50
+    },
+    {
+        "Id": 3011,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010111",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_OREDULINSBLOOD_PICK_COUNT",
+        "Unknown1": 1728529842,
+        "Unknown2": 2646662568,
+        "Unknown3": 403640580,
+        "Image": "",
+        "PriorityId": 60
+    },
+    {
+        "Id": 3012,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010112",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "AVATAR_OREDULINSBLOOD_PICK_COUNT",
+        "Unknown1": 3358575194,
+        "Unknown2": 1663810424,
+        "Unknown3": 2913549604,
+        "Image": "",
+        "PriorityId": 70
+    },
+    {
+        "Id": 3013,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010113",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "Unknown1": 1345825378,
+        "Unknown2": 730184944,
+        "Unknown3": 2459184940,
+        "Image": "",
+        "PriorityId": 99
+    },
+    {
+        "Id": 3014,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_MONSTER_TAKE_DEMAGE",
+        "SettleParam": [
+            "133002418",
+            "418001"
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_STATISTIC_VALUE",
+        "ClientSyncParam": "",
+        "Unknown1": 1721538034,
+        "Unknown2": 2448742184,
+        "Unknown3": 2058989708,
+        "Image": "",
+        "PriorityId": 90
+    },
+    {
+        "Id": 3015,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010114",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "Unknown1": 289370554,
+        "Unknown2": 3383441920,
+        "Unknown3": 393478740,
+        "Image": "",
+        "PriorityId": 1
+    },
+    {
+        "Id": 3016,
+        "MpPlayId": 3,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "3010115",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "Unknown1": 3605855186,
+        "Unknown2": 323985664,
+        "Unknown3": 2614953748,
+        "Image": "",
+        "PriorityId": 1
+    }
+]

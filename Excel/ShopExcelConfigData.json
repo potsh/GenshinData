@@ -186,6 +186,10 @@
         "ShopType": "SHOP_TYPE_TASK_TARTAGLIA"
     },
     {
+        "ShopId": 323,
+        "ShopType": "SHOP_TYPE_NPC_HARRIS"
+    },
+    {
         "ShopId": 1001,
         "ShopType": "SHOP_TYPE_SEA_LAMP",
         "OpenStateType": "OPEN_STATE_SHOP_TYPE_SEA_LAMP"
@@ -193,5 +197,13 @@
     {
         "ShopId": 1002,
         "ShopType": "SHOP_TYPE_ACTIVITY_ASTER"
+    },
+    {
+        "ShopId": 1003,
+        "ShopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP"
+    },
+    {
+        "ShopId": 1004,
+        "ShopType": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE"
     }
 ]

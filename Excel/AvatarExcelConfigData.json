@@ -28,6 +28,16 @@
         "DescTextMapHash": 1731825193,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900011,
+            900013,
+            900015
+        ],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1731825193,
         "HpBase": 166.0,
@@ -93,6 +103,16 @@
         "DescTextMapHash": 3703438153,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900021,
+            900023,
+            900025
+        ],
         "FeatureTagGroupId": 10000002,
         "InfoDescTextMapHash": 3703438153,
         "HpBase": 1058.1851806640625,
@@ -158,6 +178,16 @@
         "DescTextMapHash": 2215890689,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 3,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900031,
+            900033,
+            900035
+        ],
         "FeatureTagGroupId": 10000003,
         "InfoDescTextMapHash": 2215890689,
         "HpBase": 1143.9840087890625,
@@ -222,13 +252,24 @@
             503,
             504,
             505,
-            506
+            506,
+            507
         ],
         "ManekinJsonConfigHashPre": 1428648613,
         "ManekinJsonConfigHashSuffix": -18,
         "ManekinMotionConfig": 103,
         "DescTextMapHash": 1204666377,
         "AvatarPromoteId": 12,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900041,
+            900043,
+            900045
+        ],
         "FeatureTagGroupId": 10000005,
         "InfoDescTextMapHash": 1204666377,
         "HpBase": 911.791015625,
@@ -294,6 +335,16 @@
         "DescTextMapHash": 1387136209,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 4,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900051,
+            900053,
+            900055
+        ],
         "FeatureTagGroupId": 10000006,
         "InfoDescTextMapHash": 1387136209,
         "HpBase": 802.3760986328125,
@@ -358,13 +409,24 @@
             703,
             704,
             705,
-            706
+            706,
+            707
         ],
         "ManekinJsonConfigHashPre": 1912156444,
         "ManekinJsonConfigHashSuffix": 110,
         "ManekinMotionConfig": 103,
         "DescTextMapHash": 4261991457,
         "AvatarPromoteId": 12,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900041,
+            900043,
+            900045
+        ],
         "FeatureTagGroupId": 10000007,
         "InfoDescTextMapHash": 4261991457,
         "HpBase": 911.791015625,
@@ -430,6 +492,16 @@
         "DescTextMapHash": 1566920073,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 14,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900061,
+            900063,
+            900065
+        ],
         "FeatureTagGroupId": 10000014,
         "InfoDescTextMapHash": 1566920073,
         "HpBase": 820.6118774414062,
@@ -495,6 +567,16 @@
         "DescTextMapHash": 783578577,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 15,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900071,
+            900073,
+            900075
+        ],
         "FeatureTagGroupId": 10000015,
         "InfoDescTextMapHash": 783578577,
         "HpBase": 975.6163940429688,
@@ -560,6 +642,16 @@
         "DescTextMapHash": 2413312897,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 16,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900081,
+            900083,
+            900085
+        ],
         "FeatureTagGroupId": 10000016,
         "InfoDescTextMapHash": 2413312897,
         "HpBase": 1010.5192260742188,
@@ -625,6 +717,16 @@
         "DescTextMapHash": 3901895113,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 20,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900091,
+            900093,
+            900095
+        ],
         "FeatureTagGroupId": 10000020,
         "InfoDescTextMapHash": 3901895113,
         "HpBase": 1002.9700927734375,
@@ -691,6 +793,16 @@
         "DescTextMapHash": 3898061993,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 21,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900101,
+            900103,
+            900105
+        ],
         "FeatureTagGroupId": 10000021,
         "InfoDescTextMapHash": 3898061993,
         "HpBase": 793.2581787109375,
@@ -757,6 +869,16 @@
         "DescTextMapHash": 4137166409,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 22,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900111,
+            900113,
+            900115
+        ],
         "FeatureTagGroupId": 10000022,
         "InfoDescTextMapHash": 4137166409,
         "HpBase": 819.855224609375,
@@ -822,6 +944,16 @@
         "DescTextMapHash": 2058084377,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 23,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900121,
+            900123,
+            900125
+        ],
         "FeatureTagGroupId": 10000023,
         "InfoDescTextMapHash": 2058084377,
         "HpBase": 911.791015625,
@@ -887,6 +1019,16 @@
         "DescTextMapHash": 2910785993,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 24,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900131,
+            900133,
+            900135
+        ],
         "FeatureTagGroupId": 10000024,
         "InfoDescTextMapHash": 2910785993,
         "HpBase": 1094.149169921875,
@@ -952,6 +1094,16 @@
         "DescTextMapHash": 3660176857,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 25,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900141,
+            900143,
+            900145
+        ],
         "FeatureTagGroupId": 10000025,
         "InfoDescTextMapHash": 3660176857,
         "HpBase": 857.0835571289062,
@@ -1013,10 +1165,20 @@
         "CandSkillDepotIds": [],
         "ManekinJsonConfigHashPre": 1625748193,
         "ManekinJsonConfigHashSuffix": -73,
-        "ManekinMotionConfig": 105,
+        "ManekinMotionConfig": 103,
         "DescTextMapHash": 2789047073,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 26,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900151,
+            900153,
+            900155
+        ],
         "FeatureTagGroupId": 10000026,
         "InfoDescTextMapHash": 2789047073,
         "HpBase": 991.4528198242188,
@@ -1082,6 +1244,16 @@
         "DescTextMapHash": 2174640361,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 27,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900161,
+            900163,
+            900165
+        ],
         "FeatureTagGroupId": 10000027,
         "InfoDescTextMapHash": 2174640361,
         "HpBase": 820.6118774414062,
@@ -1147,6 +1319,16 @@
         "DescTextMapHash": 2313554193,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 29,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900171,
+            900173,
+            900175
+        ],
         "FeatureTagGroupId": 10000029,
         "InfoDescTextMapHash": 2313554193,
         "HpBase": 800.788818359375,
@@ -1212,6 +1394,16 @@
         "DescTextMapHash": 2898546105,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 30,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900181,
+            900183,
+            900185
+        ],
         "FeatureTagGroupId": 10000030,
         "InfoDescTextMapHash": 2898546105,
         "HpBase": 1143.9840087890625,
@@ -1278,6 +1470,16 @@
         "DescTextMapHash": 1695621873,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 31,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900191,
+            900193,
+            900195
+        ],
         "FeatureTagGroupId": 10000031,
         "InfoDescTextMapHash": 1695621873,
         "HpBase": 770.46337890625,
@@ -1343,6 +1545,16 @@
         "DescTextMapHash": 3696214329,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 32,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900201,
+            900203,
+            900205
+        ],
         "FeatureTagGroupId": 10000032,
         "InfoDescTextMapHash": 3696214329,
         "HpBase": 1039.4417724609375,
@@ -1409,6 +1621,16 @@
         "DescTextMapHash": 1915755417,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 33,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900211,
+            900213,
+            900215
+        ],
         "FeatureTagGroupId": 10000033,
         "InfoDescTextMapHash": 1915755417,
         "HpBase": 1020.0524291992188,
@@ -1474,6 +1696,16 @@
         "DescTextMapHash": 1136975897,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 34,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900221,
+            900223,
+            900225
+        ],
         "FeatureTagGroupId": 10000034,
         "InfoDescTextMapHash": 1136975897,
         "HpBase": 1012.0880126953125,
@@ -1539,6 +1771,16 @@
         "DescTextMapHash": 3128332321,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 35,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900231,
+            900233,
+            900235
+        ],
         "FeatureTagGroupId": 10000035,
         "InfoDescTextMapHash": 3128332321,
         "HpBase": 962.8532104492188,
@@ -1604,6 +1846,16 @@
         "DescTextMapHash": 572700337,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 36,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900241,
+            900243,
+            900245
+        ],
         "FeatureTagGroupId": 10000036,
         "InfoDescTextMapHash": 572700337,
         "HpBase": 920.908935546875,
@@ -1670,6 +1922,16 @@
         "DescTextMapHash": 313187777,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 37,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900251,
+            900253,
+            900255
+        ],
         "FeatureTagGroupId": 10000037,
         "InfoDescTextMapHash": 313187777,
         "HpBase": 762.656005859375,
@@ -1707,6 +1969,81 @@
     },
     {
         "UseType": "AVATAR_FORMAL",
+        "BodyType": "BODY_BOY",
+        "ScriptDataPathHashPre": 1826953020,
+        "ScriptDataPathHashSuffix": -1,
+        "IconName": "UI_AvatarIcon_Albedo",
+        "SideIconName": "UI_AvatarIcon_Side_Albedo",
+        "QualityType": "QUALITY_ORANGE",
+        "ChargeEfficiency": 1.0,
+        "CombatConfigHashPre": 1704871987,
+        "CombatConfigHashSuffix": -100,
+        "InitialWeapon": 11101,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND",
+        "ManekinPathHashPre": 2222052004,
+        "ManekinPathHashSuffix": -44,
+        "ImageName": "AvatarImage_Forward_Albedo",
+        "GachaCardNameHashPre": 1925256413,
+        "GachaCardNameHashSuffix": 49,
+        "GachaImageNameHashPre": 643322264,
+        "GachaImageNameHashSuffix": 28,
+        "CutsceneShow": "",
+        "SkillDepotId": 3801,
+        "StaminaRecoverSpeed": 25.0,
+        "CandSkillDepotIds": [],
+        "ManekinJsonConfigHashPre": 2772406412,
+        "ManekinJsonConfigHashSuffix": -122,
+        "ManekinMotionConfig": 103,
+        "DescTextMapHash": 3544652497,
+        "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
+        "AvatarPromoteId": 38,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900261,
+            900263,
+            900265
+        ],
+        "FeatureTagGroupId": 10000038,
+        "InfoDescTextMapHash": 3544652497,
+        "HpBase": 1029.5855712890625,
+        "AttackBase": 19.551000595092773,
+        "DefenseBase": 68.2061996459961,
+        "Critical": 0.05000000074505806,
+        "CriticalHurt": 0.5,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP_S5"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_HP_S5"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 2471883323,
+        "PrefabPathRagdollHashSuffix": -111,
+        "Id": 10000038,
+        "NameTextMapHash": 4108620722,
+        "PrefabPathHashPre": 3637210403,
+        "PrefabPathHashSuffix": -50,
+        "PrefabPathRemoteHashPre": 4193146506,
+        "PrefabPathRemoteHashSuffix": 78,
+        "ControllerPathHashPre": 1878663388,
+        "ControllerPathHashSuffix": -42,
+        "ControllerPathRemoteHashPre": 3690094672,
+        "ControllerPathRemoteHashSuffix": -49,
+        "LODPatternName": ""
+    },
+    {
+        "UseType": "AVATAR_FORMAL",
         "BodyType": "BODY_LOLI",
         "ScriptDataPathHashPre": 3179442474,
         "ScriptDataPathHashSuffix": -22,
@@ -1736,6 +2073,16 @@
         "DescTextMapHash": 3149724857,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 39,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900271,
+            900273,
+            900275
+        ],
         "FeatureTagGroupId": 10000039,
         "InfoDescTextMapHash": 3149724857,
         "HpBase": 802.3760986328125,
@@ -1801,6 +2148,16 @@
         "DescTextMapHash": 506249649,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 41,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900281,
+            900283,
+            900285
+        ],
         "FeatureTagGroupId": 10000041,
         "InfoDescTextMapHash": 506249649,
         "HpBase": 810.322021484375,
@@ -1866,6 +2223,16 @@
         "DescTextMapHash": 2249961857,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 42,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900291,
+            900293,
+            900295
+        ],
         "FeatureTagGroupId": 10000042,
         "InfoDescTextMapHash": 2249961857,
         "HpBase": 1020.0524291992188,
@@ -1931,6 +2298,16 @@
         "DescTextMapHash": 4249311673,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 43,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900301,
+            900303,
+            900305
+        ],
         "FeatureTagGroupId": 10000043,
         "InfoDescTextMapHash": 4249311673,
         "HpBase": 775.0223388671875,
@@ -1992,10 +2369,20 @@
         "CandSkillDepotIds": [],
         "ManekinJsonConfigHashPre": 1156083802,
         "ManekinJsonConfigHashSuffix": -4,
-        "ManekinMotionConfig": 105,
+        "ManekinMotionConfig": 103,
         "DescTextMapHash": 2430683361,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 44,
+        "AvatarPromoteRewardLevel": [
+            1,
+            3,
+            5
+        ],
+        "AvatarPromoteRewardId": [
+            900311,
+            900313,
+            900315
+        ],
         "FeatureTagGroupId": 10000044,
         "InfoDescTextMapHash": 2430683361,
         "HpBase": 939.1447143554688,
@@ -2032,6 +2419,72 @@
         "LODPatternName": ""
     },
     {
+        "BodyType": "BODY_LADY",
+        "ScriptDataPathHashPre": 3838113912,
+        "ScriptDataPathHashSuffix": 7,
+        "IconName": "UI_AvatarIcon_Rosaria",
+        "SideIconName": "UI_AvatarIcon_Side_Rosaria",
+        "QualityType": "QUALITY_PURPLE",
+        "ChargeEfficiency": 1.0,
+        "CombatConfigHashPre": 3937638627,
+        "CombatConfigHashSuffix": -122,
+        "InitialWeapon": 13101,
+        "WeaponType": "WEAPON_POLE",
+        "ManekinPathHashPre": 1627504919,
+        "ManekinPathHashSuffix": 38,
+        "ImageName": "AvatarImage_Forward_Rosaria",
+        "GachaCardNameHashPre": 1515721465,
+        "GachaCardNameHashSuffix": -35,
+        "GachaImageNameHashPre": 3964042419,
+        "GachaImageNameHashSuffix": -43,
+        "CutsceneShow": "",
+        "SkillDepotId": 4501,
+        "StaminaRecoverSpeed": 25.0,
+        "CandSkillDepotIds": [],
+        "ManekinJsonConfigHashPre": 1822894617,
+        "ManekinJsonConfigHashSuffix": -117,
+        "ManekinMotionConfig": 103,
+        "DescTextMapHash": 1025256649,
+        "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
+        "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
+        "FeatureTagGroupId": 10000045,
+        "InfoDescTextMapHash": 1025256649,
+        "HpBase": 1030.3238525390625,
+        "AttackBase": 20.12303924560547,
+        "DefenseBase": 59.513999938964844,
+        "Critical": 0.05000000074505806,
+        "CriticalHurt": 0.5,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP_S4"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_HP_S4"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 3695238706,
+        "PrefabPathRagdollHashSuffix": -112,
+        "Id": 10000045,
+        "NameTextMapHash": 4260733330,
+        "PrefabPathHashPre": 1143809245,
+        "PrefabPathHashSuffix": 4,
+        "PrefabPathRemoteHashPre": 3310663147,
+        "PrefabPathRemoteHashSuffix": 25,
+        "ControllerPathHashPre": 931928692,
+        "ControllerPathHashSuffix": 113,
+        "ControllerPathRemoteHashPre": 473105862,
+        "ControllerPathRemoteHashSuffix": -28,
+        "LODPatternName": ""
+    },
+    {
         "BodyType": "BODY_GIRL",
         "ScriptDataPathHashPre": 236955362,
         "ScriptDataPathHashSuffix": 37,
@@ -2060,11 +2513,13 @@
         "DescTextMapHash": 223073489,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000046,
         "InfoDescTextMapHash": 223073489,
-        "HpBase": 1007.4509887695312,
-        "AttackBase": 22.457000732421875,
-        "DefenseBase": 60.45000076293945,
+        "HpBase": 1220.2496337890625,
+        "AttackBase": 9.3100004196167,
+        "DefenseBase": 65.81300354003906,
         "Critical": 0.05000000074505806,
         "CriticalHurt": 0.5,
         "PropGrowCurves": [
@@ -2096,6 +2551,271 @@
         "LODPatternName": ""
     },
     {
+        "BodyType": "BODY_BOY",
+        "ScriptDataPathHashPre": 1826953020,
+        "ScriptDataPathHashSuffix": -1,
+        "IconName": "UI_AvatarIcon_Bennett",
+        "SideIconName": "UI_AvatarIcon_Side_Bennett",
+        "QualityType": "QUALITY_ORANGE",
+        "ChargeEfficiency": 1.0,
+        "CombatConfigHashPre": 1446027979,
+        "CombatConfigHashSuffix": -33,
+        "InitialWeapon": 11101,
+        "WeaponType": "WEAPON_SWORD_ONE_HAND",
+        "ManekinPathHashPre": 2319991983,
+        "ManekinPathHashSuffix": -117,
+        "ImageName": "AvatarImage_Forward_Bennett",
+        "GachaCardNameHashPre": 4112859494,
+        "GachaCardNameHashSuffix": 114,
+        "GachaImageNameHashPre": 3330546737,
+        "GachaImageNameHashSuffix": -48,
+        "CutsceneShow": "",
+        "SkillDepotId": 4701,
+        "StaminaRecoverSpeed": 25.0,
+        "CandSkillDepotIds": [],
+        "ManekinJsonConfigHashPre": 1115687224,
+        "ManekinJsonConfigHashSuffix": 26,
+        "ManekinMotionConfig": 103,
+        "DescTextMapHash": 174508593,
+        "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
+        "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
+        "FeatureTagGroupId": 10000047,
+        "InfoDescTextMapHash": 174508593,
+        "HpBase": 953.3200073242188,
+        "AttackBase": 18.6200008392334,
+        "DefenseBase": 59.83000183105469,
+        "Critical": 0.05000000074505806,
+        "CriticalHurt": 0.5,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP_S5"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_HP_S5"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 2738605403,
+        "PrefabPathRagdollHashSuffix": 105,
+        "Id": 10000047,
+        "NameTextMapHash": 88505754,
+        "PrefabPathHashPre": 3607701807,
+        "PrefabPathHashSuffix": 97,
+        "PrefabPathRemoteHashPre": 2789178091,
+        "PrefabPathRemoteHashSuffix": 74,
+        "ControllerPathHashPre": 3761752654,
+        "ControllerPathHashSuffix": -8,
+        "ControllerPathRemoteHashPre": 3540997837,
+        "ControllerPathRemoteHashSuffix": 61,
+        "LODPatternName": ""
+    },
+    {
+        "BodyType": "BODY_GIRL",
+        "ScriptDataPathHashPre": 236955362,
+        "ScriptDataPathHashSuffix": 37,
+        "IconName": "UI_AvatarIcon_Feiyan",
+        "SideIconName": "UI_AvatarIcon_Side_Feiyan",
+        "QualityType": "QUALITY_PURPLE",
+        "ChargeEfficiency": 1.0,
+        "CombatConfigHashPre": 255373317,
+        "CombatConfigHashSuffix": 104,
+        "InitialWeapon": 14101,
+        "WeaponType": "WEAPON_CATALYST",
+        "ManekinPathHashPre": 992913349,
+        "ManekinPathHashSuffix": 125,
+        "ImageName": "AvatarImage_Forward_Feiyan",
+        "GachaCardNameHashPre": 3011075039,
+        "GachaCardNameHashSuffix": -88,
+        "GachaImageNameHashPre": 4072222700,
+        "GachaImageNameHashSuffix": 33,
+        "CutsceneShow": "",
+        "SkillDepotId": 4801,
+        "StaminaRecoverSpeed": 25.0,
+        "CandSkillDepotIds": [],
+        "ManekinJsonConfigHashPre": 4070222637,
+        "ManekinJsonConfigHashSuffix": 26,
+        "ManekinMotionConfig": 106,
+        "DescTextMapHash": 1827440433,
+        "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
+        "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
+        "FeatureTagGroupId": 10000048,
+        "InfoDescTextMapHash": 1827440433,
+        "HpBase": 911.791015625,
+        "AttackBase": 17.808000564575195,
+        "DefenseBase": 57.224998474121094,
+        "Critical": 0.05000000074505806,
+        "CriticalHurt": 0.5,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP_S4"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_HP_S4"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 2287095012,
+        "PrefabPathRagdollHashSuffix": 18,
+        "Id": 10000048,
+        "NameTextMapHash": 697277554,
+        "PrefabPathHashPre": 356548658,
+        "PrefabPathHashSuffix": 8,
+        "PrefabPathRemoteHashPre": 1875339580,
+        "PrefabPathRemoteHashSuffix": 57,
+        "ControllerPathHashPre": 1469144160,
+        "ControllerPathHashSuffix": -32,
+        "ControllerPathRemoteHashPre": 1309843423,
+        "ControllerPathRemoteHashSuffix": -11,
+        "LODPatternName": ""
+    },
+    {
+        "BodyType": "BODY_GIRL",
+        "ScriptDataPathHashPre": 236955362,
+        "ScriptDataPathHashSuffix": 37,
+        "IconName": "UI_AvatarIcon_Yoimiya",
+        "SideIconName": "UI_AvatarIcon_Side_Yoimiya",
+        "QualityType": "QUALITY_ORANGE",
+        "ChargeEfficiency": 1.0,
+        "CombatConfigHashPre": 239244901,
+        "CombatConfigHashSuffix": -48,
+        "IsRangeAttack": true,
+        "InitialWeapon": 15101,
+        "WeaponType": "WEAPON_BOW",
+        "ManekinPathHashPre": 1246913941,
+        "ManekinPathHashSuffix": -97,
+        "ImageName": "AvatarImage_Forward_Yoimiya",
+        "GachaCardNameHashPre": 1240159604,
+        "GachaCardNameHashSuffix": -58,
+        "GachaImageNameHashPre": 2825742398,
+        "GachaImageNameHashSuffix": -58,
+        "CutsceneShow": "",
+        "SkillDepotId": 4901,
+        "StaminaRecoverSpeed": 25.0,
+        "CandSkillDepotIds": [],
+        "ManekinJsonConfigHashPre": 1419809849,
+        "ManekinJsonConfigHashSuffix": 94,
+        "ManekinMotionConfig": 103,
+        "DescTextMapHash": 1813152017,
+        "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
+        "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
+        "FeatureTagGroupId": 10000049,
+        "InfoDescTextMapHash": 1813152017,
+        "HpBase": 1002.9700927734375,
+        "AttackBase": 19.58880043029785,
+        "DefenseBase": 62.9474983215332,
+        "Critical": 0.05000000074505806,
+        "CriticalHurt": 0.5,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP_S5"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_HP_S5"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 458485015,
+        "PrefabPathRagdollHashSuffix": 46,
+        "Id": 10000049,
+        "NameTextMapHash": 2504399314,
+        "PrefabPathHashPre": 266244557,
+        "PrefabPathHashSuffix": 43,
+        "PrefabPathRemoteHashPre": 1062950334,
+        "PrefabPathRemoteHashSuffix": 116,
+        "ControllerPathHashPre": 2696313173,
+        "ControllerPathHashSuffix": 65,
+        "ControllerPathRemoteHashPre": 504278292,
+        "ControllerPathRemoteHashSuffix": 24,
+        "LODPatternName": ""
+    },
+    {
+        "BodyType": "BODY_GIRL",
+        "ScriptDataPathHashPre": 444157555,
+        "ScriptDataPathHashSuffix": -105,
+        "IconName": "UI_AvatarIcon_Tohma",
+        "SideIconName": "UI_AvatarIcon_Side_Tohma",
+        "QualityType": "QUALITY_PURPLE",
+        "ChargeEfficiency": 1.0,
+        "CombatConfigHashPre": 4206826510,
+        "CombatConfigHashSuffix": 54,
+        "InitialWeapon": 13101,
+        "WeaponType": "WEAPON_POLE",
+        "ManekinPathHashPre": 2082794584,
+        "ManekinPathHashSuffix": 107,
+        "ImageName": "AvatarImage_Forward_Tohma",
+        "GachaCardNameHashPre": 1820141954,
+        "GachaCardNameHashSuffix": 113,
+        "GachaImageNameHashPre": 3209661682,
+        "GachaImageNameHashSuffix": 122,
+        "CutsceneShow": "",
+        "SkillDepotId": 5001,
+        "StaminaRecoverSpeed": 25.0,
+        "CandSkillDepotIds": [],
+        "ManekinJsonConfigHashPre": 481775777,
+        "ManekinJsonConfigHashSuffix": -12,
+        "ManekinMotionConfig": 103,
+        "DescTextMapHash": 3062484009,
+        "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
+        "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
+        "FeatureTagGroupId": 10000050,
+        "InfoDescTextMapHash": 3062484009,
+        "HpBase": 810.322021484375,
+        "AttackBase": 22.3439998626709,
+        "DefenseBase": 50.855499267578125,
+        "Critical": 0.05000000074505806,
+        "CriticalHurt": 0.5,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP_S4"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_HP_S4"
+            }
+        ],
+        "PrefabPathRagdollHashPre": 1221553795,
+        "PrefabPathRagdollHashSuffix": -43,
+        "Id": 10000050,
+        "NameTextMapHash": 3555115602,
+        "PrefabPathHashPre": 1914889679,
+        "PrefabPathHashSuffix": 114,
+        "PrefabPathRemoteHashPre": 2300801383,
+        "PrefabPathRemoteHashSuffix": 111,
+        "ControllerPathHashPre": 703906255,
+        "ControllerPathHashSuffix": 45,
+        "ControllerPathRemoteHashPre": 2030847242,
+        "ControllerPathRemoteHashSuffix": -77,
+        "LODPatternName": ""
+    },
+    {
         "UseType": "AVATAR_ABANDON",
         "BodyType": "BODY_GIRL",
         "ScriptDataPathHashPre": 236955362,
@@ -2121,6 +2841,8 @@
         "DescTextMapHash": 1029005921,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1029005921,
         "HpBase": 99999.0,
@@ -2131,15 +2853,15 @@
         "PropGrowCurves": [
             {
                 "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             }
         ],
         "PrefabPathRagdollHashPre": 196899726,
@@ -2182,6 +2904,8 @@
         "DescTextMapHash": 1835561441,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1835561441,
         "HpBase": 99999.0,
@@ -2192,15 +2916,15 @@
         "PropGrowCurves": [
             {
                 "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             }
         ],
         "PrefabPathRagdollHashPre": 4021873531,
@@ -2243,6 +2967,8 @@
         "DescTextMapHash": 786373081,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 786373081,
         "HpBase": 99999.0,
@@ -2253,15 +2979,15 @@
         "PropGrowCurves": [
             {
                 "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             }
         ],
         "PrefabPathRagdollHashPre": 2311384154,
@@ -2303,6 +3029,8 @@
         "DescTextMapHash": 840788129,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 840788129,
         "HpBase": 99999.0,
@@ -2313,15 +3041,15 @@
         "PropGrowCurves": [
             {
                 "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             }
         ],
         "PrefabPathRagdollHashPre": 3385200213,
@@ -2364,6 +3092,8 @@
         "DescTextMapHash": 1567121545,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1567121545,
         "HpBase": 99999.0,
@@ -2374,15 +3104,15 @@
         "PropGrowCurves": [
             {
                 "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK_S4"
+                "GrowCurve": "GROW_CURVE_ATTACK_S5"
             },
             {
                 "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_HP_S4"
+                "GrowCurve": "GROW_CURVE_HP_S5"
             }
         ],
         "PrefabPathRagdollHashPre": 2355677493,
@@ -2424,6 +3154,8 @@
         "DescTextMapHash": 1479741705,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1479741705,
         "HpBase": 99999.0,
@@ -2484,6 +3216,8 @@
         "DescTextMapHash": 1273592169,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1273592169,
         "HpBase": 99999.0,
@@ -2544,6 +3278,8 @@
         "DescTextMapHash": 2403736705,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 2403736705,
         "HpBase": 99999.0,
@@ -2605,6 +3341,8 @@
         "DescTextMapHash": 1967235985,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1967235985,
         "HpBase": 208.60000610351562,
@@ -2665,6 +3403,8 @@
         "DescTextMapHash": 2705898529,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 2705898529,
         "HpBase": 99999.0,
@@ -2725,6 +3465,8 @@
         "DescTextMapHash": 1177707113,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1177707113,
         "HpBase": 166.0,
@@ -2785,6 +3527,8 @@
         "DescTextMapHash": 2023269409,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 2023269409,
         "HpBase": 185.0,
@@ -2845,6 +3589,8 @@
         "DescTextMapHash": 1576784713,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1576784713,
         "HpBase": 189.5,
@@ -2905,6 +3651,8 @@
         "DescTextMapHash": 1902343241,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1902343241,
         "HpBase": 166.0,
@@ -2965,6 +3713,8 @@
         "DescTextMapHash": 1364029553,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1364029553,
         "HpBase": 166.0,
@@ -3025,6 +3775,8 @@
         "DescTextMapHash": 1091572897,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1091572897,
         "HpBase": 166.0,
@@ -3085,6 +3837,8 @@
         "DescTextMapHash": 2042656601,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 2042656601,
         "HpBase": 166.0,
@@ -3145,6 +3899,8 @@
         "DescTextMapHash": 287638449,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 287638449,
         "HpBase": 185.0,
@@ -3205,6 +3961,8 @@
         "DescTextMapHash": 1059199361,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1059199361,
         "HpBase": 166.0,
@@ -3266,6 +4024,8 @@
         "DescTextMapHash": 675318753,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 675318753,
         "HpBase": 191.0,
@@ -3326,6 +4086,8 @@
         "DescTextMapHash": 254244673,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 254244673,
         "HpBase": 166.0,
@@ -3386,6 +4148,8 @@
         "DescTextMapHash": 1995767489,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1995767489,
         "HpBase": 166.0,
@@ -3446,6 +4210,8 @@
         "DescTextMapHash": 3504508073,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 3504508073,
         "HpBase": 441.9454040527344,
@@ -3506,6 +4272,8 @@
         "DescTextMapHash": 3428611249,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 3428611249,
         "HpBase": 441.9454040527344,
@@ -3516,15 +4284,15 @@
         "PropGrowCurves": [
             {
                 "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP_S5"
+                "GrowCurve": "GROW_CURVE_HP_S4"
             },
             {
                 "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK_S5"
+                "GrowCurve": "GROW_CURVE_ATTACK_S4"
             },
             {
                 "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_HP_S5"
+                "GrowCurve": "GROW_CURVE_HP_S4"
             }
         ],
         "PrefabPathRagdollHashPre": 317086590,
@@ -3566,6 +4334,8 @@
         "DescTextMapHash": 1912123953,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 1912123953,
         "HpBase": 441.9454040527344,
@@ -3576,15 +4346,15 @@
         "PropGrowCurves": [
             {
                 "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP_S5"
+                "GrowCurve": "GROW_CURVE_HP_S4"
             },
             {
                 "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK_S5"
+                "GrowCurve": "GROW_CURVE_ATTACK_S4"
             },
             {
                 "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_HP_S5"
+                "GrowCurve": "GROW_CURVE_HP_S4"
             }
         ],
         "PrefabPathRagdollHashPre": 317086590,
@@ -3626,6 +4396,8 @@
         "DescTextMapHash": 811756225,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 811756225,
         "HpBase": 99999.0,
@@ -3686,6 +4458,8 @@
         "DescTextMapHash": 3385550169,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 3385550169,
         "HpBase": 99999.0,
@@ -3746,6 +4520,8 @@
         "DescTextMapHash": 3033564529,
         "AvatarIdentityType": "AVATAR_IDENTITY_NORMAL",
         "AvatarPromoteId": 2,
+        "AvatarPromoteRewardLevel": [],
+        "AvatarPromoteRewardId": [],
         "FeatureTagGroupId": 10000001,
         "InfoDescTextMapHash": 3033564529,
         "HpBase": 99999.0,

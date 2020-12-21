@@ -1076,6 +1076,154 @@
         "IsRemoveItem": true
     },
     {
+        "Id": 7010227,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100618,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7010230,
+        "Tab": "TAB_MATERIAL",
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100619,
+                "Count": 1
+            },
+            {
+                "Id": 101006,
+                "Count": 50
+            },
+            {
+                "Id": 101105,
+                "Count": 1
+            }
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7010610,
+        "Tab": "TAB_FOOD",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_VAGUE_GROUP",
+        "ExactItems": [
+            {},
+            {},
+            {}
+        ],
+        "GivingGroupIds": [
+            701061001
+        ],
+        "GivingGroupContent": 1,
+        "Highlight": true,
+        "Icon": "UI_Icon_Item_Temp",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7010104,
+        "Tab": "TAB_MATERIAL",
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100023,
+                "Count": 3
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7012601,
+        "Tab": "TAB_QUEST",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100672,
+                "Count": 3
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7012602,
+        "Tab": "TAB_QUEST",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100673,
+                "Count": 3
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7012603,
+        "Tab": "TAB_QUEST",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100674,
+                "Count": 3
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7011001,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100618,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
         "Id": 4112609,
         "TalkId": 4112609,
         "Tab": "TAB_QUEST",
@@ -1775,5 +1923,151 @@
         "GivingGroupIds": [],
         "Highlight": true,
         "Icon": ""
+    },
+    {
+        "Id": 2007004,
+        "Tab": "TAB_QUEST",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100690,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 1104414,
+        "TalkId": 110440531,
+        "Tab": "TAB_FOOD",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_VAGUE_GROUP",
+        "ExactItems": [
+            {},
+            {},
+            {}
+        ],
+        "GivingGroupIds": [
+            110441401,
+            110441402
+        ],
+        "GivingGroupContent": 1,
+        "Highlight": true,
+        "Icon": "UI_Icon_Item_Temp",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 2007301,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 110005,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 2007302,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 110005,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 2007303,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 110005,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 2007304,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 110005,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 2052006,
+        "Tab": "TAB_FOOD",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 108021,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7181401,
+        "Tab": "TAB_FOOD",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 108157,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
     }
 ]

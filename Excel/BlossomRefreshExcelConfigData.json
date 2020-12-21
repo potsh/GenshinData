@@ -8,8 +8,27 @@
         "RefreshType": "BLOSSOM_REFRESH_SCOIN",
         "RefreshCount": 1,
         "RefreshTime": "04:00:00",
-        "OpenLevel": 12,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    12
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "BlossomChestId": 1,
         "CampUpdateNeedCount": 1,
         "Drop": [
@@ -61,8 +80,27 @@
         "RefreshType": "BLOSSOM_REFRESH_EXP",
         "RefreshCount": 1,
         "RefreshTime": "04:00:00",
-        "OpenLevel": 8,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    8
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "BlossomChestId": 2,
         "CampUpdateNeedCount": 1,
         "Drop": [
@@ -114,8 +152,27 @@
         "RefreshType": "BLOSSOM_REFRESH_SCOIN",
         "RefreshCount": 1,
         "RefreshTime": "04:00:00",
-        "OpenLevel": 18,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "BlossomChestId": 1,
         "CampUpdateNeedCount": 1,
         "Drop": [
@@ -167,8 +224,27 @@
         "RefreshType": "BLOSSOM_REFRESH_EXP",
         "RefreshCount": 1,
         "RefreshTime": "04:00:00",
-        "OpenLevel": 18,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "BlossomChestId": 2,
         "CampUpdateNeedCount": 1,
         "Drop": [
@@ -220,10 +296,33 @@
         "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
         "RefreshCount": 3,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
-        "OpenLevel": 2,
-        "CloseLevel": 29,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_LESS_THAN",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1404
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -264,10 +363,33 @@
         "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
         "RefreshCount": 3,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
-        "OpenLevel": 2,
-        "CloseLevel": 29,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_LESS_THAN",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1404
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -308,10 +430,33 @@
         "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
         "RefreshCount": 5,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
-        "OpenLevel": 2,
-        "CloseLevel": 29,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_LESS_THAN",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1405
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -352,10 +497,33 @@
         "RefreshType": "BLOSSOM_REFRESH_CRYSTAL",
         "RefreshCount": 5,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
-        "OpenLevel": 2,
-        "CloseLevel": 29,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_LESS_THAN",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1405
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -396,9 +564,30 @@
         "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
         "RefreshCount": 3,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
-        "OpenLevel": 30,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1404
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -439,9 +628,30 @@
         "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
         "RefreshCount": 3,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_MENGDE_INFUSEDCRYSTAL",
-        "OpenLevel": 30,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1404
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -482,9 +692,30 @@
         "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
         "RefreshCount": 5,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
-        "OpenLevel": 30,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1405
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -525,9 +756,30 @@
         "RefreshType": "BLOSSOM_REFRESH_INFUSED_CRYSTAL",
         "RefreshCount": 5,
         "RefreshTime": "06:00:00",
-        "OpenState": "OPEN_STATE_LIYUE_INFUSEDCRYSTAL",
-        "OpenLevel": 30,
-        "ReviseLevel": 1,
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_PLAYER_LEVEL_EQUAL_GREATER",
+                "Param": [
+                    30
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Type": "BLOSSOM_REFRESH_COND_OPEN_STATE",
+                "Param": [
+                    1405
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 3,
         "Drop": [
             {
                 "DropId": 7000000
@@ -558,5 +810,153 @@
             }
         ],
         "ClientShowType": "BLOSSOM_SHOWTYPE_NPCTALK"
+    },
+    {
+        "Id": 13,
+        "NameTextMapHash": 2551444143,
+        "Icon": "UI_ActivitySmallIcon_CampSmall",
+        "DescTextMapHash": 1053168465,
+        "CityId": 11,
+        "RefreshType": "BLOSSOM_REFRESH_DRAGON_SPINE_A",
+        "RefreshCount": 1,
+        "RefreshTime": "04:00:00",
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_ACTIVITY_COND",
+                "Param": [
+                    3001,
+                    3001201
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 6,
+        "ItemLimitType": "ITEM_LIMIT_ACTIVITY_DRAGON_SPINE_DROP",
+        "BlossomChestId": 3,
+        "CampUpdateNeedCount": 1,
+        "Drop": [
+            {
+                "DropId": 211000101,
+                "PreviewReward": 30311
+            },
+            {
+                "DropId": 211000102,
+                "PreviewReward": 30312
+            },
+            {
+                "DropId": 211000103,
+                "PreviewReward": 30313
+            },
+            {
+                "DropId": 211000104,
+                "PreviewReward": 30314
+            },
+            {
+                "DropId": 211000105,
+                "PreviewReward": 30315
+            },
+            {
+                "DropId": 211000106,
+                "PreviewReward": 30316
+            },
+            {
+                "DropId": 211000107,
+                "PreviewReward": 30317
+            },
+            {
+                "DropId": 211000108,
+                "PreviewReward": 30318
+            },
+            {
+                "DropId": 211000109,
+                "PreviewReward": 30319
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_GROUPCHALLENGE"
+    },
+    {
+        "Id": 14,
+        "NameTextMapHash": 1923317167,
+        "Icon": "UI_ActivitySmallIcon_CampLarge",
+        "DescTextMapHash": 4068761625,
+        "CityId": 11,
+        "RefreshType": "BLOSSOM_REFRESH_DRAGON_SPINE_B",
+        "RefreshCount": 1,
+        "RefreshTime": "04:00:00",
+        "RefreshCond": [
+            {
+                "Type": "BLOSSOM_REFRESH_COND_ACTIVITY_COND",
+                "Param": [
+                    3001,
+                    3001202
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "ReviseLevel": 7,
+        "ItemLimitType": "ITEM_LIMIT_ACTIVITY_DRAGON_SPINE_DROP",
+        "BlossomChestId": 4,
+        "CampUpdateNeedCount": 1,
+        "Drop": [
+            {
+                "DropId": 211000201,
+                "PreviewReward": 30321
+            },
+            {
+                "DropId": 211000202,
+                "PreviewReward": 30322
+            },
+            {
+                "DropId": 211000203,
+                "PreviewReward": 30323
+            },
+            {
+                "DropId": 211000204,
+                "PreviewReward": 30324
+            },
+            {
+                "DropId": 211000205,
+                "PreviewReward": 30325
+            },
+            {
+                "DropId": 211000206,
+                "PreviewReward": 30326
+            },
+            {
+                "DropId": 211000207,
+                "PreviewReward": 30327
+            },
+            {
+                "DropId": 211000208,
+                "PreviewReward": 30328
+            },
+            {
+                "DropId": 211000209,
+                "PreviewReward": 30329
+            }
+        ],
+        "ClientShowType": "BLOSSOM_SHOWTYPE_GROUPCHALLENGE"
     }
 ]

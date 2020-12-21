@@ -52,10 +52,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1050,
+        "MonthlyLevelConfigId": 1310,
         "DescTextMapHash": 3714385344,
         "BuffnameTextMapHash": 2483837807,
-        "Icon": "UI_TowerBlessing_1"
+        "Icon": "UI_TowerBlessing_5"
     },
     {
         "ScheduleId": 2,
@@ -110,10 +110,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1050,
+        "MonthlyLevelConfigId": 1311,
         "DescTextMapHash": 1516989784,
         "BuffnameTextMapHash": 4104607615,
-        "Icon": "UI_TowerBlessing_1"
+        "Icon": "UI_TowerBlessing_6"
     },
     {
         "ScheduleId": 3,
@@ -168,10 +168,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1050,
+        "MonthlyLevelConfigId": 1312,
         "DescTextMapHash": 2570648736,
         "BuffnameTextMapHash": 3934571015,
-        "Icon": "UI_TowerBlessing_1"
+        "Icon": "UI_TowerBlessing_7"
     },
     {
         "ScheduleId": 4,
@@ -226,10 +226,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1050,
+        "MonthlyLevelConfigId": 1310,
         "DescTextMapHash": 4123664176,
         "BuffnameTextMapHash": 3767984887,
-        "Icon": "UI_TowerBlessing_1"
+        "Icon": "UI_TowerBlessing_5"
     },
     {
         "ScheduleId": 5,
@@ -284,10 +284,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1050,
+        "MonthlyLevelConfigId": 1311,
         "DescTextMapHash": 3978917856,
         "BuffnameTextMapHash": 1663768071,
-        "Icon": "UI_TowerBlessing_1"
+        "Icon": "UI_TowerBlessing_6"
     },
     {
         "ScheduleId": 6,
@@ -342,10 +342,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1050,
+        "MonthlyLevelConfigId": 1312,
         "DescTextMapHash": 3593144536,
         "BuffnameTextMapHash": 2744295383,
-        "Icon": "UI_TowerBlessing_1"
+        "Icon": "UI_TowerBlessing_7"
     },
     {
         "ScheduleId": 7,
@@ -400,10 +400,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1051,
+        "MonthlyLevelConfigId": 1310,
         "DescTextMapHash": 2599040504,
         "BuffnameTextMapHash": 1304554391,
-        "Icon": "UI_TowerBlessing_2"
+        "Icon": "UI_TowerBlessing_5"
     },
     {
         "ScheduleId": 8,
@@ -458,10 +458,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1051,
+        "MonthlyLevelConfigId": 1311,
         "DescTextMapHash": 2690337128,
         "BuffnameTextMapHash": 1948496735,
-        "Icon": "UI_TowerBlessing_2"
+        "Icon": "UI_TowerBlessing_6"
     },
     {
         "ScheduleId": 9,
@@ -516,10 +516,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1052,
+        "MonthlyLevelConfigId": 1312,
         "DescTextMapHash": 1960877592,
         "BuffnameTextMapHash": 2667635327,
-        "Icon": "UI_TowerBlessing_3"
+        "Icon": "UI_TowerBlessing_7"
     },
     {
         "ScheduleId": 10,
@@ -710,10 +710,10 @@
         "Schedules": [
             {
                 "FloorList": [
-                    1009,
-                    1010,
-                    1011,
-                    1012
+                    1013,
+                    1014,
+                    1015,
+                    1016
                 ],
                 "OpenTime": "2021-01-01 04:00:00"
             },
@@ -748,10 +748,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1310,
+        "MonthlyLevelConfigId": 1317,
         "DescTextMapHash": 3605593864,
         "BuffnameTextMapHash": 3750899287,
-        "Icon": "UI_TowerBlessing_5"
+        "Icon": "UI_TowerBlessing_8"
     },
     {
         "ScheduleId": 14,
@@ -768,10 +768,10 @@
         "Schedules": [
             {
                 "FloorList": [
-                    1009,
-                    1010,
-                    1011,
-                    1012
+                    1013,
+                    1014,
+                    1015,
+                    1016
                 ],
                 "OpenTime": "2021-01-16 04:00:00"
             },
@@ -806,10 +806,10 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1311,
+        "MonthlyLevelConfigId": 1318,
         "DescTextMapHash": 2062809136,
         "BuffnameTextMapHash": 876199503,
-        "Icon": "UI_TowerBlessing_6"
+        "Icon": "UI_TowerBlessing_9"
     },
     {
         "ScheduleId": 15,
@@ -826,10 +826,10 @@
         "Schedules": [
             {
                 "FloorList": [
-                    1009,
-                    1010,
-                    1011,
-                    1012
+                    1013,
+                    1014,
+                    1015,
+                    1016
                 ],
                 "OpenTime": "2021-02-01 04:00:00"
             },
@@ -864,9 +864,9 @@
                 "MinStarCount": 120
             }
         ],
-        "MonthlyLevelConfigId": 1312,
+        "MonthlyLevelConfigId": 1319,
         "DescTextMapHash": 3325270472,
         "BuffnameTextMapHash": 2960906167,
-        "Icon": "UI_TowerBlessing_7"
+        "Icon": "UI_TowerBlessing_10"
     }
 ]

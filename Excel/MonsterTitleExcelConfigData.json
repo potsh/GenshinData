@@ -266,9 +266,19 @@
         "Desc": "岩盾丘丘暴徒"
     },
     {
+        "TitleId": 3104,
+        "TitleNameTextMapHash": 2938534431,
+        "Desc": "冰盾丘丘暴徒"
+    },
+    {
         "TitleId": 3111,
         "TitleNameTextMapHash": 3207163591,
         "Desc": "丘丘岩盔王"
+    },
+    {
+        "TitleId": 3112,
+        "TitleNameTextMapHash": 2455323215,
+        "Desc": "丘丘霜铠王"
     },
     {
         "TitleId": 3201,
@@ -289,6 +299,11 @@
         "TitleId": 3204,
         "TitleNameTextMapHash": 2461230975,
         "Desc": "岩丘丘萨满"
+    },
+    {
+        "TitleId": 3205,
+        "TitleNameTextMapHash": 172091855,
+        "Desc": "冰丘丘萨满"
     },
     {
         "TitleId": 4001,
@@ -319,6 +334,12 @@
         "TitleNameTextMapHash": 510473727,
         "IsInverted": true,
         "Desc": "雷萤术士"
+    },
+    {
+        "TitleId": 5003,
+        "TitleNameTextMapHash": 553527231,
+        "IsInverted": true,
+        "Desc": "冰萤术士"
     },
     {
         "TitleId": 5101,
@@ -365,6 +386,11 @@
         "TitleId": 6002,
         "TitleNameTextMapHash": 1867418743,
         "Desc": "遗迹猎者"
+    },
+    {
+        "TitleId": 6003,
+        "TitleNameTextMapHash": 3768379127,
+        "Desc": "遗迹重机"
     },
     {
         "TitleId": 7001,
@@ -470,5 +496,30 @@
         "TitleId": 10002,
         "TitleNameTextMapHash": 3521985375,
         "Desc": "钟离线债务处理人-精英"
+    },
+    {
+        "TitleId": 10003,
+        "TitleNameTextMapHash": 225429327,
+        "Desc": "远古野猪王"
+    },
+    {
+        "TitleId": 10004,
+        "TitleNameTextMapHash": 170546951,
+        "Desc": "历战无相雷"
+    },
+    {
+        "TitleId": 10005,
+        "TitleNameTextMapHash": 412604943,
+        "Desc": "历战无相风"
+    },
+    {
+        "TitleId": 10006,
+        "TitleNameTextMapHash": 1828698055,
+        "Desc": "历战无相岩"
+    },
+    {
+        "TitleId": 10008,
+        "TitleNameTextMapHash": 1534503967,
+        "Desc": "雪山活动急冻树"
     }
 ]

@@ -380,6 +380,54 @@
         "TextMapContentTextMapHash": 4052463875
     },
     {
+        "TextMapId": "UI_PRE_DOWNLOAD_TITLE",
+        "TextMapContentTextMapHash": 3589064216
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_TIP",
+        "TextMapContentTextMapHash": 3996776936
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_TEXT",
+        "TextMapContentTextMapHash": 907865848
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_RESOURCE",
+        "TextMapContentTextMapHash": 2717876504
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_RESOURCE_ING",
+        "TextMapContentTextMapHash": 2598187350
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_BUTTON_YES",
+        "TextMapContentTextMapHash": 3184167063
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_PAUSE_BUTTON",
+        "TextMapContentTextMapHash": 4097171968
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_PAUSE_TITLE",
+        "TextMapContentTextMapHash": 2384463120
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_PAUSE_TEXT",
+        "TextMapContentTextMapHash": 1895609152
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_FINISH_TEXT",
+        "TextMapContentTextMapHash": 1558829570
+    },
+    {
+        "TextMapId": "UI_PRE_DOWNLOAD_SETTING_BUTTON",
+        "TextMapContentTextMapHash": 970639847
+    },
+    {
+        "TextMapId": "PICK_DOWNLOAD",
+        "TextMapContentTextMapHash": 1359506199
+    },
+    {
         "TextMapId": "UI_LOGIN_ENTER_GAME_BTN",
         "TextMapContentTextMapHash": 633842728
     },
@@ -510,5 +558,113 @@
     {
         "TextMapId": "UI_KORREA_GRAC_PC_WARNING",
         "TextMapContentTextMapHash": 1954185855
+    },
+    {
+        "TextMapId": "UI_DATA_CHECK",
+        "TextMapContentTextMapHash": 1737207775
+    },
+    {
+        "TextMapId": "UI_STOP_DATA_CHECK",
+        "TextMapContentTextMapHash": 1735866358
+    },
+    {
+        "TextMapId": "UI_CLIENT_DATA_CHECKING",
+        "TextMapContentTextMapHash": 505646004
+    },
+    {
+        "TextMapId": "UI_DATA_CHECK_CONTINUEGAME",
+        "TextMapContentTextMapHash": 1911758626
+    },
+    {
+        "TextMapId": "UI_DATA_REPAIR_CONFIRM",
+        "TextMapContentTextMapHash": 1614785360
+    },
+    {
+        "TextMapId": "UI_DATA_CHECK_START",
+        "TextMapContentTextMapHash": 2373125418
+    },
+    {
+        "TextMapId": "UI_CLIENT_DATA_CHECK",
+        "TextMapContentTextMapHash": 3462016748
+    },
+    {
+        "TextMapId": "UI_CLIENT_DATA_CHECK_QUESTION",
+        "TextMapContentTextMapHash": 429547252
+    },
+    {
+        "TextMapId": "UI_STOP_DATA_CHECK_QUESTION",
+        "TextMapContentTextMapHash": 3451860542
+    },
+    {
+        "TextMapId": "UI_DATA_CHECK_FULLCLIENT",
+        "TextMapContentTextMapHash": 1906915682
+    },
+    {
+        "TextMapId": "UI_DATA_CHECK_DATA_MISSING",
+        "TextMapContentTextMapHash": 1794534052
+    },
+    {
+        "TextMapId": "UI_CLOUD_GAME_ERRORHINT",
+        "TextMapContentTextMapHash": 4218743961
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_TITLE",
+        "TextMapContentTextMapHash": 57270697
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON1",
+        "TextMapContentTextMapHash": 4145546873
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON2",
+        "TextMapContentTextMapHash": 569684817
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_TIPS",
+        "TextMapContentTextMapHash": 1618796217
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON_RETURN",
+        "TextMapContentTextMapHash": 1985614716
+    },
+    {
+        "TextMapId": "UI_HDR_SCREEN_SETUP_UI_TITLE",
+        "TextMapContentTextMapHash": 3753222226
+    },
+    {
+        "TextMapId": "UI_HDR_SCREEN_SETUP_UI_TIPS",
+        "TextMapContentTextMapHash": 3563533730
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON_TIPS1",
+        "TextMapContentTextMapHash": 1777900780
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON_TIPS2",
+        "TextMapContentTextMapHash": 3263942044
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON3",
+        "TextMapContentTextMapHash": 1026654825
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON4",
+        "TextMapContentTextMapHash": 2552092697
+    },
+    {
+        "TextMapId": "UI_SETTING_GRAPHICS_HDR",
+        "TextMapContentTextMapHash": 3539970754
+    },
+    {
+        "TextMapId": "UI_SETTING_GO_TO_SET",
+        "TextMapContentTextMapHash": 615346102
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_TIPS_TITLE",
+        "TextMapContentTextMapHash": 2011494594
+    },
+    {
+        "TextMapId": "UI_HDR_SETUP_TIPS_TEXT",
+        "TextMapContentTextMapHash": 3421951338
     }
 ]

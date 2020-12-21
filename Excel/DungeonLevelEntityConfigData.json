@@ -2283,5 +2283,507 @@
         "Show": true,
         "LevelConfigName": "LevelEntity_TowerBuff_ShieldOnBeingHitDoDamage",
         "DescTextMapHash": 3541742922
+    },
+    {
+        "ClientId": 10335,
+        "Id": 1313,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1364787402
+    },
+    {
+        "ClientId": 10336,
+        "Id": 1313,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3372415026
+    },
+    {
+        "ClientId": 10337,
+        "Id": 1313,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3295992474
+    },
+    {
+        "ClientId": 10338,
+        "Id": 1314,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3869720354
+    },
+    {
+        "ClientId": 10339,
+        "Id": 1314,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 2436622402
+    },
+    {
+        "ClientId": 10340,
+        "Id": 1314,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3466746018
+    },
+    {
+        "ClientId": 10341,
+        "Id": 1315,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "DescTextMapHash": 737517898
+    },
+    {
+        "ClientId": 10342,
+        "Id": 1315,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 3642223034
+    },
+    {
+        "ClientId": 10343,
+        "Id": 1316,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 4112856746
+    },
+    {
+        "ClientId": 10344,
+        "Id": 1316,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "DescTextMapHash": 202574490
+    },
+    {
+        "ClientId": 10345,
+        "Id": 1316,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3295200034
+    },
+    {
+        "ClientId": 10346,
+        "Id": 1317,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldDoDamage_Ice",
+        "DescTextMapHash": 3589622938
+    },
+    {
+        "ClientId": 10347,
+        "Id": 1317,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldReduceCD_Ice",
+        "DescTextMapHash": 4134609602
+    },
+    {
+        "ClientId": 10348,
+        "Id": 1318,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldAtkSpeedUp_Ice",
+        "DescTextMapHash": 561398154
+    },
+    {
+        "ClientId": 10349,
+        "Id": 1319,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldCriticalUp_Ice",
+        "DescTextMapHash": 3440098746
+    },
+    {
+        "ClientId": 10350,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Electric",
+        "DescTextMapHash": 2856340298
+    },
+    {
+        "ClientId": 10351,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_CriticalDown",
+        "DescTextMapHash": 37504162
+    },
+    {
+        "ClientId": 10352,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterULT",
+        "DescTextMapHash": 1545401402
+    },
+    {
+        "ClientId": 10353,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDownHighHP",
+        "DescTextMapHash": 4089606298
+    },
+    {
+        "ClientId": 10354,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_DashStamina_Increment",
+        "DescTextMapHash": 1465057466
+    },
+    {
+        "ClientId": 10355,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SkillCDIncrement",
+        "DescTextMapHash": 858514418
+    },
+    {
+        "ClientId": 10356,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ShieldCostMinus",
+        "DescTextMapHash": 527146146
+    },
+    {
+        "ClientId": 10357,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkSpeed",
+        "DescTextMapHash": 3611770946
+    },
+    {
+        "ClientId": 10358,
+        "Id": 1321,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Fire",
+        "DescTextMapHash": 2848432874
+    },
+    {
+        "ClientId": 10359,
+        "Id": 1321,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_CriticalHurtDown",
+        "DescTextMapHash": 2914298738
+    },
+    {
+        "ClientId": 10360,
+        "Id": 1321,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDownLowHP",
+        "DescTextMapHash": 2123217730
+    },
+    {
+        "ClientId": 10361,
+        "Id": 1321,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AttackUp",
+        "DescTextMapHash": 2497739586
+    },
+    {
+        "ClientId": 10362,
+        "Id": 1321,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MoveSpeed",
+        "DescTextMapHash": 4294309314
+    },
+    {
+        "ClientId": 10363,
+        "Id": 1322,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Ice",
+        "DescTextMapHash": 2222393370
+    },
+    {
+        "ClientId": 10364,
+        "Id": 1322,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDefUpHighHP",
+        "DescTextMapHash": 3793278530
+    },
+    {
+        "ClientId": 10365,
+        "Id": 1322,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ShieldCostMinusDown",
+        "DescTextMapHash": 489720194
+    },
+    {
+        "ClientId": 10366,
+        "Id": 1323,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_PhysicalDown",
+        "DescTextMapHash": 520713690
+    },
+    {
+        "ClientId": 10367,
+        "Id": 1323,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDefUpLowHP",
+        "DescTextMapHash": 2950033442
+    },
+    {
+        "ClientId": 10368,
+        "Id": 1323,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MoveSpeedDown",
+        "DescTextMapHash": 401632850
+    },
+    {
+        "ClientId": 10369,
+        "Id": 1323,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SprintBeHurtDamageUp",
+        "DescTextMapHash": 2873480570
+    },
+    {
+        "ClientId": 10370,
+        "Id": 1324,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Electric",
+        "DescTextMapHash": 2867337282
+    },
+    {
+        "ClientId": 10371,
+        "Id": 1325,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_CriticalDown",
+        "DescTextMapHash": 4190500042
+    },
+    {
+        "ClientId": 10372,
+        "Id": 1326,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterULT",
+        "DescTextMapHash": 3020115066
+    },
+    {
+        "ClientId": 10373,
+        "Id": 1327,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDownHighHP",
+        "DescTextMapHash": 2287250026
+    },
+    {
+        "ClientId": 10374,
+        "Id": 1328,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_DashStamina_Increment",
+        "DescTextMapHash": 3577949266
+    },
+    {
+        "ClientId": 10375,
+        "Id": 1329,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SkillCDIncrement",
+        "DescTextMapHash": 3710409466
+    },
+    {
+        "ClientId": 10376,
+        "Id": 1330,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ShieldCostMinus_Ver2",
+        "DescTextMapHash": 3888340418
+    },
+    {
+        "ClientId": 10377,
+        "Id": 1331,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkSpeed",
+        "DescTextMapHash": 287912642
+    },
+    {
+        "ClientId": 10378,
+        "Id": 1332,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Fire",
+        "DescTextMapHash": 2338578490
+    },
+    {
+        "ClientId": 10379,
+        "Id": 1333,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_CriticalHurtDown",
+        "DescTextMapHash": 1884290034
+    },
+    {
+        "ClientId": 10380,
+        "Id": 1334,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDownLowHP",
+        "DescTextMapHash": 2943473986
+    },
+    {
+        "ClientId": 10381,
+        "Id": 1335,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AttackUp",
+        "DescTextMapHash": 1282438826
+    },
+    {
+        "ClientId": 10382,
+        "Id": 1336,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MoveSpeed",
+        "DescTextMapHash": 843406882
+    },
+    {
+        "ClientId": 10383,
+        "Id": 1337,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Ice",
+        "DescTextMapHash": 3108184218
+    },
+    {
+        "ClientId": 10384,
+        "Id": 1338,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDefUpHighHP",
+        "DescTextMapHash": 1755901394
+    },
+    {
+        "ClientId": 10385,
+        "Id": 1339,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ShieldCostMinusDown",
+        "DescTextMapHash": 4170849074
+    },
+    {
+        "ClientId": 10386,
+        "Id": 1340,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_PhysicalDown",
+        "DescTextMapHash": 3998443314
+    },
+    {
+        "ClientId": 10387,
+        "Id": 1341,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDefUpLowHP",
+        "DescTextMapHash": 184389242
+    },
+    {
+        "ClientId": 10388,
+        "Id": 1342,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MoveSpeedDown",
+        "DescTextMapHash": 1726065514
+    },
+    {
+        "ClientId": 10389,
+        "Id": 1343,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SprintBeHurtDamageUp",
+        "DescTextMapHash": 3308214634
+    },
+    {
+        "ClientId": 10390,
+        "Id": 1344,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1075570370
+    },
+    {
+        "ClientId": 10391,
+        "Id": 1344,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3909891906
+    },
+    {
+        "ClientId": 10392,
+        "Id": 1344,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 2451588826
+    },
+    {
+        "ClientId": 10393,
+        "Id": 1345,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Heal_Down_Ver2",
+        "DescTextMapHash": 1028535922
+    },
+    {
+        "ClientId": 10394,
+        "Id": 1346,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Avatar_ChargeEfficiencyDown",
+        "DescTextMapHash": 1719058322
+    },
+    {
+        "ClientId": 10395,
+        "Id": 1347,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterChangeAvatar",
+        "DescTextMapHash": 3884578722
+    },
+    {
+        "ClientId": 10396,
+        "Id": 1348,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_NoShieldAtkDown",
+        "DescTextMapHash": 3764874674
+    },
+    {
+        "ClientId": 10397,
+        "Id": 1349,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ChargeEfficiency_Ver2",
+        "DescTextMapHash": 381563794
+    },
+    {
+        "ClientId": 10398,
+        "Id": 1350,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpLowHP_Ver2",
+        "DescTextMapHash": 3500653562
+    },
+    {
+        "ClientId": 10399,
+        "Id": 1351,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpHighHP_Ver2",
+        "DescTextMapHash": 3272335986
+    },
+    {
+        "ClientId": 10400,
+        "Id": 1352,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 782541426
+    },
+    {
+        "ClientId": 10401,
+        "Id": 1353,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_01",
+        "DescTextMapHash": 1473956554
+    },
+    {
+        "ClientId": 10402,
+        "Id": 1354,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_02",
+        "DescTextMapHash": 3083179754
+    },
+    {
+        "ClientId": 10403,
+        "Id": 1355,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_03",
+        "DescTextMapHash": 1539905810
+    },
+    {
+        "ClientId": 10404,
+        "Id": 1356,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_04",
+        "DescTextMapHash": 3198001738
+    },
+    {
+        "ClientId": 10409,
+        "Id": 1360,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MonsterHp_025",
+        "DescTextMapHash": 1887663610
+    },
+    {
+        "ClientId": 10410,
+        "Id": 1361,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MonsterHp_050",
+        "DescTextMapHash": 3199084258
+    },
+    {
+        "ClientId": 10411,
+        "Id": 1362,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MonsterHp_100",
+        "DescTextMapHash": 2324193386
     }
 ]

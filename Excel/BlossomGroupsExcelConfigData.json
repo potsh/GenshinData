@@ -4061,5 +4061,361 @@
         "FightRadius": 30,
         "RemindRadius": 50,
         "BlossomTipsTextMapHash": 3627099187
+    },
+    {
+        "Id": 111101001,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008432
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1509053003,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111101002,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008431
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 563067827,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111101003,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008433
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101004
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 767452755,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111101004,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008419
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102001
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3388495187,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102001,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008420
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102002
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4144589443,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102002,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008421
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102003
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 14936651,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102003,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008434
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102004
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2196925219,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102004,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            6
+        ],
+        "NewGroup": [
+            133008418
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101001
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1459884299,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111101005,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133001572
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101006
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 4117026139,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111101006,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133001573
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101007
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 2248022507,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111101007,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133105337
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101008
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1699134859,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111101008,
+        "CityId": 11,
+        "SectionId": 1101,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133008429
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102005
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 1970093243,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102005,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133002475
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102006
+        ],
+        "isSafe": true,
+        "IsInitialRefresh": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3583667963,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102006,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133105336
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102007
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3252185795,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102007,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133002474
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111102008
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3139898931,
+        "DelayUnloadSec": 60
+    },
+    {
+        "Id": 111102008,
+        "CityId": 11,
+        "SectionId": 1102,
+        "RefreshType": [
+            7
+        ],
+        "NewGroup": [
+            133002473
+        ],
+        "DecorateGroup": [],
+        "NextCampId": [
+            111101005
+        ],
+        "isSafe": true,
+        "FinishProgress": 1,
+        "LimitLevel": 1,
+        "FightRadius": 30,
+        "RemindRadius": 50,
+        "BlossomTipsTextMapHash": 3339520627,
+        "DelayUnloadSec": 60
     }
 ]

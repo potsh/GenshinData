@@ -1,0 +1,718 @@
+[
+    {
+        "RoutineId": 10001,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008402,
+        "IsBackup": true,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 4
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 537622841,
+        "Unknown2": 1685306741,
+        "Unknown3": 2193792537,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_402",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10002,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008436,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 2
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2452958265,
+        "Unknown2": 264414749,
+        "Unknown3": 401568281,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_436",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10003,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008437,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 4
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 565204777,
+        "Unknown2": 3446255093,
+        "Unknown3": 1053655953,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_437",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10004,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008438,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 4
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 1219007193,
+        "Unknown2": 2394889989,
+        "Unknown3": 3979033801,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_438",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10005,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008439,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 3
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 1694822201,
+        "Unknown2": 1302923013,
+        "Unknown3": 1298469089,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_439",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10006,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008440,
+        "IsBackup": true,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2179317905,
+        "Unknown2": 48727949,
+        "Unknown3": 3720595665,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_440",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10007,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008461,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 4
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 190700521,
+        "Unknown2": 3182293405,
+        "Unknown3": 1956446897,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_461",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10008,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008462,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 853637041,
+        "Unknown2": 474574573,
+        "Unknown3": 3176013425,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_462",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10009,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008463,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2967444073,
+        "Unknown2": 100321701,
+        "Unknown3": 1220552873,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_463",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10010,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008464,
+        "IsBackup": true,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 3
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2517519129,
+        "Unknown2": 3662262069,
+        "Unknown3": 3664934025,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_464",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10011,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008465,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 3
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 130368921,
+        "Unknown2": 1391119757,
+        "Unknown3": 1424518345,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_465",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10012,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008503,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 3749299657,
+        "Unknown2": 2737049533,
+        "Unknown3": 780290689,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_503",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10013,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008504,
+        "IsBackup": true,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 1796683825,
+        "Unknown2": 270618453,
+        "Unknown3": 2187319809,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_504",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10014,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008585,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2133565057,
+        "Unknown2": 2295728693,
+        "Unknown3": 3435515025,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_585",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10015,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008588,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2828645345,
+        "Unknown2": 3706576141,
+        "Unknown3": 4112536273,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_588",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10016,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008589,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 508122641,
+        "Unknown2": 1376049821,
+        "Unknown3": 1720373049,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_589",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10017,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008590,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 3
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 3858972529,
+        "Unknown2": 1320257397,
+        "Unknown3": 2972357889,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_590",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10018,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008591,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 4037358785,
+        "Unknown2": 153347469,
+        "Unknown3": 3280536825,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_591",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10019,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008593,
+        "IsBackup": true,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 2
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 443194953,
+        "Unknown2": 3560725197,
+        "Unknown3": 1991536441,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_593",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10020,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008594,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 2
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2210396625,
+        "Unknown2": 673031077,
+        "Unknown3": 437339689,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_594",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10021,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008625,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 3
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2355327449,
+        "Unknown2": 2466181909,
+        "Unknown3": 1067720361,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_625",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10022,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008626,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 2
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2994145401,
+        "Unknown2": 2735809541,
+        "Unknown3": 2363540129,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_626",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10023,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008627,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 4
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2765568153,
+        "Unknown2": 1578487669,
+        "Unknown3": 1334949049,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_627",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10024,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008628,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 4
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 2472242009,
+        "Unknown2": 3360569357,
+        "Unknown3": 2010132785,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_628",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10025,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008629,
+        "IsBackup": true,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 1602583825,
+        "Unknown2": 840874789,
+        "Unknown3": 3372647497,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_629",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10026,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008630,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_CHALLENGE_FINISH",
+            "Progress": 1
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 3665427041,
+        "Unknown2": 935396261,
+        "Unknown3": 2118967193,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_630",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10027,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008631,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 2
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 923728793,
+        "Unknown2": 2475364749,
+        "Unknown3": 2997746105,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_631",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    },
+    {
+        "RoutineId": 10028,
+        "RoutineType": "ROUTINE_SNOW_MOUNTAIN",
+        "GroupId": 133008632,
+        "Tag": 209,
+        "RewardId": 311001,
+        "FinishContent": {
+            "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
+            "Progress": 4
+        },
+        "Cond": [
+            {},
+            {}
+        ],
+        "Action": [
+            {},
+            {}
+        ],
+        "Unknown1": 4081102993,
+        "Unknown2": 1264092605,
+        "Unknown3": 397159569,
+        "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_632",
+        "RadarRadius": 10,
+        "EnterDistance": 20,
+        "ExitDistance": 30
+    }
+]

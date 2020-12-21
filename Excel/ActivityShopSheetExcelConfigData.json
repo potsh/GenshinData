@@ -29,5 +29,70 @@
             }
         ],
         "SortLevel": []
+    },
+    {
+        "Id": 3,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 3994771888,
+        "Cond": [
+            {
+                "Type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
+    },
+    {
+        "Id": 4,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 2746388424,
+        "Cond": [
+            {
+                "Type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
+    },
+    {
+        "Id": 5,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 675860352,
+        "Cond": [
+            {
+                "Type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "Param": [
+                    10
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
+    },
+    {
+        "Id": 6,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 3025887360,
+        "Cond": [
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
     }
 ]

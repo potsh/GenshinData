@@ -68,6 +68,30 @@
         "Path": "Scene_CutScene/Cs_Scene_Goddess_Chord_Rock"
     },
     {
+        "Id": 17,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTreeUpgradeDefault"
+    },
+    {
+        "Id": 18,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTreeLvUp1"
+    },
+    {
+        "Id": 19,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTree_1To2"
+    },
+    {
+        "Id": 20,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTreeLvUp2"
+    },
+    {
+        "Id": 21,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTree_2To3"
+    },
+    {
+        "Id": 22,
+        "Path": "Scene_CutScene/Cs_Scene_DungeonGate_03"
+    },
+    {
         "Id": 9999,
         "Path": "Scene_CutScene/Cs_Common_BlackScreen_Convert"
     },
@@ -90,6 +114,10 @@
     {
         "Id": 133103334,
         "Path": "Scene_CutScene/Cs_Scene_LY_StoneNiddlesRiseField"
+    },
+    {
+        "Id": 300801601,
+        "Path": "Scene_CutScene/Cs_WQ70141_CelestiaClusterBigFocus"
     },
     {
         "Id": 310301001,
@@ -190,5 +218,13 @@
     {
         "Id": 220101003,
         "Path": "Scene_CutScene/Cs_LYAQ301_GongZiBoss_Loop_Convert"
+    },
+    {
+        "Id": 300805201,
+        "Path": "Scene_CutScene/Cs_Scene_LJXS_Prison_01"
+    },
+    {
+        "Id": 3008523,
+        "Path": "Scene_CutScene/Cs_Scene_WallPaintChamber"
     }
 ]

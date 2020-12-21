@@ -1971,8 +1971,8 @@
             {}
         ],
         "Param": [
-            0.15000000596046448,
-            0.03999999910593033,
+            0.1599999964237213,
+            0.05999999865889549,
             0.0,
             0.0,
             0.0,
@@ -1994,8 +1994,8 @@
             {}
         ],
         "Param": [
-            0.18000000715255737,
-            0.05000000074505806,
+            0.20000000298023224,
+            0.07500000298023224,
             0.0,
             0.0,
             0.0,
@@ -2017,8 +2017,8 @@
             {}
         ],
         "Param": [
-            0.20000000298023224,
-            0.05999999865889549,
+            0.23999999463558197,
+            0.09000000357627869,
             0.0,
             0.0,
             0.0,
@@ -2040,8 +2040,8 @@
             {}
         ],
         "Param": [
-            0.2199999988079071,
-            0.07000000029802322,
+            0.2800000011920929,
+            0.10499999672174454,
             0.0,
             0.0,
             0.0,
@@ -2063,8 +2063,8 @@
             {}
         ],
         "Param": [
-            0.25,
-            0.07999999821186066,
+            0.3199999928474426,
+            0.11999999731779099,
             0.0,
             0.0,
             0.0,
@@ -4285,120 +4285,6 @@
         ]
     },
     {
-        "AffixId": 1124100,
-        "Id": 112410,
-        "NameTextMapHash": 2185338403,
-        "DescTextMapHash": 3932180281,
-        "OpenConfig": "Weapon_Claymore_Liyue",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.05999999865889549,
-            0.019999999552965164,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1124101,
-        "Id": 112410,
-        "Level": 1,
-        "NameTextMapHash": 2180294243,
-        "DescTextMapHash": 1375954089,
-        "OpenConfig": "Weapon_Claymore_Liyue",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.07000000029802322,
-            0.029999999329447746,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1124102,
-        "Id": 112410,
-        "Level": 2,
-        "NameTextMapHash": 3417339803,
-        "DescTextMapHash": 3700384849,
-        "OpenConfig": "Weapon_Claymore_Liyue",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.07999999821186066,
-            0.03999999910593033,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1124103,
-        "Id": 112410,
-        "Level": 3,
-        "NameTextMapHash": 3533218187,
-        "DescTextMapHash": 1731395913,
-        "OpenConfig": "Weapon_Claymore_Liyue",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.09000000357627869,
-            0.05000000074505806,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1124104,
-        "Id": 112410,
-        "Level": 4,
-        "NameTextMapHash": 3587062891,
-        "DescTextMapHash": 2487928801,
-        "OpenConfig": "Weapon_Claymore_Liyue",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.10000000149011612,
-            0.05999999865889549,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
         "AffixId": 1124110,
         "Id": 112411,
         "NameTextMapHash": 486943795,
@@ -4411,7 +4297,7 @@
         ],
         "Param": [
             0.6000000238418579,
-            0.6000000238418579,
+            0.800000011920929,
             2.0,
             10.0,
             0.0,
@@ -4433,9 +4319,9 @@
             {}
         ],
         "Param": [
-            0.6000000238418579,
-            0.800000011920929,
-            2.0,
+            0.699999988079071,
+            0.949999988079071,
+            2.4000000953674316,
             10.0,
             0.0,
             0.0,
@@ -4456,9 +4342,9 @@
             {}
         ],
         "Param": [
-            0.6000000238418579,
-            1.0,
-            2.0,
+            0.800000011920929,
+            1.100000023841858,
+            2.799999952316284,
             10.0,
             0.0,
             0.0,
@@ -4479,9 +4365,9 @@
             {}
         ],
         "Param": [
-            0.6000000238418579,
-            1.2000000476837158,
-            2.0,
+            0.8999999761581421,
+            1.25,
+            3.200000047683716,
             10.0,
             0.0,
             0.0,
@@ -4502,9 +4388,9 @@
             {}
         ],
         "Param": [
-            0.6000000238418579,
+            1.0,
             1.399999976158142,
-            2.0,
+            3.5999999046325684,
             10.0,
             0.0,
             0.0,
@@ -6040,120 +5926,6 @@
         ]
     },
     {
-        "AffixId": 1134060,
-        "Id": 113406,
-        "NameTextMapHash": 2295392083,
-        "DescTextMapHash": 958977537,
-        "OpenConfig": "Weapon_Pole_HeavyExtra",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            0.4000000059604645,
-            10.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1134061,
-        "Id": 113406,
-        "Level": 1,
-        "NameTextMapHash": 1200416483,
-        "DescTextMapHash": 2223743225,
-        "OpenConfig": "Weapon_Pole_HeavyExtra",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            0.5,
-            10.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1134062,
-        "Id": 113406,
-        "Level": 2,
-        "NameTextMapHash": 563427555,
-        "DescTextMapHash": 7064641,
-        "OpenConfig": "Weapon_Pole_HeavyExtra",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            0.6000000238418579,
-            10.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1134063,
-        "Id": 113406,
-        "Level": 3,
-        "NameTextMapHash": 3151104187,
-        "DescTextMapHash": 1737027817,
-        "OpenConfig": "Weapon_Pole_HeavyExtra",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            0.699999988079071,
-            10.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1134064,
-        "Id": 113406,
-        "Level": 4,
-        "NameTextMapHash": 646100491,
-        "DescTextMapHash": 4195168345,
-        "OpenConfig": "Weapon_Pole_HeavyExtra",
-        "AddProps": [
-            {},
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            0.800000011920929,
-            10.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
         "AffixId": 1134070,
         "Id": 113407,
         "NameTextMapHash": 1244742355,
@@ -6375,6 +6147,120 @@
             0.0,
             0.0,
             0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1134090,
+        "Id": 113409,
+        "NameTextMapHash": 1340415555,
+        "DescTextMapHash": 3136502233,
+        "OpenConfig": "Weapon_Pole_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.6000000238418579,
+            0.800000011920929,
+            2.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1134091,
+        "Id": 113409,
+        "Level": 1,
+        "NameTextMapHash": 4269064939,
+        "DescTextMapHash": 2987860217,
+        "OpenConfig": "Weapon_Pole_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.699999988079071,
+            0.949999988079071,
+            2.4000000953674316,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1134092,
+        "Id": 113409,
+        "Level": 2,
+        "NameTextMapHash": 2406785251,
+        "DescTextMapHash": 2334371601,
+        "OpenConfig": "Weapon_Pole_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.800000011920929,
+            1.100000023841858,
+            2.799999952316284,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1134093,
+        "Id": 113409,
+        "Level": 3,
+        "NameTextMapHash": 183313883,
+        "DescTextMapHash": 1964991545,
+        "OpenConfig": "Weapon_Pole_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.8999999761581421,
+            1.25,
+            3.200000047683716,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1134094,
+        "Id": 113409,
+        "Level": 4,
+        "NameTextMapHash": 3192689683,
+        "DescTextMapHash": 3566718937,
+        "OpenConfig": "Weapon_Pole_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            1.0,
+            1.399999976158142,
+            3.5999999046325684,
+            10.0,
             0.0,
             0.0,
             0.0,
@@ -6860,6 +6746,135 @@
             0.05999999865889549,
             0.23999999463558197,
             0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1135060,
+        "Id": 113506,
+        "NameTextMapHash": 1607082683,
+        "DescTextMapHash": 2832456089,
+        "OpenConfig": "Weapon_Pole_Regicide",
+        "AddProps": [
+            {
+                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "Value": 0.20000000298023224
+            },
+            {},
+            {}
+        ],
+        "Param": [
+            0.20000000298023224,
+            2.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1135061,
+        "Id": 113506,
+        "Level": 1,
+        "NameTextMapHash": 802457699,
+        "DescTextMapHash": 2509057529,
+        "OpenConfig": "Weapon_Pole_Regicide",
+        "AddProps": [
+            {
+                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "Value": 0.20000000298023224
+            },
+            {},
+            {}
+        ],
+        "Param": [
+            0.20000000298023224,
+            2.0,
+            1.2000000476837158,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1135062,
+        "Id": 113506,
+        "Level": 2,
+        "NameTextMapHash": 4284319227,
+        "DescTextMapHash": 3855591689,
+        "OpenConfig": "Weapon_Pole_Regicide",
+        "AddProps": [
+            {
+                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "Value": 0.20000000298023224
+            },
+            {},
+            {}
+        ],
+        "Param": [
+            0.20000000298023224,
+            2.0,
+            1.399999976158142,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1135063,
+        "Id": 113506,
+        "Level": 3,
+        "NameTextMapHash": 2694856827,
+        "DescTextMapHash": 3115247833,
+        "OpenConfig": "Weapon_Pole_Regicide",
+        "AddProps": [
+            {
+                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "Value": 0.20000000298023224
+            },
+            {},
+            {}
+        ],
+        "Param": [
+            0.20000000298023224,
+            2.0,
+            1.600000023841858,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1135064,
+        "Id": 113506,
+        "Level": 4,
+        "NameTextMapHash": 3044419915,
+        "DescTextMapHash": 667846409,
+        "OpenConfig": "Weapon_Pole_Regicide",
+        "AddProps": [
+            {
+                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "Value": 0.20000000298023224
+            },
+            {},
+            {}
+        ],
+        "Param": [
+            0.20000000298023224,
+            2.0,
+            1.7999999523162842,
             0.0,
             0.0,
             0.0,
@@ -8798,6 +8813,120 @@
             0.30000001192092896,
             6.0,
             4.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1144120,
+        "Id": 114412,
+        "NameTextMapHash": 2459894187,
+        "DescTextMapHash": 3743087417,
+        "OpenConfig": "Weapon_Catalyst_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.6000000238418579,
+            0.800000011920929,
+            2.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1144121,
+        "Id": 114412,
+        "Level": 1,
+        "NameTextMapHash": 1998815035,
+        "DescTextMapHash": 2638100617,
+        "OpenConfig": "Weapon_Catalyst_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.699999988079071,
+            0.949999988079071,
+            2.4000000953674316,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1144122,
+        "Id": 114412,
+        "Level": 2,
+        "NameTextMapHash": 1394994395,
+        "DescTextMapHash": 3670272705,
+        "OpenConfig": "Weapon_Catalyst_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.800000011920929,
+            1.100000023841858,
+            2.799999952316284,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1144123,
+        "Id": 114412,
+        "Level": 3,
+        "NameTextMapHash": 560824227,
+        "DescTextMapHash": 2227378393,
+        "OpenConfig": "Weapon_Catalyst_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            0.8999999761581421,
+            1.25,
+            3.200000047683716,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1144124,
+        "Id": 114412,
+        "Level": 4,
+        "NameTextMapHash": 1163616891,
+        "DescTextMapHash": 2637568257,
+        "OpenConfig": "Weapon_Catalyst_Dragonfell",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "Param": [
+            1.0,
+            1.399999976158142,
+            3.5999999046325684,
             10.0,
             0.0,
             0.0,
@@ -12323,8 +12452,8 @@
         "OpenConfig": "",
         "AddProps": [
             {
-                "Type": "FIGHT_PROP_ICE_SUB_HURT",
-                "Value": 0.4000000059604645
+                "Type": "FIGHT_PROP_ICE_ADD_HURT",
+                "Value": 0.15000000596046448
             },
             {},
             {}
@@ -12346,15 +12475,15 @@
         "Level": 1,
         "NameTextMapHash": 933076627,
         "DescTextMapHash": 1080795585,
-        "OpenConfig": "Relic_DamageUpAgainstIceAndFrozen",
+        "OpenConfig": "Relic_CriticUpAgainstIceAndFrozen",
         "AddProps": [
             {},
             {},
             {}
         ],
         "Param": [
-            0.3499999940395355,
-            0.0,
+            0.20000000298023224,
+            0.20000000298023224,
             0.0,
             0.0,
             0.0,
@@ -12880,7 +13009,7 @@
         "Param": [
             10.0,
             0.5,
-            -2.0,
+            -5.0,
             0.10000000149011612,
             0.0,
             0.0,
@@ -13095,23 +13224,23 @@
         ]
     },
     {
-        "AffixId": 1135060,
-        "Id": 113506,
-        "NameTextMapHash": 1607082683,
-        "DescTextMapHash": 2832456089,
-        "OpenConfig": "Weapon_Pole_Regicide",
+        "AffixId": 2150160,
+        "Id": 215016,
+        "NameTextMapHash": 3639055403,
+        "DescTextMapHash": 1931206529,
+        "OpenConfig": "",
         "AddProps": [
             {
-                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "Value": 0.20000000298023224
+                "Type": "FIGHT_PROP_WATER_ADD_HURT",
+                "Value": 0.15000000596046448
             },
             {},
             {}
         ],
         "Param": [
-            0.20000000298023224,
-            2.0,
-            1.0,
+            0.0,
+            0.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -13120,102 +13249,21 @@
         ]
     },
     {
-        "AffixId": 1135061,
-        "Id": 113506,
+        "AffixId": 2150161,
+        "Id": 215016,
         "Level": 1,
-        "NameTextMapHash": 802457699,
-        "DescTextMapHash": 2509057529,
-        "OpenConfig": "Weapon_Pole_Regicide",
+        "NameTextMapHash": 156294403,
+        "DescTextMapHash": 83285737,
+        "OpenConfig": "Relic_WaterSkillEnhanceNormalAtkAndExtraAtk",
         "AddProps": [
-            {
-                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "Value": 0.20000000298023224
-            },
+            {},
             {},
             {}
         ],
         "Param": [
-            0.20000000298023224,
-            2.0,
-            1.2000000476837158,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1135062,
-        "Id": 113506,
-        "Level": 2,
-        "NameTextMapHash": 4284319227,
-        "DescTextMapHash": 3855591689,
-        "OpenConfig": "Weapon_Pole_Regicide",
-        "AddProps": [
-            {
-                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "Value": 0.20000000298023224
-            },
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            2.0,
-            1.399999976158142,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1135063,
-        "Id": 113506,
-        "Level": 3,
-        "NameTextMapHash": 2694856827,
-        "DescTextMapHash": 3115247833,
-        "OpenConfig": "Weapon_Pole_Regicide",
-        "AddProps": [
-            {
-                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "Value": 0.20000000298023224
-            },
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            2.0,
-            1.600000023841858,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1135064,
-        "Id": 113506,
-        "Level": 4,
-        "NameTextMapHash": 3044419915,
-        "DescTextMapHash": 667846409,
-        "OpenConfig": "Weapon_Pole_Regicide",
-        "AddProps": [
-            {
-                "Type": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "Value": 0.20000000298023224
-            },
-            {},
-            {}
-        ],
-        "Param": [
-            0.20000000298023224,
-            2.0,
-            1.7999999523162842,
+            0.30000001192092896,
+            1.0,
+            15.0,
             0.0,
             0.0,
             0.0,

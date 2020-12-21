@@ -6,5 +6,21 @@
             1,
             2
         ]
+    },
+    {
+        "ScheduleId": 3001001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE",
+        "Sheet": [
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "ScheduleId": 5011001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
+        "Sheet": [
+            6
+        ]
     }
 ]

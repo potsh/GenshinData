@@ -1,13 +1,49 @@
 [
     {
+        "CardProductType": "CARD_PRODUCT_TYPE_HCOIN",
         "ItemNameTextMapHash": 3486638812,
         "Icon": "UI_Mall_Purchase_Blessofmoon",
         "TotalLimitDays": 180,
         "Days": 30,
-        "HCoinperDay": 90,
-        "MCoin": 300,
+        "HCoinPerDay": 90,
+        "MCoinBase": 300,
+        "BaseItem": {},
+        "PerDayItem": {},
         "ReplaceMCoin": 330,
+        "Unknown1": 2352880257,
+        "Unknown2": 1611948389,
+        "Unknown3": 3484611276,
+        "Unknown4": 2774363315,
+        "Unknown5": 63652233,
+        "Unknown6": 2554512167,
+        "Unknown7": 3703072604,
+        "Unknown8": 457186077,
         "ConfigId": 101,
+        "PriceTier": "Tier_5",
+        "ShopType": "SHOP_TYPE_PACKAGE"
+    },
+    {
+        "CardProductType": "CARD_PRODUCT_TYPE_RESIN",
+        "ItemNameTextMapHash": 3543455372,
+        "Icon": "UI_Mall_Purchase_Resin_Monthly",
+        "TotalLimitDays": 180,
+        "Days": 30,
+        "BaseItem": {
+            "106": 60
+        },
+        "PerDayItem": {
+            "106": 40
+        },
+        "ReplaceMCoin": 330,
+        "Unknown1": 3530646569,
+        "Unknown2": 3644940589,
+        "Unknown3": 804933692,
+        "Unknown4": 821239323,
+        "Unknown5": 2910444241,
+        "Unknown6": 3381811303,
+        "Unknown7": 2225711492,
+        "Unknown8": 780780861,
+        "ConfigId": 102,
         "PriceTier": "Tier_5",
         "ShopType": "SHOP_TYPE_PACKAGE"
     }

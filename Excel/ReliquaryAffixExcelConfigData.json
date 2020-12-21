@@ -1544,7 +1544,7 @@
         "GroupId": 6,
         "PropType": "FIGHT_PROP_ATTACK_PERCENT",
         "PropValue": 0.14569999277591705,
-        "Weight": 100,
+        "Weight": 100000,
         "UpgradeWeight": 1000
     },
     {
@@ -1562,7 +1562,7 @@
         "GroupId": 20,
         "PropType": "FIGHT_PROP_CRITICAL",
         "PropValue": 0.09709999710321426,
-        "Weight": 75,
+        "Weight": 75000,
         "UpgradeWeight": 1000
     },
     {
@@ -1589,7 +1589,7 @@
         "GroupId": 22,
         "PropType": "FIGHT_PROP_CRITICAL_HURT",
         "PropValue": 0.19429999589920044,
-        "Weight": 75,
+        "Weight": 75000,
         "UpgradeWeight": 1000
     },
     {
@@ -1607,7 +1607,7 @@
         "GroupId": 6,
         "PropType": "FIGHT_PROP_ATTACK_PERCENT",
         "PropValue": 0.06989999860525131,
-        "Weight": 100,
+        "Weight": 100000,
         "UpgradeWeight": 1000
     },
     {
@@ -1625,7 +1625,7 @@
         "GroupId": 20,
         "PropType": "FIGHT_PROP_CRITICAL",
         "PropValue": 0.04659999907016754,
-        "Weight": 75,
+        "Weight": 75000,
         "UpgradeWeight": 1000
     },
     {
@@ -1652,6 +1652,132 @@
         "GroupId": 22,
         "PropType": "FIGHT_PROP_CRITICAL_HURT",
         "PropValue": 0.093299999833107,
+        "Weight": 75000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 996001,
+        "DepotId": 996,
+        "GroupId": 3,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "PropValue": 0.06989999860525131,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 996002,
+        "DepotId": 996,
+        "GroupId": 6,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "PropValue": 0.06989999860525131,
+        "Weight": 100,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 996003,
+        "DepotId": 996,
+        "GroupId": 9,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "PropValue": 0.08739999681711197,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 996004,
+        "DepotId": 996,
+        "GroupId": 20,
+        "PropType": "FIGHT_PROP_CRITICAL",
+        "PropValue": 0.04659999907016754,
+        "Weight": 75,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 996005,
+        "DepotId": 996,
+        "GroupId": 23,
+        "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "PropValue": 0.07769999653100967,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 996006,
+        "DepotId": 996,
+        "GroupId": 25,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "PropValue": 27.979999542236328,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 996007,
+        "DepotId": 996,
+        "GroupId": 22,
+        "PropType": "FIGHT_PROP_CRITICAL_HURT",
+        "PropValue": 0.093299999833107,
+        "Weight": 75,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 995001,
+        "DepotId": 995,
+        "GroupId": 3,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "PropValue": 0.14569999277591705,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 995002,
+        "DepotId": 995,
+        "GroupId": 6,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "PropValue": 0.14569999277591705,
+        "Weight": 100,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 995003,
+        "DepotId": 995,
+        "GroupId": 9,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "PropValue": 0.18209999799728394,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 995004,
+        "DepotId": 995,
+        "GroupId": 20,
+        "PropType": "FIGHT_PROP_CRITICAL",
+        "PropValue": 0.09709999710321426,
+        "Weight": 75,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 995005,
+        "DepotId": 995,
+        "GroupId": 23,
+        "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "PropValue": 0.16189999878406525,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 995006,
+        "DepotId": 995,
+        "GroupId": 25,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "PropValue": 58.279998779296875,
+        "Weight": 100000,
+        "UpgradeWeight": 1000
+    },
+    {
+        "Id": 995007,
+        "DepotId": 995,
+        "GroupId": 22,
+        "PropType": "FIGHT_PROP_CRITICAL_HURT",
+        "PropValue": 0.19429999589920044,
         "Weight": 75,
         "UpgradeWeight": 1000
     },

@@ -362,5 +362,33 @@
             10,
             15
         ]
+    },
+    {
+        "AvatarId": 10000037,
+        "RecipeId": 3109,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108213,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "AvatarId": 10000038,
+        "RecipeId": 3012,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "Param": [
+            108214,
+            0
+        ],
+        "ComplexParam": [
+            5,
+            10,
+            15
+        ]
     }
 ]

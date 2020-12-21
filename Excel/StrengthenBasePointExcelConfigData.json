@@ -312,6 +312,22 @@
         "DungeonType": "DUNGEON_TYPE_DAILY"
     },
     {
+        "DungeonId": 5120,
+        "DungeonType": "DUNGEON_TYPE_DAILY"
+    },
+    {
+        "DungeonId": 5121,
+        "DungeonType": "DUNGEON_TYPE_DAILY"
+    },
+    {
+        "DungeonId": 5122,
+        "DungeonType": "DUNGEON_TYPE_DAILY"
+    },
+    {
+        "DungeonId": 5123,
+        "DungeonType": "DUNGEON_TYPE_DAILY"
+    },
+    {
         "DungeonId": 5210,
         "DungeonType": "DUNGEON_TYPE_DAILY"
     },
@@ -581,6 +597,54 @@
     },
     {
         "DungeonId": 3574,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3376,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3476,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3576,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3377,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3477,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3577,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3378,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3478,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3578,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3379,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3479,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3579,
         "DungeonType": "DUNGEON_TYPE_TOWER"
     }
 ]

@@ -42,6 +42,12 @@
         "EntitlementId": ""
     },
     {
+        "ProductId": "ys_chn_resincard_tier5",
+        "ConfigId": 102,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    {
         "ProductId": "ys_chn_bp_normal_tier10",
         "ConfigId": 201,
         "IsInternal": true,
@@ -95,6 +101,11 @@
         "EntitlementId": ""
     },
     {
+        "ProductId": "ys_glb_resincard_tier5",
+        "ConfigId": 102,
+        "EntitlementId": ""
+    },
+    {
         "ProductId": "ys_glb_bp_normal_tier10",
         "ConfigId": 201,
         "EntitlementId": ""
@@ -143,6 +154,11 @@
         "ProductId": "YSPS4BLESSTIER05",
         "ConfigId": 101,
         "EntitlementId": "BLESS1"
+    },
+    {
+        "ProductId": "YSPS4RESINTIER05",
+        "ConfigId": 102,
+        "EntitlementId": "RESIN1"
     },
     {
         "ProductId": "YSPS4BP003TIER10",

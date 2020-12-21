@@ -199,6 +199,46 @@
         "NoSuccessHint": true
     },
     {
+        "Id": 58,
+        "TargetTextTemplateTextMapHash": 3238868554,
+        "SubTargetTextTemplateTextMapHash": 2120575531,
+        "ProgressTextTemplateTextMapHash": 2408411390,
+        "SubProgressTextTemplateTextMapHash": 3824191063,
+        "ChallengeType": "CHALLENGE_KILL_COUNT"
+    },
+    {
+        "Id": 59,
+        "TargetTextTemplateTextMapHash": 789820594,
+        "SubTargetTextTemplateTextMapHash": 120911267,
+        "ProgressTextTemplateTextMapHash": 2931848694,
+        "SubProgressTextTemplateTextMapHash": 3258703407,
+        "ChallengeType": "CHALLENGE_KILL_COUNT"
+    },
+    {
+        "Id": 60,
+        "TargetTextTemplateTextMapHash": 1285425938,
+        "SubTargetTextTemplateTextMapHash": 879919035,
+        "ProgressTextTemplateTextMapHash": 2539620070,
+        "SubProgressTextTemplateTextMapHash": 4284286703,
+        "ChallengeType": "CHALLENGE_KILL_COUNT"
+    },
+    {
+        "Id": 61,
+        "TargetTextTemplateTextMapHash": 116885530,
+        "SubTargetTextTemplateTextMapHash": 1884247251,
+        "ProgressTextTemplateTextMapHash": 766566094,
+        "SubProgressTextTemplateTextMapHash": 2196243631,
+        "ChallengeType": "CHALLENGE_KILL_COUNT"
+    },
+    {
+        "Id": 62,
+        "TargetTextTemplateTextMapHash": 2493298754,
+        "SubTargetTextTemplateTextMapHash": 1982716875,
+        "ProgressTextTemplateTextMapHash": 3501339222,
+        "SubProgressTextTemplateTextMapHash": 1820415311,
+        "ChallengeType": "CHALLENGE_KILL_COUNT"
+    },
+    {
         "Id": 100,
         "TargetTextTemplateTextMapHash": 4076600594,
         "SubTargetTextTemplateTextMapHash": 1620208043,
@@ -950,6 +990,14 @@
         "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME_FLY"
     },
     {
+        "Id": 206,
+        "TargetTextTemplateTextMapHash": 3469125218,
+        "SubTargetTextTemplateTextMapHash": 1534377595,
+        "ProgressTextTemplateTextMapHash": 2532530638,
+        "SubProgressTextTemplateTextMapHash": 2470688679,
+        "ChallengeType": "CHALLENGE_TRIGGER2_AVOID_TRIGGER1"
+    },
+    {
         "Id": 207,
         "TargetTextTemplateTextMapHash": 586864306,
         "SubTargetTextTemplateTextMapHash": 802700187,
@@ -958,6 +1006,14 @@
         "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME_FLY",
         "NoSuccessHint": true,
         "InterruptButtonType": "INTERRUPT_BUTTON_TYPE_HOST"
+    },
+    {
+        "Id": 208,
+        "TargetTextTemplateTextMapHash": 1079010770,
+        "SubTargetTextTemplateTextMapHash": 3361898579,
+        "ProgressTextTemplateTextMapHash": 1064818894,
+        "SubProgressTextTemplateTextMapHash": 3834233847,
+        "ChallengeType": "CHALLENGE_KILL_COUNT"
     },
     {
         "Id": 209,
@@ -969,12 +1025,49 @@
         "InterruptButtonType": "INTERRUPT_BUTTON_TYPE_HOST"
     },
     {
+        "Id": 210,
+        "TargetTextTemplateTextMapHash": 303985882,
+        "SubTargetTextTemplateTextMapHash": 3606918083,
+        "ProgressTextTemplateTextMapHash": 3517947574,
+        "SubProgressTextTemplateTextMapHash": 2037215087,
+        "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME",
+        "InterruptButtonType": "INTERRUPT_BUTTON_TYPE_HOST"
+    },
+    {
+        "Id": 211,
+        "TargetTextTemplateTextMapHash": 3322696290,
+        "SubTargetTextTemplateTextMapHash": 461600963,
+        "ProgressTextTemplateTextMapHash": 4208438086,
+        "SubProgressTextTemplateTextMapHash": 152160607,
+        "ChallengeType": "CHALLENGE_KILL_COUNT_GUARD_HP",
+        "InterruptButtonType": "INTERRUPT_BUTTON_TYPE_HOST"
+    },
+    {
+        "Id": 212,
+        "TargetTextTemplateTextMapHash": 560196770,
+        "SubTargetTextTemplateTextMapHash": 2415462771,
+        "ProgressTextTemplateTextMapHash": 753424542,
+        "SubProgressTextTemplateTextMapHash": 14898111,
+        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME",
+        "InterruptButtonType": "INTERRUPT_BUTTON_TYPE_HOST"
+    },
+    {
+        "Id": 213,
+        "TargetTextTemplateTextMapHash": 1425865082,
+        "SubTargetTextTemplateTextMapHash": 3919304667,
+        "ProgressTextTemplateTextMapHash": 2757110326,
+        "SubProgressTextTemplateTextMapHash": 1572114927,
+        "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME"
+    },
+    {
         "Id": 214,
         "TargetTextTemplateTextMapHash": 4207240930,
         "SubTargetTextTemplateTextMapHash": 2508392379,
         "ProgressTextTemplateTextMapHash": 2611744478,
         "SubProgressTextTemplateTextMapHash": 1179190639,
-        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME"
+        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME",
+        "NoSuccessHint": true,
+        "NoFailHint": true
     },
     {
         "Id": 215,
@@ -982,7 +1075,9 @@
         "SubTargetTextTemplateTextMapHash": 3630467115,
         "ProgressTextTemplateTextMapHash": 2952981158,
         "SubProgressTextTemplateTextMapHash": 1273520639,
-        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME"
+        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME",
+        "NoSuccessHint": true,
+        "NoFailHint": true
     },
     {
         "Id": 216,
@@ -990,7 +1085,9 @@
         "SubTargetTextTemplateTextMapHash": 3868222371,
         "ProgressTextTemplateTextMapHash": 2902358430,
         "SubProgressTextTemplateTextMapHash": 3206884655,
-        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME"
+        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME",
+        "NoSuccessHint": true,
+        "NoFailHint": true
     },
     {
         "Id": 217,
@@ -998,7 +1095,41 @@
         "SubTargetTextTemplateTextMapHash": 605968827,
         "ProgressTextTemplateTextMapHash": 343964590,
         "SubProgressTextTemplateTextMapHash": 972599159,
-        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME"
+        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME",
+        "NoSuccessHint": true,
+        "NoFailHint": true
+    },
+    {
+        "Id": 218,
+        "TargetTextTemplateTextMapHash": 4282202786,
+        "SubTargetTextTemplateTextMapHash": 2568476379,
+        "ProgressTextTemplateTextMapHash": 3000620886,
+        "SubProgressTextTemplateTextMapHash": 233385487,
+        "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME"
+    },
+    {
+        "Id": 220,
+        "TargetTextTemplateTextMapHash": 305686242,
+        "SubTargetTextTemplateTextMapHash": 3290535419,
+        "ProgressTextTemplateTextMapHash": 3774474422,
+        "SubProgressTextTemplateTextMapHash": 1934018031,
+        "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME"
+    },
+    {
+        "Id": 221,
+        "TargetTextTemplateTextMapHash": 1680602218,
+        "SubTargetTextTemplateTextMapHash": 1124731387,
+        "ProgressTextTemplateTextMapHash": 1868324574,
+        "SubProgressTextTemplateTextMapHash": 2655631927,
+        "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME"
+    },
+    {
+        "Id": 222,
+        "TargetTextTemplateTextMapHash": 3125625570,
+        "SubTargetTextTemplateTextMapHash": 1348056123,
+        "ProgressTextTemplateTextMapHash": 2653860686,
+        "SubProgressTextTemplateTextMapHash": 2029717159,
+        "ChallengeType": "CHALLENGE_KILL_COUNT_GUARD_HP"
     },
     {
         "Id": 1000,
@@ -1201,6 +1332,14 @@
         "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME"
     },
     {
+        "Id": 1045,
+        "TargetTextTemplateTextMapHash": 755104866,
+        "SubTargetTextTemplateTextMapHash": 3008343163,
+        "ProgressTextTemplateTextMapHash": 3241020086,
+        "SubProgressTextTemplateTextMapHash": 3102774095,
+        "ChallengeType": "CHALLENGE_KILL_COUNT_IN_TIME"
+    },
+    {
         "Id": 2001,
         "TargetTextTemplateTextMapHash": 2581820818,
         "SubTargetTextTemplateTextMapHash": 3320227835,
@@ -1393,5 +1532,213 @@
         "ProgressTextTemplateTextMapHash": 838983342,
         "SubProgressTextTemplateTextMapHash": 2593442607,
         "ChallengeType": "CHALLENGE_GUARD_HP"
+    },
+    {
+        "Id": 110104,
+        "TargetTextTemplateTextMapHash": 3647841658,
+        "SubTargetTextTemplateTextMapHash": 4030317155,
+        "ProgressTextTemplateTextMapHash": 2962665038,
+        "SubProgressTextTemplateTextMapHash": 1530293543,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110105,
+        "TargetTextTemplateTextMapHash": 2107769002,
+        "SubTargetTextTemplateTextMapHash": 2975122019,
+        "ProgressTextTemplateTextMapHash": 733284342,
+        "SubProgressTextTemplateTextMapHash": 3290446063,
+        "ChallengeType": "CHALLENGE_MONSTER_DAMAGE_COUNT"
+    },
+    {
+        "Id": 110106,
+        "TargetTextTemplateTextMapHash": 3815784890,
+        "SubTargetTextTemplateTextMapHash": 521275739,
+        "ProgressTextTemplateTextMapHash": 3275203998,
+        "SubProgressTextTemplateTextMapHash": 1639433975,
+        "ChallengeType": "CHALLENGE_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110107,
+        "TargetTextTemplateTextMapHash": 3920010122,
+        "SubTargetTextTemplateTextMapHash": 1300932139,
+        "ProgressTextTemplateTextMapHash": 822371902,
+        "SubProgressTextTemplateTextMapHash": 942219271,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110108,
+        "TargetTextTemplateTextMapHash": 3482364074,
+        "SubTargetTextTemplateTextMapHash": 3270564139,
+        "ProgressTextTemplateTextMapHash": 1957853822,
+        "SubProgressTextTemplateTextMapHash": 271704751,
+        "ChallengeType": "CHALLENGE_MONSTER_DAMAGE_COUNT"
+    },
+    {
+        "Id": 110109,
+        "TargetTextTemplateTextMapHash": 2611251514,
+        "SubTargetTextTemplateTextMapHash": 2943961595,
+        "ProgressTextTemplateTextMapHash": 453660638,
+        "SubProgressTextTemplateTextMapHash": 901635167,
+        "ChallengeType": "CHALLENGE_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110110,
+        "TargetTextTemplateTextMapHash": 337054442,
+        "SubTargetTextTemplateTextMapHash": 1318719019,
+        "ProgressTextTemplateTextMapHash": 4131761926,
+        "SubProgressTextTemplateTextMapHash": 634492111,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110111,
+        "TargetTextTemplateTextMapHash": 2506729642,
+        "SubTargetTextTemplateTextMapHash": 2824103379,
+        "ProgressTextTemplateTextMapHash": 1129144958,
+        "SubProgressTextTemplateTextMapHash": 953553815,
+        "ChallengeType": "CHALLENGE_MONSTER_DAMAGE_COUNT"
+    },
+    {
+        "Id": 110112,
+        "TargetTextTemplateTextMapHash": 2348049394,
+        "SubTargetTextTemplateTextMapHash": 378020675,
+        "ProgressTextTemplateTextMapHash": 3953191262,
+        "SubProgressTextTemplateTextMapHash": 2718633167,
+        "ChallengeType": "CHALLENGE_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110113,
+        "TargetTextTemplateTextMapHash": 2163149226,
+        "SubTargetTextTemplateTextMapHash": 4183725163,
+        "ProgressTextTemplateTextMapHash": 1120468262,
+        "SubProgressTextTemplateTextMapHash": 4225503023,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110114,
+        "TargetTextTemplateTextMapHash": 4254251410,
+        "SubTargetTextTemplateTextMapHash": 1938248211,
+        "ProgressTextTemplateTextMapHash": 407730510,
+        "SubProgressTextTemplateTextMapHash": 3609227663,
+        "ChallengeType": "CHALLENGE_MONSTER_DAMAGE_COUNT"
+    },
+    {
+        "Id": 110115,
+        "TargetTextTemplateTextMapHash": 497936002,
+        "SubTargetTextTemplateTextMapHash": 4177564163,
+        "ProgressTextTemplateTextMapHash": 2091657454,
+        "SubProgressTextTemplateTextMapHash": 816791695,
+        "ChallengeType": "CHALLENGE_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110116,
+        "TargetTextTemplateTextMapHash": 2625011370,
+        "SubTargetTextTemplateTextMapHash": 4283766139,
+        "ProgressTextTemplateTextMapHash": 962047750,
+        "SubProgressTextTemplateTextMapHash": 583750695,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110117,
+        "TargetTextTemplateTextMapHash": 211768074,
+        "SubTargetTextTemplateTextMapHash": 4063729651,
+        "ProgressTextTemplateTextMapHash": 2384259958,
+        "SubProgressTextTemplateTextMapHash": 2255700623,
+        "ChallengeType": "CHALLENGE_MONSTER_DAMAGE_COUNT"
+    },
+    {
+        "Id": 110118,
+        "TargetTextTemplateTextMapHash": 1210318898,
+        "SubTargetTextTemplateTextMapHash": 2950446291,
+        "ProgressTextTemplateTextMapHash": 400298078,
+        "SubProgressTextTemplateTextMapHash": 247025991,
+        "ChallengeType": "CHALLENGE_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110119,
+        "TargetTextTemplateTextMapHash": 2680084402,
+        "SubTargetTextTemplateTextMapHash": 471945387,
+        "ProgressTextTemplateTextMapHash": 2695982622,
+        "SubProgressTextTemplateTextMapHash": 4132044015,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110120,
+        "TargetTextTemplateTextMapHash": 4192890154,
+        "SubTargetTextTemplateTextMapHash": 3618139571,
+        "ProgressTextTemplateTextMapHash": 766128590,
+        "SubProgressTextTemplateTextMapHash": 306724903,
+        "ChallengeType": "CHALLENGE_FREEZE_ENEMY_IN_TIME"
+    },
+    {
+        "Id": 110121,
+        "TargetTextTemplateTextMapHash": 1174099698,
+        "SubTargetTextTemplateTextMapHash": 3633195107,
+        "ProgressTextTemplateTextMapHash": 2908788502,
+        "SubProgressTextTemplateTextMapHash": 2711079607,
+        "ChallengeType": "CHALLENGE_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110122,
+        "TargetTextTemplateTextMapHash": 3483539994,
+        "SubTargetTextTemplateTextMapHash": 4269594547,
+        "ProgressTextTemplateTextMapHash": 2053783622,
+        "SubProgressTextTemplateTextMapHash": 4168683863,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110123,
+        "TargetTextTemplateTextMapHash": 2803464714,
+        "SubTargetTextTemplateTextMapHash": 958195675,
+        "ProgressTextTemplateTextMapHash": 1896119054,
+        "SubProgressTextTemplateTextMapHash": 3608655951,
+        "ChallengeType": "CHALLENGE_CRYSTAL_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110124,
+        "TargetTextTemplateTextMapHash": 631876634,
+        "SubTargetTextTemplateTextMapHash": 487270643,
+        "ProgressTextTemplateTextMapHash": 4134097606,
+        "SubProgressTextTemplateTextMapHash": 1345424703,
+        "ChallengeType": "CHALLENGE_CRYSTAL_ELEMENT_REACTION_COUNT"
+    },
+    {
+        "Id": 110125,
+        "TargetTextTemplateTextMapHash": 3439012594,
+        "SubTargetTextTemplateTextMapHash": 3601215635,
+        "ProgressTextTemplateTextMapHash": 1260509750,
+        "SubProgressTextTemplateTextMapHash": 2809433719,
+        "ChallengeType": "CHALLENGE_SHEILD_ABSORB_DAMAGE_COUNT"
+    },
+    {
+        "Id": 110126,
+        "TargetTextTemplateTextMapHash": 1866770538,
+        "SubTargetTextTemplateTextMapHash": 746632627,
+        "ProgressTextTemplateTextMapHash": 614808126,
+        "SubProgressTextTemplateTextMapHash": 1397574199,
+        "ChallengeType": "CHALLENGE_FATHER_SUCC_IN_TIME",
+        "NoSuccessHint": true
+    },
+    {
+        "Id": 110127,
+        "TargetTextTemplateTextMapHash": 52752834,
+        "SubTargetTextTemplateTextMapHash": 83832619,
+        "ProgressTextTemplateTextMapHash": 296702502,
+        "SubProgressTextTemplateTextMapHash": 4237078983,
+        "ChallengeType": "CHALLENGE_MONSTER_DAMAGE_COUNT"
+    },
+    {
+        "Id": 110128,
+        "TargetTextTemplateTextMapHash": 4191138146,
+        "SubTargetTextTemplateTextMapHash": 4256295179,
+        "ProgressTextTemplateTextMapHash": 3819507854,
+        "SubProgressTextTemplateTextMapHash": 1004830799,
+        "ChallengeType": "CHALLENGE_SWIRL_ELEMENT_REACTION_COUNT"
     }
 ]

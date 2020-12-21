@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "UnlockRegionId": 3,
+        "GroupId": 133004441,
+        "RewardId": 200020101,
+        "ReviseLevel": 1,
+        "Unknown1": 1320633543,
+        "Unknown2": 2810707278,
+        "ShowImage": "UI_TreasureHunt_Puzzle1"
+    },
+    {
+        "Id": 2,
+        "UnlockRegionId": 7,
+        "GroupId": 133105334,
+        "RewardId": 200020102,
+        "ReviseLevel": 1,
+        "Unknown1": 4157591751,
+        "Unknown2": 3548578646,
+        "ShowImage": "UI_TreasureHunt_Puzzle2"
+    }
+]

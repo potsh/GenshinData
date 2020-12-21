@@ -364,6 +364,151 @@
         "ItemType": "ITEM_VIRTUAL"
     },
     {
+        "InteractionTitleTextMapHash": 2758272471,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1070969143,
+        "SpecialDescTextMapHash": 972153545,
+        "TypeDescTextMapHash": 3423452310,
+        "EffectIcon": "",
+        "EffectGadgetId": 70800031,
+        "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 111,
+        "NameTextMapHash": 4090065332,
+        "DescTextMapHash": 1904527413,
+        "Icon": "UI_ItemIcon_111",
+        "ItemType": "ITEM_VIRTUAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2033008279,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1099864055,
+        "SpecialDescTextMapHash": 2614994409,
+        "TypeDescTextMapHash": 2433116486,
+        "EffectIcon": "",
+        "EffectGadgetId": 70800031,
+        "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 112,
+        "NameTextMapHash": 3240411140,
+        "DescTextMapHash": 1866322877,
+        "Icon": "UI_ItemIcon_112",
+        "ItemType": "ITEM_VIRTUAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2498148719,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 753345775,
+        "SpecialDescTextMapHash": 3712290129,
+        "TypeDescTextMapHash": 2263030910,
+        "EffectIcon": "",
+        "EffectGadgetId": 70800031,
+        "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 113,
+        "NameTextMapHash": 1885941068,
+        "DescTextMapHash": 4188736381,
+        "Icon": "UI_ItemIcon_113",
+        "ItemType": "ITEM_VIRTUAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 1827800167,
+        "MaterialType": "MATERIAL_FAKE_ABSORBATE",
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 290411471,
+        "SpecialDescTextMapHash": 544502241,
+        "TypeDescTextMapHash": 247793798,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 114,
+        "NameTextMapHash": 4041975580,
+        "DescTextMapHash": 4079322917,
+        "Icon": "UI_ItemIcon_114",
+        "ItemType": "ITEM_VIRTUAL",
+        "GadgetId": 70590029
+    },
+    {
         "InteractionTitleTextMapHash": 3829838887,
         "MaterialType": "MATERIAL_ADSORBATE",
         "NoFirstGetHint": true,
@@ -1356,7 +1501,7 @@
         "Id": 1002,
         "NameTextMapHash": 2413698572,
         "DescTextMapHash": 992617133,
-        "Icon": "UI_ItemIcon_1002",
+        "Icon": "UI_AvatarIcon_Ayaka_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1396,7 +1541,7 @@
         "Id": 1003,
         "NameTextMapHash": 3173187580,
         "DescTextMapHash": 1557123045,
-        "Icon": "UI_ItemIcon_1003",
+        "Icon": "UI_AvatarIcon_Qin_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1436,7 +1581,7 @@
         "Id": 1005,
         "NameTextMapHash": 4089924668,
         "DescTextMapHash": 4157860421,
-        "Icon": "UI_ItemIcon_1005",
+        "Icon": "UI_AvatarIcon_PlayerBoy_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1476,7 +1621,7 @@
         "Id": 1006,
         "NameTextMapHash": 576686916,
         "DescTextMapHash": 2833385621,
-        "Icon": "UI_ItemIcon_1006",
+        "Icon": "UI_AvatarIcon_Lisa_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1516,7 +1661,7 @@
         "Id": 1007,
         "NameTextMapHash": 4110809260,
         "DescTextMapHash": 902825149,
-        "Icon": "UI_ItemIcon_1007",
+        "Icon": "UI_AvatarIcon_PlayerGirl_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1556,7 +1701,7 @@
         "Id": 1014,
         "NameTextMapHash": 2792450372,
         "DescTextMapHash": 2267323701,
-        "Icon": "UI_ItemIcon_1014",
+        "Icon": "UI_AvatarIcon_Barbara_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1596,7 +1741,7 @@
         "Id": 1015,
         "NameTextMapHash": 615469060,
         "DescTextMapHash": 4199101525,
-        "Icon": "UI_ItemIcon_1015",
+        "Icon": "UI_AvatarIcon_Kaeya_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1636,7 +1781,7 @@
         "Id": 1016,
         "NameTextMapHash": 2721964348,
         "DescTextMapHash": 615580165,
-        "Icon": "UI_ItemIcon_1016",
+        "Icon": "UI_AvatarIcon_Diluc_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1676,7 +1821,7 @@
         "Id": 1020,
         "NameTextMapHash": 3820405628,
         "DescTextMapHash": 3047667701,
-        "Icon": "UI_ItemIcon_1020",
+        "Icon": "UI_AvatarIcon_Razor_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1716,7 +1861,7 @@
         "Id": 1021,
         "NameTextMapHash": 230638620,
         "DescTextMapHash": 1069367397,
-        "Icon": "UI_ItemIcon_1021",
+        "Icon": "UI_AvatarIcon_Ambor_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1756,7 +1901,7 @@
         "Id": 1022,
         "NameTextMapHash": 532771388,
         "DescTextMapHash": 2378974813,
-        "Icon": "UI_ItemIcon_1022",
+        "Icon": "UI_AvatarIcon_Venti_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1796,7 +1941,7 @@
         "Id": 1023,
         "NameTextMapHash": 2315189396,
         "DescTextMapHash": 1519908701,
-        "Icon": "UI_ItemIcon_1023",
+        "Icon": "UI_AvatarIcon_Xiangling_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1836,7 +1981,7 @@
         "Id": 1024,
         "NameTextMapHash": 2397469508,
         "DescTextMapHash": 124341349,
-        "Icon": "UI_ItemIcon_1024",
+        "Icon": "UI_AvatarIcon_Beidou_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1876,7 +2021,7 @@
         "Id": 1025,
         "NameTextMapHash": 1720767908,
         "DescTextMapHash": 3012351245,
-        "Icon": "UI_ItemIcon_1025",
+        "Icon": "UI_AvatarIcon_Xingqiu_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1916,7 +2061,7 @@
         "Id": 1026,
         "NameTextMapHash": 1091960620,
         "DescTextMapHash": 3503994909,
-        "Icon": "UI_ItemIcon_1026",
+        "Icon": "UI_AvatarIcon_Xiao_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1956,7 +2101,7 @@
         "Id": 1027,
         "NameTextMapHash": 1724055052,
         "DescTextMapHash": 1153823917,
-        "Icon": "UI_ItemIcon_1027",
+        "Icon": "UI_AvatarIcon_Ningguang_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -1996,7 +2141,7 @@
         "Id": 1029,
         "NameTextMapHash": 1057011908,
         "DescTextMapHash": 2097394589,
-        "Icon": "UI_ItemIcon_1029",
+        "Icon": "UI_AvatarIcon_Klee_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2036,7 +2181,7 @@
         "Id": 1030,
         "NameTextMapHash": 533789876,
         "DescTextMapHash": 703172645,
-        "Icon": "UI_ItemIcon_1030",
+        "Icon": "UI_AvatarIcon_Zhongli_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2076,7 +2221,7 @@
         "Id": 1031,
         "NameTextMapHash": 2373456844,
         "DescTextMapHash": 2083580005,
-        "Icon": "UI_ItemIcon_1031",
+        "Icon": "UI_AvatarIcon_Fischl_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2116,7 +2261,7 @@
         "Id": 1032,
         "NameTextMapHash": 879717860,
         "DescTextMapHash": 361648957,
-        "Icon": "UI_ItemIcon_1032",
+        "Icon": "UI_AvatarIcon_Bennett_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2156,7 +2301,7 @@
         "Id": 1033,
         "NameTextMapHash": 3794134892,
         "DescTextMapHash": 2980347093,
-        "Icon": "UI_ItemIcon_1033",
+        "Icon": "UI_AvatarIcon_Tartaglia_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2196,7 +2341,7 @@
         "Id": 1034,
         "NameTextMapHash": 2669074556,
         "DescTextMapHash": 1840234485,
-        "Icon": "UI_ItemIcon_1034",
+        "Icon": "UI_AvatarIcon_Noel_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2236,7 +2381,7 @@
         "Id": 1035,
         "NameTextMapHash": 1520081924,
         "DescTextMapHash": 2488350949,
-        "Icon": "UI_ItemIcon_1035",
+        "Icon": "UI_AvatarIcon_Qiqi_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2276,7 +2421,7 @@
         "Id": 1036,
         "NameTextMapHash": 246000012,
         "DescTextMapHash": 2614066765,
-        "Icon": "UI_ItemIcon_1036",
+        "Icon": "UI_AvatarIcon_Chongyun_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2316,7 +2461,7 @@
         "Id": 1037,
         "NameTextMapHash": 1918088780,
         "DescTextMapHash": 2399222981,
-        "Icon": "UI_ItemIcon_1037",
+        "Icon": "UI_AvatarIcon_Ganyu_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2356,7 +2501,7 @@
         "Id": 1038,
         "NameTextMapHash": 3751340092,
         "DescTextMapHash": 2236987381,
-        "Icon": "UI_ItemIcon_1038",
+        "Icon": "UI_AvatarIcon_Albedo_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2396,7 +2541,7 @@
         "Id": 1039,
         "NameTextMapHash": 2375697620,
         "DescTextMapHash": 3383572149,
-        "Icon": "UI_ItemIcon_1039",
+        "Icon": "UI_AvatarIcon_Diona_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2436,7 +2581,7 @@
         "Id": 1041,
         "NameTextMapHash": 904956228,
         "DescTextMapHash": 967259477,
-        "Icon": "UI_ItemIcon_1041",
+        "Icon": "UI_AvatarIcon_Mona_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2476,7 +2621,7 @@
         "Id": 1042,
         "NameTextMapHash": 1138579076,
         "DescTextMapHash": 1185766733,
-        "Icon": "UI_ItemIcon_1042",
+        "Icon": "UI_AvatarIcon_Keqing_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2516,7 +2661,7 @@
         "Id": 1043,
         "NameTextMapHash": 268835900,
         "DescTextMapHash": 121538605,
-        "Icon": "UI_ItemIcon_1043",
+        "Icon": "UI_AvatarIcon_Sucrose_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -2556,7 +2701,7 @@
         "Id": 1044,
         "NameTextMapHash": 2703429900,
         "DescTextMapHash": 1934915949,
-        "Icon": "UI_ItemIcon_1044",
+        "Icon": "UI_AvatarIcon_Xinyan_Card",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -3510,6 +3655,44 @@
         "Rank": 30
     },
     {
+        "InteractionTitleTextMapHash": 39661215,
+        "MaterialType": "MATERIAL_TALENT",
+        "StackLimit": 1000,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 5,
+        "EffectDescTextMapHash": 1355284839,
+        "SpecialDescTextMapHash": 3831724689,
+        "TypeDescTextMapHash": 3304213894,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 1138,
+        "NameTextMapHash": 3153901068,
+        "DescTextMapHash": 400631165,
+        "Icon": "UI_ItemIcon_1102",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 30
+    },
+    {
         "InteractionTitleTextMapHash": 1530507831,
         "MaterialType": "MATERIAL_TALENT",
         "StackLimit": 1000,
@@ -3776,6 +3959,86 @@
         "NameTextMapHash": 4236189596,
         "DescTextMapHash": 4241244629,
         "Icon": "UI_ItemIcon_1202",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 30
+    },
+    {
+        "InteractionTitleTextMapHash": 52009599,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 1000,
+        "MaxUseCount": 1,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 4025184039,
+        "SpecialDescTextMapHash": 1471273353,
+        "TypeDescTextMapHash": 1869349230,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 1203,
+        "NameTextMapHash": 2051688108,
+        "DescTextMapHash": 2691155413,
+        "Icon": "UI_ItemIcon_1203",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 30
+    },
+    {
+        "InteractionTitleTextMapHash": 3200466903,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 1000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_RESIN_CARD_PRODUCT",
+                "UseParam": [
+                    "102",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 965374335,
+        "SpecialDescTextMapHash": 896999873,
+        "TypeDescTextMapHash": 2295599270,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 1204,
+        "NameTextMapHash": 1398405644,
+        "DescTextMapHash": 1937091541,
+        "Icon": "UI_ItemIcon_1204",
         "ItemType": "ITEM_MATERIAL",
         "Rank": 30
     },
@@ -7932,6 +8195,47 @@
         "Rank": 305
     },
     {
+        "InteractionTitleTextMapHash": 3332163487,
+        "MaterialType": "MATERIAL_EXCHANGE",
+        "StackLimit": 9999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 537504727,
+        "SpecialDescTextMapHash": 3108769673,
+        "TypeDescTextMapHash": 2833923862,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100094,
+        "NameTextMapHash": 2121103228,
+        "DescTextMapHash": 2138909037,
+        "Icon": "UI_ItemIcon_100094",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 305,
+        "GadgetId": 70560006
+    },
+    {
         "InteractionTitleTextMapHash": 2821211079,
         "MaterialType": "MATERIAL_EXCHANGE",
         "StackLimit": 9999,
@@ -8096,6 +8400,133 @@
         "GadgetId": 70540030
     },
     {
+        "InteractionTitleTextMapHash": 527020063,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 9999,
+        "UseOnGain": true,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "500101",
+                    "25",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3912397623,
+        "SpecialDescTextMapHash": 4115661649,
+        "TypeDescTextMapHash": 189949574,
+        "EffectIcon": "UI_Buff_Item_Atk_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 101005,
+        "NameTextMapHash": 817016116,
+        "DescTextMapHash": 2852429613,
+        "Icon": "UI_ItemIcon_101005",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 302,
+        "GadgetId": 70590026
+    },
+    {
+        "InteractionTitleTextMapHash": 634930031,
+        "MaterialType": "MATERIAL_EXCHANGE",
+        "StackLimit": 9999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3350950591,
+        "SpecialDescTextMapHash": 3196211545,
+        "TypeDescTextMapHash": 1918878838,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 101006,
+        "NameTextMapHash": 1269909500,
+        "DescTextMapHash": 1630125821,
+        "Icon": "UI_ItemIcon_101006",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 302,
+        "GadgetId": 70590028
+    },
+    {
+        "InteractionTitleTextMapHash": 2697203623,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 9999,
+        "UseOnGain": true,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "500102",
+                    "25",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3352357895,
+        "SpecialDescTextMapHash": 2724953353,
+        "TypeDescTextMapHash": 3561012622,
+        "EffectIcon": "UI_Buff_Item_Atk_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 101007,
+        "NameTextMapHash": 2672259668,
+        "DescTextMapHash": 3753488637,
+        "Icon": "UI_ItemIcon_101005",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 302,
+        "GadgetId": 70590032
+    },
+    {
         "InteractionTitleTextMapHash": 136564991,
         "MaterialType": "MATERIAL_EXCHANGE",
         "StackLimit": 1000,
@@ -8133,7 +8564,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 303,
-        "GadgetId": 70600053
+        "GadgetId": 70600054
     },
     {
         "InteractionTitleTextMapHash": 247374223,
@@ -8173,7 +8604,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 303,
-        "GadgetId": 70600053
+        "GadgetId": 70600054
     },
     {
         "InteractionTitleTextMapHash": 35888623,
@@ -8213,7 +8644,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 303,
-        "GadgetId": 70600053
+        "GadgetId": 70600054
     },
     {
         "InteractionTitleTextMapHash": 3733362767,
@@ -8253,7 +8684,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 303,
-        "GadgetId": 70600053
+        "GadgetId": 70600054
     },
     {
         "InteractionTitleTextMapHash": 2519485519,
@@ -8293,7 +8724,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 303,
-        "GadgetId": 70600053
+        "GadgetId": 70600054
     },
     {
         "InteractionTitleTextMapHash": 674202535,
@@ -12205,6 +12636,7 @@
                 ]
             }
         ],
+        "RankLevel": 3,
         "EffectDescTextMapHash": 3510683367,
         "SpecialDescTextMapHash": 1246752409,
         "TypeDescTextMapHash": 954962918,
@@ -12704,6 +13136,7 @@
                 ]
             }
         ],
+        "RankLevel": 3,
         "EffectDescTextMapHash": 2890306463,
         "SpecialDescTextMapHash": 3919579481,
         "TypeDescTextMapHash": 785114998,
@@ -15913,7 +16346,7 @@
         "Id": 100349,
         "NameTextMapHash": 2502818644,
         "DescTextMapHash": 2198553357,
-        "Icon": "UI_ItemIcon_110008",
+        "Icon": "UI_ItemIcon_100349",
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 10,
@@ -17972,6 +18405,7 @@
                 ]
             }
         ],
+        "RankLevel": 3,
         "EffectDescTextMapHash": 684951311,
         "SpecialDescTextMapHash": 4050660641,
         "TypeDescTextMapHash": 1182259278,
@@ -26363,6 +26797,191 @@
         "GadgetId": 71700165
     },
     {
+        "InteractionTitleTextMapHash": 3727458663,
+        "MaterialType": "MATERIAL_EXCHANGE",
+        "StackLimit": 999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2280087159,
+        "SpecialDescTextMapHash": 2324121713,
+        "TypeDescTextMapHash": 4190584302,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100618,
+        "NameTextMapHash": 2715317724,
+        "DescTextMapHash": 3666851301,
+        "Icon": "UI_ItemIcon_100618",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2793574151,
+        "MaterialType": "MATERIAL_EXCHANGE",
+        "StackLimit": 999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 133669079,
+        "SpecialDescTextMapHash": 1881568297,
+        "TypeDescTextMapHash": 2968271654,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100619,
+        "NameTextMapHash": 4137163468,
+        "DescTextMapHash": 1776501717,
+        "Icon": "UI_ItemIcon_100619",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2804254895,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1751418759,
+        "SpecialDescTextMapHash": 261925017,
+        "TypeDescTextMapHash": 379113478,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100620,
+        "NameTextMapHash": 2753761636,
+        "DescTextMapHash": 1737358621,
+        "Icon": "UI_ItemIcon_100530",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 4164086263,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 147276071,
+        "SpecialDescTextMapHash": 1500048025,
+        "TypeDescTextMapHash": 1064524206,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100621,
+        "NameTextMapHash": 1848339516,
+        "DescTextMapHash": 3309314085,
+        "Icon": "UI_ItemIcon_100530",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 658282439,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 4225709687,
+        "SpecialDescTextMapHash": 562574601,
+        "TypeDescTextMapHash": 1384361526,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100622,
+        "NameTextMapHash": 2987305900,
+        "DescTextMapHash": 235460845,
+        "Icon": "UI_ItemIcon_100530",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
         "InteractionTitleTextMapHash": 2841101959,
         "MaterialType": "MATERIAL_QUEST",
         "StackLimit": 3,
@@ -26852,6 +27471,501 @@
         "Icon": "UI_ItemIcon_100005",
         "ItemType": "ITEM_MATERIAL",
         "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2424083151,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2487131079,
+        "SpecialDescTextMapHash": 2357332329,
+        "TypeDescTextMapHash": 995982926,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100636,
+        "NameTextMapHash": 1816928668,
+        "DescTextMapHash": 1103815797,
+        "Icon": "UI_ItemIcon_100094",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 818047215,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50009003",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 2641322479,
+        "SpecialDescTextMapHash": 322585721,
+        "TypeDescTextMapHash": 2388218574,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1008,
+        "Id": 100637,
+        "NameTextMapHash": 1326557756,
+        "DescTextMapHash": 1608435669,
+        "Icon": "UI_ItemIcon_100399",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700167
+    },
+    {
+        "InteractionTitleTextMapHash": 503628975,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50009004",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 186931519,
+        "SpecialDescTextMapHash": 2049680073,
+        "TypeDescTextMapHash": 2781900230,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1008,
+        "Id": 100638,
+        "NameTextMapHash": 3026096084,
+        "DescTextMapHash": 83283677,
+        "Icon": "UI_ItemIcon_100399",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700168
+    },
+    {
+        "InteractionTitleTextMapHash": 2326711687,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1318830583,
+        "SpecialDescTextMapHash": 1320980713,
+        "TypeDescTextMapHash": 3453859694,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100639,
+        "NameTextMapHash": 3497046860,
+        "DescTextMapHash": 1877759941,
+        "Icon": "UI_ItemIcon_100616",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700169
+    },
+    {
+        "InteractionTitleTextMapHash": 3810059095,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50025003",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 2878456063,
+        "SpecialDescTextMapHash": 956637289,
+        "TypeDescTextMapHash": 2801006502,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1024,
+        "Id": 100640,
+        "NameTextMapHash": 3736214228,
+        "DescTextMapHash": 1946680917,
+        "Icon": "UI_ItemIcon_100403",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700170
+    },
+    {
+        "InteractionTitleTextMapHash": 2943117343,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50025004",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 3286617079,
+        "SpecialDescTextMapHash": 3940193209,
+        "TypeDescTextMapHash": 1840265238,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1024,
+        "Id": 100641,
+        "NameTextMapHash": 4080207020,
+        "DescTextMapHash": 2694011261,
+        "Icon": "UI_ItemIcon_100403",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700171
+    },
+    {
+        "InteractionTitleTextMapHash": 2819401607,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50026001",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1014032975,
+        "SpecialDescTextMapHash": 3530655041,
+        "TypeDescTextMapHash": 3787709198,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1025,
+        "Id": 100642,
+        "NameTextMapHash": 1115072996,
+        "DescTextMapHash": 1969112629,
+        "Icon": "UI_ItemIcon_100642",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700172
+    },
+    {
+        "InteractionTitleTextMapHash": 3530533903,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50026002",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 3210160095,
+        "SpecialDescTextMapHash": 2724454577,
+        "TypeDescTextMapHash": 3237852310,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1025,
+        "Id": 100643,
+        "NameTextMapHash": 3867832724,
+        "DescTextMapHash": 1257459629,
+        "Icon": "UI_ItemIcon_100642",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700173
+    },
+    {
+        "InteractionTitleTextMapHash": 2993413135,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50026003",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 2700306455,
+        "SpecialDescTextMapHash": 3857978873,
+        "TypeDescTextMapHash": 752186606,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1025,
+        "Id": 100644,
+        "NameTextMapHash": 3727079212,
+        "DescTextMapHash": 2294120317,
+        "Icon": "UI_ItemIcon_100642",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700174
+    },
+    {
+        "InteractionTitleTextMapHash": 3216700551,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 403876663,
+        "SpecialDescTextMapHash": 63950801,
+        "TypeDescTextMapHash": 735687334,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100645,
+        "NameTextMapHash": 737698788,
+        "DescTextMapHash": 2471715837,
+        "Icon": "UI_ItemIcon_100645",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700175
+    },
+    {
+        "InteractionTitleTextMapHash": 2864180063,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1528510079,
+        "SpecialDescTextMapHash": 3344846793,
+        "TypeDescTextMapHash": 3205435582,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100692,
+        "NameTextMapHash": 4270445892,
+        "DescTextMapHash": 514961037,
+        "Icon": "UI_ItemIcon_100645",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700176
+    },
+    {
+        "InteractionTitleTextMapHash": 3367451415,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3808044351,
+        "SpecialDescTextMapHash": 774786361,
+        "TypeDescTextMapHash": 3754017238,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100693,
+        "NameTextMapHash": 3594397380,
+        "DescTextMapHash": 2366172429,
+        "Icon": "UI_ItemIcon_100645",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700177
     },
     {
         "InteractionTitleTextMapHash": 2298947983,
@@ -27710,6 +28824,491 @@
         "Rank": 10
     },
     {
+        "InteractionTitleTextMapHash": 1456618863,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2772941439,
+        "SpecialDescTextMapHash": 2721306945,
+        "TypeDescTextMapHash": 2072248342,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100668,
+        "NameTextMapHash": 1083958796,
+        "DescTextMapHash": 1779913389,
+        "Icon": "UI_ItemIcon_100457",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 635812815,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3639210735,
+        "SpecialDescTextMapHash": 920155745,
+        "TypeDescTextMapHash": 672829510,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100669,
+        "NameTextMapHash": 2941952844,
+        "DescTextMapHash": 1215791309,
+        "Icon": "UI_ItemIcon_100458",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3976829343,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 561956975,
+        "SpecialDescTextMapHash": 3665371681,
+        "TypeDescTextMapHash": 3656575910,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100670,
+        "NameTextMapHash": 3213777196,
+        "DescTextMapHash": 4252005237,
+        "Icon": "UI_ItemIcon_100459",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2015022415,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "UseOnGain": true,
+        "NoFirstGetHint": true,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_CUR_HP",
+                "UseParam": [
+                    "0",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3597312647,
+        "SpecialDescTextMapHash": 2225231601,
+        "TypeDescTextMapHash": 973614006,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100671,
+        "NameTextMapHash": 564000564,
+        "DescTextMapHash": 3036898901,
+        "Icon": "UI_ItemIcon_100625",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1555303991,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2547625359,
+        "SpecialDescTextMapHash": 2124061161,
+        "TypeDescTextMapHash": 306982262,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100672,
+        "NameTextMapHash": 2981173084,
+        "DescTextMapHash": 1078745933,
+        "Icon": "UI_ItemIcon_7170047",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 859512191,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2451408031,
+        "SpecialDescTextMapHash": 1597710833,
+        "TypeDescTextMapHash": 2013972182,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100673,
+        "NameTextMapHash": 2339764804,
+        "DescTextMapHash": 1626291541,
+        "Icon": "UI_ItemIcon_7170047",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2348037007,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1460923639,
+        "SpecialDescTextMapHash": 3194304057,
+        "TypeDescTextMapHash": 1450037374,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100674,
+        "NameTextMapHash": 4281801156,
+        "DescTextMapHash": 1450336013,
+        "Icon": "UI_ItemIcon_7170047",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 883480567,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 148618967,
+        "SpecialDescTextMapHash": 1764537177,
+        "TypeDescTextMapHash": 1003470702,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100675,
+        "NameTextMapHash": 1218917396,
+        "DescTextMapHash": 3822675381,
+        "Icon": "UI_ItemIcon_7170047",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1401620711,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 795944391,
+        "SpecialDescTextMapHash": 4106988801,
+        "TypeDescTextMapHash": 666293686,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100676,
+        "NameTextMapHash": 1320496540,
+        "DescTextMapHash": 1927499469,
+        "Icon": "UI_ItemIcon_7170047",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2790830583,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2435289287,
+        "SpecialDescTextMapHash": 2480612353,
+        "TypeDescTextMapHash": 1787338654,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100677,
+        "NameTextMapHash": 4199979348,
+        "DescTextMapHash": 2122236245,
+        "Icon": "UI_ItemIcon_7170047",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1190654191,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1619235687,
+        "SpecialDescTextMapHash": 3329725241,
+        "TypeDescTextMapHash": 3159125718,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100678,
+        "NameTextMapHash": 4133588556,
+        "DescTextMapHash": 3890692413,
+        "Icon": "UI_ItemIcon_100411",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2305096647,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2547864255,
+        "SpecialDescTextMapHash": 1762450113,
+        "TypeDescTextMapHash": 3070779246,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100679,
+        "NameTextMapHash": 2995093876,
+        "DescTextMapHash": 2518589405,
+        "Icon": "UI_ItemIcon_100411",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1862719903,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 383881687,
+        "SpecialDescTextMapHash": 3136547625,
+        "TypeDescTextMapHash": 2592126710,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100680,
+        "NameTextMapHash": 1949016796,
+        "DescTextMapHash": 4149689981,
+        "Icon": "UI_ItemIcon_100411",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
         "InteractionTitleTextMapHash": 1605613559,
         "MaterialType": "MATERIAL_QUEST",
         "StackLimit": 1,
@@ -27784,6 +29383,43 @@
         "Rank": 10
     },
     {
+        "InteractionTitleTextMapHash": 544140431,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 4257836871,
+        "SpecialDescTextMapHash": 3457741337,
+        "TypeDescTextMapHash": 1159499494,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100687,
+        "NameTextMapHash": 923192716,
+        "DescTextMapHash": 4023098485,
+        "Icon": "UI_ItemIcon_100356",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
         "InteractionTitleTextMapHash": 2174665391,
         "MaterialType": "MATERIAL_QUEST",
         "StackLimit": 1,
@@ -27817,6 +29453,80 @@
         "NameTextMapHash": 2996920268,
         "DescTextMapHash": 3177127453,
         "Icon": "UI_ItemIcon_100362",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1864639351,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 4156386151,
+        "SpecialDescTextMapHash": 2209785433,
+        "TypeDescTextMapHash": 563771702,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100689,
+        "NameTextMapHash": 1102113452,
+        "DescTextMapHash": 375449661,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3400611551,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1669290439,
+        "SpecialDescTextMapHash": 2302866473,
+        "TypeDescTextMapHash": 3442021998,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100690,
+        "NameTextMapHash": 3543304164,
+        "DescTextMapHash": 4204218877,
+        "Icon": "UI_ItemIcon_100101",
         "ItemType": "ITEM_MATERIAL",
         "Rank": 10
     },
@@ -27860,6 +29570,784 @@
         "Weight": 1,
         "Rank": 10,
         "GadgetId": 71700144
+    },
+    {
+        "InteractionTitleTextMapHash": 3563402487,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2049346735,
+        "SpecialDescTextMapHash": 3901007193,
+        "TypeDescTextMapHash": 1876920166,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100699,
+        "NameTextMapHash": 3870466812,
+        "DescTextMapHash": 3971887749,
+        "Icon": "UI_ItemIcon_100242",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3026182079,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3565902327,
+        "SpecialDescTextMapHash": 269038201,
+        "TypeDescTextMapHash": 3252812214,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100700,
+        "NameTextMapHash": 1209357540,
+        "DescTextMapHash": 545786109,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2658379759,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1453846991,
+        "SpecialDescTextMapHash": 294690289,
+        "TypeDescTextMapHash": 4211649214,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100701,
+        "NameTextMapHash": 870698716,
+        "DescTextMapHash": 4228551645,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 752622735,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3992635855,
+        "SpecialDescTextMapHash": 2621541601,
+        "TypeDescTextMapHash": 3834623662,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100702,
+        "NameTextMapHash": 4148317796,
+        "DescTextMapHash": 3074663485,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2819729879,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1139538287,
+        "SpecialDescTextMapHash": 1922174665,
+        "TypeDescTextMapHash": 4155151310,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100703,
+        "NameTextMapHash": 1231284948,
+        "DescTextMapHash": 4063372765,
+        "Icon": "UI_ItemIcon_100111",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10,
+        "GadgetId": 71700178
+    },
+    {
+        "InteractionTitleTextMapHash": 3854576543,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 5,
+        "EffectDescTextMapHash": 145078223,
+        "SpecialDescTextMapHash": 2528845577,
+        "TypeDescTextMapHash": 1533064806,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100704,
+        "NameTextMapHash": 1959940140,
+        "DescTextMapHash": 3859566037,
+        "Icon": "UI_ItemIcon_100704",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 238784679,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 495186319,
+        "SpecialDescTextMapHash": 161360553,
+        "TypeDescTextMapHash": 878241774,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100705,
+        "NameTextMapHash": 155871284,
+        "DescTextMapHash": 1162855413,
+        "Icon": "UI_ItemIcon_100094",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1218742911,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50007009",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 768309879,
+        "SpecialDescTextMapHash": 2026211569,
+        "TypeDescTextMapHash": 2143222414,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetId": 1006,
+        "Id": 100706,
+        "NameTextMapHash": 1533586764,
+        "DescTextMapHash": 2994485461,
+        "Icon": "UI_ItemIcon_100226",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700180
+    },
+    {
+        "InteractionTitleTextMapHash": 4009094591,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 329100215,
+        "SpecialDescTextMapHash": 3966978873,
+        "TypeDescTextMapHash": 134755206,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100707,
+        "NameTextMapHash": 2399199748,
+        "DescTextMapHash": 553713493,
+        "Icon": "UI_ItemIcon_100537",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 4134733815,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2089931487,
+        "SpecialDescTextMapHash": 4125032017,
+        "TypeDescTextMapHash": 1685036102,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100708,
+        "NameTextMapHash": 1167545964,
+        "DescTextMapHash": 1922895789,
+        "Icon": "UI_ItemIcon_100537",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3188608359,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1603176743,
+        "SpecialDescTextMapHash": 1559453361,
+        "TypeDescTextMapHash": 1363839510,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100710,
+        "NameTextMapHash": 2084149180,
+        "DescTextMapHash": 1283967277,
+        "Icon": "UI_ItemIcon_Recipe_2003",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1804413431,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 90518639,
+        "SpecialDescTextMapHash": 751779393,
+        "TypeDescTextMapHash": 999178518,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100713,
+        "NameTextMapHash": 546058972,
+        "DescTextMapHash": 2715623557,
+        "Icon": "UI_ItemIcon_100309",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2625313031,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2860926535,
+        "SpecialDescTextMapHash": 3784213113,
+        "TypeDescTextMapHash": 1489080182,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100714,
+        "NameTextMapHash": 2464250932,
+        "DescTextMapHash": 644115285,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2123398535,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2752292807,
+        "SpecialDescTextMapHash": 120906977,
+        "TypeDescTextMapHash": 98297646,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100715,
+        "NameTextMapHash": 1774408188,
+        "DescTextMapHash": 1407547085,
+        "Icon": "UI_ItemIcon_100616",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700169
+    },
+    {
+        "InteractionTitleTextMapHash": 3142010415,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3010298847,
+        "SpecialDescTextMapHash": 2930993817,
+        "TypeDescTextMapHash": 389579350,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100716,
+        "NameTextMapHash": 1837864980,
+        "DescTextMapHash": 2801538589,
+        "Icon": "UI_ItemIcon_101006",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 302,
+        "GadgetId": 70710250
+    },
+    {
+        "InteractionTitleTextMapHash": 1590210767,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2559635815,
+        "SpecialDescTextMapHash": 952576625,
+        "TypeDescTextMapHash": 423142790,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100717,
+        "NameTextMapHash": 1415206964,
+        "DescTextMapHash": 1613731093,
+        "Icon": "UI_ItemIcon_101006",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 302,
+        "GadgetId": 70710251
+    },
+    {
+        "InteractionTitleTextMapHash": 3934047567,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3248630143,
+        "SpecialDescTextMapHash": 1518713249,
+        "TypeDescTextMapHash": 16589894,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100718,
+        "NameTextMapHash": 3779472316,
+        "DescTextMapHash": 3841464693,
+        "Icon": "UI_ItemIcon_101006",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 302,
+        "GadgetId": 70710252
+    },
+    {
+        "InteractionTitleTextMapHash": 1245347015,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1848911927,
+        "SpecialDescTextMapHash": 2783823129,
+        "TypeDescTextMapHash": 2950739790,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100719,
+        "NameTextMapHash": 2997531060,
+        "DescTextMapHash": 3250332701,
+        "Icon": "UI_ItemIcon_101006",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 302,
+        "GadgetId": 70710257
+    },
+    {
+        "InteractionTitleTextMapHash": 3113833695,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2985912231,
+        "SpecialDescTextMapHash": 2407744025,
+        "TypeDescTextMapHash": 146901318,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyRule": "DESTROY_RETURN_MATERIAL",
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100720,
+        "NameTextMapHash": 3907311844,
+        "DescTextMapHash": 1757110421,
+        "Icon": "UI_ItemIcon_101006",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 302,
+        "GadgetId": 70710258
+    },
+    {
+        "InteractionTitleTextMapHash": 3288208415,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 9999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2435533735,
+        "SpecialDescTextMapHash": 1735918849,
+        "TypeDescTextMapHash": 1669641742,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "IsSplitDrop": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100727,
+        "NameTextMapHash": 1356674292,
+        "DescTextMapHash": 811694669,
+        "Icon": "UI_ItemIcon_101006",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 302,
+        "GadgetId": 70710258
     },
     {
         "InteractionTitleTextMapHash": 1457126079,
@@ -31440,6 +33928,88 @@
         "Icon": "UI_ItemIcon_210",
         "ItemType": "ITEM_MATERIAL",
         "Rank": 407
+    },
+    {
+        "InteractionTitleTextMapHash": 652909943,
+        "MaterialType": "MATERIAL_ELEM_CRYSTAL",
+        "StackLimit": 2000,
+        "PlayGainEffect": true,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3881715015,
+        "SpecialDescTextMapHash": 4069014761,
+        "TypeDescTextMapHash": 2861844382,
+        "EffectIcon": "",
+        "EffectGadgetId": 70800031,
+        "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 107010,
+        "NameTextMapHash": 3351602148,
+        "DescTextMapHash": 794477253,
+        "Icon": "UI_ItemIcon_107010",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 6,
+        "GadgetId": 70590031
+    },
+    {
+        "InteractionTitleTextMapHash": 1458687959,
+        "MaterialType": "MATERIAL_ELEM_CRYSTAL",
+        "StackLimit": 2000,
+        "UseOnGain": true,
+        "NoFirstGetHint": true,
+        "PlayGainEffect": true,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 4053976439,
+        "SpecialDescTextMapHash": 3165832449,
+        "TypeDescTextMapHash": 1496023518,
+        "EffectIcon": "",
+        "EffectGadgetId": 70800031,
+        "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 107011,
+        "NameTextMapHash": 2355326572,
+        "DescTextMapHash": 3433064181,
+        "Icon": "UI_ItemIcon_107010",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 6,
+        "GadgetId": 70590034
     },
     {
         "InteractionTitleTextMapHash": 4282205919,
@@ -39052,6 +41622,604 @@
         "Rank": 621
     },
     {
+        "InteractionTitleTextMapHash": 1426167079,
+        "MaterialType": "MATERIAL_NOTICE_ADD_HP",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_ALIVE_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "105301",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_STRANGE",
+        "EffectDescTextMapHash": 53027055,
+        "SpecialDescTextMapHash": 1542456793,
+        "TypeDescTextMapHash": 3210850134,
+        "EffectIcon": "UI_Buff_Item_Recovery_HpAdd",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [
+            25,
+            42500
+        ],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108201,
+        "NameTextMapHash": 1391888580,
+        "DescTextMapHash": 731739181,
+        "Icon": "UI_ItemIcon_108202",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 227
+    },
+    {
+        "InteractionTitleTextMapHash": 3424810807,
+        "MaterialType": "MATERIAL_NOTICE_ADD_HP",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_ALIVE_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "105302",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_ORDINARY",
+        "EffectDescTextMapHash": 542010591,
+        "SpecialDescTextMapHash": 364399457,
+        "TypeDescTextMapHash": 1835939974,
+        "EffectIcon": "UI_Buff_Item_Recovery_HpAdd",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [
+            26,
+            87500
+        ],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108202,
+        "NameTextMapHash": 3584781124,
+        "DescTextMapHash": 3758189485,
+        "Icon": "UI_ItemIcon_108202",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 227
+    },
+    {
+        "InteractionTitleTextMapHash": 3334512847,
+        "MaterialType": "MATERIAL_NOTICE_ADD_HP",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_ALIVE_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "105303",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 404262783,
+        "SpecialDescTextMapHash": 1205413561,
+        "TypeDescTextMapHash": 3114275294,
+        "EffectIcon": "UI_Buff_Item_Recovery_HpAdd",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [
+            27,
+            135000
+        ],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108203,
+        "NameTextMapHash": 1481359532,
+        "DescTextMapHash": 1723529965,
+        "Icon": "UI_ItemIcon_108202",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 227
+    },
+    {
+        "InteractionTitleTextMapHash": 1204591687,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "500201",
+                    "900",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_STRANGE",
+        "EffectDescTextMapHash": 434863271,
+        "SpecialDescTextMapHash": 1998553177,
+        "TypeDescTextMapHash": 1085822782,
+        "EffectIcon": "UI_Buff_Item_Climate_Heat",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108204,
+        "NameTextMapHash": 3251527428,
+        "DescTextMapHash": 1069469197,
+        "Icon": "UI_ItemIcon_108205",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 741
+    },
+    {
+        "InteractionTitleTextMapHash": 4517735,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "500202",
+                    "900",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_ORDINARY",
+        "EffectDescTextMapHash": 2705894871,
+        "SpecialDescTextMapHash": 1936759977,
+        "TypeDescTextMapHash": 763044070,
+        "EffectIcon": "UI_Buff_Item_Climate_Heat",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108205,
+        "NameTextMapHash": 3884902564,
+        "DescTextMapHash": 742511749,
+        "Icon": "UI_ItemIcon_108205",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 741
+    },
+    {
+        "InteractionTitleTextMapHash": 543082823,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "500203",
+                    "900",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 66690879,
+        "SpecialDescTextMapHash": 2938960089,
+        "TypeDescTextMapHash": 3957060974,
+        "EffectIcon": "UI_Buff_Item_Climate_Heat",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108206,
+        "NameTextMapHash": 3900185116,
+        "DescTextMapHash": 3826436925,
+        "Icon": "UI_ItemIcon_108205",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 741
+    },
+    {
+        "InteractionTitleTextMapHash": 2816143991,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "150301",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_STRANGE",
+        "EffectDescTextMapHash": 1300241711,
+        "SpecialDescTextMapHash": 17533169,
+        "TypeDescTextMapHash": 1260816454,
+        "EffectIcon": "UI_Buff_Item_Def_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108207,
+        "NameTextMapHash": 2978239428,
+        "DescTextMapHash": 2517057573,
+        "Icon": "UI_ItemIcon_108208",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 613
+    },
+    {
+        "InteractionTitleTextMapHash": 3889335671,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "150302",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_ORDINARY",
+        "EffectDescTextMapHash": 4125310031,
+        "SpecialDescTextMapHash": 474810553,
+        "TypeDescTextMapHash": 1491655382,
+        "EffectIcon": "UI_Buff_Item_Def_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108208,
+        "NameTextMapHash": 966040676,
+        "DescTextMapHash": 1794676989,
+        "Icon": "UI_ItemIcon_108208",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 613
+    },
+    {
+        "InteractionTitleTextMapHash": 68212591,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "150303",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 51968943,
+        "SpecialDescTextMapHash": 661526433,
+        "TypeDescTextMapHash": 679567270,
+        "EffectIcon": "UI_Buff_Item_Def_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108209,
+        "NameTextMapHash": 2877214684,
+        "DescTextMapHash": 2303601413,
+        "Icon": "UI_ItemIcon_108208",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 613
+    },
+    {
+        "InteractionTitleTextMapHash": 2193605559,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "160301",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_STRANGE",
+        "EffectDescTextMapHash": 458079199,
+        "SpecialDescTextMapHash": 3949743425,
+        "TypeDescTextMapHash": 2743292990,
+        "EffectIcon": "UI_Buff_Item_Atk_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108210,
+        "NameTextMapHash": 2520512916,
+        "DescTextMapHash": 2035308789,
+        "Icon": "UI_ItemIcon_108211",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 527
+    },
+    {
+        "InteractionTitleTextMapHash": 1260095735,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "160302",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_ORDINARY",
+        "EffectDescTextMapHash": 1518327383,
+        "SpecialDescTextMapHash": 90170177,
+        "TypeDescTextMapHash": 145773294,
+        "EffectIcon": "UI_Buff_Item_Atk_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108211,
+        "NameTextMapHash": 2360221084,
+        "DescTextMapHash": 2695110549,
+        "Icon": "UI_ItemIcon_108211",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 527
+    },
+    {
+        "InteractionTitleTextMapHash": 3133989047,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "160303",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 3632803151,
+        "SpecialDescTextMapHash": 2551126393,
+        "TypeDescTextMapHash": 1067932638,
+        "EffectIcon": "UI_Buff_Item_Atk_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108212,
+        "NameTextMapHash": 4125890612,
+        "DescTextMapHash": 3406537885,
+        "Icon": "UI_ItemIcon_108211",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 527
+    },
+    {
+        "InteractionTitleTextMapHash": 1029363863,
+        "MaterialType": "MATERIAL_NOTICE_ADD_HP",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_ALIVE_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "105304",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1372380415,
+        "SpecialDescTextMapHash": 2315366873,
+        "TypeDescTextMapHash": 3714429102,
+        "EffectIcon": "UI_Buff_Item_Recovery_HpAdd",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [
+            30,
+            167500
+        ],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108213,
+        "NameTextMapHash": 3368241084,
+        "DescTextMapHash": 4011841317,
+        "Icon": "UI_ItemIcon_108213",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 227
+    },
+    {
+        "InteractionTitleTextMapHash": 1019519111,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "150304",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 2115740167,
+        "SpecialDescTextMapHash": 2031677561,
+        "TypeDescTextMapHash": 2663264390,
+        "EffectIcon": "UI_Buff_Item_Def_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108214,
+        "NameTextMapHash": 4181440108,
+        "DescTextMapHash": 3532958013,
+        "Icon": "UI_ItemIcon_108214",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 613
+    },
+    {
         "InteractionTitleTextMapHash": 1756088967,
         "MaterialType": "MATERIAL_CONSUME",
         "StackLimit": 2000,
@@ -41147,6 +44315,178 @@
         "Id": 109431,
         "NameTextMapHash": 1917898596,
         "DescTextMapHash": 3080037221,
+        "Icon": "UI_ItemIcon_109000",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 101,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 2248002919,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_COOK_RECIPE",
+                "UseParam": [
+                    "2009",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "EffectDescTextMapHash": 3309128295,
+        "SpecialDescTextMapHash": 3392770977,
+        "TypeDescTextMapHash": 369454630,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 109440,
+        "NameTextMapHash": 1972115300,
+        "DescTextMapHash": 4161265229,
+        "Icon": "UI_ItemIcon_109000",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 101,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 3921717815,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_COOK_RECIPE",
+                "UseParam": [
+                    "3012",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 920928911,
+        "SpecialDescTextMapHash": 2788722225,
+        "TypeDescTextMapHash": 3684541318,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 109441,
+        "NameTextMapHash": 2864900180,
+        "DescTextMapHash": 2600862181,
+        "Icon": "UI_ItemIcon_109000",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 101,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 531668407,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_COOK_RECIPE",
+                "UseParam": [
+                    "3109",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 4248103999,
+        "SpecialDescTextMapHash": 1843867913,
+        "TypeDescTextMapHash": 3734870542,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 109442,
+        "NameTextMapHash": 1159339372,
+        "DescTextMapHash": 2498412685,
+        "Icon": "UI_ItemIcon_109000",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 101,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 4162280119,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_COOK_RECIPE",
+                "UseParam": [
+                    "3110",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 3883505575,
+        "SpecialDescTextMapHash": 3214535417,
+        "TypeDescTextMapHash": 3946001214,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 109443,
+        "NameTextMapHash": 3928652540,
+        "DescTextMapHash": 1066185973,
         "Icon": "UI_ItemIcon_109000",
         "ItemType": "ITEM_MATERIAL",
         "Rank": 101,
@@ -46472,6 +49812,207 @@
         "Weight": 1
     },
     {
+        "InteractionTitleTextMapHash": 1805101399,
+        "MaterialType": "MATERIAL_CHEST",
+        "StackLimit": 2000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_OPEN_RANDOM_CHEST",
+                "UseParam": [
+                    "23010104",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1515043207,
+        "SpecialDescTextMapHash": 1075253377,
+        "TypeDescTextMapHash": 1374918382,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 115023,
+        "NameTextMapHash": 2802712652,
+        "DescTextMapHash": 3862799365,
+        "Icon": "UI_ItemIcon_115023",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 3402574639,
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
+        "StackLimit": 2000,
+        "MaxUseCount": 99,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_CHEST_SELECT_ITEM",
+                "UseParam": [
+                    "114001:1,114005:1,114009:1,114013:1,114017:1,114021:1",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "EffectDescTextMapHash": 431114935,
+        "SpecialDescTextMapHash": 1443350057,
+        "TypeDescTextMapHash": 1325350166,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 115024,
+        "NameTextMapHash": 3404205724,
+        "DescTextMapHash": 1424931357,
+        "Icon": "UI_ItemIcon_115024",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 970467255,
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
+        "StackLimit": 2000,
+        "MaxUseCount": 99,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_CHEST_SELECT_ITEM",
+                "UseParam": [
+                    "114002:1,114006:1,114010:1,114014:1,114018:1,114022:1",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1182777935,
+        "SpecialDescTextMapHash": 2501651401,
+        "TypeDescTextMapHash": 2794954846,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 115025,
+        "NameTextMapHash": 1433274252,
+        "DescTextMapHash": 3587368797,
+        "Icon": "UI_ItemIcon_115025",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 3329492383,
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
+        "StackLimit": 2000,
+        "MaxUseCount": 99,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_CHEST_SELECT_ITEM",
+                "UseParam": [
+                    "114003:1,114007:1,114011:1,114015:1,114019:1,114023:1",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2875616591,
+        "SpecialDescTextMapHash": 2971195545,
+        "TypeDescTextMapHash": 616151174,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 115026,
+        "NameTextMapHash": 4075175508,
+        "DescTextMapHash": 3274656981,
+        "Icon": "UI_ItemIcon_115026",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 639672447,
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
+        "StackLimit": 2000,
+        "MaxUseCount": 99,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_CHEST_SELECT_ITEM",
+                "UseParam": [
+                    "114004:1,114008:1,114012:1,114016:1,114020:1,114024:1",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 5,
+        "EffectDescTextMapHash": 2531196199,
+        "SpecialDescTextMapHash": 2015413913,
+        "TypeDescTextMapHash": 1274799350,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 115027,
+        "NameTextMapHash": 1268047660,
+        "DescTextMapHash": 512965189,
+        "Icon": "UI_ItemIcon_115027",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1
+    },
+    {
         "InteractionTitleTextMapHash": 1324850719,
         "MaterialType": "MATERIAL_CONSUME",
         "StackLimit": 2000,
@@ -47225,6 +50766,46 @@
         "ItemType": "ITEM_MATERIAL"
     },
     {
+        "InteractionTitleTextMapHash": 1590312079,
+        "MaterialType": "MATERIAL_FLYCLOAK",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_FLYCLOAK",
+                "UseParam": [
+                    "140006",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 805737423,
+        "SpecialDescTextMapHash": 1348547985,
+        "TypeDescTextMapHash": 676993046,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 140006,
+        "NameTextMapHash": 1674673724,
+        "DescTextMapHash": 1807055613,
+        "Icon": "UI_FlycloakIcon_Nixavis",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
         "InteractionTitleTextMapHash": 4251030583,
         "MaterialType": "MATERIAL_EXCHANGE",
         "StackLimit": 9999,
@@ -47383,6 +50964,126 @@
         "Icon": "UI_ItemIcon_200004",
         "ItemType": "ITEM_MATERIAL",
         "GadgetId": 70800017
+    },
+    {
+        "InteractionTitleTextMapHash": 2958656735,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 9999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 4061198943,
+        "SpecialDescTextMapHash": 183289441,
+        "TypeDescTextMapHash": 3920446894,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 200101,
+        "NameTextMapHash": 1337632092,
+        "DescTextMapHash": 3667009397,
+        "Icon": "UI_ItemIcon_200101",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 6,
+        "GadgetId": 70600053
+    },
+    {
+        "InteractionTitleTextMapHash": 915954567,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 9999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 4239881951,
+        "SpecialDescTextMapHash": 1117164705,
+        "TypeDescTextMapHash": 1874228046,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 200102,
+        "NameTextMapHash": 3404070260,
+        "DescTextMapHash": 424957717,
+        "Icon": "UI_ItemIcon_200102",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 6,
+        "GadgetId": 70600053
+    },
+    {
+        "InteractionTitleTextMapHash": 2961624415,
+        "MaterialType": "MATERIAL_AVATAR_MATERIAL",
+        "StackLimit": 9999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1636191463,
+        "SpecialDescTextMapHash": 976715193,
+        "TypeDescTextMapHash": 3020894718,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 200103,
+        "NameTextMapHash": 950978516,
+        "DescTextMapHash": 3521799293,
+        "Icon": "UI_ItemIcon_200103",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 6,
+        "GadgetId": 70600054
     },
     {
         "InteractionTitleTextMapHash": 45507791,
@@ -49363,6 +53064,308 @@
         "ItemType": "ITEM_MATERIAL"
     },
     {
+        "InteractionTitleTextMapHash": 230514783,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1352733127,
+        "SpecialDescTextMapHash": 2573875057,
+        "TypeDescTextMapHash": 890894118,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Tzz3_Alpha",
+            "UI_NameCardPic_Tzz3_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210051,
+        "NameTextMapHash": 741495036,
+        "DescTextMapHash": 572192397,
+        "Icon": "UI_NameCardIcon_Tzz3",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2332998199,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 846626103,
+        "SpecialDescTextMapHash": 3260522841,
+        "TypeDescTextMapHash": 713553214,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Xssdlk_P_Alpha",
+            "UI_NameCardPic_Xssdlk_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210052,
+        "NameTextMapHash": 1816201940,
+        "DescTextMapHash": 3329607189,
+        "Icon": "UI_NameCardIcon_Xssdlk",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2243444671,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 991197383,
+        "SpecialDescTextMapHash": 177805985,
+        "TypeDescTextMapHash": 3011609382,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Ganyu_Alpha",
+            "UI_NameCardPic_Ganyu_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210053,
+        "NameTextMapHash": 3809570428,
+        "DescTextMapHash": 1585804605,
+        "Icon": "UI_NameCardIcon_Ganyu",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 1978622327,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1885158639,
+        "SpecialDescTextMapHash": 926839433,
+        "TypeDescTextMapHash": 2374564174,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Albedo_Alpha",
+            "UI_NameCardPic_Albedo_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210054,
+        "NameTextMapHash": 2541715356,
+        "DescTextMapHash": 2835831693,
+        "Icon": "UI_NameCardIcon_Albedo",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 3080388711,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1386376727,
+        "SpecialDescTextMapHash": 3325267001,
+        "TypeDescTextMapHash": 4111947238,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Bp3_P_Alpha",
+            "UI_NameCardPic_Bp3_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210055,
+        "NameTextMapHash": 81600036,
+        "DescTextMapHash": 1756075749,
+        "Icon": "UI_NameCardIcon_Bp3",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 236623951,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 3813176759,
+        "SpecialDescTextMapHash": 633499937,
+        "TypeDescTextMapHash": 634785390,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_ElderTree_Alpha",
+            "UI_NameCardPic_ElderTree_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210056,
+        "NameTextMapHash": 382629508,
+        "DescTextMapHash": 922835477,
+        "Icon": "UI_NameCardIcon_ElderTree",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2535557239,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 4033647807,
+        "SpecialDescTextMapHash": 3088433185,
+        "TypeDescTextMapHash": 2207075742,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_EffigyChallenge_Alpha",
+            "UI_NameCardPic_EffigyChallenge_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "IsHidden": true,
+        "Id": 210057,
+        "NameTextMapHash": 1244103588,
+        "DescTextMapHash": 3358783901,
+        "Icon": "UI_NameCardIcon_EffigyChallenge",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
         "InteractionTitleTextMapHash": 3499041735,
         "MaterialType": "MATERIAL_WIDGET",
         "StackLimit": 99,
@@ -49700,6 +53703,234 @@
         "NameTextMapHash": 2735452964,
         "DescTextMapHash": 1728208605,
         "Icon": "UI_ItemIcon_220009",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 229448479,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 714550535,
+        "SpecialDescTextMapHash": 3600697089,
+        "TypeDescTextMapHash": 1610280206,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220013,
+        "NameTextMapHash": 3255871172,
+        "DescTextMapHash": 2871307621,
+        "Icon": "UI_ItemIcon_220013",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 4173922663,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2157665167,
+        "SpecialDescTextMapHash": 187068833,
+        "TypeDescTextMapHash": 2817047302,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220014,
+        "NameTextMapHash": 1508920732,
+        "DescTextMapHash": 48753965,
+        "Icon": "UI_ItemIcon_220014",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 1075984151,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2675492103,
+        "SpecialDescTextMapHash": 3283470969,
+        "TypeDescTextMapHash": 3769658894,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220015,
+        "NameTextMapHash": 1830648716,
+        "DescTextMapHash": 1410838909,
+        "Icon": "UI_ItemIcon_220015",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 1813223423,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2776006975,
+        "SpecialDescTextMapHash": 971401865,
+        "TypeDescTextMapHash": 4245110230,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220016,
+        "NameTextMapHash": 1587322020,
+        "DescTextMapHash": 3990897989,
+        "Icon": "UI_ItemIcon_220016",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2994507815,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 99,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 2226437919,
+        "SpecialDescTextMapHash": 1040968881,
+        "TypeDescTextMapHash": 266829518,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220017,
+        "NameTextMapHash": 260508780,
+        "DescTextMapHash": 1333187245,
+        "Icon": "UI_ItemIcon_220017",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 1649255,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1195687551,
+        "SpecialDescTextMapHash": 1963184721,
+        "TypeDescTextMapHash": 150597934,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220018,
+        "NameTextMapHash": 1808499580,
+        "DescTextMapHash": 2263226229,
+        "Icon": "UI_ItemIcon_220018",
         "ItemType": "ITEM_MATERIAL"
     },
     {
@@ -50079,5 +54310,176 @@
         "ItemType": "ITEM_MATERIAL",
         "Rank": 10,
         "GadgetId": 70600021
+    },
+    {
+        "InteractionTitleTextMapHash": 2070520255,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_FORGE",
+                "UseParam": [
+                    "14017",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1671075463,
+        "SpecialDescTextMapHash": 3578423905,
+        "TypeDescTextMapHash": 1779795950,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 221017,
+        "NameTextMapHash": 1301243724,
+        "DescTextMapHash": 1037828853,
+        "Icon": "UI_ItemIcon_221003",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10,
+        "GadgetId": 70600021
+    },
+    {
+        "InteractionTitleTextMapHash": 367266335,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_FORGE",
+                "UseParam": [
+                    "13011",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 4039574487,
+        "SpecialDescTextMapHash": 704843169,
+        "TypeDescTextMapHash": 1227305638,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 221010,
+        "NameTextMapHash": 266796252,
+        "DescTextMapHash": 3672936197,
+        "Icon": "UI_ItemIcon_221003",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 3432414607,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_FORGE",
+                "UseParam": [
+                    "13012",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1602570887,
+        "SpecialDescTextMapHash": 484817601,
+        "TypeDescTextMapHash": 1307934662,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 221011,
+        "NameTextMapHash": 3322814044,
+        "DescTextMapHash": 3929449333,
+        "Icon": "UI_ItemIcon_221003",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 3746410727,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_FORGE",
+                "UseParam": [
+                    "13013",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 886514319,
+        "SpecialDescTextMapHash": 2748640065,
+        "TypeDescTextMapHash": 3306086566,
+        "EffectIcon": "",
+        "EffectGadgetId": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 221012,
+        "NameTextMapHash": 1728633972,
+        "DescTextMapHash": 1245789709,
+        "Icon": "UI_ItemIcon_221003",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
     }
 ]

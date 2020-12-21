@@ -449,6 +449,14 @@
         ]
     },
     {
+        "Id": 64,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
         "Id": 66,
         "AllowClientOpen": true,
         "Cond": [
@@ -850,5 +858,24 @@
             },
             {}
         ]
+    },
+    {
+        "Id": 65,
+        "DefaultState": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 1406,
+        "Cond": [
+            {
+                "CondType": "OPEN_STATE_COND_QUEST",
+                "Param": 7014118
+            },
+            {}
+        ],
+        "SystemOpenUIId": 15
     }
 ]

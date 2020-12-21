@@ -103,5 +103,152 @@
         "NpcTalkTextMapHash": 3802910241,
         "IntroTextMapHash": 856260316,
         "TracePosition": "Activity_5003_07"
+    },
+    {
+        "DailyConfigId": 8,
+        "CostItem": [
+            {
+                "Id": 100001,
+                "Count": 5
+            },
+            {
+                "Id": 100064,
+                "Count": 5
+            },
+            {
+                "Id": 100012,
+                "Count": 5
+            }
+        ],
+        "clusPosTextMapHash": 4229767462,
+        "NpcTalkTextMapHash": 2141487273,
+        "IntroTextMapHash": 1765375596,
+        "TracePosition": "Activity_5003_01"
+    },
+    {
+        "DailyConfigId": 9,
+        "CostItem": [
+            {
+                "Id": 100002,
+                "Count": 5
+            },
+            {
+                "Id": 100020,
+                "Count": 5
+            },
+            {
+                "Id": 100013,
+                "Count": 5
+            }
+        ],
+        "clusPosTextMapHash": 1931474374,
+        "NpcTalkTextMapHash": 3275128393,
+        "IntroTextMapHash": 2094710668,
+        "TracePosition": "Activity_5003_01"
+    },
+    {
+        "DailyConfigId": 10,
+        "CostItem": [
+            {
+                "Id": 100012,
+                "Count": 5
+            },
+            {
+                "Id": 100051,
+                "Count": 5
+            },
+            {
+                "Id": 100002,
+                "Count": 5
+            }
+        ],
+        "clusPosTextMapHash": 1632685182,
+        "NpcTalkTextMapHash": 340975753,
+        "IntroTextMapHash": 4201542724,
+        "TracePosition": "Activity_5003_01"
+    },
+    {
+        "DailyConfigId": 11,
+        "CostItem": [
+            {
+                "Id": 100013,
+                "Count": 5
+            },
+            {
+                "Id": 100016,
+                "Count": 5
+            },
+            {
+                "Id": 100061,
+                "Count": 5
+            }
+        ],
+        "clusPosTextMapHash": 351284230,
+        "NpcTalkTextMapHash": 4155915233,
+        "IntroTextMapHash": 3158606652,
+        "TracePosition": "Activity_5003_01"
+    },
+    {
+        "DailyConfigId": 12,
+        "CostItem": [
+            {
+                "Id": 100014,
+                "Count": 5
+            },
+            {
+                "Id": 100020,
+                "Count": 5
+            },
+            {
+                "Id": 100064,
+                "Count": 5
+            }
+        ],
+        "clusPosTextMapHash": 3906096758,
+        "NpcTalkTextMapHash": 2811050585,
+        "IntroTextMapHash": 4032206284,
+        "TracePosition": "Activity_5003_01"
+    },
+    {
+        "DailyConfigId": 13,
+        "CostItem": [
+            {
+                "Id": 100061,
+                "Count": 5
+            },
+            {
+                "Id": 100051,
+                "Count": 5
+            },
+            {
+                "Id": 100016,
+                "Count": 5
+            }
+        ],
+        "clusPosTextMapHash": 3735075350,
+        "NpcTalkTextMapHash": 1720586953,
+        "IntroTextMapHash": 894448220,
+        "TracePosition": "Activity_5003_01"
+    },
+    {
+        "DailyConfigId": 14,
+        "CostItem": [
+            {
+                "Id": 100062,
+                "Count": 5
+            },
+            {
+                "Id": 100001,
+                "Count": 5
+            },
+            {
+                "Id": 100014,
+                "Count": 5
+            }
+        ],
+        "clusPosTextMapHash": 3687230830,
+        "NpcTalkTextMapHash": 1272110729,
+        "IntroTextMapHash": 2484650700,
+        "TracePosition": "Activity_5003_01"
     }
 ]

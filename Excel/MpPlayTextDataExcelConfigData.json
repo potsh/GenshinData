@@ -26,5 +26,19 @@
         "FailTextMapHash": 2116362252,
         "RiviveTextMapHash": 3168618829,
         "TimespendTextMapHash": 4110009956
+    },
+    {
+        "MpPlayId": 3,
+        "QuestTextMapHash": 2869922714,
+        "RewardTextMapHash": 3177895552,
+        "InviteTextMapHash": 2885084188,
+        "InvitedescTextMapHash": 877450416,
+        "InvitedeschostTextMapHash": 579742132,
+        "StartTextMapHash": 3699450199,
+        "StarttipTextMapHash": 1747051062,
+        "VictoryTextMapHash": 43872579,
+        "FailTextMapHash": 2486425004,
+        "RiviveTextMapHash": 461223245,
+        "TimespendTextMapHash": 4144911844
     }
 ]

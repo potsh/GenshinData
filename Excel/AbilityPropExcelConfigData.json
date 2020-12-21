@@ -22,9 +22,9 @@
     },
     {
         "PropName": "Actor_CriticalDelta",
-        "OverallMin": -0.8999999761581421,
+        "OverallMin": -3.0,
         "OverallMax": 1.0,
-        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMin": -3.0,
         "LimitTagMax": 1.0,
         "SucceedOwner": true
     },
@@ -40,7 +40,7 @@
         "PropName": "Actor_CriticalHurtDelta",
         "OverallMin": -0.5,
         "OverallMax": 3.0,
-        "LimitTagMin": -0.5,
+        "LimitTagMin": -3.0,
         "LimitTagMax": 3.0,
         "SucceedOwner": true
     },
@@ -48,7 +48,7 @@
         "PropName": "Actor_ChargeEfficiencyDelta",
         "OverallMin": -0.8999999761581421,
         "OverallMax": 3.0,
-        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMin": -3.0,
         "LimitTagMax": 3.0
     },
     {

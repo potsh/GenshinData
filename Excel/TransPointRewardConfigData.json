@@ -418,5 +418,83 @@
         "PointId": 200,
         "RewardId": 220311,
         "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 204,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 205,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 206,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 208,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 209,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 210,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 211,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 212,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 213,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 214,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 222,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 225,
+        "RewardId": 220311,
+        "GroupId": []
+    },
+    {
+        "SceneId": 3,
+        "PointId": 228,
+        "RewardId": 220311,
+        "GroupId": []
     }
 ]

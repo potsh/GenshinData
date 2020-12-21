@@ -32,5 +32,13 @@
         "EffectName": "Eff_UI_Mark_WindCrystal",
         "IconName": "UI_MarkPoint_LocalItem",
         "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 5,
+        "Name": "绯红玉髓雷达提示",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_DulinsEssence",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
     }
 ]

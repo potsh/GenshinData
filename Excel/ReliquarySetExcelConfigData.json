@@ -215,7 +215,6 @@
             4
         ],
         "EquipAffixId": 214001,
-        "DisableFilter": 1,
         "Contains": [
             71340,
             71320,
@@ -487,6 +486,22 @@
             89350,
             89310,
             89330
+        ]
+    },
+    {
+        "SetId": 15016,
+        "SetIcon": "UI_RelicIcon_15016_4",
+        "SetNeed": [
+            2,
+            4
+        ],
+        "EquipAffixId": 215016,
+        "Contains": [
+            90340,
+            90320,
+            90350,
+            90310,
+            90330
         ]
     },
     {

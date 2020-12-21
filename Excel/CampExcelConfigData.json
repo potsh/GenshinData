@@ -104,6 +104,25 @@
         ]
     },
     {
+        "Id": 5005,
+        "CommentTextMapHash": 183791244,
+        "TrophicLevel": 5,
+        "EnemyCamp": [
+            1001,
+            3001,
+            5002,
+            9001,
+            9002,
+            5003
+        ]
+    },
+    {
+        "Id": 5006,
+        "CommentTextMapHash": 1061446492,
+        "TrophicLevel": 3,
+        "EnemyCamp": []
+    },
+    {
         "Id": 9001,
         "CommentTextMapHash": 1709020644,
         "EnemyCamp": [

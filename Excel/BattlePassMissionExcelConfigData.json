@@ -49,7 +49,7 @@
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
             "Param": [
-                "101001;101002;101003;101004;100058;100054;100028",
+                "101001;101002;101003;101004;100058;100054;100028;101006",
                 "",
                 ""
             ]
@@ -334,6 +334,240 @@
             ]
         },
         "Progress": 3
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "AddPoint": 360,
+        "DescTextMapHash": 3177532946,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73014,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_ROUTINE",
+            "Param": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
+        "AddPoint": 675,
+        "DescTextMapHash": 2646001682,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73015,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON",
+            "Param": [
+                "103;104;105;106",
+                "可联机",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1200,
+        "DescTextMapHash": 833453618,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75201,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GACHA_NUM",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 50
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 2250,
+        "ScheduleId": 1200,
+        "DescTextMapHash": 3405200562,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75202,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COST_MATERIAL",
+            "Param": [
+                "106",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5500
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 2250,
+        "ScheduleId": 1200,
+        "DescTextMapHash": 4268593930,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75203,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TOWER_STARS_NUM",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 12
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1200,
+        "DescTextMapHash": 3484051746,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75204,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OFFERING_LEVEL",
+            "Param": [
+                "1",
+                "8",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1200,
+        "ScheduleId": 1200,
+        "ActivityId": 5011,
+        "DescTextMapHash": 609741962,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75205,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TREASURE_MAP_DONE_REGION",
+            "Param": [
+                "5011",
+                "5011001",
+                "14"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 2250,
+        "ScheduleId": 1200,
+        "ActivityId": 3001,
+        "DescTextMapHash": 3077503106,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75206,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_REACH_MP_PLAY_SCORE",
+            "Param": [
+                "3",
+                "300",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1200,
+        "ActivityId": 3001,
+        "DescTextMapHash": 2357390018,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75207,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
+            "Param": [
+                "11413",
+                "2",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1200,
+        "ScheduleId": 1200,
+        "ActivityId": 5012,
+        "DescTextMapHash": 2148215434,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75208,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DELIVER_ITEM_TO_SALESMAN",
+            "Param": [
+                "8",
+                "3",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1200,
+        "ActivityId": 5014,
+        "DescTextMapHash": 2927759946,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 75209,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EFFIGY_CHALLENGE_SCORE",
+            "Param": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
     },
     {
         "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",

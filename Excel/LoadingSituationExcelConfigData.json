@@ -42,5 +42,9 @@
     {
         "StageId": 11,
         "PicPath": ""
+    },
+    {
+        "StageId": 12,
+        "PicPath": "UI_LoadingPic_Dragonspine"
     }
 ]

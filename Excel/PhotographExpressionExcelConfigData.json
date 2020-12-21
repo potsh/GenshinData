@@ -1,0 +1,1469 @@
+[
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1425691205,
+        "Unknown2": 32196458,
+        "FetterId": 10401,
+        "AvatarId": 10000021,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_02",
+        "PhonemeName": "P_Smile_05",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 218730669,
+        "Unknown2": 550424018,
+        "FetterId": 10402,
+        "AvatarId": 10000021,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_07",
+        "PhonemeName": "P_Doya_01",
+        "Icon": "UI_EmotIcon_Blink",
+        "Unknown1": 30379941,
+        "Unknown2": 2777886834,
+        "FetterId": 10403,
+        "AvatarId": 10000021,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1595072269,
+        "Unknown2": 1179319362,
+        "FetterId": 4401,
+        "AvatarId": 10000003,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 4022704373,
+        "Unknown2": 1672630938,
+        "FetterId": 4402,
+        "AvatarId": 10000003,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Default_01",
+        "Icon": "UI_EmotIcon_Smile",
+        "Unknown1": 999197205,
+        "Unknown2": 1258176650,
+        "FetterId": 4403,
+        "AvatarId": 10000003,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 256711077,
+        "Unknown2": 4085990250,
+        "FetterId": 1401,
+        "AvatarId": 10000005,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_01",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 2959014501,
+        "Unknown2": 2670927282,
+        "FetterId": 1402,
+        "AvatarId": 10000005,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 1290896925,
+        "Unknown2": 1618589322,
+        "FetterId": 1403,
+        "AvatarId": 10000005,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 773037317,
+        "Unknown2": 4222878538,
+        "FetterId": 5401,
+        "AvatarId": 10000006,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 809099733,
+        "Unknown2": 2669180906,
+        "FetterId": 5402,
+        "AvatarId": 10000006,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Smile_01",
+        "Icon": "UI_EmotIcon_Smile",
+        "Unknown1": 3724046365,
+        "Unknown2": 1543483946,
+        "FetterId": 5403,
+        "AvatarId": 10000006,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1541030309,
+        "Unknown2": 2627288362,
+        "FetterId": 2401,
+        "AvatarId": 10000007,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_01",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 2481636341,
+        "Unknown2": 830223242,
+        "FetterId": 2402,
+        "AvatarId": 10000007,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 714068205,
+        "Unknown2": 3349325882,
+        "FetterId": 2403,
+        "AvatarId": 10000007,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 80446133,
+        "Unknown2": 3510141130,
+        "FetterId": 6401,
+        "AvatarId": 10000014,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_04",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 2620191021,
+        "Unknown2": 4092165074,
+        "FetterId": 6402,
+        "AvatarId": 10000014,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_06",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Blink",
+        "Unknown1": 2170230029,
+        "Unknown2": 1170471706,
+        "FetterId": 6403,
+        "AvatarId": 10000014,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 2382049549,
+        "Unknown2": 1789911066,
+        "FetterId": 7401,
+        "AvatarId": 10000015,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 2049345173,
+        "Unknown2": 118594066,
+        "FetterId": 7402,
+        "AvatarId": 10000015,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Doya_01",
+        "Icon": "UI_EmotIcon_Smile",
+        "Unknown1": 1486133989,
+        "Unknown2": 1381281138,
+        "FetterId": 7403,
+        "AvatarId": 10000015,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1378770125,
+        "Unknown2": 869340746,
+        "FetterId": 8401,
+        "AvatarId": 10000016,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Normal_05",
+        "PhonemeName": "P_Neko_01",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 316735037,
+        "Unknown2": 3363486570,
+        "FetterId": 8402,
+        "AvatarId": 10000016,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_01",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 3290088813,
+        "Unknown2": 4197406538,
+        "FetterId": 8403,
+        "AvatarId": 10000016,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 2328091061,
+        "Unknown2": 3571115098,
+        "FetterId": 9401,
+        "AvatarId": 10000020,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Normal_05",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 523972749,
+        "Unknown2": 3157422010,
+        "FetterId": 9402,
+        "AvatarId": 10000020,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_03",
+        "PhonemeName": "P_Angry_03",
+        "Icon": "UI_EmotIcon_Earnest",
+        "Unknown1": 3606460565,
+        "Unknown2": 1611478770,
+        "FetterId": 9403,
+        "AvatarId": 10000020,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 806966245,
+        "Unknown2": 3243816770,
+        "FetterId": 11401,
+        "AvatarId": 10000022,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_01",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 271383445,
+        "Unknown2": 1361752522,
+        "FetterId": 11402,
+        "AvatarId": 10000022,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_06",
+        "PhonemeName": "P_Pero_02",
+        "Icon": "UI_EmotIcon_Blink",
+        "Unknown1": 2686200237,
+        "Unknown2": 2844632786,
+        "FetterId": 11403,
+        "AvatarId": 10000022,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1459167821,
+        "Unknown2": 1014878146,
+        "FetterId": 12401,
+        "AvatarId": 10000023,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_04",
+        "PhonemeName": "P_Angry_02",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 492370549,
+        "Unknown2": 3726545642,
+        "FetterId": 12402,
+        "AvatarId": 10000023,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Surprise_01",
+        "PhonemeName": "P_Smile_05",
+        "Icon": "UI_EmotIcon_Expect",
+        "Unknown1": 3122361893,
+        "Unknown2": 3140565938,
+        "FetterId": 12403,
+        "AvatarId": 10000023,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1972952373,
+        "Unknown2": 2271549882,
+        "FetterId": 14401,
+        "AvatarId": 10000024,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_01",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 1490773981,
+        "Unknown2": 423426786,
+        "FetterId": 14402,
+        "AvatarId": 10000024,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Default_01",
+        "PhonemeName": "P_Smile_03",
+        "Icon": "UI_EmotIcon_Confidence",
+        "Unknown1": 1120513413,
+        "Unknown2": 2523462770,
+        "FetterId": 14403,
+        "AvatarId": 10000024,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 386957469,
+        "Unknown2": 771767706,
+        "FetterId": 13401,
+        "AvatarId": 10000025,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 1621311789,
+        "Unknown2": 3609347090,
+        "FetterId": 13402,
+        "AvatarId": 10000025,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Smile_02",
+        "Icon": "UI_EmotIcon_Smile",
+        "Unknown1": 1078293821,
+        "Unknown2": 3092903010,
+        "FetterId": 13403,
+        "AvatarId": 10000025,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 3455193349,
+        "Unknown2": 2169422386,
+        "FetterId": 15401,
+        "AvatarId": 10000027,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 4034873573,
+        "Unknown2": 351247906,
+        "FetterId": 15402,
+        "AvatarId": 10000027,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "LowClosed_01",
+        "PhonemeName": "P_Default_01",
+        "Icon": "UI_EmotIcon_Smile",
+        "Unknown1": 2766012405,
+        "Unknown2": 2871179778,
+        "FetterId": 15403,
+        "AvatarId": 10000027,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 2980898701,
+        "Unknown2": 3166858778,
+        "FetterId": 18401,
+        "AvatarId": 10000029,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Smile_05",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 233179893,
+        "Unknown2": 2503152362,
+        "FetterId": 18402,
+        "AvatarId": 10000029,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_04",
+        "PhonemeName": "P_Angry_04",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 3612814613,
+        "Unknown2": 2386467946,
+        "FetterId": 18403,
+        "AvatarId": 10000029,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 2848242853,
+        "Unknown2": 798468802,
+        "FetterId": 17401,
+        "AvatarId": 10000030,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_01",
+        "PhonemeName": "P_Smile_01",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 2769887149,
+        "Unknown2": 3757281010,
+        "FetterId": 17402,
+        "AvatarId": 10000030,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "LowClosed_01",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Ponder",
+        "Unknown1": 853655885,
+        "Unknown2": 277251066,
+        "FetterId": 17403,
+        "AvatarId": 10000030,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 4058610341,
+        "Unknown2": 194285202,
+        "FetterId": 19401,
+        "AvatarId": 10000031,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_U_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 1457658765,
+        "Unknown2": 674497066,
+        "FetterId": 19402,
+        "AvatarId": 10000031,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_02",
+        "PhonemeName": "P_Doya_02",
+        "Icon": "UI_EmotIcon_Confidence",
+        "Unknown1": 3488374429,
+        "Unknown2": 4250497066,
+        "FetterId": 19403,
+        "AvatarId": 10000031,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1608402437,
+        "Unknown2": 2263688874,
+        "FetterId": 20401,
+        "AvatarId": 10000032,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Normal_01",
+        "PhonemeName": "P_Smile_05",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 2216871725,
+        "Unknown2": 3461547098,
+        "FetterId": 20402,
+        "AvatarId": 10000032,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_03",
+        "PhonemeName": "P_Doya_02",
+        "Icon": "UI_EmotIcon_Confidence",
+        "Unknown1": 1197784541,
+        "Unknown2": 436942634,
+        "FetterId": 20403,
+        "AvatarId": 10000032,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 341689541,
+        "Unknown2": 3437009970,
+        "FetterId": 23401,
+        "AvatarId": 10000033,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Smile_02",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 527134061,
+        "Unknown2": 713172722,
+        "FetterId": 23402,
+        "AvatarId": 10000033,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_02",
+        "PhonemeName": "P_Smile_01",
+        "Icon": "UI_EmotIcon_Confidence",
+        "Unknown1": 63878621,
+        "Unknown2": 4236658602,
+        "FetterId": 23403,
+        "AvatarId": 10000033,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1283175149,
+        "Unknown2": 3600223562,
+        "FetterId": 21401,
+        "AvatarId": 10000034,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_01",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 1876736189,
+        "Unknown2": 3908853674,
+        "FetterId": 21402,
+        "AvatarId": 10000034,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 1734122709,
+        "Unknown2": 2364045570,
+        "FetterId": 21403,
+        "AvatarId": 10000034,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 681218157,
+        "Unknown2": 3322826450,
+        "FetterId": 24401,
+        "AvatarId": 10000035,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Default_01",
+        "PhonemeName": "P_Default_01",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 98573045,
+        "Unknown2": 2752413490,
+        "FetterId": 24402,
+        "AvatarId": 10000035,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_Default_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 154318925,
+        "Unknown2": 465256194,
+        "FetterId": 24403,
+        "AvatarId": 10000035,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 804914437,
+        "Unknown2": 1365883082,
+        "FetterId": 22401,
+        "AvatarId": 10000036,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 1573197197,
+        "Unknown2": 3000599402,
+        "FetterId": 22402,
+        "AvatarId": 10000036,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Surpreise_01",
+        "PhonemeName": "P_O_01",
+        "Icon": "UI_EmotIcon_Expect",
+        "Unknown1": 105872733,
+        "Unknown2": 1870890570,
+        "FetterId": 22403,
+        "AvatarId": 10000036,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1541142589,
+        "Unknown2": 990219274,
+        "FetterId": 25401,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 770016501,
+        "Unknown2": 1926530802,
+        "FetterId": 25402,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "MidClosed_05",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Ponder",
+        "Unknown1": 45500269,
+        "Unknown2": 2622779194,
+        "FetterId": 25403,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 3767532637,
+        "Unknown2": 767406610,
+        "FetterId": 35401,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 700938013,
+        "Unknown2": 1948510826,
+        "FetterId": 35402,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Doubt_01",
+        "PhonemeName": "P_Default_01",
+        "Icon": "UI_EmotIcon_Ponder",
+        "Unknown1": 2749273437,
+        "Unknown2": 2856655298,
+        "FetterId": 35403,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 2724000933,
+        "Unknown2": 978574418,
+        "FetterId": 34401,
+        "AvatarId": 10000039,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_01",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 1127341405,
+        "Unknown2": 1015144850,
+        "FetterId": 34402,
+        "AvatarId": 10000039,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Sweat_03",
+        "PhonemeName": "P_Neko_02",
+        "Icon": "UI_EmotIcon_Confidence",
+        "Unknown1": 1505844669,
+        "Unknown2": 1901920562,
+        "FetterId": 34403,
+        "AvatarId": 10000039,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1891039661,
+        "Unknown2": 3448444258,
+        "FetterId": 30401,
+        "AvatarId": 10000041,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_02",
+        "PhonemeName": "P_Smile_04",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 1593085941,
+        "Unknown2": 4277800826,
+        "FetterId": 30402,
+        "AvatarId": 10000041,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_03",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 2596275981,
+        "Unknown2": 867724626,
+        "FetterId": 30403,
+        "AvatarId": 10000041,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 679585301,
+        "Unknown2": 1360555562,
+        "FetterId": 32401,
+        "AvatarId": 10000042,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Smile_02",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 3319589877,
+        "Unknown2": 799459706,
+        "FetterId": 32402,
+        "AvatarId": 10000042,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Normal_05",
+        "PhonemeName": "P_Angry_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 3554126565,
+        "Unknown2": 2326420706,
+        "FetterId": 32403,
+        "AvatarId": 10000042,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 1020381205,
+        "Unknown2": 2982681250,
+        "FetterId": 31401,
+        "AvatarId": 10000043,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_04",
+        "PhonemeName": "P_U_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 3792926773,
+        "Unknown2": 4201590722,
+        "FetterId": 31402,
+        "AvatarId": 10000043,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_02",
+        "PhonemeName": "P_Pero_01",
+        "Icon": "UI_EmotIcon_Expect",
+        "Unknown1": 2401892269,
+        "Unknown2": 2112918658,
+        "FetterId": 31403,
+        "AvatarId": 10000043,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "Unknown1": 2453261709,
+        "Unknown2": 89974010,
+        "FetterId": 33401,
+        "AvatarId": 10000044,
+        "OpenConds": [
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_01",
+        "PhonemeName": "P_Smile_05",
+        "Icon": "UI_EmotIcon_Happy",
+        "Unknown1": 455686109,
+        "Unknown2": 1998583898,
+        "FetterId": 33402,
+        "AvatarId": 10000044,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Lose",
+        "Unknown1": 3796078221,
+        "Unknown2": 1484556338,
+        "FetterId": 33403,
+        "AvatarId": 10000044,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    }
+]

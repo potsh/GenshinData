@@ -666,6 +666,15 @@
         "DurationEffect": ""
     },
     {
+        "BuffId": 100010,
+        "Icon": "UI_Buff_Item_Climate_Heat",
+        "MutexType": 10010,
+        "Desc": "抗寒料理效果",
+        "DispelEffect": "",
+        "StartEffect": "",
+        "DurationEffect": ""
+    },
+    {
         "BuffId": 120002,
         "Icon": "UI_DeBuff_Attack",
         "MutexType": 12002,

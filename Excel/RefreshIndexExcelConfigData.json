@@ -41,14 +41,10 @@
         "RefreshId": 1100
     },
     {
-        "Priority": 1200,
-        "Name": "风魔龙",
-        "RefreshId": 1200
-    },
-    {
-        "Priority": 1201,
-        "Name": "北风狼",
-        "RefreshId": 1201
+        "Priority": 101000,
+        "Type": "REFRESHINDEX_GADGET",
+        "Name": "雪山喂食玩法定制刷新ID",
+        "RefreshId": 101000
     },
     {
         "Priority": 999998,

@@ -1,0 +1,78 @@
+[
+    {
+        "Id": 1,
+        "ChapterId": 1,
+        "Unknown1": 683474864,
+        "CoinId": [],
+        "OpenDay": 1,
+        "PreQuestId": 41210,
+        "MissionId": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "Id": 2,
+        "ChapterId": 2,
+        "Unknown1": 1251275024,
+        "CoinId": [
+            111
+        ],
+        "OpenDay": 4,
+        "PreQuestId": 41211,
+        "MissionId": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "RewardPreviewId": 30301
+    },
+    {
+        "Id": 3,
+        "ChapterId": 3,
+        "Unknown1": 922812496,
+        "CoinId": [
+            111,
+            112
+        ],
+        "OpenDay": 7,
+        "PreQuestId": 41212,
+        "MissionId": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "RewardPreviewId": 30302
+    },
+    {
+        "Id": 4,
+        "ChapterId": 4,
+        "Unknown1": 3198727024,
+        "CoinId": [
+            111,
+            112,
+            113
+        ],
+        "OpenDay": 10,
+        "PreQuestId": 41213,
+        "MissionId": [
+            19,
+            20,
+            22,
+            23,
+            25,
+            26
+        ],
+        "RewardPreviewId": 30303
+    }
+]

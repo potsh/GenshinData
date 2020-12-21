@@ -1,0 +1,51 @@
+[
+    {
+        "Id": 1,
+        "DayIndex": 1,
+        "Reward": [
+            3006002
+        ]
+    },
+    {
+        "Id": 1,
+        "DayIndex": 2,
+        "Reward": [
+            3006003
+        ]
+    },
+    {
+        "Id": 1,
+        "DayIndex": 3,
+        "Reward": [
+            3006004
+        ]
+    },
+    {
+        "Id": 1,
+        "DayIndex": 4,
+        "Reward": [
+            3006005
+        ]
+    },
+    {
+        "Id": 1,
+        "DayIndex": 5,
+        "Reward": [
+            3006006
+        ]
+    },
+    {
+        "Id": 1,
+        "DayIndex": 6,
+        "Reward": [
+            3006007
+        ]
+    },
+    {
+        "Id": 1,
+        "DayIndex": 7,
+        "Reward": [
+            3006008
+        ]
+    }
+]

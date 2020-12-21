@@ -1,0 +1,226 @@
+[
+    {
+        "OfferingId": 1,
+        "Level": 1,
+        "RewardId": 311101,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 1,
+        "Level": 2,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311102,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 3,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311103,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 4,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311104,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 5,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311105,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 6,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311106,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 7,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311107,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 8,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311108,
+        "Action": [
+            {
+                "ActionType": "OFFERING_ACTION_OPEN_ROUTINE",
+                "Param": "ROUTINE_SNOW_MOUNTAIN"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 19
+    },
+    {
+        "OfferingId": 1,
+        "Level": 9,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311109,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 20
+    },
+    {
+        "OfferingId": 1,
+        "Level": 10,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311110,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 20
+    },
+    {
+        "OfferingId": 1,
+        "Level": 11,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311111,
+        "Action": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 20
+    },
+    {
+        "OfferingId": 1,
+        "Level": 12,
+        "ConsumeItem": {
+            "Id": 107010,
+            "Count": 10
+        },
+        "RewardId": 311112,
+        "Action": [
+            {
+                "ActionType": "OFFERING_ACTION_CLOSE_ROUTINE",
+                "Param": "ROUTINE_SNOW_MOUNTAIN"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 21
+    }
+]

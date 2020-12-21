@@ -1458,6 +1458,36 @@
         "ModifierName": "ReHP_Ins&Con_Modifier_lv1_99"
     },
     {
+        "GroupId": 30,
+        "Name": "温度机制-低温Lv1",
+        "Desc": "被冰元素、冻结、潮湿影响的时候，低温条会涨得更快",
+        "Time": 999999.0,
+        "ServerBuffId": 300001,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "ClimateAbility_Cold",
+        "ModifierName": "ClimateAbility_Cold_Lv1"
+    },
+    {
+        "GroupId": 31,
+        "Name": "温度机制-低温Lv2",
+        "Desc": "每2秒造成5%生命值上限的生命值损失",
+        "Time": 999999.0,
+        "ServerBuffId": 300002,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "ClimateAbility_Cold",
+        "ModifierName": "ClimateAbility_Cold_Lv2"
+    },
+    {
+        "GroupId": 32,
+        "Name": "温度机制-低温常驻",
+        "Desc": "处于雪山区域时常驻于玩家身上",
+        "Time": 999999.0,
+        "ServerBuffId": 300003,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "ClimateAbility_Cold",
+        "ModifierName": "ClimateAbility_Cold_Area"
+    },
+    {
         "GroupId": 13,
         "Name": "元素提升料理",
         "Desc": "电系伤害提升12%，持续300秒",
@@ -1546,6 +1576,66 @@
         "ServerBuffType": "SERVER_BUFF_TEAM",
         "AbilityName": "Water_Team",
         "ModifierName": "Water_Team_Modifier_lv2_3"
+    },
+    {
+        "GroupId": 51,
+        "Name": "龙血结晶",
+        "Desc": "可击碎特殊冰块",
+        "Time": 25.0,
+        "ServerBuffId": 500101,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "Dulins_Blood_Buff",
+        "ModifierName": "Dulins_Blood_Smash_Ice_Buff"
+    },
+    {
+        "GroupId": 51,
+        "Name": "龙血结晶",
+        "Desc": "可击碎特殊冰块-雪山活动专用",
+        "Time": 25.0,
+        "ServerBuffId": 500102,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "Dulins_Blood_Buff",
+        "ModifierName": "Dulins_Blood_Smash_Ice_Buff_Event"
+    },
+    {
+        "GroupId": 52,
+        "Name": "寒冷抗性提升",
+        "Desc": "用于抗寒料理，能够抑制低温条提升，ratio-0.3",
+        "Time": 900.0,
+        "ServerBuffId": 500201,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "Anti_Cold_Food_Buff",
+        "ModifierName": "Anti_Cold_Buff_lv2_1"
+    },
+    {
+        "GroupId": 52,
+        "Name": "寒冷抗性提升",
+        "Desc": "用于抗寒料理，能够抑制低温条提升，ratio-0.4",
+        "Time": 900.0,
+        "ServerBuffId": 500202,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "Anti_Cold_Food_Buff",
+        "ModifierName": "Anti_Cold_Buff_lv2_2"
+    },
+    {
+        "GroupId": 52,
+        "Name": "寒冷抗性提升",
+        "Desc": "用于抗寒料理，能够抑制低温条提升，ratio-0.5",
+        "Time": 900.0,
+        "ServerBuffId": 500203,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "Anti_Cold_Food_Buff",
+        "ModifierName": "Anti_Cold_Buff_lv2_3"
+    },
+    {
+        "GroupId": 52,
+        "Name": "寒冷抗性提升",
+        "Desc": "用于抗寒料理，能够抑制低温条提升，ratio-0.5",
+        "Time": 1500.0,
+        "ServerBuffId": 500204,
+        "ServerBuffType": "SERVER_BUFF_TEAM",
+        "AbilityName": "Anti_Cold_Food_Buff",
+        "ModifierName": "Anti_Cold_Buff_lv2_4"
     },
     {
         "GroupId": 61,

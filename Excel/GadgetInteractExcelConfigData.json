@@ -245,5 +245,49 @@
         ],
         "UiTitleTextMapHash": 3026900301,
         "UiDescTextMapHash": 393779549
+    },
+    {
+        "InteractId": 14,
+        "ConsumeItemId": 100620,
+        "ConsumeItemNum": 1,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100620,
+                "Count": 1
+            },
+            {
+                "Id": 100621,
+                "Count": 1
+            },
+            {
+                "Id": 100622,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 1337244189,
+        "UiDescTextMapHash": 1063254661
+    },
+    {
+        "InteractId": 15,
+        "ConsumeItemId": 100051,
+        "ConsumeItemNum": 2,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100051,
+                "Count": 2
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 3990910813,
+        "UiDescTextMapHash": 3656672285
     }
 ]

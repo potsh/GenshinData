@@ -75,6 +75,26 @@
         "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
     },
     {
+        "Id": 116,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "Id": 117,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "Id": 118,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "Id": 119,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
         "Id": 201,
         "TagStr": "元素之核",
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
@@ -92,6 +112,11 @@
     {
         "Id": 403,
         "TagStr": "无相之岩",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "Id": 404,
+        "TagStr": "无相之水",
         "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
     },
     {
@@ -325,6 +350,11 @@
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
     },
     {
+        "Id": 30401,
+        "TagStr": "召唤师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
         "Id": 40101,
         "TagStr": "遗迹守卫",
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
@@ -336,7 +366,7 @@
     },
     {
         "Id": 40103,
-        "TagStr": "遗迹守卫",
+        "TagStr": "遗迹重机",
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
     },
     {
@@ -456,6 +486,11 @@
     },
     {
         "Id": 60602,
+        "TagStr": "雷萤",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    {
+        "Id": 60603,
         "TagStr": "雷萤",
         "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
     },

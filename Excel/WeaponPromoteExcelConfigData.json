@@ -17499,7 +17499,7 @@
         "PromoteLevel": 1,
         "CostItems": [
             {
-                "Id": 114017,
+                "Id": 114005,
                 "Count": 3
             },
             {
@@ -17538,7 +17538,7 @@
         "PromoteLevel": 2,
         "CostItems": [
             {
-                "Id": 114018,
+                "Id": 114006,
                 "Count": 3
             },
             {
@@ -17577,7 +17577,7 @@
         "PromoteLevel": 3,
         "CostItems": [
             {
-                "Id": 114018,
+                "Id": 114006,
                 "Count": 6
             },
             {
@@ -17616,7 +17616,7 @@
         "PromoteLevel": 4,
         "CostItems": [
             {
-                "Id": 114019,
+                "Id": 114007,
                 "Count": 3
             },
             {
@@ -17655,7 +17655,7 @@
         "PromoteLevel": 5,
         "CostItems": [
             {
-                "Id": 114019,
+                "Id": 114007,
                 "Count": 6
             },
             {
@@ -17694,7 +17694,7 @@
         "PromoteLevel": 6,
         "CostItems": [
             {
-                "Id": 114020,
+                "Id": 114008,
                 "Count": 4
             },
             {

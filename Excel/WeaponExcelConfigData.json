@@ -806,7 +806,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            111410,
+            0,
             0
         ],
         "WeaponProp": [
@@ -825,12 +825,7 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Outlaw_Awaken",
         "WeaponPromoteId": 11410,
         "StoryId": 191410,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 576826403,
         "GachaCardNameHashSuffix": -89,
         "DestroyReturnMaterial": [
@@ -854,7 +849,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            111411,
+            0,
             0
         ],
         "WeaponProp": [
@@ -873,12 +868,7 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Heartseeker_Awaken",
         "WeaponPromoteId": 11411,
         "StoryId": 191411,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 1023323240,
         "GachaCardNameHashSuffix": 77,
         "DestroyReturnMaterial": [
@@ -948,14 +938,17 @@
             111413,
             0
         ],
+        "AwakenMaterial": 200103,
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 9.899999618530273,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 42.4010009765625,
+                "Type": "GROW_CURVE_ATTACK_201"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "InitValue": 0.10000000149011612,
+                "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Magnum/Equip_Sword_Magnum_OverrideTexture/Equip_Sword_Magnum_02_Tex_Diffuse",
@@ -970,6 +963,7 @@
         ],
         "GachaCardNameHashPre": 3978642292,
         "GachaCardNameHashSuffix": 52,
+        "EnhanceRule": 1,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1087,7 +1081,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111503,
+            0,
             0
         ],
         "WeaponProp": [
@@ -1106,12 +1100,7 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Widsith_Awaken",
         "WeaponPromoteId": 11503,
         "StoryId": 191503,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2409067244,
         "GachaCardNameHashSuffix": -127,
         "DestroyReturnMaterial": [
@@ -1183,7 +1172,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -1200,12 +1189,7 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Morax_Awaken",
         "WeaponPromoteId": 11505,
         "StoryId": 191505,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 3535326333,
         "GachaCardNameHashSuffix": -22,
         "DestroyReturnMaterial": [
@@ -1229,7 +1213,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -1246,12 +1230,7 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Transcend_Awaken",
         "WeaponPromoteId": 11506,
         "StoryId": 191506,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2706294933,
         "GachaCardNameHashSuffix": 125,
         "DestroyReturnMaterial": [
@@ -1275,7 +1254,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -1292,12 +1271,7 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Boreas_Awaken",
         "WeaponPromoteId": 11507,
         "StoryId": 191507,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 973089515,
         "GachaCardNameHashSuffix": -54,
         "DestroyReturnMaterial": [
@@ -1321,7 +1295,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -1340,12 +1314,7 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Pillars_Awaken",
         "WeaponPromoteId": 11508,
         "StoryId": 191508,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 831326989,
         "GachaCardNameHashSuffix": 101,
         "DestroyReturnMaterial": [
@@ -2171,7 +2140,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            112410,
+            0,
             0
         ],
         "WeaponProp": [
@@ -2190,12 +2159,7 @@
         "AwakenIcon": "UI_EquipIcon_Claymore_Lapis_Awaken",
         "WeaponPromoteId": 12410,
         "StoryId": 192410,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2190420900,
         "GachaCardNameHashSuffix": 84,
         "DestroyReturnMaterial": [
@@ -2363,7 +2327,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            112503,
+            0,
             0
         ],
         "WeaponProp": [
@@ -2382,12 +2346,7 @@
         "AwakenIcon": "UI_EquipIcon_Claymore_Widsith_Awaken",
         "WeaponPromoteId": 12503,
         "StoryId": 192503,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 1627480080,
         "GachaCardNameHashSuffix": -63,
         "DestroyReturnMaterial": [
@@ -2459,7 +2418,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -2476,12 +2435,7 @@
         "AwakenIcon": "UI_EquipIcon_Claymore_Morax_Awaken",
         "WeaponPromoteId": 12505,
         "StoryId": 192505,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2434129349,
         "GachaCardNameHashSuffix": 69,
         "DestroyReturnMaterial": [
@@ -2505,7 +2459,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -2522,12 +2476,7 @@
         "AwakenIcon": "UI_EquipIcon_Claymore_Appease_Awaken",
         "WeaponPromoteId": 12506,
         "StoryId": 192506,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 1627443127,
         "GachaCardNameHashSuffix": -87,
         "DestroyReturnMaterial": [
@@ -2551,7 +2500,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -2568,12 +2517,7 @@
         "AwakenIcon": "UI_EquipIcon_Claymore_Moonlight_Awaken",
         "WeaponPromoteId": 12508,
         "StoryId": 192508,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 4180326718,
         "GachaCardNameHashSuffix": 90,
         "DestroyReturnMaterial": [
@@ -3109,7 +3053,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            113406,
+            0,
             0
         ],
         "WeaponProp": [
@@ -3128,12 +3072,7 @@
         "AwakenIcon": "UI_EquipIcon_Pole_Lapis_Awaken",
         "WeaponPromoteId": 13406,
         "StoryId": 193406,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2881599016,
         "GachaCardNameHashSuffix": 57,
         "DestroyReturnMaterial": [
@@ -3253,17 +3192,19 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            113408,
+            113409,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 9.899999618530273,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 41.067100524902344,
+                "Type": "GROW_CURVE_ATTACK_204"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+                "InitValue": 0.15013299882411957,
+                "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Everfrost/Equip_Pole_Everfrost_OverrideTexture/Equip_Pole_Everfrost_02_Tex_Diffuse",
@@ -3299,7 +3240,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -3318,12 +3259,7 @@
         "AwakenIcon": "UI_EquipIcon_Pole_Zephyrus_Awaken",
         "WeaponPromoteId": 13501,
         "StoryId": 193501,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 1433892679,
         "GachaCardNameHashSuffix": 49,
         "DestroyReturnMaterial": [
@@ -3395,7 +3331,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            113503,
+            0,
             0
         ],
         "WeaponProp": [
@@ -3414,12 +3350,7 @@
         "AwakenIcon": "UI_EquipIcon_Pole_Widsith_Awaken",
         "WeaponPromoteId": 13503,
         "StoryId": 193503,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 1814219172,
         "GachaCardNameHashSuffix": -92,
         "DestroyReturnMaterial": [
@@ -3539,7 +3470,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            113506,
+            0,
             0
         ],
         "WeaponProp": [
@@ -3558,12 +3489,7 @@
         "AwakenIcon": "UI_EquipIcon_Pole_Regicide_Awaken",
         "WeaponPromoteId": 13506,
         "StoryId": 193506,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 737217907,
         "GachaCardNameHashSuffix": 38,
         "DestroyReturnMaterial": [
@@ -4396,7 +4322,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            114410,
+            0,
             0
         ],
         "WeaponProp": [
@@ -4415,12 +4341,7 @@
         "AwakenIcon": "UI_EquipIcon_Catalyst_Outlaw_Awaken",
         "WeaponPromoteId": 14410,
         "StoryId": 194410,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 772861185,
         "GachaCardNameHashSuffix": -23,
         "DestroyReturnMaterial": [
@@ -4444,7 +4365,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            114411,
+            0,
             0
         ],
         "WeaponProp": [
@@ -4464,12 +4385,7 @@
         "Unrotate": true,
         "WeaponPromoteId": 14411,
         "StoryId": 194411,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 3987900959,
         "GachaCardNameHashSuffix": 86,
         "DestroyReturnMaterial": [
@@ -4493,17 +4409,19 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            111303,
+            114412,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 9.899999618530273,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 42.4010009765625,
+                "Type": "GROW_CURVE_ATTACK_201"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+                "InitValue": 0.09000000357627869,
+                "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Everfrost/Equip_Catalyst_Everfrost_OverrideTexture/Equip_Catalyst_Everfrost_02_Tex_Diffuse",
@@ -4636,7 +4554,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            114503,
+            0,
             0
         ],
         "WeaponProp": [
@@ -4655,12 +4573,7 @@
         "AwakenIcon": "UI_EquipIcon_Catalyst_Widsith_Awaken",
         "WeaponPromoteId": 14503,
         "StoryId": 194503,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 1415262739,
         "GachaCardNameHashSuffix": 54,
         "DestroyReturnMaterial": [
@@ -4733,7 +4646,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -4751,12 +4664,7 @@
         "Unrotate": true,
         "WeaponPromoteId": 14505,
         "StoryId": 194505,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 4290942239,
         "GachaCardNameHashSuffix": 51,
         "DestroyReturnMaterial": [
@@ -4780,7 +4688,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -4798,12 +4706,7 @@
         "Unrotate": true,
         "WeaponPromoteId": 14506,
         "StoryId": 194506,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 1621782753,
         "GachaCardNameHashSuffix": -29,
         "DestroyReturnMaterial": [
@@ -4827,7 +4730,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -4844,12 +4747,7 @@
         "AwakenIcon": "UI_EquipIcon_Catalyst_Hypostasis_Awaken",
         "WeaponPromoteId": 14508,
         "StoryId": 194508,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 864224784,
         "GachaCardNameHashSuffix": 110,
         "DestroyReturnMaterial": [
@@ -5675,7 +5573,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            115410,
+            0,
             0
         ],
         "WeaponProp": [
@@ -5694,12 +5592,7 @@
         "AwakenIcon": "UI_EquipIcon_Bow_Outlaw_Awaken",
         "WeaponPromoteId": 15410,
         "StoryId": 195410,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2498436072,
         "GachaCardNameHashSuffix": 33,
         "DestroyReturnMaterial": [
@@ -5723,7 +5616,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            115411,
+            0,
             0
         ],
         "WeaponProp": [
@@ -5742,12 +5635,7 @@
         "AwakenIcon": "UI_EquipIcon_Bow_Fallensun_Awaken",
         "WeaponPromoteId": 15411,
         "StoryId": 195411,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 713335324,
         "GachaCardNameHashSuffix": -23,
         "DestroyReturnMaterial": [
@@ -5771,7 +5659,7 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -5788,12 +5676,7 @@
         "AwakenIcon": "UI_EquipIcon_Bow_Nachtblind_Awaken",
         "WeaponPromoteId": 15412,
         "StoryId": 195412,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2280376223,
         "GachaCardNameHashSuffix": -86,
         "DestroyReturnMaterial": [
@@ -5913,7 +5796,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            115503,
+            0,
             0
         ],
         "WeaponProp": [
@@ -5932,12 +5815,7 @@
         "AwakenIcon": "UI_EquipIcon_Bow_Widsith_Awaken",
         "WeaponPromoteId": 15503,
         "StoryId": 195503,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 765414498,
         "GachaCardNameHashSuffix": 103,
         "DestroyReturnMaterial": [
@@ -6009,7 +5887,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -6026,12 +5904,7 @@
         "AwakenIcon": "UI_EquipIcon_Bow_Morax_Awaken",
         "WeaponPromoteId": 15505,
         "StoryId": 195505,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 4283587632,
         "GachaCardNameHashSuffix": 65,
         "DestroyReturnMaterial": [
@@ -6055,7 +5928,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -6072,12 +5945,7 @@
         "AwakenIcon": "UI_EquipIcon_Bow_Moonfall_Awaken",
         "WeaponPromoteId": 15506,
         "StoryId": 195506,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 2824780903,
         "GachaCardNameHashSuffix": 39,
         "DestroyReturnMaterial": [
@@ -6101,7 +5969,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            111303,
+            0,
             0
         ],
         "WeaponProp": [
@@ -6118,12 +5986,7 @@
         "AwakenIcon": "UI_EquipIcon_Bow_Kirin_Awaken",
         "WeaponPromoteId": 15508,
         "StoryId": 195508,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
+        "AwakenCosts": [],
         "GachaCardNameHashPre": 419365691,
         "GachaCardNameHashSuffix": -7,
         "DestroyReturnMaterial": [

@@ -814,6 +814,58 @@
         ]
     },
     {
+        "Id": 2009,
+        "NameTextMapHash": 1279455264,
+        "RankLevel": 2,
+        "Icon": "UI_ItemIcon_108205",
+        "DescTextMapHash": 659578210,
+        "EffectDesc": [
+            2530572461,
+            1353327385,
+            115574614,
+            305658183
+        ],
+        "FoodType": "COOK_FOOD_FUNCTION",
+        "CookMethod": "COOK_METHOD_BOIL",
+        "MaxProficiency": 10,
+        "QualityOutput": [
+            {
+                "Id": 108204,
+                "Count": 1
+            },
+            {
+                "Id": 108205,
+                "Count": 1
+            },
+            {
+                "Id": 108206,
+                "Count": 1
+            }
+        ],
+        "Input": [
+            {
+                "Id": 100094,
+                "Count": 2
+            },
+            {
+                "Id": 100013,
+                "Count": 2
+            },
+            {
+                "Id": 100079,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "QteParam": "0.63,0.35",
+        "QteQualityWeight": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
         "Id": 2101,
         "NameTextMapHash": 3117860336,
         "RankLevel": 2,
@@ -1817,6 +1869,61 @@
         ]
     },
     {
+        "Id": 3012,
+        "NameTextMapHash": 2268068896,
+        "RankLevel": 3,
+        "Icon": "UI_ItemIcon_108208",
+        "DescTextMapHash": 579184034,
+        "EffectDesc": [
+            286130573,
+            2825020505,
+            3025097246,
+            1233495087
+        ],
+        "FoodType": "COOK_FOOD_DEFENSE",
+        "CookMethod": "COOK_METHOD_BAKE",
+        "MaxProficiency": 15,
+        "QualityOutput": [
+            {
+                "Id": 108207,
+                "Count": 1
+            },
+            {
+                "Id": 108208,
+                "Count": 1
+            },
+            {
+                "Id": 108209,
+                "Count": 1
+            }
+        ],
+        "Input": [
+            {
+                "Id": 110004,
+                "Count": 3
+            },
+            {
+                "Id": 100084,
+                "Count": 3
+            },
+            {
+                "Id": 100075,
+                "Count": 1
+            },
+            {
+                "Id": 100055,
+                "Count": 1
+            },
+            {}
+        ],
+        "QteParam": "0.45,0.27",
+        "QteQualityWeight": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
         "Id": 3101,
         "NameTextMapHash": 1621938840,
         "RankLevel": 3,
@@ -2247,6 +2354,116 @@
             {}
         ],
         "QteParam": "0.5,0.27",
+        "QteQualityWeight": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "Id": 3109,
+        "NameTextMapHash": 3148532368,
+        "RankLevel": 3,
+        "Icon": "UI_ItemIcon_108202",
+        "DescTextMapHash": 2661890354,
+        "EffectDesc": [
+            1627425717,
+            54847825,
+            977129118,
+            2252128255
+        ],
+        "FoodType": "COOK_FOOD_HEAL",
+        "CookMethod": "COOK_METHOD_FRY",
+        "MaxProficiency": 15,
+        "QualityOutput": [
+            {
+                "Id": 108201,
+                "Count": 1
+            },
+            {
+                "Id": 108202,
+                "Count": 1
+            },
+            {
+                "Id": 108203,
+                "Count": 1
+            }
+        ],
+        "Input": [
+            {
+                "Id": 100092,
+                "Count": 4
+            },
+            {
+                "Id": 100026,
+                "Count": 2
+            },
+            {
+                "Id": 100013,
+                "Count": 2
+            },
+            {
+                "Id": 100051,
+                "Count": 2
+            },
+            {}
+        ],
+        "QteParam": "0.45,0.27",
+        "QteQualityWeight": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "Id": 3110,
+        "NameTextMapHash": 3071649696,
+        "RankLevel": 3,
+        "Icon": "UI_ItemIcon_108211",
+        "DescTextMapHash": 2721887674,
+        "EffectDesc": [
+            4108344973,
+            3028621393,
+            3016494870,
+            994326087
+        ],
+        "FoodType": "COOK_FOOD_ATTACK",
+        "CookMethod": "COOK_METHOD_BAKE",
+        "MaxProficiency": 15,
+        "QualityOutput": [
+            {
+                "Id": 108210,
+                "Count": 1
+            },
+            {
+                "Id": 108211,
+                "Count": 1
+            },
+            {
+                "Id": 108212,
+                "Count": 1
+            }
+        ],
+        "Input": [
+            {
+                "Id": 100032,
+                "Count": 2
+            },
+            {
+                "Id": 100092,
+                "Count": 2
+            },
+            {
+                "Id": 110005,
+                "Count": 1
+            },
+            {
+                "Id": 100027,
+                "Count": 1
+            },
+            {}
+        ],
+        "QteParam": "0.45,0.27",
         "QteQualityWeight": [
             0,
             0,

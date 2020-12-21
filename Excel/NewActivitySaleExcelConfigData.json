@@ -1,0 +1,11 @@
+[
+    {
+        "Id": 1,
+        "SaleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
+        "SaleParam": [
+            "11413",
+            "1.5"
+        ],
+        "Unknown1": 1009858160
+    }
+]

@@ -1665,6 +1665,38 @@
         "Comment": "正式"
     },
     {
+        "Id": 33706,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 33707,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 33708,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 33709,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
         "Id": 34700,
         "Type": "SCENE_DUNGEON",
         "ScriptData": "Level_Tower_Moon_01",
@@ -1713,6 +1745,38 @@
         "Comment": "正式"
     },
     {
+        "Id": 34706,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 34707,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 34708,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 34709,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
         "Id": 35700,
         "Type": "SCENE_DUNGEON",
         "ScriptData": "Level_Tower_Moon_01",
@@ -1756,6 +1820,38 @@
         "Id": 35705,
         "Type": "SCENE_DUNGEON",
         "ScriptData": "Level_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 35706,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 35707,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 35708,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 35709,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
         "LevelEntityConfig": "",
         "SpecifiedAvatar": [],
         "Comment": "正式"
@@ -1908,6 +2004,134 @@
         "Id": 40020,
         "Type": "SCENE_DUNGEON",
         "ScriptData": "Level_FCdungeon_Cloud01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40021,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Challenge_Thunder01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "测试"
+    },
+    {
+        "Id": 40022,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Wind",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40023,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40024,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Rock",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40025,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Wind",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40026,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40027,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Wind",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40028,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40029,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Rock",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40030,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40031,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40032,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40033,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40034,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40035,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40036,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
         "LevelEntityConfig": "",
         "SpecifiedAvatar": [],
         "Comment": "正式"
@@ -2084,6 +2308,30 @@
         "Id": 40407,
         "Type": "SCENE_DUNGEON",
         "ScriptData": "Level_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40408,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Snow",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40409,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Snow",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 40410,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Snow",
         "LevelEntityConfig": "",
         "SpecifiedAvatar": [],
         "Comment": "正式"
@@ -2474,6 +2722,54 @@
     },
     {
         "Id": 41013,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 41014,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 41015,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 41016,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 41017,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 41018,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatar": [],
+        "Comment": "正式"
+    },
+    {
+        "Id": 41019,
         "Type": "SCENE_DUNGEON",
         "ScriptData": "Level_Tower_01_Open",
         "LevelEntityConfig": "",

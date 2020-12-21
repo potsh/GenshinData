@@ -40,6 +40,14 @@
         "DescriptTextMapHash": 2589949112
     },
     {
+        "Id": 10404,
+        "NameTextMapHash": 708798368,
+        "ImageNameList": [
+            "UI_DungeonTutorial_Xiao_01"
+        ],
+        "DescriptTextMapHash": 1524202816
+    },
+    {
         "Id": 10601,
         "NameTextMapHash": 365607456,
         "ImageNameList": [
@@ -888,6 +896,22 @@
         "DescriptTextMapHash": 1225634456
     },
     {
+        "Id": 26901,
+        "NameTextMapHash": 1321560576,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_Monster_01"
+        ],
+        "DescriptTextMapHash": 3289450112
+    },
+    {
+        "Id": 27001,
+        "NameTextMapHash": 1638581840,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_Monster_02"
+        ],
+        "DescriptTextMapHash": 2522091184
+    },
+    {
         "Id": 30000,
         "NameTextMapHash": 1456771616,
         "ImageNameList": [],
@@ -1254,6 +1278,86 @@
         "DescriptTextMapHash": 2073623496
     },
     {
+        "Id": 34101,
+        "NameTextMapHash": 2144988832,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_FireSeelie"
+        ],
+        "DescriptTextMapHash": 3423926832
+    },
+    {
+        "Id": 34201,
+        "NameTextMapHash": 3833140136,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_BloodCrystal_01"
+        ],
+        "DescriptTextMapHash": 1457210456
+    },
+    {
+        "Id": 34202,
+        "NameTextMapHash": 2016883648,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_BloodCrystal_02"
+        ],
+        "DescriptTextMapHash": 2464527528
+    },
+    {
+        "Id": 34301,
+        "NameTextMapHash": 2867029488,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_SpecialIce_01"
+        ],
+        "DescriptTextMapHash": 1994266296
+    },
+    {
+        "Id": 34302,
+        "NameTextMapHash": 3770785392,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_SpecialIce_02"
+        ],
+        "DescriptTextMapHash": 3664432816
+    },
+    {
+        "Id": 34303,
+        "NameTextMapHash": 2246420864,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_SpecialIce_03"
+        ],
+        "DescriptTextMapHash": 4014445728
+    },
+    {
+        "Id": 34401,
+        "NameTextMapHash": 3668362936,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_IceStorm"
+        ],
+        "DescriptTextMapHash": 2669520328
+    },
+    {
+        "Id": 34501,
+        "NameTextMapHash": 1003745984,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_ColdClimate_01"
+        ],
+        "DescriptTextMapHash": 4236740872
+    },
+    {
+        "Id": 34502,
+        "NameTextMapHash": 4883368,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_ColdClimate_02"
+        ],
+        "DescriptTextMapHash": 2793364504
+    },
+    {
+        "Id": 34503,
+        "NameTextMapHash": 2911266736,
+        "ImageNameList": [
+            "UI_DragonspineTutorial_ColdClimate_03"
+        ],
+        "DescriptTextMapHash": 2955435600
+    },
+    {
         "Id": 40001,
         "NameTextMapHash": 2238602400,
         "ImageNameList": [
@@ -1406,6 +1510,86 @@
         "DescriptTextMapHash": 3797419096
     },
     {
+        "Id": 80201,
+        "NameTextMapHash": 2539264832,
+        "ImageNameList": [
+            "UI_Tutorial_TreasureHunt_1a"
+        ],
+        "DescriptTextMapHash": 1374443024
+    },
+    {
+        "Id": 80202,
+        "NameTextMapHash": 4006192032,
+        "ImageNameList": [
+            "UI_Tutorial_TreasureHunt_1b"
+        ],
+        "DescriptTextMapHash": 527905584
+    },
+    {
+        "Id": 80203,
+        "NameTextMapHash": 2523926840,
+        "ImageNameList": [
+            "UI_Tutorial_TreasureHunt_1c"
+        ],
+        "DescriptTextMapHash": 2677302368
+    },
+    {
+        "Id": 80204,
+        "NameTextMapHash": 2468999976,
+        "ImageNameList": [
+            "UI_Tutorial_TreasureHunt_1d"
+        ],
+        "DescriptTextMapHash": 3601537264
+    },
+    {
+        "Id": 80301,
+        "NameTextMapHash": 2524499632,
+        "ImageNameList": [
+            "UI_Tutorial_TreasureHunt_2a"
+        ],
+        "DescriptTextMapHash": 929234648
+    },
+    {
+        "Id": 80302,
+        "NameTextMapHash": 1840864912,
+        "ImageNameList": [
+            "UI_Tutorial_TreasureHunt_2b"
+        ],
+        "DescriptTextMapHash": 3794663112
+    },
+    {
+        "Id": 80501,
+        "NameTextMapHash": 1344413688,
+        "ImageNameList": [
+            "UI_Tutorial_71a"
+        ],
+        "DescriptTextMapHash": 801974704
+    },
+    {
+        "Id": 80502,
+        "NameTextMapHash": 4008763280,
+        "ImageNameList": [
+            "UI_Tutorial_71b"
+        ],
+        "DescriptTextMapHash": 546956360
+    },
+    {
+        "Id": 80601,
+        "NameTextMapHash": 3523129504,
+        "ImageNameList": [
+            "UI_Tutorial_72a"
+        ],
+        "DescriptTextMapHash": 1839521144
+    },
+    {
+        "Id": 80602,
+        "NameTextMapHash": 548957096,
+        "ImageNameList": [
+            "UI_Tutorial_72b"
+        ],
+        "DescriptTextMapHash": 655088168
+    },
+    {
         "Id": 90001,
         "NameTextMapHash": 3940621680,
         "ImageNameList": [
@@ -1500,5 +1684,229 @@
             "UI_Activity_Aster_05"
         ],
         "DescriptTextMapHash": 1057379672
+    },
+    {
+        "Id": 90501,
+        "NameTextMapHash": 2917107840,
+        "ImageNameList": [
+            "UI_Activity_Dragonspine_01"
+        ],
+        "DescriptTextMapHash": 3013374960
+    },
+    {
+        "Id": 90502,
+        "NameTextMapHash": 2959592688,
+        "ImageNameList": [
+            "UI_Activity_Dragonspine_02"
+        ],
+        "DescriptTextMapHash": 3749180920
+    },
+    {
+        "Id": 90503,
+        "NameTextMapHash": 3063837576,
+        "ImageNameList": [
+            "UI_Activity_Dragonspine_03"
+        ],
+        "DescriptTextMapHash": 2455564584
+    },
+    {
+        "Id": 100001,
+        "NameTextMapHash": 242537632,
+        "ImageNameList": [
+            "UI_Tutorial_63a"
+        ],
+        "DescriptTextMapHash": 3522998248
+    },
+    {
+        "Id": 100002,
+        "NameTextMapHash": 1283562872,
+        "ImageNameList": [
+            "UI_Tutorial_63b"
+        ],
+        "DescriptTextMapHash": 2218239800
+    },
+    {
+        "Id": 100003,
+        "NameTextMapHash": 1012076336,
+        "ImageNameList": [
+            "UI_Tutorial_63c"
+        ],
+        "DescriptTextMapHash": 1208462040
+    },
+    {
+        "Id": 100004,
+        "NameTextMapHash": 2989878280,
+        "ImageNameList": [
+            "UI_Tutorial_64a"
+        ],
+        "DescriptTextMapHash": 228495480
+    },
+    {
+        "Id": 100005,
+        "NameTextMapHash": 1779353088,
+        "ImageNameList": [
+            "UI_Tutorial_64b"
+        ],
+        "DescriptTextMapHash": 2756055872
+    },
+    {
+        "Id": 100006,
+        "NameTextMapHash": 4222660000,
+        "ImageNameList": [
+            "UI_Tutorial_64c"
+        ],
+        "DescriptTextMapHash": 3966314656
+    },
+    {
+        "Id": 100007,
+        "NameTextMapHash": 2727639168,
+        "ImageNameList": [
+            "UI_Tutorial_65a"
+        ],
+        "DescriptTextMapHash": 2603087904
+    },
+    {
+        "Id": 100008,
+        "NameTextMapHash": 4271471192,
+        "ImageNameList": [
+            "UI_Tutorial_65b"
+        ],
+        "DescriptTextMapHash": 3363719472
+    },
+    {
+        "Id": 100009,
+        "NameTextMapHash": 3960913632,
+        "ImageNameList": [
+            "UI_Tutorial_65c"
+        ],
+        "DescriptTextMapHash": 3417485624
+    },
+    {
+        "Id": 100010,
+        "NameTextMapHash": 84313752,
+        "ImageNameList": [
+            "UI_Tutorial_66a"
+        ],
+        "DescriptTextMapHash": 1461828600
+    },
+    {
+        "Id": 100011,
+        "NameTextMapHash": 2049594392,
+        "ImageNameList": [
+            "UI_Tutorial_66b"
+        ],
+        "DescriptTextMapHash": 1489136376
+    },
+    {
+        "Id": 100012,
+        "NameTextMapHash": 1797597976,
+        "ImageNameList": [
+            "UI_Tutorial_66c"
+        ],
+        "DescriptTextMapHash": 594451376
+    },
+    {
+        "Id": 100013,
+        "NameTextMapHash": 4113815152,
+        "ImageNameList": [
+            "UI_Tutorial_67a"
+        ],
+        "DescriptTextMapHash": 3297894760
+    },
+    {
+        "Id": 100014,
+        "NameTextMapHash": 1050272008,
+        "ImageNameList": [
+            "UI_Tutorial_67b"
+        ],
+        "DescriptTextMapHash": 265690264
+    },
+    {
+        "Id": 100015,
+        "NameTextMapHash": 286454696,
+        "ImageNameList": [
+            "UI_Tutorial_67c"
+        ],
+        "DescriptTextMapHash": 3417681368
+    },
+    {
+        "Id": 100016,
+        "NameTextMapHash": 2618252744,
+        "ImageNameList": [
+            "UI_Tutorial_68a"
+        ],
+        "DescriptTextMapHash": 2020619992
+    },
+    {
+        "Id": 100017,
+        "NameTextMapHash": 3394617624,
+        "ImageNameList": [
+            "UI_Tutorial_68b"
+        ],
+        "DescriptTextMapHash": 4227864664
+    },
+    {
+        "Id": 100018,
+        "NameTextMapHash": 2657644696,
+        "ImageNameList": [
+            "UI_Tutorial_68c"
+        ],
+        "DescriptTextMapHash": 1455132680
+    },
+    {
+        "Id": 100019,
+        "NameTextMapHash": 1828933344,
+        "ImageNameList": [
+            "UI_Tutorial_69a"
+        ],
+        "DescriptTextMapHash": 1969806960
+    },
+    {
+        "Id": 100020,
+        "NameTextMapHash": 3862201400,
+        "ImageNameList": [
+            "UI_Tutorial_69b"
+        ],
+        "DescriptTextMapHash": 2029525272
+    },
+    {
+        "Id": 100021,
+        "NameTextMapHash": 3453016432,
+        "ImageNameList": [
+            "UI_Tutorial_69c"
+        ],
+        "DescriptTextMapHash": 1765169928
+    },
+    {
+        "Id": 100022,
+        "NameTextMapHash": 2315343544,
+        "ImageNameList": [
+            "UI_Tutorial_69d"
+        ],
+        "DescriptTextMapHash": 768954088
+    },
+    {
+        "Id": 100023,
+        "NameTextMapHash": 835707152,
+        "ImageNameList": [
+            "UI_Tutorial_70a"
+        ],
+        "DescriptTextMapHash": 3749788616
+    },
+    {
+        "Id": 100024,
+        "NameTextMapHash": 3705889624,
+        "ImageNameList": [
+            "UI_Tutorial_70b"
+        ],
+        "DescriptTextMapHash": 2457632216
+    },
+    {
+        "Id": 100025,
+        "NameTextMapHash": 4016998512,
+        "ImageNameList": [
+            "UI_Tutorial_70c"
+        ],
+        "DescriptTextMapHash": 2889284720
     }
 ]

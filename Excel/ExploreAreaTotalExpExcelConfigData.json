@@ -5,11 +5,11 @@
     },
     {
         "AreaId": 2,
-        "TotalExp": 152
+        "TotalExp": 146
     },
     {
         "AreaId": 3,
-        "TotalExp": 242
+        "TotalExp": 218
     },
     {
         "AreaId": 4,
@@ -17,7 +17,7 @@
     },
     {
         "AreaId": 5,
-        "TotalExp": 488
+        "TotalExp": 450
     },
     {
         "AreaId": 6,
@@ -29,10 +29,14 @@
     },
     {
         "AreaId": 8,
-        "TotalExp": 190
+        "TotalExp": 185
     },
     {
         "AreaId": 9,
         "TotalExp": 286
+    },
+    {
+        "AreaId": 10,
+        "TotalExp": 470
     }
 ]

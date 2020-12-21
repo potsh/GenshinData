@@ -205,6 +205,28 @@
         "ChapterIcon": "UI_ChapterIcon_Qiqi"
     },
     {
+        "Id": 2016,
+        "BeginQuestId": 1103002,
+        "EndQuestId": 1103204,
+        "NeedPlayerLevel": 40,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1768708882,
+        "ChapterTitleTextMapHash": 3513704457,
+        "ChapterIcon": "UI_ChapterIcon_Ganyu"
+    },
+    {
+        "Id": 2017,
+        "BeginQuestId": 1104003,
+        "EndQuestId": 1104505,
+        "NeedPlayerLevel": 40,
+        "ActivityId": 3001,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3639257898,
+        "ChapterTitleTextMapHash": 2675032633,
+        "ChapterIcon": "UI_ChapterIcon_Albedo",
+        "InActivityNeedPlayerLevel": 20
+    },
+    {
         "Id": 10001,
         "BeginQuestId": 4000100,
         "EndQuestId": 4000108,
@@ -284,5 +306,57 @@
         "ChapterNumTextMapHash": 569072066,
         "ChapterTitleTextMapHash": 2184028489,
         "ChapterIcon": "UI_ChapterIcon_Aster"
+    },
+    {
+        "Id": 20001,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 225490330,
+        "ChapterTitleTextMapHash": 2338747137,
+        "ChapterIcon": ""
+    },
+    {
+        "Id": 10010,
+        "BeginQuestId": 4121003,
+        "EndQuestId": 4121008,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 291130882,
+        "ChapterTitleTextMapHash": 2333193233,
+        "ChapterIcon": "UI_ChapterIcon_Dragonspine"
+    },
+    {
+        "Id": 10011,
+        "BeginQuestId": 4121102,
+        "EndQuestId": 4121112,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 4245508114,
+        "ChapterTitleTextMapHash": 3732905945,
+        "ChapterIcon": "UI_ChapterIcon_Dragonspine"
+    },
+    {
+        "Id": 10012,
+        "BeginQuestId": 4121204,
+        "EndQuestId": 4121215,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 567350258,
+        "ChapterTitleTextMapHash": 3864679809,
+        "ChapterIcon": "UI_ChapterIcon_Dragonspine"
+    },
+    {
+        "Id": 10013,
+        "BeginQuestId": 4121303,
+        "EndQuestId": 4121314,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1483405962,
+        "ChapterTitleTextMapHash": 1244914889,
+        "ChapterIcon": "UI_ChapterIcon_Dragonspine"
+    },
+    {
+        "Id": 10014,
+        "BeginQuestId": 4121401,
+        "EndQuestId": 4121405,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1066261858,
+        "ChapterTitleTextMapHash": 881196809,
+        "ChapterIcon": "UI_ChapterIcon_Dragonspine"
     }
 ]

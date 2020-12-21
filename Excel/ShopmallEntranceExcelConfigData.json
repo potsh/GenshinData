@@ -2,7 +2,10 @@
     {
         "Id": 1,
         "NameTextMapHash": 1933918037,
-        "SubTab": [],
+        "SubTab": [
+            4,
+            5
+        ],
         "ShopType": "SHOP_TYPE_RECOMMEND",
         "Icon": "UI_MallTabIcon_Recommend",
         "ShowType": "ENTRANCE_TAB",
@@ -29,9 +32,9 @@
         "Id": 4,
         "NameTextMapHash": 2486793549,
         "SubTab": [
-            1,
             2,
-            3
+            3,
+            1
         ],
         "ShopType": "SHOP_TYPE_PAIMON",
         "Icon": "UI_MallTabIcon_Commodity",

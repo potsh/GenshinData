@@ -6443,5 +6443,479 @@
                 "Param": []
             }
         ]
+    },
+    {
+        "StoryTitleTextMapHash": 90572518,
+        "StoryContextTextMapHash": 2675666144,
+        "StoryTitle2TextMapHash": 898267317,
+        "StoryContext2TextMapHash": 2630501079,
+        "Tips": [
+            3994038140,
+            3747818881
+        ],
+        "StoryTitleLockedTextMapHash": 888103748,
+        "FetterId": 35201,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 3809256598,
+        "StoryContextTextMapHash": 3683690184,
+        "StoryTitle2TextMapHash": 1713816973,
+        "StoryContext2TextMapHash": 1592496663,
+        "Tips": [
+            2527806348,
+            2695891817
+        ],
+        "StoryTitleLockedTextMapHash": 3624462548,
+        "FetterId": 35202,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 1498751382,
+        "StoryContextTextMapHash": 357673320,
+        "StoryTitle2TextMapHash": 2158609493,
+        "StoryContext2TextMapHash": 2462659967,
+        "Tips": [
+            292269948,
+            3609320329
+        ],
+        "StoryTitleLockedTextMapHash": 3773591524,
+        "FetterId": 35203,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    3
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 1403578198,
+        "StoryContextTextMapHash": 2296752664,
+        "StoryTitle2TextMapHash": 2537137461,
+        "StoryContext2TextMapHash": 149123087,
+        "Tips": [
+            451155588,
+            1616049961
+        ],
+        "StoryTitleLockedTextMapHash": 2021961340,
+        "FetterId": 35204,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 1674736462,
+        "StoryContextTextMapHash": 1000060192,
+        "StoryTitle2TextMapHash": 3040175997,
+        "StoryContext2TextMapHash": 1585952751,
+        "Tips": [
+            4184369140,
+            2416150113
+        ],
+        "StoryTitleLockedTextMapHash": 2507532260,
+        "FetterId": 35205,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    5
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 3539061318,
+        "StoryContextTextMapHash": 1123016304,
+        "StoryTitle2TextMapHash": 2987182269,
+        "StoryContext2TextMapHash": 1133420455,
+        "Tips": [
+            2902884484,
+            3150231841
+        ],
+        "StoryTitleLockedTextMapHash": 3842261244,
+        "FetterId": 35206,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    6
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 1405306646,
+        "StoryContextTextMapHash": 357132888,
+        "StoryTitle2TextMapHash": 2927568429,
+        "StoryContext2TextMapHash": 1420530039,
+        "Tips": [
+            1583481732,
+            439407657
+        ],
+        "StoryTitleLockedTextMapHash": 183567284,
+        "FetterId": 35207,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 3385713246,
+        "StoryContextTextMapHash": 2806349008,
+        "StoryTitle2TextMapHash": 2927740429,
+        "StoryContext2TextMapHash": 2445154487,
+        "Tips": [
+            1483037308,
+            258447313
+        ],
+        "StoryTitleLockedTextMapHash": 2802631092,
+        "FetterId": 35208,
+        "AvatarId": 10000038,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    6
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 3490742142,
+        "StoryContextTextMapHash": 1253359728,
+        "StoryTitle2TextMapHash": 1732255941,
+        "StoryContext2TextMapHash": 1304416071,
+        "Tips": [
+            2012904388,
+            2218563481
+        ],
+        "StoryTitleLockedTextMapHash": 2545914348,
+        "FetterId": 25201,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 2557800742,
+        "StoryContextTextMapHash": 1433591720,
+        "StoryTitle2TextMapHash": 3233547941,
+        "StoryContext2TextMapHash": 1922462655,
+        "Tips": [
+            2526259372,
+            2668946145
+        ],
+        "StoryTitleLockedTextMapHash": 3595503716,
+        "FetterId": 25202,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 2830019574,
+        "StoryContextTextMapHash": 3965220240,
+        "StoryTitle2TextMapHash": 1596632669,
+        "StoryContext2TextMapHash": 3342695215,
+        "Tips": [
+            125200588,
+            2552694817
+        ],
+        "StoryTitleLockedTextMapHash": 1046271820,
+        "FetterId": 25203,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    3
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 1756523302,
+        "StoryContextTextMapHash": 355431904,
+        "StoryTitle2TextMapHash": 1717922109,
+        "StoryContext2TextMapHash": 3116797367,
+        "Tips": [
+            4224396172,
+            2007860705
+        ],
+        "StoryTitleLockedTextMapHash": 1580162116,
+        "FetterId": 25204,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 3090884198,
+        "StoryContextTextMapHash": 264908320,
+        "StoryTitle2TextMapHash": 3585762261,
+        "StoryContext2TextMapHash": 1351283983,
+        "Tips": [
+            563931100,
+            1666288353
+        ],
+        "StoryTitleLockedTextMapHash": 3655338188,
+        "FetterId": 25205,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    5
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 3936567958,
+        "StoryContextTextMapHash": 3152583472,
+        "StoryTitle2TextMapHash": 2094983013,
+        "StoryContext2TextMapHash": 1815019055,
+        "Tips": [
+            2994597724,
+            3149227665
+        ],
+        "StoryTitleLockedTextMapHash": 4288307092,
+        "FetterId": 25206,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    6
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 1716351230,
+        "StoryContextTextMapHash": 3777782984,
+        "StoryTitle2TextMapHash": 3741013837,
+        "StoryContext2TextMapHash": 4159915479,
+        "Tips": [
+            3425053588,
+            2416815889
+        ],
+        "StoryTitleLockedTextMapHash": 68119516,
+        "FetterId": 25207,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
+    },
+    {
+        "StoryTitleTextMapHash": 1043916806,
+        "StoryContextTextMapHash": 978741384,
+        "StoryTitle2TextMapHash": 1079920141,
+        "StoryContext2TextMapHash": 552206719,
+        "Tips": [
+            4106884436,
+            1843512481
+        ],
+        "StoryTitleLockedTextMapHash": 1777938228,
+        "FetterId": 25208,
+        "AvatarId": 10000037,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "Param": [
+                    6
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "Param": []
+            }
+        ]
     }
 ]

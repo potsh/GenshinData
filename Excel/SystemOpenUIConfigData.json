@@ -82,5 +82,11 @@
         "NameTextMapHash": 2122605205,
         "IconPath": "Ui_SystemOpenIcon_Reputation",
         "DescTextMapHash": 727634575
+    },
+    {
+        "Id": 15,
+        "NameTextMapHash": 658569365,
+        "IconPath": "Ui_SystemOpenIcon_Eldertree",
+        "DescTextMapHash": 3616541199
     }
 ]

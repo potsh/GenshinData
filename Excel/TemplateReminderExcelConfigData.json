@@ -20,6 +20,26 @@
         "ContentTextMapHash": 475434570
     },
     {
+        "Id": 5,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 1455788946
+    },
+    {
+        "Id": 6,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 2148511050
+    },
+    {
+        "Id": 7,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 2430815490
+    },
+    {
+        "Id": 8,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 1325683922
+    },
+    {
         "Id": 101,
         "Icon": "UI_Tips_Item_Monster",
         "ContentTextMapHash": 1901580370

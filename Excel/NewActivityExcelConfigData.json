@@ -125,6 +125,16 @@
         ]
     },
     {
+        "ActivityId": 3001,
+        "ActivityType": "NEW_ACTIVITY_DRAGONSPINE",
+        "NameTextMapHash": 2415983595,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            3001001
+        ],
+        "WatcherId": []
+    },
+    {
         "ActivityId": 5008,
         "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
         "NameTextMapHash": 3554662043,
@@ -144,6 +154,44 @@
         "ActivityId": 5010,
         "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
         "NameTextMapHash": 412965627,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5011,
+        "ActivityType": "NEW_ACTIVITY_TREASURE_MAP",
+        "NameTextMapHash": 1696537731,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            501101
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5012,
+        "ActivityType": "NEW_ACTIVITY_SALESMAN_MP",
+        "NameTextMapHash": 642035203,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            501201
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5014,
+        "ActivityType": "NEW_ACTIVITY_EFFIGY",
+        "NameTextMapHash": 2213242907,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            501401
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5015,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "NameTextMapHash": 574345899,
         "ActivitySceneTag": "",
         "CondGroupId": [],
         "WatcherId": []

@@ -1624,5 +1624,195 @@
                 ]
             }
         ]
+    },
+    {
+        "Id": 86,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 87,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220208,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 88,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_QUEST",
+                "Param": [
+                    2220410,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 89,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220214,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 90,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220220,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 91,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220226,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 92,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220232,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 93,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220238,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 94,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220244,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 95,
+        "Conds": [
+            {
+                "CondType": "DUNGEON_COND_FINISH_CHALLENGE",
+                "Param": [
+                    220252,
+                    0
+                ]
+            },
+            {
+                "Param": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
     }
 ]

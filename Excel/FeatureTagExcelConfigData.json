@@ -22,17 +22,7 @@
     {
         "TagId": 1012,
         "TagName": "魔神",
-        "TagDesp": "是否要显示神之眼靠近陨石的特效（因为魔神的神之眼是假的）"
-    },
-    {
-        "TagId": 1021,
-        "TagName": "冒险家协会",
-        "TagDesp": "所属"
-    },
-    {
-        "TagId": 1022,
-        "TagName": "西风骑士团",
-        "TagDesp": "所属，例如骑士团羁绊功能可以用这个tag完成"
+        "TagDesp": "目前用于判断 陨石活动中神之眼是否会闪烁（因为魔神的神之眼是假的）"
     },
     {
         "TagId": 1041,
@@ -197,6 +187,76 @@
     {
         "TagId": 9001,
         "TagName": "动物",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10016,
+        "TagName": "迪卢克",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10020,
+        "TagName": "雷泽",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10023,
+        "TagName": "香菱",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10025,
+        "TagName": "行秋",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10026,
+        "TagName": "魈",
+        "TagDesp": "魈——用作魈地城判定"
+    },
+    {
+        "TagId": 10029,
+        "TagName": "可莉",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10031,
+        "TagName": "菲谢尔",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10032,
+        "TagName": "班尼特",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10034,
+        "TagName": "诺埃尔",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10036,
+        "TagName": "重云",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10037,
+        "TagName": "甘雨",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10038,
+        "TagName": "阿贝多",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10042,
+        "TagName": "刻晴",
+        "TagDesp": ""
+    },
+    {
+        "TagId": 10043,
+        "TagName": "砂糖",
         "TagDesp": ""
     }
 ]

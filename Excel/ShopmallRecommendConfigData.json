@@ -1,6 +1,8 @@
 [
     {
-        "NameTextMapHash": 2167623036,
+        "Id": 1,
+        "NameTextMapHash": 1731946084,
+        "SubTabId": 4,
         "ShopType": "SHOP_TYPE_PACKAGE",
         "GoodsId": [],
         "ConfigId": [
@@ -14,6 +16,26 @@
             {}
         ],
         "Order": 3,
+        "OneCardIconName": "MallPackage_MonthlyCard",
+        "ColShowIconName": []
+    },
+    {
+        "Id": 2,
+        "NameTextMapHash": 1445659676,
+        "SubTabId": 5,
+        "ShopType": "SHOP_TYPE_PACKAGE",
+        "GoodsId": [],
+        "ConfigId": [
+            102
+        ],
+        "Cond": [
+            {
+                "Type": "SHOPMALL_RECOMMEND_COND_PLAYER_LEVEL_GE",
+                "Param1": 1
+            },
+            {}
+        ],
+        "Order": 2,
         "OneCardIconName": "MallPackage_MonthlyCard",
         "ColShowIconName": []
     }

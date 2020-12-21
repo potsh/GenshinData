@@ -38,6 +38,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -80,6 +90,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4.377099990844727
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.6482150554656982
             }
         ]
     },
@@ -122,6 +142,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7.754199981689453
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 2.296428918838501
             }
         ]
     },
@@ -164,6 +194,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11.13129997253418
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 2.944643974304199
             }
         ]
     },
@@ -206,6 +246,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.508399963378906
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 3.5928590297698975
             }
         ]
     },
@@ -248,6 +298,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 17.885499954223633
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 4.241074085235596
             }
         ]
     },
@@ -290,6 +350,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 21.26259994506836
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 4.889287948608398
             }
         ]
     },
@@ -332,6 +402,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 24.639699935913086
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 5.537502765655518
             }
         ]
     },
@@ -374,6 +454,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 28.016799926757812
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 6.185718059539795
             }
         ]
     },
@@ -416,6 +506,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 31.39389991760254
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 6.833932876586914
             }
         ]
     },
@@ -458,6 +558,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 34.770999908447266
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 7.482147216796875
             }
         ]
     },
@@ -500,6 +610,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 38.148101806640625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 8.130361557006836
             }
         ]
     },
@@ -542,6 +662,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 41.52519989013672
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 8.778576850891113
             }
         ]
     },
@@ -584,6 +714,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 44.90230178833008
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 9.42679214477539
             }
         ]
     },
@@ -626,6 +766,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 48.27939987182617
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 10.075005531311035
             }
         ]
     },
@@ -668,6 +818,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 51.65650177001953
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 10.723220825195312
             }
         ]
     },
@@ -710,6 +870,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 55.033599853515625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 11.37143611907959
             }
         ]
     },
@@ -752,6 +922,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 58.410701751708984
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 12.019651412963867
             }
         ]
     },
@@ -794,6 +974,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 61.78779983520508
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 12.667864799499512
             }
         ]
     },
@@ -836,6 +1026,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 65.16490173339844
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 13.316080093383789
             }
         ]
     },
@@ -878,6 +1078,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 74.80162048339844
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.276126861572266
             }
         ]
     },
@@ -920,6 +1130,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 84.43833923339844
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 15.236174583435059
             }
         ]
     },
@@ -962,6 +1182,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 94.07506561279297
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 16.19622230529785
             }
         ]
     },
@@ -1004,6 +1234,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 103.71178436279297
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 17.156269073486328
             }
         ]
     },
@@ -1046,6 +1286,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 113.3485107421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 18.116317749023438
             }
         ]
     },
@@ -1088,6 +1338,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 122.9852294921875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 19.076364517211914
             }
         ]
     },
@@ -1130,6 +1390,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 132.6219482421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 20.036413192749023
             }
         ]
     },
@@ -1172,6 +1442,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 142.2586669921875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 20.9964599609375
             }
         ]
     },
@@ -1214,6 +1494,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 151.89540100097656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 21.95650863647461
             }
         ]
     },
@@ -1256,6 +1546,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 161.53211975097656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 22.916555404663086
             }
         ]
     },
@@ -1298,6 +1598,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 171.16883850097656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 23.876602172851562
             }
         ]
     },
@@ -1340,6 +1650,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 180.80555725097656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 24.836650848388672
             }
         ]
     },
@@ -1382,6 +1702,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 190.44227600097656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 25.79669761657715
             }
         ]
     },
@@ -1424,6 +1754,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 200.07899475097656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 26.756744384765625
             }
         ]
     },
@@ -1466,6 +1806,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 209.71572875976562
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 27.716793060302734
             }
         ]
     },
@@ -1508,6 +1858,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 219.35244750976562
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 28.67683982849121
             }
         ]
     },
@@ -1550,6 +1910,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 228.98916625976562
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 29.63688850402832
             }
         ]
     },
@@ -1592,6 +1962,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 238.62588500976562
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 30.596935272216797
             }
         ]
     },
@@ -1634,6 +2014,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 248.26260375976562
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 31.556983947753906
             }
         ]
     },
@@ -1676,6 +2066,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 257.8993225097656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 32.51702880859375
             }
         ]
     },
@@ -1718,6 +2118,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 294.3639221191406
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 34.775001525878906
             }
         ]
     },
@@ -1760,6 +2170,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 330.8285217285156
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 37.03297805786133
             }
         ]
     },
@@ -1802,6 +2222,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 367.2931213378906
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 39.290950775146484
             }
         ]
     },
@@ -1844,6 +2274,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 403.7577209472656
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 41.54892349243164
             }
         ]
     },
@@ -1886,6 +2326,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 440.22235107421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 43.8068962097168
             }
         ]
     },
@@ -1928,6 +2378,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 476.68695068359375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 46.06487274169922
             }
         ]
     },
@@ -1970,6 +2430,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 513.1515502929688
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 48.322845458984375
             }
         ]
     },
@@ -2012,6 +2482,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 549.6161499023438
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 50.58081817626953
             }
         ]
     },
@@ -2054,6 +2534,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 586.0807495117188
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 52.83879089355469
             }
         ]
     },
@@ -2096,6 +2586,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 622.5453491210938
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 55.096763610839844
             }
         ]
     },
@@ -2138,6 +2638,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 659.0099487304688
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 57.354736328125
             }
         ]
     },
@@ -2180,6 +2690,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 695.4745483398438
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 59.61271286010742
             }
         ]
     },
@@ -2222,6 +2742,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 731.9391479492188
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 61.87068557739258
             }
         ]
     },
@@ -2264,6 +2794,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 768.4037475585938
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 64.128662109375
             }
         ]
     },
@@ -2306,6 +2846,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 804.8683471679688
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 66.38663482666016
             }
         ]
     },
@@ -2348,6 +2898,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 841.3329467773438
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 68.64460754394531
             }
         ]
     },
@@ -2390,6 +2950,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 877.7975463867188
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 70.90258026123047
             }
         ]
     },
@@ -2432,6 +3002,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 914.2621459960938
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 73.16055297851562
             }
         ]
     },
@@ -2474,6 +3054,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 950.7267456054688
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 75.41852569580078
             }
         ]
     },
@@ -2516,6 +3106,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 987.1913452148438
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 77.67649841308594
             }
         ]
     },
@@ -2558,6 +3158,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1074.5052490234375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 81.31782531738281
             }
         ]
     },
@@ -2600,6 +3210,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1161.8192138671875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 84.95915222167969
             }
         ]
     },
@@ -2642,6 +3262,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1249.1331787109375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 88.60047912597656
             }
         ]
     },
@@ -2684,6 +3314,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1336.4471435546875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 92.24180603027344
             }
         ]
     },
@@ -2726,6 +3366,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1423.760986328125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 95.88313293457031
             }
         ]
     },
@@ -2768,6 +3418,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1511.074951171875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 99.52445983886719
             }
         ]
     },
@@ -2810,6 +3470,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1598.388916015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 103.16578674316406
             }
         ]
     },
@@ -2852,6 +3522,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1685.7027587890625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 106.80711364746094
             }
         ]
     },
@@ -2894,6 +3574,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1773.0167236328125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 110.44844055175781
             }
         ]
     },
@@ -2936,6 +3626,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1860.3306884765625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 114.08976745605469
             }
         ]
     },
@@ -2978,6 +3678,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 1947.6446533203125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 117.73108673095703
             }
         ]
     },
@@ -3020,6 +3730,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2034.95849609375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 121.3724136352539
             }
         ]
     },
@@ -3062,6 +3782,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2122.2724609375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 125.01374053955078
             }
         ]
     },
@@ -3104,6 +3834,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2209.58642578125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 128.6550750732422
             }
         ]
     },
@@ -3146,6 +3886,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2296.900390625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 132.29640197753906
             }
         ]
     },
@@ -3188,6 +3938,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2384.21435546875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 135.93772888183594
             }
         ]
     },
@@ -3230,6 +3990,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2471.5283203125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 139.5790557861328
             }
         ]
     },
@@ -3272,6 +4042,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2558.842041015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 143.22036743164062
             }
         ]
     },
@@ -3314,6 +4094,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2646.156005859375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 146.86170959472656
             }
         ]
     },
@@ -3356,6 +4146,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2733.469970703125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 150.50302124023438
             }
         ]
     },
@@ -3398,6 +4198,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2820.783935546875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 154.14434814453125
             }
         ]
     },
@@ -3440,6 +4250,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2908.097900390625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 157.78567504882812
             }
         ]
     },
@@ -3482,6 +4302,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 2995.411865234375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 161.427001953125
             }
         ]
     },
@@ -3524,6 +4354,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3082.725830078125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 165.06832885742188
             }
         ]
     },
@@ -3566,6 +4406,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3170.03955078125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 168.70965576171875
             }
         ]
     },
@@ -3608,6 +4458,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3257.353515625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 172.35098266601562
             }
         ]
     },
@@ -3650,6 +4510,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3344.66748046875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 175.9923095703125
             }
         ]
     },
@@ -3692,6 +4562,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3431.9814453125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 179.63363647460938
             }
         ]
     },
@@ -3734,6 +4614,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3519.29541015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 183.27496337890625
             }
         ]
     },
@@ -3776,6 +4666,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3606.609375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 186.91629028320312
             }
         ]
     },
@@ -3818,6 +4718,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3693.92333984375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 190.5576171875
             }
         ]
     },
@@ -3860,6 +4770,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3781.2373046875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 194.19894409179688
             }
         ]
     },
@@ -3902,6 +4822,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3868.551025390625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 197.84027099609375
             }
         ]
     },
@@ -3944,6 +4874,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 3955.864990234375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 201.48159790039062
             }
         ]
     },
@@ -3986,6 +4926,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4043.178955078125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 205.1229248046875
             }
         ]
     },
@@ -4028,6 +4978,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4130.49267578125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 208.76425170898438
             }
         ]
     },
@@ -4070,6 +5030,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4217.806640625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 212.40557861328125
             }
         ]
     },
@@ -4112,6 +5082,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4305.12060546875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 216.04690551757812
             }
         ]
     },
@@ -4154,6 +5134,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4392.4345703125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 219.688232421875
             }
         ]
     },
@@ -4196,6 +5186,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4479.74853515625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 223.32955932617188
             }
         ]
     },
@@ -4238,6 +5238,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4567.0625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 226.97088623046875
             }
         ]
     },
@@ -4280,6 +5290,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4654.37646484375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 230.61221313476562
             }
         ]
     },
@@ -4322,6 +5342,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4741.6904296875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 234.2535400390625
             }
         ]
     },
@@ -4364,6 +5394,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4829.00439453125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 237.89486694335938
             }
         ]
     },
@@ -4406,6 +5446,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 4916.318359375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 241.53619384765625
             }
         ]
     },
@@ -4448,6 +5498,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5003.63232421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 245.17752075195312
             }
         ]
     },
@@ -4490,6 +5550,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5090.9462890625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 248.81884765625
             }
         ]
     },
@@ -4532,6 +5602,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5178.26025390625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 252.46017456054688
             }
         ]
     },
@@ -4574,6 +5654,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5265.57421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 256.10150146484375
             }
         ]
     },
@@ -4616,6 +5706,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5352.88818359375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 259.7428283691406
             }
         ]
     },
@@ -4658,6 +5758,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5440.20166015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 263.3841552734375
             }
         ]
     },
@@ -4700,6 +5810,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5527.515625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 267.0254821777344
             }
         ]
     },
@@ -4742,6 +5862,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5614.82958984375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 270.66680908203125
             }
         ]
     },
@@ -4784,6 +5914,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5702.1435546875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 274.3081359863281
             }
         ]
     },
@@ -4826,6 +5966,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5789.45751953125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 277.949462890625
             }
         ]
     },
@@ -4868,6 +6018,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5876.771484375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 281.5907897949219
             }
         ]
     },
@@ -4910,6 +6070,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 5964.08544921875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 285.23211669921875
             }
         ]
     },
@@ -4952,6 +6122,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6051.3994140625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 288.8734436035156
             }
         ]
     },
@@ -4994,6 +6174,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6138.71337890625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 292.5147705078125
             }
         ]
     },
@@ -5036,6 +6226,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6226.02734375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 296.1560974121094
             }
         ]
     },
@@ -5078,6 +6278,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6313.34130859375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 299.79742431640625
             }
         ]
     },
@@ -5120,6 +6330,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6400.6552734375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 303.4387512207031
             }
         ]
     },
@@ -5162,6 +6382,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6487.96923828125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 307.080078125
             }
         ]
     },
@@ -5204,6 +6434,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6575.283203125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 310.7214050292969
             }
         ]
     },
@@ -5246,6 +6486,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6662.59716796875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 314.3627014160156
             }
         ]
     },
@@ -5288,6 +6538,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6749.91064453125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 318.0040283203125
             }
         ]
     },
@@ -5330,6 +6590,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6837.224609375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 321.6453552246094
             }
         ]
     },
@@ -5372,6 +6642,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 6924.53857421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 325.28668212890625
             }
         ]
     },
@@ -5414,6 +6694,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7011.8525390625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 328.9280090332031
             }
         ]
     },
@@ -5456,6 +6746,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7099.16650390625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 332.5693359375
             }
         ]
     },
@@ -5498,6 +6798,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7186.48046875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 336.2106628417969
             }
         ]
     },
@@ -5540,6 +6850,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7273.79443359375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 339.85198974609375
             }
         ]
     },
@@ -5582,6 +6902,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7361.1083984375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 343.4933166503906
             }
         ]
     },
@@ -5624,6 +6954,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7448.42236328125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 347.1346435546875
             }
         ]
     },
@@ -5666,6 +7006,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7535.736328125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 350.7759704589844
             }
         ]
     },
@@ -5708,6 +7058,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7623.05029296875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 354.41729736328125
             }
         ]
     },
@@ -5750,6 +7110,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7710.3642578125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 358.0586242675781
             }
         ]
     },
@@ -5792,6 +7162,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7797.67822265625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 361.699951171875
             }
         ]
     },
@@ -5834,6 +7214,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7884.9921875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 365.3412780761719
             }
         ]
     },
@@ -5876,6 +7266,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 7972.30615234375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 368.98260498046875
             }
         ]
     },
@@ -5918,6 +7318,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8059.61962890625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 372.6239318847656
             }
         ]
     },
@@ -5960,6 +7370,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8146.93359375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 376.2652587890625
             }
         ]
     },
@@ -6002,6 +7422,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8234.248046875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 379.9065856933594
             }
         ]
     },
@@ -6044,6 +7474,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8321.5615234375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 383.54791259765625
             }
         ]
     },
@@ -6086,6 +7526,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8408.8759765625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 387.1892395019531
             }
         ]
     },
@@ -6128,6 +7578,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8496.189453125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 390.83056640625
             }
         ]
     },
@@ -6170,6 +7630,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8583.50390625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 394.4718933105469
             }
         ]
     },
@@ -6212,6 +7682,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8670.8173828125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 398.11322021484375
             }
         ]
     },
@@ -6254,6 +7734,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8758.130859375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 401.7545471191406
             }
         ]
     },
@@ -6296,6 +7786,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8845.4453125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 405.3958740234375
             }
         ]
     },
@@ -6338,6 +7838,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 8932.7587890625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 409.0372009277344
             }
         ]
     },
@@ -6380,6 +7890,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9020.0732421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 412.67852783203125
             }
         ]
     },
@@ -6422,6 +7942,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9107.38671875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 416.3198547363281
             }
         ]
     },
@@ -6464,6 +7994,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9194.701171875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 419.961181640625
             }
         ]
     },
@@ -6506,6 +8046,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9282.0146484375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 423.6025085449219
             }
         ]
     },
@@ -6548,6 +8098,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9369.3291015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 427.24383544921875
             }
         ]
     },
@@ -6590,6 +8150,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9456.642578125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 430.8851623535156
             }
         ]
     },
@@ -6632,6 +8202,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9543.95703125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 434.5264892578125
             }
         ]
     },
@@ -6674,6 +8254,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9631.2705078125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 438.1678161621094
             }
         ]
     },
@@ -6716,6 +8306,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9718.5849609375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 441.80914306640625
             }
         ]
     },
@@ -6758,6 +8358,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9805.8984375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 445.4504699707031
             }
         ]
     },
@@ -6800,6 +8410,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9893.212890625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 449.091796875
             }
         ]
     },
@@ -6842,6 +8462,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 9980.5263671875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 452.7331237792969
             }
         ]
     },
@@ -6884,6 +8514,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10067.83984375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 456.37445068359375
             }
         ]
     },
@@ -6926,6 +8566,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10155.154296875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 460.0157775878906
             }
         ]
     },
@@ -6968,6 +8618,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10242.4677734375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 463.6571044921875
             }
         ]
     },
@@ -7010,6 +8670,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10329.7822265625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 467.2984313964844
             }
         ]
     },
@@ -7052,6 +8722,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10417.095703125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 470.93975830078125
             }
         ]
     },
@@ -7094,6 +8774,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10504.41015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 474.5810852050781
             }
         ]
     },
@@ -7136,6 +8826,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10591.7236328125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 478.222412109375
             }
         ]
     },
@@ -7178,6 +8878,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10679.0380859375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 481.8637390136719
             }
         ]
     },
@@ -7220,6 +8930,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10766.3515625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 485.50506591796875
             }
         ]
     },
@@ -7262,6 +8982,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10853.666015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 489.1463928222656
             }
         ]
     },
@@ -7304,6 +9034,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 10940.9794921875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 492.7877197265625
             }
         ]
     },
@@ -7346,6 +9086,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11028.2939453125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 496.4290466308594
             }
         ]
     },
@@ -7388,6 +9138,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11115.607421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 500.07037353515625
             }
         ]
     },
@@ -7430,6 +9190,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11202.921875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 503.7117004394531
             }
         ]
     },
@@ -7472,6 +9242,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11290.2353515625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 507.35302734375
             }
         ]
     },
@@ -7514,6 +9294,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11377.548828125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 510.9943542480469
             }
         ]
     },
@@ -7556,6 +9346,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11464.86328125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 514.6356811523438
             }
         ]
     },
@@ -7598,6 +9398,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11552.1767578125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 518.2769775390625
             }
         ]
     },
@@ -7640,6 +9450,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11639.4912109375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 521.9183349609375
             }
         ]
     },
@@ -7682,6 +9502,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11726.8046875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 525.5596313476562
             }
         ]
     },
@@ -7724,6 +9554,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11814.119140625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 529.2009887695312
             }
         ]
     },
@@ -7766,6 +9606,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11901.4326171875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 532.84228515625
             }
         ]
     },
@@ -7808,6 +9658,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 11988.7470703125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 536.483642578125
             }
         ]
     },
@@ -7850,6 +9710,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12076.060546875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 540.1249389648438
             }
         ]
     },
@@ -7892,6 +9762,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12163.375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 543.7662963867188
             }
         ]
     },
@@ -7934,6 +9814,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12250.6884765625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 547.4075927734375
             }
         ]
     },
@@ -7976,6 +9866,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12338.0029296875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 551.0489501953125
             }
         ]
     },
@@ -8018,6 +9918,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12425.31640625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 554.6902465820312
             }
         ]
     },
@@ -8060,6 +9970,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12512.630859375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 558.3316040039062
             }
         ]
     },
@@ -8102,6 +10022,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12599.9443359375
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 561.972900390625
             }
         ]
     },
@@ -8144,6 +10074,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12687.2578125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 565.6142578125
             }
         ]
     },
@@ -8186,6 +10126,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12774.572265625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 569.2555541992188
             }
         ]
     },
@@ -8228,6 +10178,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12861.8857421875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 572.8969116210938
             }
         ]
     },
@@ -8270,6 +10230,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 12949.2001953125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 576.5382080078125
             }
         ]
     },
@@ -8312,6 +10282,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 13036.513671875
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 580.1795654296875
             }
         ]
     },
@@ -8354,6 +10334,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 13123.828125
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 583.8208618164062
             }
         ]
     },
@@ -8396,6 +10386,16 @@
                 "Type": "GROW_CURVE_HP_LITTLEMONSTER",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_MHP",
+                "Arith": "ARITH_MULTI",
+                "Value": 13211.1416015625
+            },
+            {
+                "Type": "GROW_CURVE_MATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 587.4622192382812
             }
         ]
     }

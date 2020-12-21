@@ -360,6 +360,61 @@
         "CodexType": "CODEX_ADVENTURE"
     },
     {
+        "PushTipsId": 1100,
+        "RewardId": 300001,
+        "TitleTextMapHash": 1374369889,
+        "SubtitleTextMapHash": 3255544553,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 341,
+        "CodexType": "CODEX_ADVENTURE"
+    },
+    {
+        "PushTipsId": 1101,
+        "RewardId": 300001,
+        "TitleTextMapHash": 1988046233,
+        "SubtitleTextMapHash": 1036579505,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 342,
+        "CodexType": "CODEX_ADVENTURE"
+    },
+    {
+        "PushTipsId": 1102,
+        "RewardId": 300001,
+        "TitleTextMapHash": 762441137,
+        "SubtitleTextMapHash": 798512665,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 343,
+        "CodexType": "CODEX_ADVENTURE"
+    },
+    {
+        "PushTipsId": 1103,
+        "RewardId": 300001,
+        "TitleTextMapHash": 2166453017,
+        "SubtitleTextMapHash": 2386266337,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 344,
+        "CodexType": "CODEX_ADVENTURE"
+    },
+    {
+        "PushTipsId": 1104,
+        "RewardId": 300001,
+        "TitleTextMapHash": 2925821913,
+        "SubtitleTextMapHash": 3497717353,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 345,
+        "CodexType": "CODEX_ADVENTURE"
+    },
+    {
         "PushTipsId": 2009,
         "RewardId": 300001,
         "TitleTextMapHash": 2007970505,
@@ -646,6 +701,28 @@
         "CodexType": "CODEX_ENEMY"
     },
     {
+        "PushTipsId": 2057,
+        "RewardId": 300001,
+        "TitleTextMapHash": 1415733617,
+        "SubtitleTextMapHash": 1214749033,
+        "PushTipsType": "PUSH_TIPS_MONSTER",
+        "ShowIcon": "UI_MonsterIcon_Brute_None_01",
+        "TabIcon": "UI_MessageIcon_Monster",
+        "TutorialId": 269,
+        "CodexType": "CODEX_ENEMY"
+    },
+    {
+        "PushTipsId": 2058,
+        "RewardId": 300001,
+        "TitleTextMapHash": 3171045513,
+        "SubtitleTextMapHash": 2897767881,
+        "PushTipsType": "PUSH_TIPS_MONSTER",
+        "ShowIcon": "UI_MonsterIcon_Konungmathr",
+        "TabIcon": "UI_MessageIcon_Monster",
+        "TutorialId": 270,
+        "CodexType": "CODEX_ENEMY"
+    },
+    {
         "PushTipsId": 3001,
         "RewardId": 300001,
         "TitleTextMapHash": 832613729,
@@ -849,6 +926,56 @@
         "CodexType": "CODEX_UNRECORDED"
     },
     {
+        "PushTipsId": 6003,
+        "TitleTextMapHash": 3294559865,
+        "SubtitleTextMapHash": 3379589569,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 802,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 6004,
+        "TitleTextMapHash": 1108604377,
+        "SubtitleTextMapHash": 3685912089,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 803,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 6005,
+        "TitleTextMapHash": 3011745497,
+        "SubtitleTextMapHash": 2411125841,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 804,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 6006,
+        "TitleTextMapHash": 2026807985,
+        "SubtitleTextMapHash": 246992801,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 805,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 6007,
+        "TitleTextMapHash": 875575153,
+        "SubtitleTextMapHash": 4207752577,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 806,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
         "PushTipsId": 7001,
         "RewardId": 300001,
         "TitleTextMapHash": 2428013249,
@@ -882,6 +1009,17 @@
         "CodexType": "CODEX_ADVENTURE"
     },
     {
+        "PushTipsId": 7004,
+        "RewardId": 300001,
+        "TitleTextMapHash": 1822066969,
+        "SubtitleTextMapHash": 2821883233,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 704,
+        "CodexType": "CODEX_ADVENTURE"
+    },
+    {
         "PushTipsId": 9000,
         "RewardId": 300001,
         "TitleTextMapHash": 1796743713,
@@ -912,6 +1050,17 @@
         "ShowIcon": "UI_MessageIcon_Combat",
         "TabIcon": "UI_MessageIcon_Combat",
         "TutorialId": 902,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 9003,
+        "RewardId": 300001,
+        "TitleTextMapHash": 236473745,
+        "SubtitleTextMapHash": 304585721,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 905,
         "CodexType": "CODEX_UNRECORDED"
     }
 ]
